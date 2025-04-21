@@ -17,5 +17,5 @@ for dir in dirs:
         for page in reader.pages:
             extracted_text += page.extract_text()
         
-        with open('./'+dir+'/'+pdf.split('.p')[0]+'.txt','w',encoding='utf-8') as f:
+        with open('./graphrag/input/'+pdf.split('.p')[0]+'.txt','w',encoding='utf-8') as f:
             f.write(extracted_text)

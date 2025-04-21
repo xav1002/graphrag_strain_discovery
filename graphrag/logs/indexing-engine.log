@@ -1,0 +1,30 @@
+23:45:40,408 graphrag.cli.index INFO Logging enabled at C:\Users\xuvin\py_repos\graphrag_strain_discovery\graphrag\logs\indexing-engine.log
+23:45:48,259 httpx INFO HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+23:45:48,818 httpx INFO HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 401 Unauthorized"
+23:49:01,240 graphrag.cli.index INFO Logging enabled at C:\Users\xuvin\py_repos\graphrag_strain_discovery\graphrag\logs\indexing-engine.log
+23:49:03,219 httpx INFO HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+23:49:03,699 httpx INFO HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 401 Unauthorized"
+23:49:13,628 graphrag.cli.index INFO Logging enabled at C:\Users\xuvin\py_repos\graphrag_strain_discovery\graphrag\logs\indexing-engine.log
+23:49:15,383 httpx INFO HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+23:49:15,913 httpx INFO HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 401 Unauthorized"
+23:51:37,574 graphrag.cli.index INFO Logging enabled at C:\Users\xuvin\py_repos\graphrag_strain_discovery\graphrag\logs\indexing-engine.log
+23:51:39,584 httpx INFO HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+23:51:40,29 httpx INFO HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 401 Unauthorized"
+00:13:26,211 graphrag.cli.index INFO Logging enabled at C:\Users\xuvin\py_repos\graphrag_strain_discovery\graphrag\logs\indexing-engine.log
+00:13:30,628 httpx INFO HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+00:13:31,88 httpx INFO HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 401 Unauthorized"
+00:14:47,760 graphrag.cli.index INFO Logging enabled at C:\Users\xuvin\py_repos\graphrag_strain_discovery\graphrag\logs\indexing-engine.log
+00:14:49,794 httpx INFO HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+00:14:50,397 httpx INFO HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 401 Unauthorized"
+00:15:16,783 graphrag.cli.index INFO Logging enabled at C:\Users\xuvin\py_repos\graphrag_strain_discovery\graphrag\logs\indexing-engine.log
+00:15:18,768 httpx INFO HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+00:15:19,300 httpx INFO HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 401 Unauthorized"
+00:15:57,658 graphrag.cli.index INFO Logging enabled at C:\Users\xuvin\py_repos\graphrag_strain_discovery\graphrag\logs\indexing-engine.log
+00:15:59,542 httpx INFO HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+00:16:00,25 httpx INFO HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 401 Unauthorized"
+00:17:17,508 graphrag.cli.index INFO Logging enabled at C:\Users\xuvin\py_repos\graphrag_strain_discovery\graphrag\logs\indexing-engine.log
+00:17:20,701 httpx INFO HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+00:17:21,972 httpx INFO HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 401 Unauthorized"
+00:18:05,336 graphrag.cli.index INFO Logging enabled at C:\Users\xuvin\py_repos\graphrag_strain_discovery\graphrag\logs\indexing-engine.log
+00:18:07,207 httpx INFO HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+00:18:07,630 httpx INFO HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 401 Unauthorized"
