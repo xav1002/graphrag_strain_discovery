@@ -1,0 +1,1146 @@
+FEMS Microbiology Reviews 15 (19941 95 1(18 
+~c, 1994 Federation of European Microbiological Societies 0168-t~445/94/$15.00 
+Published by Elsevier 95 
+FEMSRE 00423 
+Microbial behaviour in salt-stressed ecosystems 
+Erwin A. Galinski * and Hans G. Triiper 
+Instilut f~ir Mikrobiologie & Biotechnoh~gie, Rheinische Friedrich-Wilhehns-{hm'er~'itdt. Meckenheimer AUee 168, 53115 Bomz, FRG 
+Abstract." Salt stress is primarily osmotic stress, and halophilic/halotolerant microorganisms have evolved two basic mcchanisms of 
+osmoadaplation: the K('l-type and the compatible-solute type, the latter representing a very flexible mode of adaptation making 
+use of distinct stabilizing properties of compatible solutes. A comprehensive survey, using HPLC and NMR methods, has revealed 
+lhc full diversity of eubacterial compatible solutes found in nature. With the exception of proline (a proteinogenic amino acid) they 
+arc characterized as amino acid derivatives of the following types: bctaines, ectoines, N-acetylated diamino acids and N-derivatized 
+carboxamides of glutamine. From our present knowledge of biosynthetic pathways it appears that, apart from glycine betaine, all 
+nitrogen-containing compatible solutes originate from two major pathways (the aspartale branch and thc glutamate branch). 
+Uptakc of compatible solutes from the growth medium (environment) seems to have preference over de novo synthesis. Therefl)re, 
+m the natural ecosystem the solutes of primaw producers (mainly glycine betaine), which are readily excreted upon dilution stress, 
+certainly play an important role as a 'preferred" solute source for hctcrolrophic organisms, and as a 'vital' source for organisms 
+unable to synlhesize their own compatible solutes. 
+Key words'. Halophilic/halotolerant bacteria: Compatible solute: ()smolyte: Osmoadaptation: Enzyme stabilization: Stress protec- 
+tion: Synthcsis/uptake/excretion of solutes 
+Introduction 
+Natural ecosystems classified as extreme by 
+human standards (like hot, acid, alkaline or hy- 
+persaline environments) are characterized by their 
+lack of higher forms of life, but are nonetheless 
+inhabited by an abundance of microbial commu- 
+nities adapted to these ecological niches. Concen- 
+trated salt solutions (brines) are found in natural 
+ecosystems like marine ponds and salt marshes 
+snbject to evaporation, salt or soda lakes or in 
+man-made forms like salterns or salt works [1]. 
+Apart from those macrosystems, a variety of less 
+conspicuous saline environments provide an addi- 
+* Corresponding author. Tel.: (+49-228) 733799, Fax: (+49- 
+22g) 73757~. tional basis for development of halophilic and/or 
+halotolerant microorganisms: e.g. pickled food 
+(sauerkraut), fermented products of oriental cui- 
+sine (soy souce, fish paste), surfaces of salt-excret- 
+ing desert shrubs, skin of man and animal, other 
+places exposed to periodical drying like arid soils. 
+Salinity - as a major environmental parameter - 
+therefore deserves the attention of the ecologist, 
+microbial physiologist and even the biotechnolo- 
+gist, as the protective mechanisms evolved in 
+halophiles may well have commercial applications 
+[2]. 
+Ecosystems 
+Saline lakes are widely distributed and the 
+geochemical processes leading to the formation 
+S,';111 {11 ~'~8-~445( 94 )00025-T 
+Downloaded from https://academic.oup.com/femsre/article/15/2-3/95/616066 by guest on 21 April 2025
+96 
+of brines has been reviewed [3,4]. The chemical 
+composition of brines originated from sea water 
+(thalassohaline) is relatively uniform and charac- 
+terized by NaCI as its major solute. However, 
+landlocked lakes of different origin (athalassoha- 
+line lakes) may vary widely in their chemical 
+composition, the most common types being alka- 
+line soda lakes (low in magnesium and calcium) 
+and magnesium-rich saline bodies like the Dead 
+Sea (Ca/Mg/NaCl-lake), which has severe con- 
+sequences for their microflora [1,5]. Apart from 
+those present-day macrosystems, the geological 
+record in various parts of the world shows quite 
+clearly that hypersaline waters once covered huge 
+areas (cf. large deposits of rock salt in Europe 
+and North America), providing ample time for 
+the evolution of halophilic/halotolerant forms of 
+life. Organisms thriving at elevated salt concen- 
+trations arc classified as cither (slightly, moder- 
+ately, extremely) halophilic or just as marine and 
+halotolerant, depending on their growth opti- 
+mum. Much attention has been paid to the proper 
+definition of these terms [6-8] and it is not our 
+intention to add to the confusion. While it is 
+certainly justified to define a halophilic organism 
+as one requiring salt and displaying a growth 
+optimum well above marine concentrations (>> 
+3%), the definition of halotolerance imposes a 
+problem, especially as the degree of tolerance 
+observed largely depends on the composition of 
+the growth medium. We therefore propose to 
+distinguish between organisms tolerating salt due 
+to intrinsic protection mechanisms and 'acquired' 
+halotolerance based on the accumulation of pro- 
+tectants from the environment. 
+The spectrum of species found in saline 
+biotopes is dominated by microbial (mostly 
+prokaryotic) forms of life. The primary producers 
+are algae (mainly of the genus Dunaliella) [9], 
+cyanobacteria (e.g. Aphanothece halophytica, 
+Dactylococcopsis salina, Spirulina platensis, Syne- 
+chococcus and Synechocystis species) [10,11] and 
+anoxygenic phototrophic bacteria (e.g. Ectothio- 
+rhodospira halophila, E. halochloris, E. abdel- 
+malekii, E. marismortui, Rhodospirillum salexigens, 
+R. salinarum) [12-17]. The spectrum of chemoor- 
+ganoheterotrophic organisms comprises the well 
+known conspicuously coloured archaebacterial Halobacteriaceae [18,19], but also a wide spec- 
+trum of halophilic/halotolerant eubacterial re- 
+presentatives including Proteobacteria mostly of 
+the y-subclass ( Halomonas, Vibrio, Pseudomonas 
+species), actinomycetes (Actinopolyspora, Nocar- 
+diopsis species) and a whole range of Gram-posi- 
+tive rods and cocci (e.g. Bacillus, Micrococcus, 
+Marinococcus, Salinicoccus species)[20-22]. Bac- 
+teria involved in the sulfur cycle and in the nitro- 
+gen cycle have also been reported [23-25]. It 
+therefore seems justified to conclude that the 
+halophilic/halotolerant microbial world is proba- 
+bly no less diverse than their fresh-water counter- 
+part; in fact, halophily/halotolerance as such does 
+not define a group of phylogenetically related 
+microbes but has evolved (or remained) in many 
+different groups of organisms. 
+Physiological stress response 
+Microbes exposed to a saline environment have 
+to cope with a number of specific stress factors, 
+for example ionic strength and ion composition. 
+It is not surprising that the cell membrane form- 
+ing the primary barrier displays adaptive changes 
+in the face of altering salinity, as has been exten- 
+sively studied in halophilic Vibrio and Ectothio- 
+rhodospira species [26-28]. The major effect of 
+increased salinity on membranc lipid composition 
+is a rise in the proportion of anionic lipids (often 
+phosphatidylglycerol and/or glycolipids) relative 
+to zwitterionic lipids, which has a pronounced 
+effect on lipid phase behaviour [29,30]. The other 
+unavoidable parameter present in all saline 
+ecosystems is osmotic stress. As water is freely 
+permeable across the cytoplasmic membrane, a 
+non-adapted organism exposed to an environ- 
+ment of low water activity (aw = 0.75 for satu- 
+rated NaC1) will rapidly loose water and literally 
+get 'pickled', a fact which has been used for 
+thousands of years for preserving meat, fish and 
+vegetables. Osmotic adaptation of halophilic and 
+halotolerant microorganisms, therefore, demands 
+osmotic equilibrium across the membranc and a 
+cytoplasm of similar osmotic strength to the sur- 
+rounding medium [ 1,5,6,31]. 
+Downloaded from https://academic.oup.com/femsre/article/15/2-3/95/616066 by guest on 21 April 2025
+97 
+Halophilic and halotolerant microorganisms 
+have thus developed two basic strategies of os- 
+moadaptation: (i) the halobacterial or KCI type 
+and (ii) the compatible-solute or organic-osmolyte 
+type. 
+The first mechanism, which has been discov- 
+ered in and is typical for members of the 
+Halobacteriaceae, achieves osmotic equilibrium 
+by maintaining a cytoplasmic salt concentration 
+(KCI) similar to that of the surrounding medium. 
+This strategy requires a considerable number of 
+physiological changes to safeguard all regulatory 
+and metabolic functions at high salinity (salt- 
+adapted enzymes and cellular components) [32]. 
+Organisms employing the KCI strategy generally 
+display a relatively narrow adaptation for a spe- 
+cific environment. Well-known representatives of 
+this group are the halobacteria (Archaea), but 
+also eubacterial fermenting and/or acetogenic 
+anaerobes ( Haloanaerobium, Halobacteroides, 
+Sporohalobacter, Acetohalobium species)[33,34] 
+and sulfate reducers (Desulfol~ibrio halophilus, 
+Desulf ohalobium retbaense ) [35,36]. 
+The second type of osmoadaptation (compati- 
+ble-solute type) seems to be wide-spread in eu- 
+bacterial halophiles. However, one must bear in 
+mind that mostly phototrophic and aerobic 
+chemoheterotrophic eubacteria have been exam- 
+ined, and that at least some archaebacterial 
+methanogens also produce compatible solutes. 
+Hence, regarding the mode of osmoadaptation, 
+there seems to be no clear distinction between 
+the domains Archaea and Bacteria. The use of 
+osmolytes has the advantage of a more flexible 
+adaptation over a wide range of salinities, while a 
+'normal' salt-sensitive enzymatic machinery is 
+preserved. Compatible solutes are accumulated 
+to cytoplasmic concentrations well above 1 mol/ 
+kg water and are best described as organic os- 
+molytes responsible for osmotic balance and at 
+the same time compatible with the cells' metab- 
+olism. The initial definition that these solutes do 
+not interact with cellular metabolism and serve a 
+purely osmotic function [37], however, does not 
+reflect the whole potential of these osmolytes as 
+they proved to be effective stabilizers of enzymes, 
+providing protection against salinity, high temper- 
+ature, freeze-thaw treatment and even drying [38]. The spectrum of compatible solutes 
+When we started our investigations with mem- 
+bers of the genus Ectothiorhodospira in 1980 we 
+could only draw on experience with salt response 
+mechanisms of halophilic/osmophilic fungi, algae 
+and plants [39-42]. Here the following classes of 
+compounds had been reported as compatible so- 
+lutes: sugars, for example sucrose and trehalose, 
+polyols (mainly glycerol and arabitol), amino acids 
+(proline) and betaines. In bacteria, until then, 
+only amino acids like proline and glutamic acid 
+had been suspected of serving an osmotic func- 
+tion. However, the few reports available were not 
+only inconclusive, contradicting each other as to 
+the presence of an ionic cytoplasma, but had also 
+failed to distinguish between de novo synthesis 
+and uptake of solutes from the growth medium 
+[43-46]. In addition, due to analytical problems, 
+the most common compatible solutes remained 
+undetected and the apparent failure to meet os- 
+motic balance led to the proposal of a hypoos- 
+motic cytoplasm [47,48]. 
+A comprehensive survey using high-perfor- 
+mance liquid chromatography (HPLC) and nu- 
+clear magnetic resonance (NMR) on almost all 
+halophilic and halotolerant eubacteria available 
+from culture collections (about 50 strains) and, in 
+addition, on approx. 150 isolates from various 
+biotopes like salt lakes, salinas, salt mines and 
+similar sites of elevated salinity has revealed the 
+full spectrum of eubacterial compatible solutes in 
+nature [1,20,22,49], which comprises the following 
+classes of compounds (Fig. 1): sugars and sugar- 
+polyol derivatives, glycine betaine, tetrahydropy- 
+rimidines (ectoines), a-amino acids (proline, glu- 
+tamine), N-acetylated diamino acids, N-deriva- 
+tized carboxamides of glutamine, and (in 
+cyanobacteria and marine algae) also methylated 
+sulfur compounds like dimethylsulfoniopropi- 
+onate [50]. 
+The strains under investigation included 
+anoxygenic phototrophic bacteria and aerobic 
+chemoheterotrophic Proteobacteria of the ~- and 
+y-subdivision, actinomycetes, Gram-positive cocci, 
+bacilli and related species as well as Staphylococ- 
+cus and Salinicoccus species [20,22,49] and mod- 
+erately halotolerant species of the genera Bre- 
+Downloaded from https://academic.oup.com/femsre/article/15/2-3/95/616066 by guest on 21 April 2025
+98 
+Table 1 
+Compatible solutes of Proteobacteria (o~ and y subclass) (based on data of Severin et al. [22]) 
+Organism Medium GB ECT OH-E TRE SAC Others 
+(Salinity) 
+Proteobacteria (a-subclass) 
+Rhodo~pirillum salinarum ~ PM (20%) + + + 
+(BN 40) 
+Rhodospirillum salexigens ~ PM (15%) + + + 
+(DSM 2132 T) 
+Rhodobacter sulfidophilus PM (10%) 
+(W4 = DSM 1374 x) 
+Rhodopseudomonas marina PM (7.5%) 
+(BN 125 = DSM 2780 x) 
+Proteobacteria (~,-subclass) 
+Ectothiorhodospira halochloris PM (20%) + + + 
+(BN 9850 = DSM 10597`) 
+Ectothiorhodospira abdelmalekii PM (20%) + + + 
+(BN 9840 = DSM 2110 T) 
+Ectothiorhodospira halophila PM (20%) + + + 
+(DMS 244 T) 
+Ectothiorhodospira marismortui PM (15%) + + + 
+lEG 1 = DSM 418() r) 
+Thiocapsa halophila PM (10%) + + + 
+(SG 3202 = DSM 6210 T) 
+(7zromatium purpuraturn PM (7.5%) + 
+(DSM 15917`) 
+Chromatium salexigens PM (7.5~) + + + 
+(SG 3201 = DSM 4395 T) +++ 
++ + 
++ + 
++ + +++ 
++ 
++ 
++++ 
++ GG 
+AGGA 
+CGA 
+AGGA 
+A(JGA 
+AGGA 
+GM (10%) + + + 
+GM (20%) + + + + 
+GM (10%) + + + + 
+GM (10%) + + + 
+GM (10%) + + + 
+GM (10%) + + + 
+GM (10%) + + + 
+YE (10%) + + + + 
+YC(10%) + + + + ++ 
+YC (10%) + + + + + 
+GM (10%) + + + + (CCM 36627`) 
+Deleya salina 
+(ATCC 49509) 
+Halomonas elongata 
+(ATCC 33173 T) 
+Halomonas halmophila 
+CCM 2833 v ) 
+Voh'aniella eurihalina 
+ATCC 99336) 
+Paracoccus halodenitrificans 
+DSM 735 T) b 
+Vibrio alginolyticus 
+DSM 2171 T) 
+Vibrio costicola 
+CCM 2811) 
+Chromohalobacter marismortui 
+ATCC 17056) c 
+Halol ibrio i'ariabilis 
+DSM 3051 T) d 
+Pseudomonas halophila 
+(DSM 3050 T) 'j 
+Pseudomonas halosaccharolytica 
+(CCM 2851) Deh'ya halophila GM (10%) + + + + 
+Downloaded from https://academic.oup.com/femsre/article/15/2-3/95/616066 by guest on 21 April 2025
+99 
+Notes to ]'able 1: 
+All organisms of the a, and y subclass above the broken line are phototrophic. 
++ + +, main component; + +, several major components or growth-phase-dependent change of main component: +. minor 
+component. 
+GB, glycine betaine; ECT, ectoine; OH-E, hydroxyectoinc: TRE, trehalose; SAC, sucrose: GG, glucosylglycerol; AGGA, 
+Na-acetylglutaminylglutamine amide; CGA, Na-carbamoylglutamine amide; PM, phototrophic mineral medium; GM, glucose 
+containing mineral medium; YE, complex medium containing yeast extract; YC, yeast extract caseine hydrolysate. 
+a Systematic position in c~-subclass uncertain (B.J. Tindall, pers. comm.) 
+b Atypical Paracoccux, possibly y-subclass (B.J. Tindall, pers. comm.) 
+~ Systematic position uncertain, possibly y-subclass [86]. 
+d Glucose is not a suitable substrate; when grown on Mffl-glycerol medium [87] ectoines are synthesized as compatible solutes. 
+t'ibacterium and Corynebacterium [51-53]. Tables 
+1-3 summarize the results obtained from our 
+group and reveal the preferential distribution of 
+solutes among various groups of microorganisms. 
+On the archaebacterial side, a thorough investiga- 
+tion of mcthanogenic species has similarly re- 
+vealed a number of characteristic classes of com- 
+pounds (not shown), mainly glycine betaine and 
+the two /J-amino acids /3-glutamine and Ne-ace- 
+tyl-/j-lysine [54-56]. 
+Polyols (mainly glycerol and arabitol), often 
+found in algae, yeast and fungi [39,40,42,57], have 
+so far not been detected in bacteria at osmotically 
+relevant concentrations. Instead, glycerol gluco- 
+sides have been described in the purple bac- 
+terium Rhodobacter sulfidophilus [22,49] and a 
+number of moderately halophilic cyanobacteria 
+[10,11]. The occurrence of sugars (mainly sucrose 
+and trchalose) as part of the solute 'cocktail' 
+seems to be very common in a wide range of 
+microorganisms. However, they can only partly 
+replace nitrogen-containing compatible solutes 
+[58] and rarely exceed a cytoplasmic concentra- 
+tion of 500 raM. These less-compatible solutes 
+are, therefore, typical for organisms of limited 
+salt tolerance. They may fail to qualify as compat- 
+ible solutes 'sensu stricto' and a possible role as 
+universal stress metabolites enabling survival un- 
+der adverse conditions has been under discussion 
+for a long time [59,60]. Similarly, a potential role 
+of methylated sulfur compounds (thetines) as os- 
+motic solutes has been suspected for a number of 
+cyanobacteria, but, under the conditions tested, 
+cytoplasmic concentrations stayed relatively low 
+and their importance for osmotic equilibrium of 
+truly halophilic species is still under discussion. The same holds true for c~-glutamine, so far only 
+reported from moderately halotolerant members 
+of the genus Corynebacterium, which due to its 
+low solubility (approx. 300 raM) reaches cytoplas- 
+mic concentrations near saturation [53]. The most 
+important compatible solutes 'sensu stricto' accu- 
+mulating to concentrations well above 0.5 M are 
+further characterized below. 
+Glycine betaine 
+Glycine betaine is the typical product of pho- 
+totrophic eubacteria, especially of those display- 
+ing a high salt tolerance [10,11,61,62], and has 
+further been found as a primary product in 
+halophilic archaebacterial methanogens [54,55]. 
+The ability to synthesize betaine de novo, how- 
+ever, is rare among aerobic heterotrophic eubac- 
+teria; of all strains examined only Actinopolyspora 
+halophila is a betaine producer [22]. 
+Ectoines 
+Ectoine (1,4,5,6-tetrahydro-2-methyl-4-pyrimi- 
+dine carboxylic acid) was first discovered as a 
+minor component in the phototrophic sulfur bac- 
+terium Ectothiorhodospira halochloris [63]. This 
+solute is without doubt the most abundant os- 
+molyte of aerobic chemoheterotrophic eubacte- 
+ria, and as much as betaine can be regarded the 
+typical product of halophilic phototrophic bacte- 
+ria, ectoines are common solutes of aerobic het- 
+erotrophic eubacteria [22]. The hydroxy deriva- 
+tive, often found as a minor component in Pro- 
+teobacteria of the y-subdivision and in Nocardi- 
+opsis species, seems to be of greater importance 
+in Gram-positive eubacteria [22]. 
+Downloaded from https://academic.oup.com/femsre/article/15/2-3/95/616066 by guest on 21 April 2025
+100 
+Proline 
+Among prokaryotes, proline was originally 
+considered the typical solute of halophilic Bacil- 
+h¢s species. This view was primarily based on 
+investigations into Bacillus subtilis and closely 
+related species [43]. A thorough screening of a 
+whole range of halophilic/halotolerant bacilli and 
+related species, however, has revealed that the 
+majority of species produce ectoine, either alone 
+or in combination with proline and/or acetylated 
+diamino acids [64]. Bacillus subtilis and Planococ- 
+cus citreus seem to represent a minority of pro- 
+line producers unable to synthesize ectoine. 
+TabLe 2 N-acetylated diamino acids 
+The role of N6-acetylornithin as an osmolyte 
+was first shown in one of our own isolates, strain 
+M96/12b [65]. This strain belongs to the so-called 
+bacillus-related species and, consequently, N6- 
+acetylornithine was also detected, at least as a 
+minor component, in almost all Bacillus species 
+under investigation including related organisms 
+like Sporosarcina halophila and Planococcus cit- 
+reus. The homologous Ne-acetyllysine, originally 
+isolated and identified from Sporosarcina halo- 
+phila (Severin & Galinski, unpublished), is also 
+found in Planococcus citreus and some bacilli. 
+Compatible solutes of Firmicutes (high GC), based on data of Severin et al. [22] and Frings et al. [53] 
+Organism Medium GB ECT OH-E TRE SAC Others 
+(Salinity) 
+Actimomycetes 
+Actinopolyspora halophila GM (25%,) + + + + 
+(ATCC 27976 T) 
+Nocardiopsis dassom,ilh'i SM (10%,) + + + + + 
+(DSM 43111 T) 
+Nocardiopsis alborubida SM (10%) + + + + + 
+(DSM 40465 T) 
+Nocardiopsis listeri SM (10%) + + + + + 
+(DSM 40297 T) 
+Nocardiopsis alba subsp, alba SM (10%) + + + + + 
+(DSM 43119) 
+Nocardiopsis alba subsp, prasina SM (10%,) + + + + + 
+(DSM 43845 T) 
+Streptornyces griseolus YE (5%) + + + + + 
+(DSM 40067 T) 
+Brevibacteria 
+Bret,ibacterium casei GY (8%) + + + + 
+(DSM 20657 T) 
+Bret,ibacterium epidermidis GY (8%) + + + + 
+(DSM 20660 T) 
+Brevibacterium linens GY (8%) + + + + + 
+(DSM 20425 T) 
+Brel,ibacterium iodinum GY (8%) + + + + + 
+(DSM 20626 T) 
+Cocci 
+Micrococcus halobius GM (10%) + + + + + 
+(DSM 20541 T) 
+Micrococcus varians var. GM (10%) + + + + + 
+halophilus (CCM 3316)* /3G 
+~G 
+/3G 
+/3G 
+/3G 
++ + +, main component; + +, several major components or growth-phase dependent change of main component; +, minor 
+component. 
+GB, glycine betaine; ECT, ectoine; OH-E, hydroxyectoine; TRE, trehalose; SAC, sucrose; /3G, /3-glutamate; GM, glucose mineral 
+salt medium; SM, starch mineral medium; YE, complex medium containing yeast extract; GY, glucose mineral medium containing 
+0.1% yeast extract; *, taxonomic position uncertain (B.J. Tindall, pets. comm.). 
+Downloaded from https://academic.oup.com/femsre/article/15/2-3/95/616066 by guest on 21 April 2025
+N-derivatized glutamine amides 
+This very unusual class of compounds has ami- 
+dated glutamine as a common structural charac- 
+teristic. The free amino residue is typically acety- 
+lated or carbamoylated. A novel representative of 
+this class of compatible solutes, Na-carbamoyl-L- 
+glutamine-l-amide (CGA), has so far only been 
+found in the phototrophic bacterium Ectothio- 
+rhodospira marismortui, where it amounts to as 
+much as 30% of the solute pool [66,67]. A similar 
+structural principle is realized with Na-acetylglu- 
+taminylglutamine amide (AGGA), another repre- 101 
+sentative of this class of osmolytes and so far the 
+only neutral dipeptide of osmotic function [68,22]. 
+¢3-Amino acids 
+The only/3-amino acids involved in osmoadap- 
+tation have been reported from halophilic 
+methanogenic archaebacteria (Methanohalophilus 
+species) [54,55]. /3-glutamine and NE-acetyl-/3- 
+lysine, both uncharged zwitterionic compounds, 
+are synthesized in response to increasing salinity 
+and reach cytoplasmic concentrations well above 
+0.5 M. The higher solubility of /3-glutamine (as 
+Table 3 
+Compatible solutes of Firmicutes (low GC), based on data of Severin et al. [22] and MiJller [64] 
+Organism Medium (Salinity) PRO ECT OH-E ~AcO eAcL Others 
+Bacilli 
+Bacillus pantothenticus GM + (10%) 
+(DSM 26 T) 
+Bacillus pasteurii GM + (10%) 
+(DSM 33) 
+Bacillus spec. GM + (10%) 
+(DSM 578) 
+Bacillus WN13 [88] WNt3 (20%) 
+Bacillus halophilus GM + (10%) 
+(DSM 4771) 
+Bacillus subtilis var. niger GM + (10%) 
+(DSM 675) 
+Others 
+Marinococcus halophilus GM (10%) 
+(DSM 20408 T) 
+Marinococ cus albus GM (10%) 
+(DSM 20748 T) 
+Planococcus citreus GP (10%) 
+(DSM 20549 T) YC (10%) 
+Sporosarcina halophila GM (10%) 
+(DSM 2266 T) YC (10%) 
+Staphylococcus epidermidis YC (10%) 
+(Stamm BN/V) 
+Salinicoc cus roseus YC (10%) 
+(DSM 5351 T) 
+Salinicoccus hispanicus YC (10%) 
+(DSM 5352 T) * ++ 
++++ 
++++ 
+++ 
++ 
+++ 
++ 
++ + + + + Ala 
++ + + + Ala 
++++ + 
+++ GB,$ 
+++ + 
+++ ++ 
++++ + 
+++ + + 
++ 
+++ + 
+++ ++ Ala 
+GB 
+GB 
+GB 
+GB 
+GB 
++ + +, main component; + +, several major components or growth-phase-dependent change of main component; +, minor 
+component. 
+PRO, proline; ECT, ectoine; OH-E, bydroxyectoine; 6AcO, Nf-acetylornithine; EAcL, NE-acetyllysine; Ala, alanine; GB, glycine 
+betaine; $, unknown compound; GM, glucose mineral medium; GM +, glucose mineral medium supplemented with amino acids; 
+YC, yeast extract caseine hydrolysate; GP, glucose peptone medium; WN13, special medium; *, formerly Marinococcus [89] 
+Downloaded from https://academic.oup.com/femsre/article/15/2-3/95/616066 by guest on 21 April 2025
+102 
+compared to its a-isomer) probably makes this 
+compound a superior compatible solute. 
+Biosynthetic pathways 
+Biosynthetic pathways for trehalose, bctainc 
+and eetoine in the phototrophic bacterium Ec- 
+tothiorhodospira halochloHs have been proposed 
+with the help of uC-labelling techniques and 
+affirmed on enzymatic grounds ([49,69-72]: I. 
+Tschichholz and H.G. Trfiper, unpublished re- 
+suits). With a view to the regulation of trehalose 
+content, some properties of the cleaving enzyme 
+trehalase are worth noting. The enzyme is inhib- 
+ited by salt and activated in the presence of 
+glycine betaine, which also confers a partial pro- 
+tection against salt. In addition, it exhibits a very 
+high Kin-value for the substrate trehalose (0.5 
+M), close to the maximal concentration reported 
+in cells exposed to nitrogen limitation [58]. In the 
+presence of glycine betaine this constant is re- 
+duced to 0.16 M promoting degradation, hence 
+glycine betaine seems to have a regulatory effect 
+on trehalose levels in the cytoplasma. These find- 
+ings are in agreement with the physiological ob- 
+servation that trehalose is only accumulated un- 
+der nitrogen-limited conditions (replacing nitro- 
+gen-containing solutes) and immediately 
+metabolised upon relief of nitrogen stress. 
+Contrary to the pathway in cyanobacteria and 
+in plants of the family Chenopodiaceae biosyn- 
+thesis of betaine in Ectothiorhodospira species 
+proceeds via direct methylation of glycin using 
+S-adenosyl methionine as a methyl donor (I. 
+Tschichholz and H.G. Triper, unpublished re- 
+suits). Using beta/betB gene probes, the pres- 
+ence of the genes for choline oxidation (betaine 
+aldehyde dehydrogenase, choline oxidase) in 
+eyanobacteria and their absence in Ectothiorho- 
+do,spira species has been demonstrated (O. Matan 
+and E. Tel-Or, pers. comm.). In view of the 
+observed CO, release from acetate and remark- 
+ably high activities of 5,10-methylene-THF-dehy- 
+drogenase, a methyl-group supply by cleavage of 
+glyoxylate and subsequent reduction of formyl- 
+THF has been proposed [49,69]. Recently, again 
+using NMR spectroscopic evidence, betaine syn- thesis from glycine has also been proposed for 
+archaebacterial methanogens [56]. Therefore, 
+phylogenetically distant groups may well share 
+similar pathways of compatible solute synthesis. 
+On the basis of their observations with cyanobac- 
+teria, Sibley and Yopp [73] proposed an intrigu- 
+A 
+CH, OH EHoOH 
+OH 
+HOEH~ HO--~HO ~ ~H 
+Sucrose Trehalose 
+EHOH CH, 
+HO ~"~H 0 ' CH~SQ~/'~CO 0 
+O EHzOH 
+H'~CH~OH Dlmethylsulfonio- 
+Glqcosylglycerol propmnate 
+E5 
+CH%/ Q ° :oo 
+1 \ "/~"KH 
+CH 3 0"1 K 
+Betalne Prollne 
+H"/~/R 0 
+CH CO0° ~ /'"ICH )/j~/NH, CHf N ~ ~o j' 
+H H CO0' 
+R=H Ect olne n=1 N6-Acetylorm~hine 
+R=OH Hydroxyec'[Olne n=2 NE-Ace'[yllyslne 
+I' -%. ,l I 
+Na-Carbamoylglutamme Amlde Na- Ace~ylglulaminylglutamme Am~de 
+Fig. 1. Compatible solutes of halophilic/halotolerant eubacte- 
+ria. (A) Non-reducing sugars and dimethylsulfoniopropionate. 
+(B) Amino acids and derivatives. Polyols like glycerol and 
+arabitol, common in halophilic/osmophilic algae, yeast and 
+fungi, have so far not been found in bacteria. The use of 
+glutamine (not shown) as a compatible solute is restricted by 
+its low solubility. Zwitterionic sulfur compounds like dimeth- 
+ylsulfoniopropionate have so far only been observed in 
+cyanobacteria and marine algae. 
+Downloaded from https://academic.oup.com/femsre/article/15/2-3/95/616066 by guest on 21 April 2025
+ing hypothesis of regulation, where methylation is 
+inhibited by the reaction product S-adenosyl ho- 
+mocysteine. A reversible S-adenosyl-homocy- 
+steine hydrolase is stimulated by betaine in the 
+direction of S-adenosyl homocysteine formation, 
+whereas potassium stimulates hydrolysis of S- 
+adenosyl homocysteine to homocysteine. This way 
+the level of inhibition and the cytoplasmic con- 
+centration of betaine is regulated. 
+Biosynthesis of ectoine proceeds via aspartie 
+semialdehyde (off-branch of aspartate family) and 
+requires three additional enzymes: diaminobu- 
+tyrate transaminase, diaminobutyrate acetylase 
+and Ny-acetyldiaminobutyrate dehydratase [72]. 
+Due to the steric configuration of hydroxyectoine 
+(S,S-c~-amino-/3-hydroxy form), an analogous bit)- 
+synthetic pathway with erythro-/3-hydroxyaspar- 
+tate (from glyoxylate + glycine) seems likely, how- 
+ever, subsequent hydroxylation of ectoine or one 
+of its precursors cannot be excluded. The fact 
+that relatively few and common enzymatic reac- 
+tions form the basis for the biosynthesis of these 103 
+two novel solutes probably explains why ectoines 
+are so widespread among halophilic bacteria. 
+A summary of known and hypothetical path- 
+ways of compatible solutes is given in Fig. 2. The 
+illustration shows that the other solutes such as 
+glutamine amide derivatives (Proteobacteria of 
+the ~- and y-subclass), proline, N6-acetylornith- 
+ine and Ne-acetyllysine (some bacilli and related 
+organisms) are probably synthesized via pathways 
+connected to the glutamate family. It has never 
+been shown but always assumed that osmotically 
+used proline is synthesized by the same pathway 
+as the proteinogenic compound. As independent 
+regulation of both functions is vital, the possibil- 
+ity of separate pathways has to be considered. 
+Some organisms display a characteristic change 
+from proline to N,%acetylornithine and one is, 
+therefore, tempted to assume common biosyn- 
+thetic sequences (possibly involving ornithine 6- 
+aminotransferase). The ability to synthesize and 
+use N-acetylated diamino acids as compatible 
+solutes seems to be typical for members of the 
+co 2 Pyr 
+" ~ CO2 NaAcGlutaminyl- 
+~e Asn AcCoA ~ glutamine amide Met 
+Tbr * I "'-'~ [~" I NaCarbamoy I- 
+~, i Asp • OxAC Citr 4l glutamine amide H°m°Se~" I /3OHAsp /~ G~ Mal "~ 
+, •1' ~ liitr n 
+Lys "4- -4- 4- -AspSA Furn 
+i~fiL~a?j Suet "/ aOGlut ---* Glu ...... -~Arg 
+DABA • ~ ' I ' ; GluSA ~ ~ =Ornithine 
+Lys 
+INEAcLys,nel jNeAcLysine I elyo.  
+I , ~.._ SAM 
+~Hydroxyectoinel $~-SAHC INSAcOrnitNne[ 
+Fig. 2. Possible relation of biosynthetic pathways of eubacterial amino acid type compatible solutes, including hypothetical reactions 
+(dotted lines). Broken arrows illustrate common sequences of amino acid metabolism. AspSA, aspartic semialdehyde; DABA, 
+c~,y-diaminobutyrate; NyAcDABA, N-y-acetyldiaminobutyrate; /~OHAsp, /3-hydroxyaspartate; Pyr, pyruvate; Citr, citrate: lctr, 
+isocitrate: aOGlut, a-oxoglutarate; Succ, succinate; Fum, fumarate; Mal, malate; OxAc, oxaloacetate; Glyox, glyoxylate; GluSA, 
+glutamic semialdehyde; DAP, diaminopimelic acid: AAA, aminoadipic acid; THF, tetrahydrofolate: SAM, S-adenosylmethionine: 
+SAHC, S-adenosylhomocyst eine. 
+Downloaded from https://academic.oup.com/femsre/article/15/2-3/95/616066 by guest on 21 April 2025
+104 
+phylogenetically diverse group of aerobic spore 
+formers (bacilli) and related organisms. The con- 
+comitant presence of both acetylated diamino 
+acids in many of the above organisms, therefore, 
+supports the view that both pathways may be 
+interrelated and that N-acetylated lysine used for 
+osmoadapation is probably derived from a path- 
+way uncommon in prokaryotes (and possibly simi- 
+lar to the aminoadipic acid pathway AAA, Fig. 
+2). 
+The biosynthesis of the glutamine amide 
+derivatives (CGA and AGGA) is presently under 
+investigation. The observation that cytoplasmic 
+levels of Na-carbamoyl glutamine amide (CGA) 
+rise when glutamine is supplied as a precursor 
+may serve as an indication for glutamine-linked 
+synthesis [67]. Subsequent biosynthetic steps 
+would then involve amidation of glutamine and 
+carbamoylation of the amino group (or vice versa); 
+however, a separate biosynthetic route starting 
+from glutamate or a-oxoglutarate can at present 
+not be excluded. 
+Environmental implications 
+No natural environment is free of change - be 
+it on a geological time scale or on a much shorter 
+seasonal basis. Highly saline environments are 
+subject to 'disturbance' by, though rare, rainfalls 
+or local underground or open fresh water sup- 
+plies. Thus, their microbial floras are undergoing 
+relatively rapid changes caused by dilution stress. 
+The sudden dilution of the environmental brine 
+of extreme halophiles, osmotically balanced by 
+high intracellular solute concentrations, would be 
+disastrous (osmotic bursting of cells), unless 
+mechanisms were provided to deal with such 
+shock events and lower cytoplasmic turgor within 
+minutes. Possible response mechanisms would 
+entail rapid catabolism, conversion of solutes into 
+osmotically inactive forms or extrusion into the 
+surrounding medium. Our present state of knowl- 
+edge of the organisms' reaction upon 'down- 
+shock' (mostly based on phototrophic bacteria) 
+reveals a differential treatment depending on the 
+solute involved. Whereas trehalose (and possibly 
+other sugars) is quickly degraded into activated monomers [70] subject to further metabolism and 
+possibly polymerisation into osmotically inert 
+storage material, glycine betaine and ectoine are 
+rapidly excreted into the medium, i.e. the envi- 
+ronment [76]. The well-known mass developments 
+of phototrophic bacteria (e.g. cyanobacterial mats) 
+in hypersaline environments probably make 
+glycine betaine one of the most abundant solutes 
+in natural biotopes, where considerable concen- 
+trations have been reported from interstitial wa- 
+ters of sediments ([74,75], J. Boon pers. comm.). 
+As has been shown for E. halochloris, this 
+instantaneous response may result in an over- 
+shoot reaction, which is subsequently balanced by 
+re-uptake of solutes until a steady state is achieved 
+[76]. Such release mechanisms for solutes in com- 
+bination with uptake systems, as studied for 
+glycine betaine in E. halochloris' [77] and in 
+cyanobacteria [78,79], are probably widely occur- 
+ring in phototrophic primary producers. The ex- 
+cretion of glycine betaine (together with other 
+solutes) into the environment has interesting con- 
+sequences. Besides serving as carbon and nitro- 
+gen supply for many chemoheterotrophic aerobes 
+[20,22] as well as anaerobes [80], osmolytes re- 
+leased into the environment are used by a num- 
+ber of halophilic/halotolerant bacteria as an al- 
+ternative and easily accessible source of compati- 
+ble solutes, provided they posses the necessary 
+uptake and regulation systems. In general, 
+halophilic bacteria will prefer uptake to de novo 
+biosynthesis of species-specific solutes for ener- 
+getic reasons. It is, however, important to note 
+that even organisms unable to synthesize compat- 
+ible solutes themselves may thrive in a saline 
+environment if compatible solutes (or suitable 
+precursors) are supplied by de novo producers. 
+This intriguing possibility is clearly demonstrated 
+with the salt-sensitive Escherichia coil and other 
+Enterobacteriaceae, which make use of effective 
+transport mechanisms for both, betaine and ec- 
+toine [81-84], and acquire a certain degree of 
+halotolerance (at least 5% NaC1) if these solutes 
+are supplied with the medium. In addition, some 
+halobacteria, strictly anaerobic fermenting bacte- 
+ria as well as dissimilatory sulfate reducers, which 
+all use the archaebacterial type of osmoadapta- 
+tion and do not need compatible solutes for os- 
+Downloaded from https://academic.oup.com/femsre/article/15/2-3/95/616066 by guest on 21 April 2025
+motic purposes, also use small amounts of glycine 
+betaine ([85]: E.A. Galinski, unpublished results). 
+Therefore, compatible solutes play an important 
+role in saline ecosystems, both as alternative os- 
+molytes for solute producers and as vital supple- 
+ments for others depending on these solutes. 
+These interrelations have pronounced conse- 
+quences, not only for our understanding of micro- 
+bial interaction in saline ecosystems but also for 
+the enrichment and isolation of organisms from 
+such habitats. As media supplements like yeast 
+extract contain considerable amounts of glycine 
+betaine (1-3% dry weight) (E.A. Galinski, unpub- 
+lished results), it is not surprising that use of even 
+moderate concentrations (e.g. 0.05%) may lead to 
+the enrichment of organisms able to accumulate 
+and use betaine as a compatible solute. Other 
+halophilic organisms with complex nutrient re- 
+quirements, lacking a glycine betaine uptake sys- 
+tem, are therefore outgrown, unless betaine-free 
+media supplements are used. Similarly, a het- 
+erotrophic bacterial flora specialized for other 
+available solutes like ectoines, acetylated diamino 
+acids or glutamine amide derivatives still awaits 
+isolation and thorough investigation. 
+Acknowledgements 
+The authors would like to express their grati- 
+tude towards Deutsche Forschungsgemeinschaft, 
+Ministerium fiir Wissenschaft und Forschung 
+(NRW) and Fonds der Chemischen Industrie. 
+References 
+1 Triiper, H.G. and Galinski, E.A. (1986) Concentrated 
+brines as habitats for microorganisms. Experientia 42, 
+1182-1187. 
+2 Galinski, E.A. and Tindall, B.J. (1992) Biotechnological 
+prospects for halophiles and halotolerant micro-organisms. 
+In: Molecular Biology and Biotechnology of Extremophiles 
+(Herbert, R.H. and Sharp, R.J., Eds.), pp. 76-114. Blackie 
+& Son, Glasgow. 
+3 Hardie, L.A. and Eugster, H.P. (1970) The evolution of 
+closed-basin brines. Miner. Soc. Am. Spec. Papers 3, 273- 
+290. 
+4 Eugster, H.P. and Hardie, L.A. (1978) Saline lakes. In: 
+Lakes: Chemistry, Geology, and Physics (Lerman, A., Ed.), 
+pp. 237-293. Springer Verlag, New York, NY. 105 
+5 Tindall, B.J. (1988) Prokaryotic life in the alkaline, saline, 
+athalassic environment. In: Halophilic Bacteria (Rodri- 
+guez-Valera, F., Ed.), pp. 31-67. CRC Press, Boca Raton, 
+FL. 
+6 Larsen, H. (1986) Halophilic and halotolerant microorgan- 
+isms - an overview and historical perspective. FEMS Mi- 
+crobiol. Rev. 39, 3-7. 
+7 Kushner, D.J. (1978) Life in high salt and solute concen- 
+trations: halophilic bacteria. In: Microbial Life in Extreme 
+Environments (Kushner, D.J., Ed.), pp. 318-369. Aca- 
+demic Press, London. 
+8 Rodriguez-Valera, F. (1988) Characteristics and microbial 
+ecology of hypersaline environments. In: Halophilic Bacte- 
+ria (Rodriguez-Valera, F., Ed.), pp. 3-30. CRC Press, 
+Boca Raton, FL. 
+9 Wegmann, K. (1986) Osmoregulation in eukaryotic algae. 
+FEMS Microbiol, Rev. 39, 37-43. 
+10 Reed, R.H. Richardson, D.L. Warr, S.R.C. and Stewart, 
+W.D.P. (1984) Carbohydrate accumulation and osmotic 
+stress in cyanobacteria. J. Gen. Microbiol. 130, 1-4. 
+11 Mackay M.A., Norton R.S. and Borowitzka, L.J. (1984) 
+Organic osmoregulatory solutes in cyanobacteria. J. Gen. 
+Microbiol. 130, 2177-2191. 
+12 Raymond, J.C. and Systrom, W.R. (1969) Ectothiorho- 
+dospira halophila: a new species of the genus Ectothiorho- 
+dospira. Arch. Microbiol. 69, 121-126. 
+13 Imhoff, J.F. and Triiper H.G. (1977) Ectothiorhodospira 
+halochloris sp. nov., a new extremely halophilic photo- 
+trophic bacterium containing bacteriochlorophyll b. Arch. 
+Microbiol. 114 115-121 
+14 Imboff, J.F. and Triiper H.G. (1981) Ectothiorhodospira 
+abdelmalekii sp. nov., a new halophilic and alkaliphilic 
+phototrophic bacterium. Zbl. Bakt. Hyg, I Abt. Orig. C 2, 
+228-234 
+15 Oren, A., Kessel, M. and Stackebrandt, E. (1989) Ectoth- 
+iorhodospira marismortui, sp. nov., an obligately anaerobic, 
+moderately halophilic purple sulfur bacterium from a hy- 
+persaline spring on the shore of the Dead Sea. Arch. 
+Microbiol. 151, 524-529 
+16 Drews, G. (1981) Rhodospirillum salexigens, sp. nov., an 
+obligatory halophilic phototrophic bacterium. Arch. Mi- 
+crobiol. 130, 325-327 
+17 Nissen, H. and Dundas, I.D. (1984) Rhodospirillum sali- 
+narum, sp. nov., a halophilic photosynthetic bacterium 
+isolated from a Portuguese saltern. Arch. Microbiol. 138, 
+251-256 
+18 Tindall, B.J. and Triiper, H.G. (1986) Ecophysiology of the 
+aerobic halophilic archaebacteria. Syst. Appl. Microbiol. 7, 
+202-212 
+19 Oren, A. (1991) Estimation of the contribution of archae- 
+bacteria and eubacteria to the bacterial biomass and activ- 
+ity in hypersaline ecosystems: novel approaches. In: Gen- 
+eral and Applied Aspects of Halophilic Bacteria, Rod- 
+griguez-Valera, Ed.), pp. 25-31. Plenum Press, New York 
+and London. 
+20 Wohlfarth, A., Severin, J. and Galinski, E.A. (1990) The 
+spectrum of compatible solutes in heterotrophic balophilic 
+Downloaded from https://academic.oup.com/femsre/article/15/2-3/95/616066 by guest on 21 April 2025
+106 
+eubacteria of the family ttah)momutaceac. J. Gen. Micro- 
+biol. 13~'~, 7(/5- 712. 
+21 Tri~lper, tt.G., Severin, J., Wohlfarth, A., Mi.'dlcr. E. and 
+(;alinski, E.A. (19~,~1) I lalophily, laxonomy, phylogeny and 
+nomenclature. In: General and Applied Aspects ol ttalo 
+philic Microorganisms (Rodriguez-Valera, F. Ed.L PP. 3 7. 
+Plcnum Press. New York and London. 
+22 Sevcrin, J.. Wohlfarth. A. and Galinski, [q.A. (It~92)The 
+predominant role of recently discovered letrahydropyrim- 
+idines for the osmoadaptation of halophilic eubaclcria. J. 
+Gen. Microbiol. 138, 162~ 1638. 
+23 Imhoff, J.F., Hashwa, F. and THiper. It.(;. (19781 Isolation 
+of extremely halophilic phototrophic bacteria from the 
+alkalineWadiNatrun. Egypt. Arch Hydrobio184, 381 38~. 
+24 lnlhoff, J,F., Sahl, tt.(;., Soliman, (LS.It. and Triipcr. 
+I I.G. (1979)The Wadi Natrun: chemical composition and 
+microbial mass developmcnt in alkalinc brines of cu 
+trophicdcsert lakes. Gcomicrobiol. J. 1. 219 234. 
+25 Orcn, A. and Triiper, [t.G. (199l)) Anaerobic growth of 
+halophilic archaeobacteria hy reduction of dimethylsulfox 
+ide and trimethylaminc N-oxide. FEMS Microbiol. l,etl. 
+7O, 33 3O. 
+26 Adams, R,I,.. Kogul, M. and Russell, N.J. (1989)Thc 
+effect of salinity on growth and lipid composition of a 
+moderately halophilic Gram-negative bacterium tlX. 
+Biochcm. Cell. Biol. 68, 249-254. 
+27 "lhiemann, B. and lmhoff, J.F. (1991) The effect of salt on 
+the lipid composition of Ectothiorhodo.v#ra. Arch. Micro 
+biol. 156. 376 384. 
+2S lmhoff, J.F. and Thiemann, B. (1991) Influence of salt 
+concentration and temperature on the fatty acid composi 
+tion or" Ectothiorhodospira and other halophilic pho- 
+lotrophic purple bacteria. Arch. Microbiol. 156, 370-375. 
+29 Russel, N.J. (1989) Adaptivc modifications in membranes 
+of halotolerant and halophilic microorganisms. J. Bioen- 
+erg. Biomembr. 21 ~,~3 113. 
+30 Sutton, G.C., Russel, N.J, and Quinn, P.J. ;(19911 The 
+effecl of salinity on the phase behaviour ol total lipid 
+extracts and binary mixtures of the major phospholipids 
+isolated from a moderately hak)philic eubaclerium. 
+Biochim. Biophys. Acta 1061, 235-246. 
+31 Gilmour, D. (10901 I talotolcrant and halophilic microor- 
+ganisms. In: Microbiology of Extreme Environments (Ed 
+wards, C., Ed.), pp. 147-177. ()pen University Press, Mil- 
+ton Keynes. 
+32 Eisenberg, tl. and Wachtcl, E.J. (1987) Structural studies 
+of halophilic proteins, ribosomes, and organelles of bacte- 
+ria adapted to extreme salt concentrations. Annu. Rev. 
+Biophys. Chem. 16, 69-92. 
+33 Zhilina, T.N. and Zavarzin, G.A. (1990) Extremely 
+halophilic, methylotrophic, anaerobic bacteria. FEMS Mi- 
+crobiol. Rev. 87, 315 322. 
+34 Oren, A. (19911 The genera Haloanaerobium, Halobac- 
+teroides, and Sporohalobacter. ln: The Prokaryotes (Bal- 
+ows, A,, Trtiper, H.G., Dworkin, M,, l tarder, W. and 
+Schleifer. K.H., Eds.), 2rid edn. pp. 1893 1900. Springer 
+Verlag, New York, NY. 35 Caumette, P., Cohen, Y. and Mathcron, R. (1991) Isola- 
+tion and characteiization ol l)esullbrihrio /udophilus sp. 
+nov., a halophilic sullate-rcducmg bacterium isolated from 
+Solar Lake (Sinai). Syst. Appl. Microbiol. 14, 33 38. 
+3{~ Ollivier. B., llatchikian, ('.E., Prensier, G., Guezcnncc. J. 
+and Garcia, J.L. (19911 DesMlbhahdmun ;elh~*('lls;_' gcn. 
+nov., sp. nov.. a haJophilic sulfatc-reducmg bacterium from 
+sediments of a hypersaline lake in Senegal. Int. J. Sysl. 
+Appl. Bacteriol. 41, 74 81. 
+37 Brown, A.I). (1976) Microbial water stress. Bactcriol. Rev. 
+41). 803 846. 
+3S Lippert, K. and Galinski, E.A. (1992) Enzyme stabilization 
+by ectoine-type compatible solutes: protection against 
+heating, freezing and drying. Appl. Microbiol. Biotechnol. 
+37, 61-65. 
+39 Wegmann, K. (1971) Osmotic regulation ol photosynthetic 
+glycerol production in DumdMla. Biochim. Biophys. Acta 
+234, 317 323. 
+40 Ben-Amotz, A. and Avron, M. (1973)The role of glycerol 
+m the osmotic regulation of the halophilic alga Dunaliella 
+parl'a. Plant Physiol. 51. 875 878. 
+41 Storey, R. and Wyn Jones R.G. (19771 Quaternary amino 
+nium compounds in plants m relation 1o salt resistance. 
+Phytochemislry 16, 447-453. 
+42 tlocking, A.D. and Norton, R.S. (19831 Natural-abun- 
+dance 13C nuclear nlugnclic resonance studies on the 
+internal solutes of xcrophilic fungi. J. Gen. Microbiol. 129, 
+1915 2925. 
+43 Measures, J.C. (1975) Role of amino acids in osmoregula- 
+lion of non-halophilic bacteria. Nature 257, 398-40(I. 
+44 Koujima, I., [Iayashi, H., Tomochika, K., Okabe, A. and 
+Kanemasa, Y. (It,~78) Adaptational change in proline and 
+water content of Slaphyhwoc('us auretls after alteration of 
+environmental salt concentration. Appl. Environ. Micro- 
+biol. 35, 467-470. 
+45 Chart, K., Lcung, O.C. and Lee, L.H. (19791 Influence of 
+lempcrature on ionic sparing effect and cell-associated 
+cations in the moderately halophile Micrococcus varians 
+wm halophih~s. Microbios 24, 81-91. 
+4(~ hnhoff, ,I.F. and Rodriguez-Valera. F. (1984) Betainc is 
+the main compatible solute ~1 halophilic cubacteria. J. 
+Bacteriol. 160, 478--47~L 
+47 Vreeland, RH. (19871 Mechanisms of halotolerancc in 
+microorganisms, CRC Crit. Rev. Microbiol. 14, 311 356. 
+48 Hart, D.J. and Vreeland RJt. (1988) Changes in the 
+hydrophobic halophilic cell surface character of Halomo 
+has ehmgata in response to NaCI. J. Bacleriol t70, 132 135. 
+49 Galinski. E.A. (1986)Salzadaptation durch kompatible 
+Solute bei hak)philen phototrophen Bakterien. Disserta- 
+tion, Universitfit Bonn, Bonn. 
+5(} Visscher, P.T. and van G-emerden, t|, (1991) Production 
+and consumption of dimethylsulfoniopropionate in marine 
+microbial mats. Appl. Environ. Microbiol. 57, 3237-3242. 
+51 Gouesbet, G., Blanco, ('., Hamelin. J. and Bernard, T. 
+(19921 Osmotic adjustment in Brevihacterium ammonia- 
+,¢enes: pipecolic acid accumulation at elevated osmolalities. 
+J. Gen. Microbiol. 138, 959-965. 
+Downloaded from https://academic.oup.com/femsre/article/15/2-3/95/616066 by guest on 21 April 2025
+52 Bernard, T., Jebbar, M., Rassouli, Y., Himdi-Kabbab, S., 
+Hamelin, J. and Blanco, C. (1993) Ectoine accumulatior, 
+and osmotic reguhttion in Bret'ibacterium linens. J. Gen. 
+Microbiol. 139. 129-136. 
+53 Frings, E., Kuntc, tt.J. and Galinski E.A. (1993) Compati 
+bit solutes in representatives of the genera Breribacterimn 
+and ('oo,nehacterimn: occurrencc of tetrahydropyrimidines 
+and glutamine. FEMS. microbiol, kctt. 1{19, 25 32. 
+54 Robcrtson. D., Nell, D.. Roberts, M.F.. Mcnaia, J. and 
+Boone, R.D. (It)90) Detcction of the osmorcgulator bc 
+taint in methanogens. Appl. Envmm. Microbiol. 5f~, 5~3 
+565. 
+55 Lai. M.('., Sov, ers. K.R., Robertson, D.E., Roberts. M.F. 
+aild (}urlsalus, R.P. (1991) l)islribulion of compatible so 
+lutcs in the haloph[lic mcthanogcnic archaobacteria..I. 
+Bactertol. 173, 5352 535~. 
+56 Roberts. M.F., l_ai, M.('. alld (itlnsahls, R.P. (1t~921 
+Biosynthetic pathways of the osrnol~tes Ne Acetyl-/3-1ysinc, 
+fl-glularninc, and bctainc in ,4,Iettmllohah)l?/tihls' strain 
+FI)FI suggested by nuclear ma,gnctic resonallcc analyses. 
+J. Bactcriol. 174, 6figN-{ff¢)3. 
+57 ,lennmgs. D.]I. (10841 Polyol mctabo[ism in fungi, eXdv. 
+Microb. Physiol. 25, 149 102. 
+5£ (;alinski, K.A. and tlerzog. R.M. (19911)The role of Ire 
+halosc as a stlbstiltlle for nitrogcn-conlaining compatiblc 
+solules ( l",ctot/uorhodovura ha/ochlori.s'i. !\rch. Microbiol. 
+153. 607 613. 
+59 Van lxlcrc, A. (10891-lrchalosc, rcsciwe aild/or stress 
+melabolilc. FEMS MiCTobiol. Re,,. f~3, 201-210. 
+f~ll Wicmkcn, A. (19901 Trehalosc in yeast, stress proleclanl 
+rather titan reserve carbohydrate. Antonie van Lccuwcn- 
+hock 5S, 209-217. 
+~31 Galinski, E.A., Tri.ipcr, tt.(i. (Ig82) t3ctaine, a compatible 
+solute m the cxtrcinely halophilic phototrophic bacterium 
+Ectottm,hodosl)ira halochlori,s. FliMS Microhiol. Lctt. 13, 
+357 -3f~11. 
+¢~2 Imholf, .J.F. (I g86) ()snlorcgulation alld compatible solulcs 
+in cubacteria. FEMS Microbiol. Re,,. 39, 57 66. 
+63 Galmski, K.A., Pfciffcr, ll.P. and Tri/lpei, tt.G. (19851 
+1,4,5,(~-Tcirahydro-2-mcthyl 4-pyrimidinccarboxylic acid, a 
+novel cyclic amino acid from halophilic pholotrophic bac- 
+leria of the genus l:ctot/Uodmdov#ra [=,ur. J. Biochem. 
+149. 135 13t). 
+f~4 Miillcr, E (1091t Kompatiblc Sohitc und Prolingewinnung 
+bet halophilen und halotoleranten Bacilli. Dissertation, 
+Bonn. 
+f~5 Wotflfarth, A., Sevu'rhl, J. and (lalinski, K.A. (1993) ldcn- 
+lification of ,V~%cicctylornithinc as a novel osmolyt¢ in 
+some (ham-posilivc halophilic eubacleria. Appl. Micro- 
+hiol. I:lioicchnol. 30, 5f>8 573. 
+6o Galmski, E.A. and Oren, A. (I901) lsohition and struclur¢ 
+delerminciliOll of a rowel compatible solute from the mod- 
+eral¢ly halophilic purple sulfur bacterium l(clothior/~()- 
+~h).wira marLvmortm. Eur. J. Biochem. 198, 593-598. 
+e,7 ()ten, ,\., Simon, G. and Galinski, E.A. (1991) Intraccllu 
+]ar sail and solute conceiltralions in Ectothiorhodo~l)ira 1117 
+marismorlui: glycinc betaine and Na'-carbamoyl glu- 
+tamineamide as osmotic solutes. Arch. Microbiol. 156, 
+35O-355. 
+68 Smith. L.T. and Smith, G.M. (19891 An osmoregulatcd 
+dipeptidc in stressed Rhieohim*l mclilofi..1. Bacteriol. 171, 
+4714 4717. 
+69 Tr{ipcr, lt.(L and (Miinski, |{..,\. (199(1) Biosynthcsis and 
+fate of compatihle solutes in extremely halophilic pho- 
+totrophic cubacteria, FEMS Microbiol. Roy. 75, 247 253. 
+70 tlerzog, R.M., Galinski, E.A. and Trtipcr, tI.(L (199()) 
+l)egradation of the compatiblc solute trchalosc in l:cloth- 
+iorhodo.v,ra haloctdorl.~: isolation and charactcrization of 
+trehalase. Arch. Microbiol. 153, ~l)l) h06. 
+71 Lippert, K., Galinski. E.A. and Triq3er, |I.G. (19031 
+Biosynthesis and luncti()n o] Irchalosc in l:clothiotqu~ 
+de~v~ira Imlo(hlori.~. Anionic '+an Lccuwcnhock (~3, $5 01. 
+72 Pclurs, P., (kdinski. L-_,\. and Tri]pcr. l J.(i. (10~{b The 
+biosynthesis ol cclt~ine, l~'[{b,,|N Microbio]. loll. 71. [57 
+I (~2. 
+73 Siblcy. M.II. and Yopp. J.tl. {IriS71 Regulation of S-aden 
+osylholllOCys|cinc hydrolase hi tile halol'~hilic cyanobac- 
+tcfium Apham)t/wcc /laloldn'tica: a possible role iu glvi 
+cinebctainc biosynlhesis. Arch. Microbiol. 149, 43 46. 
+74 Gauthicr, M.,I. and LcRudulicr. 11. (It)t/I)) Sulwival in 
+scHwaler of lGchcrichia ~¢*li cells gro;',n in marine sedi- 
+ments containing glycinc betainc. Appl. l£nviroia. Micro- 
+biol. 5~,2015 2018. 
+75 Ghoul, M.. Bernard. 1". and ('Orlllicr, [~1. (1 tat){11 [-vidcnc¢ 
+that I:.whcrichi,~ coli accumulates glycinc bciainc from 
+marine sediments. :\ppl. Environ. Microbiol. 56, 551 554. 
+7(', ischichhc, lz, 1. and Tr{ipcr, l l.(i. 119g01 Fal¢ of compati- 
+ble solutes during dihltion strt.,ss m t:ctolhiorhodovffra 
+halochlmi.~. F[{MS Microbiol. Ecol. 73. I,";1 Ib,(~. 
+77 Peters. P.. "l'cl-()r, K. and lriipcr, II.(L (19921 Transport 
+ol glycine betainc m the extrcmcl,, haloalkaliphilic sulphur 
+bacterium lsctothiorttodo,gma halochh,'i~. J. (;en. Micro 
+biol. 13N, 1993 1998. 
+78 Moore, D.J., Reed, R.ti. and 5,toward, W.I).P. (19S71 A 
+glycinc bctaine transport systcrn in .4phatu)th~,cd halol~hyt- 
+i~a and other gbcine bctainc s},nthcsising cvanol~aclcria. 
+AIch. Microbiol. 147, 3~)0 405. 
+79 (iabbay-Azaria, R.. Tel-Or, K. and Schonl'cM, M. (lt)~,S) 
+Glycinebetainc as an osnlol¢gulanl aFid compatible solulc 
+in the marine cyanobacterium Spirtdi,a ,sM~s'aL~a. Arch. 
+Biochem. l:~iophys, 261, 1 7. 
+8(] ()rcl], A. (It)0()) Formation and breakdown of glycinc 
+bctainc alld trinlethylaminc in hypersalmc cnvironnlcnts. 
+Antonie ",an Lccuwcnhoeck 5S, 2t)l 2tJ,";. 
+81 Booth, I.R. and l liggms, C.F. (1090) Enteric bacteria and 
+osmotic stress: inlracc]]tllar potassium gltltalllatc as a SCC 
+ondau signal of osmotic stress? FEMS Microbiol. Rcv. 75. 
+23 t) 246. 
+82 Koo, S.P.. I liggins. ('.t:. and Booth, I.R. (1991) Rcgulation 
+of compatible solute accumulation in Sahnom'lh* Iv 
+phimurium: evidence for a glycinc bctainc of flux syslem. J. 
+Gcn. Microbiol. 137. 2~17 2(~25. 
+Downloaded from https://academic.oup.com/femsre/article/15/2-3/95/616066 by guest on 21 April 2025
+l 1)8 
+83 Cayley, S., Lewis, B.A. and Record, M.T. Jr. (1992) Ori- 
+gins of the osmoprotective properties of betaine and pro- 
+line in Escherichia coli K-12. J. Bacteriol. 174, 1586-1595. 
+84 Jebbar, M., Talibart, R., Gloux, K., Bernard, T. and Blanco, 
+C. (1992) Osmoprotection of Escherichia coli by ectoine: 
+uptake and accumulation characteristics. J. Bacteriol. 174, 
+5027-5035. 
+85 Nicolaus, B., Lanzotti, V., Trincone, A., de Rosa, M., 
+Grant, W.D. and Gambacorta, A. (1989) Glycine betaine 
+and polar lipid composition in halophilic archaebacteria in 
+response to growth in different salt concentrations. FEMS 
+Microbiol. Lett. 59, 157-160. 
+86 Ventosa A., Gutierrez, M.C., Garcia, M.T. and Ruiz- 
+Berraquero, F. (1989) Classification of 'Chromobacterium marismortui' in a new genus Chromohalobacter gen.nov., 
+as Chromohalobacter marismotui comb., nov., nora. rev. 
+Int. J. Syst. Bacteriol. 39, 382-386. 
+87 Fendrich, C. (1988) Halot:ibrio i,ariabilis gen. nov. spec., 
+Pseudomonas halophila sp. nov. and a new halophilic pur- 
+ple sulfur bacterium. Arch. Microbiol. 155, 170-176. 
+88 Weisser, J. and Triiper, H.G. (1985) Osmoregulation in a 
+new halo-alkaliphilic Bacillus from the Wadi Natrun 
+(Egypt). Syst. Appl. Microbiol. 6, 7-11. 
+89 Ventosa, A., Marquez, M.C., Weiss, N. and Tindall, B.J. 
+(1992) Transfer of Marinococcus hispanicus to the genus 
+Salinicoccus as Salinicoccus hispanicus comb. nov. Syst. 
+Appl. Microbiol. 15,530-534. 
+Downloaded from https://academic.oup.com/femsre/article/15/2-3/95/616066 by guest on 21 April 2025

@@ -1,0 +1,379 @@
+Available online a t www.pelagiaresearchlibrary.com  
+ 
+ 
+ 
+    
+ 
+Pelagia Research Library  
+ 
+European Journal of Experimental Biology, 2013, 3(6 ):351-358          
+  
+  
+ 
+ISSN: 2248 –9215  
+CODEN (USA): EJEBAU  
+ 
+351 
+Pelagia Research Library  
+Isolation and characterization of high salt toleran t bacteria from 
+agricultural soil  
+ 
+Jaymin Mendpara1, Vivek Parekh1, Sudhir Vaghela1, Atul Makasana1, Prashant D. 
+Kunjadia2, Gaurav Sanghvi3, Devendra Vaishnav3 and Gaurav S. Dave1* 
+ 
+1Department of Biochemistry, Saurashtra University, Rajkot, Gujarat, India 
+2B. N. Patel Institute of Paramedical and Science, B halej Road, Anand, India 
+3Department of Pharmaceutical Sciences, Saurashtra U niversity, Rajkot, Gujarat, India 
+___________________________________________________ __________________________________________ 
+ 
+ABSTRACT 
+ 
+Adaptation characteristic of microorganisms in diff erent extreme conditions seeks discoveries in field  of pharma, 
+food, & bioenergy sectors.  In the present study, n ew experimental approach was proposed to prove adap tation 
+ability in extreme conditions with growth and devel opment of agricultural soil bacterial species in st epwise 
+adaptation in high salt (NaCl) conditions. Six diff erent bacterial species were isolated from agricult ural soil 
+surrounding the Rajkot region. Out of six isolates,  two showed salt tolerance up to 10% NaCl concentra tion. 
+Biochemical and molecular (16S rDNA sequencing) cha racterization revealed the strains to be Exiguobact erium sp. 
+and Serratia sp.  designated as  GSD1 and GSD 2 str ains. Species were able to adapt upto 10% of NaCl i n nutrient 
+broth growth medium. Primary screening for extracel lular enzymes (protease, amylase, lipase) secretion  unveiled 
+activity of enzymes in nutrient agar plates contain ing skim milk or starch or mineral oil for protease , amylase and 
+lipase production respectively. This experiment pro vides the base to link the adaptation capabilities of agricultural 
+soil microorganisms in high salty environment and v ice a versa.  
+ 
+Keywords: Exiguobacterium , Serratia, Salt Adaptation, Extracellular enzymes  
+___________________________________________________ __________________________________________ 
+ 
+INTRODUCTION 
+ 
+Adaptation is an evolutionary process through which  living organisms develop to live in its changed ha bitats. Lower 
+to higher living organisms are influenced but devel oped to adjust with different abiotic stresses i.e.  changes in 
+salinity of soil and water, temperature, pH, atmosp heric humidity, air circulation and radiation [1,2] .  Amongst these 
+all soil and water salinity is the major stress imp acts on life, and it becomes more prominent with ti me.  
+ 
+Global warming is the key issue of current world en vironmental problems, its main emphasis on level an d surface 
+temperature of sea. The scientific committee on Ant arctic research proposed a rise in mean sea level o f up to 1.4 m 
+by 2100 century and other scientists anticipated se a level rise of one to several meters[3-5] in the s ame phase. 
+Reports  year[6].Gujarat has 1663 km, coastal regio n and rise in 0.5 meter sea level can cover roughly  8452.971 
+Km2 land nearby coastal area[6]. This can be even more  anti-agricultural if sea level rises about 0.5 to 1.4 meters[7]. Gaurav S. Dave  et al Euro. J. Exp. Bio., 2013, 3(6):351-358         
+___________________________________________________ __________________________  
+352 
+Pelagia Research Library  Similarly, with global warming, natural disasters l ike earthquake and tsunami will cost more deadly ef fects on 
+microorganisms of agricultural soil. Recently, stro ked tsunamis in South Asia has affected 11,000 Ha a gricultural 
+land [8], with 4067 Ha cropped area and 2260 km of coastal area in India alone[9].  Tsunami contaminat ed the 
+agricultural soil with salts of Kerala, Andhra Prad esh, Tamilnadu and Pondicherry states of India. In future, natural 
+disasters like tsunami if strike in Gujarat it may contaminate the agricultural soil of Rajkot, Jamnag ar, Junagadh, 
+Porbandar, Surat and Kutch districts and it will af fects the microorganisms population in agricultural  soil. In future 
+high salt contaminated soil, either it will lose so me of the microorganisms’ species or microorganisms  have to adapt 
+to salty soil. 
+ 
+In view of this, we have focused on microorganisms of non-saline soil to adapt it in high salt concent ration in 
+artificial synthetic media. We have isolated the to tal six bacterial species from agricultural garden soil of Saurashtra 
+University campus and experimented to evaluate its adaptability in high salinity medium. Out of total six isolates we 
+have found two isolates Exiguobacterium  sp. GSD1 (JN020918) and  Serratia sp. GSD2 (JN020917) with capability 
+to adapt upto 10% of NaCl salt containing medium. 
+ 
+Exiguobacterium  sp. have been isolated from markedly diverse sourc es, including Greenland  glacial ice, hot springs 
+at Yellowstone  park, rhizosphere of plant and environment of food  processing unit[10].Gram negative bacteria of the 
+genus Serratia are opportunistic human, plant and insect pathogen s[11]and member of the family 
+enterobacteriaceae [12]. Salinity has an effect on microbial cell memb rane[13] and synthesis, structure and function 
+of protein [14,15] as well as the growth of the mic roorganisms [16]. Bacteria develop different defens e mechanisms 
+to survive in high salinity environment [17].Presen t study evaluates the adaptation capabilities of ag ricultural soil 
+microorganisms in high NaCl containing medium to pr opose its futuristic adaption in salt contaminated soil, if 
+tsunami like natural disaster strikes or rise in se a level, change the fertility of soil. 
+ 
+MATERIALS AND METHODS 
+ 
+Collection of soil sample and physico-chemical anal ysis:  Soil sample was collected from provinces of “Van -
+Vibhag” (agricultural soil) Saurashtra University c ampus, Rajkot, India. Soil sample was collected fro m the depth of 
+10-12 inch in sterile polythene bag and samples wer e kept at room temperature until used. Soil analysi s was 
+conducted to measure electro conductivity, pH, tota l nitrogen, K 2O, P2O5 content at the government soil analysis 
+laboratory, Rajkot.  
+ 
+Isolation and Screening of Bacteria : Soil suspension was prepared with 5g of soil in 2 0ml of sterile double 
+distilled water and vortexed. Loop full of soil sus pension was streaked on N-Agar plates (Himedia) and  incubated 
+for 24h at 37 °C for isolation of different bacteria.  Total six d ifferent isolates were found from primary screening  
+and further grown on N-agar plate containing 2%, 4% , 6%, 8% & 10% NaCl separately for 72h at 37 °C. 
+ 
+Biochemical Characterization: Biochemical analysis of two isolates were carried o ut according to Bergey’s 
+Manual of Determinative Bacteriology[18] and classi fied primarily through morphological, physiological  and 
+biochemical  observation.   
+ 
+Amplification and sequencing of 16S rDNA encoding g enes: 16S rDNA genes, from the purified genomic DNA 
+of the 2 isolates were amplified by PCR with the fo llowing set of primers: F (5´-AGAGTTTGATCCTGGCTCAG-
+3´) and R (5´-GGTTACCTTGTTACGACTT-3´). Each 50-µl r eaction mixture contained 30 mM Tris (pH 8.4), 
+50mM KCl, 1.5 mM MgCl 2, 50mM concentrations of each dNTPs, 10 pmol of eac h primer, and 1U of Taq 
+polymerase. The PCR was performed  with following s pecification: first step of denaturation for 5 min at 95°C,  30 
+cycles were performed, denaturation for 1 min at 95 °C, annealing for 1 min at 55°C, and polymerization  for 1 min at 
+72°C. The amplified genes were sequenced using sequ ence scanner v1.0 (Inst Model/Name: 3730XI/ABI3730X L-
+1414-008) (Applied Biosystems). 
+ 
+Phylogenetic analysis: The 16S rDNA gene sequences of two isolates ( Exiguobacterium sp.  GSD1, Serratia 
+sp.GSD2) were compared to references of 16S rDNA ge ne sequences retrieved from GenBank database. BLAST N 
+2.2.26+ used to retrieve similar reference sequence s and aligned for phylogenetic relationship with ou r isolated 
+strain by neighbor-joining method using treedyn onl ine software. 
+ Gaurav S. Dave  et al Euro. J. Exp. Bio., 2013, 3(6):351-358         
+___________________________________________________ __________________________  
+353 
+Pelagia Research Library  GeneBank Submission and nucleotide accession number : 16S rDNA gene sequences of Exiguobacterium  and 
+Serratia were deposited in the NCBI GenBank under accession  numbers JN020918 and JN020917 respectively. 
+ 
+Growth Curve:  Vegetative cells of Exiguobacterium sp. GSD1 and Serratia sp. GSD2 were grown in a nutrient 
+broth containing 2%, 4%, 6%, 8% & 10% of NaCl. Cont rol tubes were served without addition of NaCl. 0.1  ml of 
+fresh culture (O.D near about 1.000 at 660nm) was i noculated in medium. O.D was measured of the sample  at 
+660nm with (UV-1800, SHIMADZU) at duration of 1h fo r 33h. 
+ 
+Extracellular enzyme production at different salt c oncentration 
+Amylase production:  Amylase production was analyzed by starch hydrolyz ing method.  Starch agar plate was 
+prepared containing 4% and 8% NaCl. Organisms were inoculated on starch agar plate and incubated at 37 °C for 
+24h. Amylase production was detected as a colorless  zone on surrounding of colony on addition of iodin e.  
+ 
+Proteolysis production:  Skim milk agar plates were prepared containing 4% and 8% NaCl, organisms were 
+inoculated. Dissolved casein surrounding the colony  resulted on secretion of protease enzyme. 
+ 
+Lipase production:  Nutrient agar plates containing vegetable oil prep ared to study extracellular lipase activity. Test 
+organisms were inoculated and incubated for 24h at 37°C. Addition of CuSO 4 in plates on next day develops bluish 
+green appearance surrounding the colony, confirms t he hydrolysis of fat in glycerol & fatty acid. 
+ 
+RESULTS 
+ 
+Soil Analysis:  Soil analysis data showed in (Table 1) confirms qu ality as on agricultural soil. 
+ 
+Table 1 Analysis for different physicochemical para meter of soil 
+ 
+Sample E.C. mS/M pH % Nitrogen P 2O5 Kg/ha K 2O Kg/ha 
+B 0.62 8.7  0.38  28  400 
+ 
+Bacterial Identification, Screening and Biochemical  test: Gram staining revealed Exiguobacterium  sp. as a 
+grampositive aerobic microorganism with orange, non transparent, circular colony characteristic grown o n N-agar 
+after48h of incubation. Exiguobacterium sp. exhibited negative test for indole production, citr ate utilization, 
+ammonia and urea reduction as well as acid producti on, whereas nitrate reduction and carbohydrate ferm entation 
+was found to be positive (Table 2). However, the ot her strain ( Serratia sp.) is gram negative aerobic bacteria 
+exhibiting off-white, non-transparent and irregular  shape colony. Biochemical test for Serratia sp. showed negative 
+indole production, ammonia and urea reduction as we ll as acid production test, whereas citrate utiliza tion and 
+carbohydrate fermentation result confirmed positive  test (Table 2).  
+ 
+Table 2 Biochemical Characterization 
+ 
+Tests Exiguobacterium  sp. GSD1 Serratia sp. GSD2 
+Indol production - - 
+Urease test - - 
+Methyl red test + + 
+Voges proskauer - - 
+Simmon Citrate test - - 
+Ammonia reduction - - 
+Nitrate reduction + + 
+Triple sugar iron agar test Slant yellow, Butt yellow, 
+No H2S production 
+Fermentation observed Slant yellow, Butt yellowish red, 
+No H2S production 
+Fermentation observed 
+* + indicates positive results,   − indicates negative results.  
+ 
+Phylogenetic analysis on the basis of 16s rDNA anal ysis: Distance phylogenetic trees for two isolates were 
+constructed by the neighbor-joining method using Tr eeDyn 198.3 and the topology of the trees was evalu ated by 
+bootstrapping score over 1,000. Alignment positions  with gaps were excluded from the calculations (Fig ure 1 & 2). 
+Phylogenetic tree showed the position of Exiguobacterium  GSD1 and  Serratia sp. GSD2 with respect to other 
+GenBank 16S rDNA sequences. The tree was constructe d by Neighbor joining method and minimum possibilit y 
+with alignment of 812 and 1172 base pairs, with boo tstrap support values greater than 90% and 95% (Fig ure 1 & 2). Gaurav S. Dave  et al 
+_________________________
+Figure
+Fi
+Figure 3 Growth curve
+♦0% NaCl
+Growth curve:  
+As Observed in Figure 3, Exiguoba
+time periods grow in 6% NaCl conc
+entry earlier then 6%, 8% and 10% 
+00.20.40.60.811.21.41.6
+0 3Growth (OD660)Euro. J. Exp. Bio
+_______________________________________
+Pelagia Research Library   
+ure 1 Phylogenetic tree analysis of Exiguobacterium sp. GSD1 
+ 
+ 
+Figure 2 Phylogenetic tree analysis of Serratia sp. GSD2 
+ 
+ 
+ve of Exiguobacterium  sp. GSD1 incubated under various NaCl co
+Cl, ■2% NaCl, ▲4% NaCl, ●6% NaCl, ▬8% NaCl, 10% NaCl
+ 
+bacterium sp. GSD1 showed log phase after the three t
+oncentration, where as culture grown in 0%, 2% and 4%
+% NaCl, In case of organism grown in 8% and10% N aC
+6 9 12 15 18 21 24 27 30
+Time (hrs)Exiguobacterium sp. GSD1 Bio., 2013, 3(6): 351-358         
+___________________  
+354  
+ 
+. 
+concentrations  
+Cl 
+e to four hours of incubation 
+ 4% NaCl showed log phase 
+aCl showed no growth even 
+33Gaurav S. Dave  et al Euro. J. Exp. Bio., 2013, 3(6):351-358         
+___________________________________________________ __________________________  
+355 
+Pelagia Research Library  after the 32h incubation. Similar observation has b een noticed with Serratia sp. GSD2 grown in 0% to 10% NaCl 
+(Figure 4). 
+ 
+. 
+ 
+Figure 4 Growth curve of Serratia sp. GSD2 incubated under various NaCl concentratio ns 
+♦0% NaCl, ■2% NaCl, ▲4% NaCl, ●6% NaCl, ▬8% NaCl, 10% NaCl 
+ 
+Screening for Extracellular enzyme production on ag ar plates: 
+Exiguobacterium  sp. GSD1 and Serratia sp. GSD2 exhibited protease, amylase and lipase act ivity in 0% and 4% 
+NaCl containing medium, whereas Serratia sp. GSD2 exhibited amylase and lipase activity in 8 % of NaCl medium 
+(Table 3). 
+ 
+Table 3 Qualitative enzyme production test for Case inase, Amylase and Lipase 
+ 
+Enzyme production Exiguobacterium  sp. GSD1 Serratia sp. GSD2 
+0% 4% 8% 0% 4% 8% 
+Caseinase  + + - + - - 
+Amylase + + + + + + 
+Lipase + + - + + + 
+* + indicates positive results,   − indicates negat ive results 
+ 
+DISCUSSION 
+ 
+The present study was designed to evaluate the adap tation properties of agricultural soil microorganis m under the 
+high salt (NaCl) growth medium to establish the ada ptability characteristics of non-saline agricultura l soil 
+microorganism in saline medium. Exiguobacterium sp. GSD1 strain and Serratia sp. GSD2  were the isolates 
+utilized for experiments. 
+ 
+Exiguobacterium  sp. has been found from much wide range of habitat s of all over the world. Exiguobacterium  sp. 
+exhibits in wide range of habitats including cold a nd hot environments with temperature range from -12 °C to 
+55°C[19]. This diversification in habitats of Exiguobacterium sp. is responsible of its adaptation in diverse 
+conditions and beneficial to survive against extrem e environmental factors. Exiguobacterium  genus comprises 
+psychrotrophic, mesophilic, and moderate thermophil ic species[20,21], with pronounced morphological di versity 
+(ovoid, rods, double rods, and chains) depending on  species, strain, and environmental conditions[22].  Our 
+experimental results of growth curve of Exiguobacterium  sp. GSD1, suggest the down-regulation of growth under 
+successive increase of NaCl concentration. As shown  in figure 3, without additional NaCl concentration  in growth 
+medium it did not affect the growth of organism but  as the concentration of NaCl increases, growth of organisms 
+decreased with maximum tolerance upto 10% NaCl conc entration. Several Exiguobacterium  strains possess unique 
+properties of interest for application in biotechno logy, bioremediation, industry and agriculture. Exiguobacterium  sp. 
+are capable of neutralizing highly alkaline textile  industry wastewater[23], high potential for pestic ide removal[24] 00.20.40.60.811.21.41.6
+0 3 6 9 12 15 18 21 24 27 30 33Growth (OD660)
+Time (hrs)Serratia sp. GSD2Gaurav S. Dave  et al Euro. J. Exp. Bio., 2013, 3(6):351-358         
+___________________________________________________ __________________________  
+356 
+Pelagia Research Library  and reducing arsenate to arsenite[25]. Furthermore,  several enzymes (alkaline protease, EKTA catalase,  guanosine 
+kinase, ATPases, dehydrogenase, esterase) with stab ility at a broad range of temperatures were purifie d from 
+different Exiguobacterium  strains [26-31]. Our isolates Exiguobacterium  sp.GSD1 showed extracellular enzyme 
+production of protease, lipase and amylase on N-aga r plate with additional food material respectively casein, mineral 
+oil and starch. Plate results reveal that enzyme se cretion was decreased with increase in salt concent ration with 4% 
+and 8% NaCl in comparison to 0% NaCl, this observat ion was made on the basis of zone of enzyme product ion. In 
+view of this we can assume that enzymes would be se creting in extracellular environment but because of  high salt 
+concentration in medium, enzymes could not be activ e fully or decrease in growth of microorganism dire ctly affects 
+the production of extracellular enzymes. From the o bservation on production of enzyme, we can deduce t hat as salt 
+concentration increases, it decreases the activity of enzyme, but high salt concentration could not in hibit the enzyme 
+activity completely. These results are in hope and favor to develop and upgrade strategies for enzyme production 
+sustainable in high saline medium. Report on Exiguobacterium  255-15 isolated from Siberian permafrost  showed 
+potential stress responses with changing growth rat e, cellular morphology, cell membrane composition, 
+polysaccharide composition, and carbon utilization under different temperature conditions and wide ran ge of salt 
+concentration makes Exiguobacterium  dynamic organism to survive and study for evolutio nary linkages[32]. 
+ 
+Our isolated Serratia sp. GSD2showed growth upto 10% NaCl in growth medi um, with supporting results same on 
+agar plate at 10% NaCl. Previously, Serratia species has been isolated from water, soil, skin o f animals (including 
+man) and from the surfaces of plants. Serratia sp.  grows at temperature range from 5–40° and pH range  from 5 to 
+9[33,34]. Strains of this species produce plant-gro wth-promoting chemicals, have anti-fungal and anti parasitic 
+properties, encourage the establishment of nitrogen -fixing symbionts and act as insect pathogens [35-3 8]. These 
+observations revealed that in future if any agricul tural soil area covered with saline environment by any natural 
+disaster, our isolated Serratia sp. will be a natural remedy for removal of NaCl t o keep agricultural soil fertile. A 
+subspecies of Serratia marcescens  (S. marcescens  subsp. sakuensis ) and a urea-dissolving species ( Serratia 
+ureilytica ) have been described previously [39-40]. In our is olated Serratia sp.GSD2 species, we have found biofilm 
+production[41], which increase with increase in sal t concentration from 0 % to 10 % NaCl salt concentr ation. In this 
+present experiment Serratia sp. GSD2 also produces extracellular enzymes amyla se, protease and lipase. We have 
+found decrease in extracellular enzyme activity as increase in salt concentration ranging from 0%, 4%,  8% NaCl. 
+ 
+Protein content in terms of total gene expression w as increased with increase in salt concentration as  shown in 
+Exiguobacterium  sp. GSD1  & Serratia sp. GSD2, as well as gradual decline in extracellul ar enzyme activity was 
+also observed in proteinase, lipase and amylase upt o 8% NaCl in solid medium.  Biochemical and biophys ical data 
+have been postulated for several salt-tolerant enzy mes, including glutaminase from Lactobacillus rhamnosus [42] α-
+amylase from Bacillus dipsosauri [43], protease from Aspergillus  sp. FC-10[44], α-type carbonic anhydrase from 
+Dunaliella Salina [45]and thermolysin from B. thermoproteolyticus [46], Lipase from Pichia anamola [47]. 
+Halophilic and halotolerant microorganisms have var ious mechanisms to adapt against high salt concentr ation i.e. 
+synthesis of betaine, Ectoine and hydroxyectoine, β-Glutamate, trehalose etc.[48,49], any of or all of  these 
+mechanism would be followed in our isolated microoo rganisms under high salt media. Diminished extracel lular 
+enzyme activity on increase in salt concentration i n our experiments are in support that halophilic en zymes are found 
+to have multilayered hydration shells that are of c onsiderably of greater size and order compared to n on-halophilic 
+enzymes[50]. 
+ 
+In conclusion, this study provides the futuristic a spect of agricultural soil microorganisms on adapta tion and use as a 
+natural fertilizer, whenever any nature disaster li ke tsunami strikes the coastal region of Saurashtra  (Gujarat). The 
+above studied microorganism Exiguobacterium and Serratia will able to survive in high salt condition and co uld be 
+the possible factor to revive fertility of agricult ural soil and removal of salt contamination. Furthe r, extracellular 
+enzyme production by Exiguobacterium  and Serratia opens the doors for its application in food, pharm a and 
+bioenergy industries. In view of the above, present  study provides the possible natural bioremediation  approach for 
+famers of Saurashtra  region of Gujarat state as well as possible microb iological survivor in future under any natural 
+disaster like tsunami or earthquake. 
+ 
+Acknowledgement 
+Authors are thankful to Dr. Navin R, Sheth, Head, D epartment of Biochemistry for his valuable guidance  and 
+support throughout the experimental work. 
+ Gaurav S. Dave  et al Euro. J. Exp. Bio., 2013, 3(6):351-358         
+___________________________________________________ __________________________  
+357 
+Pelagia Research Library  REFERENCES 
+ 
+[1] Lynn JR, Rocco LM, Nature, 2001, 409, 1101. 
+[2] Duran RE, Budak B, Yolcu O, European Journal of Experimental Biology, 2013, 3, 110. 
+[3]Rignot E, Kanagaratnam P, Science, 2006, 311, 990. 
+[4]Ivins RE, Science, 2009, 324, 889. 
+[5]SCAR, Antarctic Climate Change and the Environme nt, in Scientific Committee Antarctic Research, Sco tt Polar 
+Research Institute, Cambridge, UK, 2009. 
+[6]Dwivedi DN, Sharma VK, In: Proceedings of the 14 th Biennial Coastal Zone Conference, 2005, India. 
+[7]Rahmstorf S, Science, 2007, 315, 370. 
+[8]Niino Y, International Workshop on Post Tsunami Soil Management, 2008. 
+[9]Rasheed A, Das VK, Revichandran C, et al, Science of Tsunami Hazards , 2006, 24, 33. 
+[10]Vishnivetskaya TA, Kathariou S, Tiedje JM,  Extremophiles , 2009, 13, 555. 
+[11]Fineran PC, Williamson NR, Lilley KS et al, Journal of Bacteriology , 2007, 189, 7662. 
+[12]Grimont PAD, Grimont F, Annual Review of Microbiology , 1978, 32, 248. 
+[13]Ohno Y, Yano I, Journal of Biochemistry , 1979 85, 421. 
+[14]Zheng SP, Ponder MA, Shih JY et al, Electrophoresis , 2007, 28, 488. 
+[15]Rhodes ME, Fitz-Gibbon ST, Oren A et al, Environmental Microbiology , 2010, 12, 2623. 
+[16]Mert HH, Ekmekçi v, Mycopathologia , 1987, 100, 89. 
+[17]Imhoff JF, Advances in Space Research , 1986, 6, 306. 
+[18]Buchanan RE, Gibbons NE. Bergey's Manual of Det erminative Bacteriology, Williams and Wilkins Co. 
+Baltimore; MA, USA, 1974. 
+[19]Tiedje JM, Rodrigues DF, FEMS Microbiology and Ecology , 2007 59, 499. 
+[20]Vishnivetskaya TA, Kathariou S.,Tiedje JM, The joint international symposia for subsurface microbi ology 
+(ISSM 2005) and environmental biogeochemistry (ISEB XVII), 2005. 
+[21]Vishnivetskaya TA, Siletzky R, Jefferies N et a l, Cryobiology , 2007, 54, 240. 
+[22]Kumar A, Singh VP, Kumar R, In: International C onference on Extremophiles, 2006, France. 
+[23]López L et al, Ecotoxicology , 2005, 14, 312. 
+[24]Anderson CR,Cook GM, Current Microbiology , 2004, 48, 347. 
+[25]Usuda Y, Kavasaki H, Shimaoka M et al,  Biochimica Biophysica Acta-Gene Structure and Expr ession, 1998, 
+1442, 379. 
+[26]Suga S,Koyama N, Archieves of Microbiology , 2000, 173, 205. 
+[27]Wada M, Yoshizumi A, Furukava Y et al, Bioscience Biotechnology Biochemistry , 2004, 68, 1488. 
+[28]Hwang BY, Kim JH, Kim J et al, Biotechnol Bioprocess Engineering , 2005, 10, 371. 
+[29]Hara I, Ichise N, Kojima K et al, Biochemistry , 2007, 46, 22. 
+[30]Kasana RC,Yadav SK, Current Microbiology , 2007, 54,229. 
+[31]Ponder MA, Gilmour SJ, Bergholz PW et al, FEMS Microbiology Ecology , 2005, 53, 115. 
+[32]Grimont F, Grimont PAD, A handbook on biology o f bacteria. Springer, 1992, 4126. 
+[33]Alström S, Journal of Phytopathology , 2001, 149, 64. 
+[34]Llanco LA, Nakano V, Ferreira CM et al, Brazilian Journal of Microbiology , 2011, 42, 1084. 
+[35]Kalbe C, Marten P, Berg G, Microbiological Research , 1996, 151, 439. 
+[36]Zhang F, Dashti N, Hynes RK et al, Annals of Botany , 1996, 77, 459. 
+[37]Zhang F, Dashti N, Hynes RK et al, Annals of Botany , 1997, 79, 249. 
+[38]Queiroz BPVd, Melo ISd, Brazilian Journal of Microbiology , 2006, 37, 450. 
+[39]Ajithkumar B, Ajithkumar VP, Lriya R et al, International Journal of Systematic and Evolutionar y 
+Microbiology , 2003, 53, 258. 
+[40]Bhadra B, Roy P,Chakraborty R, International Journal of Systematic and Evolutionar y Microbiology , 2005, 55, 
+2158. 
+[41]Hall-Stoodley L, Costerton JW, Stoodley P, Nature Review Microbiology , 2004, 2, 108. 
+[42]Weingand-Ziadé A, Gerber-Décombaz C, Affolter v , Enzyme and Microbial Technology , 2003, 32, 867. 
+[43]Deutch CE, Letters in Applied Microbiology , 2002, 35, 84. 
+[44]Su NW, Lee MH, Journal of Industrial Microbiology and Biotechnolog y, 2001, 26, 258. 
+[45]Lakshmanane P, Bageshwar UK, Gokhman I et al, Protein Expression and Purification , 2003, 28, 157. 
+[46]Inouye K, Kuzuya K,Tonomura BI, Biochimica et Biophysica Acta - Protein Structure a nd Molecular 
+Enzymology , 1998, 1388, 214. 
+[47]Tiwari P, Upadhyay MK, European Journal of Experimental Biology, 2012, 2, 467. Gaurav S. Dave  et al Euro. J. Exp. Bio., 2013, 3(6):351-358         
+___________________________________________________ __________________________  
+358 
+Pelagia Research Library  [48]Oren A, Saline Systems , 2008, 4, 13. 
+[49] Kondepudi KK, Chandra TS, European Journal of Experimental Biology, 2011,1,121. 
+[50]Karan R, Capes MD, Sarma VD, Aquatic Biosystems , 2012, 8, 15. 

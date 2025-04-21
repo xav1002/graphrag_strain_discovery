@@ -1,0 +1,517 @@
+Contents lists available at ScienceDirect
+Bioresource Technology
+journal homepage: www.elsevier.com/locate/biortech
+Salt-tolerance aerobic granular sludge: Formation and microbial community
+characteristics
+Dong Oua, Hui Lia, Wei Lib, Xiao Wua, Yi-qiao Wanga, Yong-di Liua,⁎
+aState Environmental Protection Key Laboratory of Environmental Risk Assessment and Control on Chemical Process, School of Resources and Environmental Engineering,
+East China University of Science and Technology, Shanghai 200237, PR China
+bDepartment of Environmental Engineering, College of Environmental and Resource Science, Zhejiang University, Hangzhou 310058, PR China
+ARTICLE INFO
+Keywords:
+Wastewater treatmentSalt-tolerance aerobic granular sludgeFormationMicrobial communityABSTRACT
+The salt-tolerance aerobic granular sludge (SAGS) dominated by moderately halophilic bacteria was successfully
+cultured in a 9% (w/v) salty, lab-scale sequence batch reactor (SBR) system. In ﬂuence of high salinity (0 –9% w/
+v NaCl) on the formation, performance and microbial succession of the SAGS were explored. Crystal nucleus
+hypothesis, selection pressure hypothesis and compressed double electric layers hypothesis were used to discussthe formation mechanism of SAGS. Notably, salinity could be seen as a kind of selection pressure contributed to
+the formation of SAGS, while salinity also declined the performance of SAGS system. High throughput 16S rRNA
+gene analysis showed that the salinity had great in ﬂuence on the species succession and community structure of
+SAGS. Moreover, Salinicola and Halomonas were dominant at 9% salt concentration, therefore moderate halo-
+philes were identi ﬁed as functional groups for the tolerance of hypersaline stress.
+1. Introduction
+Nowadays salinity is considered as a common stress factor in was-
+tewater treatment plants (WWTPs), especially in industrial sectors, such
+as pickling, cheese manufacturing, seafood processing, tanning and
+pharmaceuticals ( Moussa et al., 2006 ). Physical-chemical methods were
+conventionally used to treat the saline wastewater, while the cost wasparticularly high. Thus, choosing an alternative technology treating
+saline wastewater is urgent.
+The traditional-activated sludge process has been proved to be a
+feasible, cost-e ﬀective treatment for degradation of organic pollutants
+in saline wastewater, which represents as much as 5% of worldwide
+eﬄuent treatment requirements ( Lefebvre et al., 2007). Besides, aerobic
+granular sludge, a promising biological treatment technology, has re-cently received more attention due to its remarkable settling char-
+acteristics, which can result in high sludge concentration and low re-
+actor space ( Abbas et al., 2015; Adav et al., 2008 ).
+In recent years, much e ﬀort has been paid to study the e ﬀect of
+salinity on the performance and microbial community of aerobic
+granular sludge in SBR system ( Lefebvre et al., 2006; Wang et al., 2015;
+Zhao et al., 2016). Besides, with the development of sequencing tech-nique, high-throughput sequencing technology has been used to explore
+microbial communities under various environmental conditions. For
+example, high-throughput sequencing was used to study theperformance and microbial community pro ﬁles in a SBR from 0 wt% to
+3.0 wt% salinity, and found that Actinobacteria was dominant at salinity
+higher than 2.5 wt% ( Zhao et al., 2016 ).Wang et al. (2016) reported
+that salinity had selective e ﬀects on the microbial community structure,
+and salt-resistant microbes contributed to the rising of richness and
+diversity at 2% and 4% NaCl stress. Salinity is known to in ﬂuence the
+degradation rate through the inhibition of microbial activity or enzymeactivity. Besides, with the increase of salinity, the water density cor-
+respondingly increased, causing the adverse e ﬀect on the settling
+characteristics. However, Moussa et al. (2006) reported that gradually
+increase salinity will stimulate the selection of dense ﬂocs with
+minimum washout, and higher salt contents evolved a better settling
+sludge. Therefore, the hypersaline stress may not only shift the domi-
+nated microbial species, especially for some halotolerant bacteria, but
+also in ﬂuence the formation process of granular sludge. In addition, the
+forming characteristics of salt-tolerant granular sludge and microbialcommunity succession with elevated salinity were still unclear.
+In this study, a lab-scale SBR was introduced to explore the per-
+formance, formation and microbial succession of salt-tolerance granular
+sludge respond to hypersaline stress (0 –9% w/v NaCl). The 16S rRNA
+gene high-throughput sequencing was applied to decipher the speciessuccession and community structure of salt-tolerance granular sludge
+and to identify the role of some functional salt-tolerant bacteria in salt-
+tolerance aerobic granular sludge system. The study provided detailed
+http://dx.doi.org/10.1016/j.biortech.2017.07.154
+Received 16 June 2017; Received in revised form 24 July 2017; Accepted 26 July 2017⁎Corresponding author.
+E-mail address: ydliu@ecust.edu.cn (Y.-d. Liu).Bioresource Technology 249 (2018) 132– 138
+Available online 28 July 2017
+0960-8524/ © 2017 Elsevier Ltd. All rights reserved.
+Tinformation of species succession for salt-tolerant granular system from
+0% to 9% (w/v) salinity and a better understanding for the application
+of granular sludge in treating saline wastewater.
+2. Materials and methods
+2.1. Reactor set-up and operation optimization
+A lab-scale SBR was operated for about 160 days, for culturing salt-
+tolerate granular sludge. The system was controlled by a programmable
+logic controller (PLC) and was maintained at room temperature
+(22 ± 2 °C). The reactor was 100 cm height with 8 cm internal dia-
+meter, its working height was 80 cm, so that the height/diameter ratio
+(H/D) was 10. The aeration was introduced by an air pump, and two
+peristaltic pumps were used to drive the in ﬂuent and e ﬄuent water, the
+volumetric exchange ratio (VER) was 50% for each cycle. Every oper-ated cycle of the reactor took 6 h. Generally each cycle included 5 min
+of feeding, 0– 30 min of anaerobic phase, 150– 180 min of aerobic phase,
+3–30 min of settling time and 5 min of e ﬄuent discharge phase. To
+optimize the system performance, the reactor operation parameters
+were adjusted throughout the whole operation process, such as settling
+time, in ﬂuent chemical oxygen demand (COD) and aerobic/anaerobic
+time ( Long et al., 2014 ), and all operation parameters were summarized
+inTable 1.
+2.2. Seed sludge and wastewater composition
+The activated sludge was collected from the recycled sludge of the
+secondary clariﬁ er in the Changqiao municipal wastewater treatment
+plant in Shanghai, China. Then, the inoculated sludge was consisted the
+100 mL anaerobic granular sludge with the aerobic activated sludge.
+The initial mixed liquor suspended solids (MLSS) level was 3.36 g L
+−1
+and the sludge volume index (SVI) was 148.8 mL g−1in the SBR
+system. The glucose was added as carbon source, and the in ﬂuent or-
+ganic concentration was between 1000 and 2500 mg COD L−1. The
+synthetic wastewater was composed of (mg L−1): NH 4Cl (500); KH 2PO4
+(140); CaCl 2(150); MgCl 2(31); and FeSO 4·7H 2O (10). The in ﬂuent pH
+was maintained at 7.0 ± 0.1 by adding 2 M NaHCO 3or HCl solution.
+In addition, 2.5 mL of trace element solution was added into 50 L ofinﬂuent, which contained (in mg L
+−1): H 3BO3(50); ZnCl 2(50); CuCl 2
+(30); MnSO 4·H2O (50); (NH 4)6Mo7O24·4H 2O (50); AlCl 3(50);
+CoCl 2·6H 2O (50); and NiCl 2(50) ( Ren et al., 2008).
+2.3. DNA extraction, high-throughput sequencing and analysis
+Granular sludge was collected at di ﬀerent salt concentrations: 0%,
+3%, 6%, 8% and 9% for DNA extraction. Then, the sludge samples werestored at −80 °C. The 3S DNA Isolation Kit for Environmental Samples
+(Shenergy Biocolor, China) was used to extract DNA according to theprotocol, after extraction, 1% agarose gels electrophoresis was used to
+examine the quality of DNA. The V3-V4 region of the 16s rRNA genewas ampli ﬁed by the bacterial primers 338F (5 ′-ACT CCT ACG GGA
+GGC AGC AG-3 ′) and 806R (5 ′-GGA CTA CHV GGG TWT CTA AT-3 ′),
+and marked by the reverse primer including a 6bp barcode ( Zhao et al.,
+2016 ). The polymerase chain reaction (PCR) was performed in 50 µL
+mixtures containing 25 µL of 2 × taq PCR Mix, 22 µL of ddH
+2O, 1 µL of
+each primer, and 1 µL of template DNA, and the PCR products wereconﬁrmed using electrophoresis through 1% w/w agarose gel. Ampli-
+cons were extracted from 2% agarose gels, puri ﬁed by the AxyPrep
+DNA Gel Extraction Kit (Axygen Biosciences, Union City, CA, USA)
+according to the manufacturer ’s instructions, then quanti ﬁed with
+QuantiFluor ™-ST (Promega, USA). Puri ﬁed amplicons were pooled in
+the equimolar mixture and paired-end sequenced (2 × 250) on an Il-
+lumina MiSeq platform at Major Bio-Pharm Technology CO., Ltd.
+(Shanghai, China) ( Yan et al., 2016). After that, the processing of raw
+data was conducted as previous studies ( Guo et al., 2015; Wang et al.,
+2016 ). Lastly, the raw reads were deposited into the NCBI Sequence
+Read Archive (SRA) database (Access Number: SRX2175355).
+2.4. Analytical methods
+The conventional indexes of COD, MLSS, mixed liquor volatile
+suspended solids (MLVSS), and SVI were analyzed according to the
+Standard Methods.
+3. Results and discussion
+3.1. Performance and formation of SAGS
+The SBR system was operated in three di ﬀerent phases ( Fig. 1 ), and
+the operational conditions of SBR system were listed in Table 1. The
+performance in each phase including MLSS, MLVSS, SVI and removal
+rate was described as follows:
+Phase I (start-up): During the phase I, the in ﬂuent COD concentra-
+tion varied from 1000 to 1800 mg L
+−1as the salinity increased from 0%
+to 3%, the system always showed a high COD removal rate of greaterthan 85%. In case of excessive loss of sludge, the system initially
+maintained the 30 min settling time, so that the MLSS and MLVSS in-
+creased signi ﬁcantly, and the sludge maintained the ﬂocculent mor-
+phology. When salt concentration gradually increased from 2% to 3%,the settling time decreased from 30 min to 15 min to promote the for-
+mation of granular sludge. Moreover, anaerobic time (20 min) was in-
+troduced to inhibit the overgrowth of ﬁlamentous bacteria at 2% salt
+concentration, and with the increase of salinity the anaerobic timeextended to 30 min, which was an e ﬀective way to decrease the dis-
+integration of aerobic granular sludge ( Long et al., 2014 ). The granular
+sludge emerged on day 32, soon after that MLSS and SVI were found to
+reduce considerably due to the wash out of ﬂoc sludge, which was as-
+sociated to the reduce of settling time and the increase of wastewaterdensity caused by salinity.
+Phase II (acclimation under saline stress): The system was continued
+to operate at 4– 6% saline stress, and the settling time further decreased
+Table 1
+Operating conditions and performance of aerobic granular sludge under di ﬀerent salinities.
+Salinity(% w/v)Time(d)Inﬂuent COD
+(mg L
+−1)Eﬄuent COD
+(mg L−1)Removal rate (%) Setting time
+(min/cycle)Anaerobic time(min/cycle)
+00 –14 1000 40 96 30 0
+11 5 –28 1200 36 97 30 0
+22 9 –42 1400 84 94 15 20
+34 3 –56 1800 216 88 15 20
+45 7 –70 2000 500 75 5 30
+57 1 –84 2200 770 65 5 30
+68 5 –98 2500 1150 54 3 30
+79 9 –112 2500 1175 53 3 30
+8 113 –126 2500 1275 49 3 30
+9 126 –140 2500 1250 50 3 30D. Ou et al.
+Bioresource Technology 249 (2018) 132–138
+133to 3– 5 min. With the maturation of granular sludge, the MLSS and
+MLVSS showed little changed in this phase. While the salinity increased
+from 5% to 6%, SVI decreased and MLSS increased sharply. With
+continuous double pressure of salinity and settling time, the granular
+sludge dominated gradually, which accounted for more than 90% in the
+SBR system. Besides, the COD removal rate decreased from 88% to
+54%. As previous reports ( Yogalakshmi and Joseph, 2010; Zhao et al.,
+2016 ), the increase of salinity inhibited the microbial metabolism,
+thereby reduced the degradation ability of SAGS.
+Phase III (elevated salt concentration): However, the salt stress in-
+creasing from 7% to 9% salinity had little in ﬂuence on the removal of
+COD, the system could maintain about 50% removal rate. In this period,the MLSS and MLVSS continuously increased to 6.36 and 5.82 g L
+−1
+respectively, the SVI had no obvious ﬂuctuation and maintained at
+about 54 mL g−1. The SAGS was observed to dominate in SBR system at
+7–9% salinity.
+3.2. Bacterial community analysis
+The high-throughput sequencing technology was applied to explore
+the microbial community structure and characteristics of SAGS re-
+sponding to hypersaline stress. The activated sludge were collected at
+0%, 3%, 6%, 8% and 9% salt concentrations to characterize the mi-
+crobial community, which were labeled as 0, 3, 6, 8 and 9, respectively.
+All samples were collected at the same operation conditions to reduce
+operating errors.
+A total of 175,162 e ﬀective reads (36,697, 31,450, 31,843, 40,789
+and 34,383 for 0%, 3%, 6%, 8% and 9%, respectively) were obtained by
+the MiSeq pyrosequencing from sludge samples at di ﬀerent salt con-
+centration. Each sample was then normalized to 31,450 sequences, thenconducted the downstream analyses to obtain 115(0%), 96(3%),
+82(6%), 66(8%) and 54(9%) operational taxonomic units (OTUs) at
+97% similarity threshold. Rarefaction curve ( Fig. 2) was employed to
+standardize and compare the observed taxon richness among 6 samplesand to verify the representativeness of collected samples ( He et al.,
+2016 ). As shown in Fig. 2, all curves tended to be ﬂat as sequence
+numbers increased, indicating that the sequence volume was reasonableto represent almost microbial community of six sludge samples. This
+could be also con ﬁrmed by the high coverage ( Table 2).
+In addition, the community richness was characterized by Chao
+values and abundance-based coverage estimation (ACE). The results
+showed that 0% sample had the highest species richness. With theincrease of salt concentration, the species richness decreased obviously.
+It may be related to the selection pressure of high salinity, some bac-
+teria were not suitable for high salt conditions, causing the reduction of
+community richness. Moreover, the Shannon and Simpson values were
+used to evaluate the community diversity ( Li et al., 2016 ). Results
+showed that the 6% sample had the highest diversity, afterward, thediversity decreased sharply. The 6% salt concentration seemed to be a
+threshold for microbial diversity, which increased at 0 –6% salinities,
+while decreased due to the higher salt concentration at 7 –9% salinities.
+Venn diagram depicted ( Fig. 3) that only 6.05% of total OTUs were
+the shared OUTs among the six sludge samples, so that the variation ofmicrobial structure happened along with elevated salinities. Some
+bacteria adapting to high salinity grew well and gradually pre-
+dominated in the SBR system, while others without salt-tolerance ca-
+pacity were gradually washed out or weakened with increasing salinity.
+Besides, the prosperity of some halophilic bacteria changed the di-
+versity and richness of microbial community. In addition, the shared
+OTUs between adjacent samples 0% and 3%, 3% and 6%, 6% and 8%,
+8% and 9% were 23.92%, 31.46%, 31.76% and 38.33%, respectively,
+indicating samples from closer salt concentration had more similarities
+in the microbial community composition, and the succession of the
+microbial community was a gradual process.
+Fig. 1. Overall performance of the salt-tolerance granular
+sludge at di ﬀerent phases.
+Fig. 2. Rarefaction curves of OTUs at a dissimilarity of 3% cuto ﬀfor diﬀerent salinity
+samples.D. Ou et al. Bioresource Technology 249 (2018) 132–138
+1343.3. Dynamics and functional groups of the microbial community
+The gene taxonomic analysis for six di ﬀerent salinity samples as-
+signed to phylum, class and genus taxa levels were summarized at
+Fig. 4. As shown in Fig. 4a, the phylum Proteobacteria predominated in
+the whole operating process, which was similar to other microbialcommunity from di ﬀerent environment areas, such as soil ( Roesch
+et al., 2007) and sewage ( Zhang et al., 2012). The second most domi-
+nant phylum was Firmicutes in six sludge samples. Moreover, the re-
+lative abundance of these two phyla was over 98%, and the Proteo-
+bacteria maintained over 80% abundance in all sludge samples. In
+addition, the relative abundance of Firmicutes increased at 0– 6% sali-
+nity and decreased at 6– 9% salinity, but the relative abundance of
+Proteobacteria appeared the opposite trend compared with the abun-
+dance of Firmicutes . The results showed that Proteobacteria had a wider
+range of salinity (0 –9%) compared with the Firmicutes (0–6%) ac-
+cording to its high relative abundance of phylum taxa level in di ﬀerent
+salinity. It was noteworthy that the phyla Proteobacteria and Firmicutes
+were always detected in some adverse environmental conditions ( Li
+et al., 2011; Zhang et al., 2016 ). For example, the phyla Proteobacteria
+and Firmicutes were detected and dominant in all antibiotic containingwater samples ( Li et al., 2011 ).Proteobacteria was also found to dom-
+inate in saline wastewater, and presented the increasing trend frominitial 33.4% to 79.6% and 85.1% when salt concentrations increased
+from 0 to 50 g L
+−1(Zhang et al., 2016 ).
+The taxonomic analysis at the class level was summarized at Fig. 4b.
+The six main classes were detected in all samples, including Gamma-
+proteobacteria ,Bacilli ,Alphaproteobacteria ,Clostridia, Epsilonproteo-
+bacteria and Actinobacteria respectively. Notably, the Gammaproteo-
+bacteria had the highest abundance in class level and was always
+dominant at di ﬀerent salt stages. In addition, the Bacilli accumulated at
+0–6% salinity and its highest abundance was 12.3% at 6% salinity, after
+that, the abundance of Bacilli decreased from 9.1% to 6.2% with the
+salinity increased from 8% to 9%. It was worth noting that Epsilonpro-
+teobacteria was 2.27% abundance at 0% salinity, while it was un-
+detected at 3% salinity. The abundance of Alphaproteobacteria increased
+to 5.4% at 6% salinity and decreased sharply at 8 –9% salinity. It may
+indicate that Bacilli and Alphaproteobacteria could tolerate salinity in
+some extent, when salinity increased more than the tolerance limit of
+these classes, the microbe may be weakened or be washed out from the
+SBR system, which was corresponding with the variation of community
+diversity ( Table 2). And the Gammaproteobacteria seemed to have betterTable 2
+Bacterial diversity of di ﬀerent salinity samples.
+Sample LevelaSequences OTUs ACEbChaobShannoncSimpsondCoveragee
+0 97% 31450 115 121 120 1.15 0.5879 0.999587
+3 31450 96 112 119 1 0.6402 0.999332
+6 31450 82 86 85 2.16 0.195 0.999746
+8 31450 66 76 79 1.47 0.3813 0.999587
+9 31450 54 60 60 0.42 0.851 0.999682
+aDegree of similarity.
+bCommunity richness. A higher number represented more richness.
+cCommunity diversity. A higher number represented more diversity.
+dCommunity diversity. A higher number represented less diversity.
+eSampling depth.
+Fig. 3. Venn diagram for di ﬀerent salinity samples: di ﬀerent color
+represented di ﬀerent salinity of sludge samples.D. Ou et al. Bioresource Technology 249 (2018) 132–138
+135ability to tolerate higher salt stress compared with other main classes.
+Fig. 4c clariﬁ ed the taxonomic analysis of six samples at genus level,
+which could have more detailed information and more profound com-
+prehension on microbial community succession with the elevated salt
+concentration in the SBR system. The dynamic variation of microbial
+distribution during the whole operating process could be clearly seem
+inFig. 4c. The microbial community structures at elevated salinity were
+quite di ﬀerent at genus level, moreover, some genera showed an in-
+creasing or decreasing tendency with elevated salinity. For example,
+thePseudoalteromonas has the highest abundance, 75.8%, at 0% salinity
+and was predominant in the SBR system. While the Pseudoalteromonas
+dropped sharply with the addition of salinity, even the abundance of
+Pseudoalteromonas decreased to 0.003% at 9% salt concentration, which
+could conclude that the Pseudoalteromonas was dramatically a ﬀected by
+higher salinity (8% and 9% salinity). On the contrary, the Salinicola was
+not detected at 0% salinity, while with the increasing salinity, theabundance of Salinicola gradually increased to 2.4%, 33.3%, 59.4% and
+92% at 3%, 6%, 8% and 9% salinity respectively. And the Salinicola
+became the most dominant genus of SAGS at 9% salinity in the SBR
+system. This increasing dynamic change indicated that the Salinicola
+was capable to adapt the hypersaline stress and contributed a lot togranular sludge for the tolerance of salinity. In addition, the Halomonas
+appeared the similar increasing trend with the increase of salinity, and
+dominated in aerobic granular sludge, which was 24% relative abun-
+dance at 6% salt concentration. But with the enhanced salinity, the
+abundance of the Halomonas dropped from 6.83% to 0.1% at 8– 9%
+salinity. The Bacillus was always existed in all sludge samples during the
+whole process with the increase of salinity, and the abundance of this
+genus was 3.88%, 8.38%, 7.34%, 5.2% and 4.7% respectively along
+with the increasing salinity, indicating that the Bacillus could adapt the
+wide range of salt concentration (0 –9%). Bacillus, Pseudoalteromonas,
+Halomonas and other halophilic microorganisms were often isolated
+from di ﬀerent saline environments and some di ﬀerent strains even
+belonged to the same genus ( Zhuang et al., 2010 ).
+From the microbial functional groups perspective, the existence of
+some halophilic or halotolerant bacteria made aerobic granular sludge
+adapt to live and thrive in hypersaline stress. Moreover, saline condi-
+tions could stimulate bacteria produce more extracellular polymeric
+substances (EPS) to protect themselves from adverse environment. With
+the increase of salinity step by step, an aerobic granular sludge system
+dominated by moderately halophilic genera was gradually formed withincreasing relative abundance of Salinicola andHalomonas. Besides, the
+Salinicola and Halomonas was the member of the family
+Halomonadaceae, which showed a remarkable versatility with respectto their salt tolerance ( Vargas and Nieto, 2004 ).de la Haba et al. (2010)
+found that the Salinicola socius DSM 19940
+Tgrew optimally in media
+containing 3– 10% NaCl and Halomonas salaria DSM 18044Tgrew op-
+timally in media containing 10– 20% NaCl. The phylogenetic tree
+(Fig. 5) showed that Salinicola and Halomonas constituted a coherent
+cluster, which indicated that these two genera were phylogeneticallyclosely related and had same salt-tolerant function.
+Moreover, some researchers studied the e ﬀect of salinity on mi-
+crobial community at the range of 0– 5% salt concentration, or detected
+the microbial community using two or three di ﬀerent salinity level of
+sludge samples ( Ramos et al., 2015; Zhang et al., 2016; Zhao et al.,
+2016 ). In this study, the wider range of salinity level (0 –9%) and the
+strategy of stepped increased of salinity provided more detailed mi-
+crobial succession information of SAGS, and demonstrated the stepped
+increase of the relative abundance of Salinicola with the increase of
+salinity.
+3.4. Formation mechanism of SAGS
+The formation of salt-tolerant granular could be explained as fol-
+lowing 3 mechanisms:(1) Crystal nucleus hypothesis considered the
+formation of granular sludge started with some nucleuses, which in-
+oculated aerobic (anaerobic) granules, inorganic material or some in-
+organic salt into SBR system as a crystal nucleus, aerobic granular
+sludge will gradually form through microbial growth with the help of a
+nucleus ( Long et al., 2014 ). The nuclei of granular activated carbon
+provided the supporting media for sludge to attach and enhance themorphological regularization of sludge ( Tao et al., 2017 ).Verawaty
+et al. (2012) also found that ﬂocs were observed to attach to the surface
+of the seeding granules, resulting in reduced biomass washout during
+granulation. In such experiment, the addition of anaerobic granules
+provided the sludge for strong support medium in the initial start-upphase. On the basis of the anaerobic nucleus, young granules gradually
+formed with the growth of microbes. (2) Selection pressure hypothesis
+could be separated as hydraulic selection pressure and biological se-
+lection pressure, which was widely used to optimize the operation
+parameters of reactor and to explain the formation of aerobic granular
+sludge. In such experiment, one selection pressure was the settling time,
+Fig. 4. Analysis of microbial diversity at di ﬀerent taxo-
+nomic level for di ﬀerent salinity samples: phylum (a); class
+(b); genus (c).D. Ou et al. Bioresource Technology 249 (2018) 132–138
+136which was considered as a successful strategy for the rapid start-up of
+aerobic granular reactors ( Szabó et al., 2016). Su et al. (2013) also
+suggested that automatically adjusted of settling time was an optimumcontrolling strategy for granulation process. When settling time con-
+tinuously decreased from 30 min to 3 min, young granules were pushed
+to adhere more focs and ﬂocs were pushed to get together to obtain
+enough weight, so that the lighter ﬂocs were washed out and the en-
+ough heavy young granules accumulated in the system. It was worth
+noting that the other selection pressure was salt concentration, which
+can be seen not only as hydraulic selection pressure but also as biolo-
+gical selection pressure. As a hydraulic selection pressure, with stepped
+increase of salt concentration from 0% to 9%, synthetic wastewater
+density correspondingly increased, resulting only bigger ﬂocs or young
+granules could stay in the SBR system, which could be seen as the en-hancement of the function of decreased settling time. Moussa et al.
+(2006) also found that the settling time were chosen to allow only
+granules to retain, and density played a similar role in systems under
+salt stress. As a biological selection pressure, elevated salinity pushed
+the SBR system to alter the microbial community to adapt hypersaline
+stress. Under high salt concentration (> 1 wt% salinity), the increase of
+salinity resulted in an increase of the halotolerant bacteria, and the
+microbial community could express di ﬀerent tolerance levels to such a
+biological selection pressure of salinity ( Lim et al., 2007). The result of
+salinity selection pressure was that some adapted bacteria was capableof salt tolerance, while other unadaptable bacteria was granularly wa-
+shed out or weakened with increasing salinity. (3) As described by the
+DLVO theory, the double layer becomes compressed at high ionic
+strength, reducing the surface potential, but keeping the surface charge
+density constant ( Esparza-Soto and Westerho ﬀ, 2003 ). The increase of
+salt concentration from 0% to 9% resulted in compressing the doublelayers, reducing the total repulsive forces between di ﬀerent zoogleas,
+and improved the mature of young granules. In addition, the combi-nation of electrostatic and hydrophobic interactions with the ﬂocs in-
+creased the ﬂock size ( Moussa et al., 2006 ).Li et al. (2017) found thatthe addition of seawater signi ﬁcantly accelerated the granulation pro-
+cess compared with freshwater and a salinity-induced decrease in
+electrostatic charge on the surface of cells allowed sludge ﬂocculation.
+Thereby, it was bene ﬁcial for the aggregation of ﬂocs and the ma-
+turation of salt-tolerant granular sludge.
+In summary, the strong support material of anaerobic granules
+stated the formation process of young granules. With the double se-
+lection pressure of settling time and salinity, young granules gradually
+accumulated in SBR system, and the halophilic microorganisms en-
+riched as the corresponding to the high saline stress. Meanwhile, the
+aerobic granular sludge gradually transited from the young stage to
+mature stage with the combination of electrostatic and hydrophobic
+interactions. Finally, the salt-tolerant granular sludge was successfully
+cultivated in response to the hypersaline stress.
+4. Conclusion
+The salt-tolerance aerobic granular sludge dominated by moderately
+halophilic genera was successfully cultivated in SBR system, and it
+could tolerate 9% saline concentration. Crystal nucleus hypothesis,
+selection pressure hypothesis and compressed double electric layers
+hypothesis were used to explain the formation of salt-tolerant granular
+sludge. Notably, salinity contributed a lot to the formation and the
+microbial community structure of SAGS, while it declined the perfor-
+mance of SAGS system. Sequence analysis showed halophilic bacteriaobviously increased corresponding to the increased salinity. In detail,
+Salinicola and Halomonas were gradually dominant and considered as
+the functional groups for the tolerance of hypersaline stress.
+Acknowledgement
+This work was ﬁnancially supported by the National Natural Science
+Foundation
+of China (51578240, 51378208, and 41273109), the
+National Key Research and Development Plan (2016YFC0206200),
+Fig. 5. Phylogenetic tree based on the relative abundance of
+the top of 100 OTUs in all sludge samples at genus level:
+diﬀerent color represented di ﬀerent phylum levels of 100
+OTUs.D. Ou et al. Bioresource Technology 249 (2018) 132–138
+137Open Foundation of State Key Laboratory of Environmental Criteria and
+Risk Assessment, Chinese Research Academy of Environmental Sciences
+(SKLECRA2016OFP19), the Fok Ying Tung Education Foundation
+(141077), the Innovation Program of the Shanghai Municipal
+Education Commission (14ZZ059), Fundamental Research Funds for
+the Central Universities (WB1516015, WB1616012). We would like to
+thank the anonymous referees for their helpful comments regarding this
+paper.
+Appendix A. Supplementary data
+Supplementary data associated with this article can be found, in the
+online version, at http://dx.doi.org/10.1016/j.biortech.2017.07.154 .
+References
+Abbas, G., Wang, L., Li, W., Zhang, M., Zheng, P., 2015. Kinetics of nitrogen removal in
+pilot-scale internal-loop airlift bio-particle reactor for simultaneous partial nitriﬁ ca-
+tion and anaerobic ammonia oxidation. Ecol. Eng. 74, 356 –363.
+Adav, S.S., Lee, D.-J., Show, K.-Y., Tay, J.-H., 2008. Aerobic granular sludge: Recent
+advances. Biotechnol. Adv. 26 (5), 411 –423.
+de la Haba, R.R., Sanchez-Porro, C., Marquez, M.C., Ventosa, A., 2010. Taxonomic study
+of the genus salinicola: transfer of halomonas salaria and chromohalobacter salarius
+to the genus salinicola as salinicola salarius comb. nov and salinicola halophilus nom.
+nov., respectively. Int. J. Syst. Evol. Microbiol. 60, 963 –971.
+Esparza-Soto, M., Westerho ﬀ, P., 2003. Biosorption of humic and fulvic acids to live
+activated sludge biomass. Water Res. 37 (10), 2301 –2310 .
+Guo, X., Miao, Y., Wu, B., Ye, L., Yu, H., Liu, S., Zhang, X.-X., 2015. Correlation between
+microbial community structure and biofouling as determined by analysis of microbialcommunity dynamics. Bioresour. Technol. 197, 99 –105.
+He, Q., Zhou, J., Wang, H., Zhang, J., Wei, L., 2016. Microbial population dynamics
+during sludge granulation in an A/O/A sequencing batch reactor. Bioresour. Technol.214, 1 –8.
+Lefebvre, O., Quentin, S., Torrijos, M., Godon, J.J., Delgenès, J.P., Moletta, R., 2007.
+Impact of increasing NaCl concentrations on the performance and community com-
+position of two anaerobic reactors. Appl. Microbiol. Biotechnol. 75 (1), 61 –69.
+Lefebvre, O., Vasudevan, N., Thanasekaran, K., Moletta, R., Godon, J.J., 2006. Microbial
+diversity in hypersaline wastewater: the example of tanneries. Extremophiles 10 (6),505 –513.
+Li, D., Qi, R., Yang, M., Zhang, Y., Yu, T., 2011. Bacterial community characteristics under
+long-term antibiotic selection pressures. Water Res. 45 (18), 6063 –6073 .
+Li, W., Shan, X.Y., Wang, Z.Y., Lin, X.Y., Li, C.X., Cai, C.Y., Abbas, G., Zhang, M., Shen,
+L.D., Hu, Z.Q., Zhao, H.P., Zheng, P., 2016. E ﬀect of self-alkalization on nitrite ac-
+cumulation in a high-rate denitri ﬁcation system: performance, micro ﬂora and en-
+zymatic activities. Water Res. 88, 758 –765.
+Li, X., Luo, J., Guo, G., Mackey, H.R., Hao, T., Chen, G., 2017. Seawater-based wastewater
+accelerates development of aerobic granular sludge: A laboratory proof-of-concept.Water Res. 115, 210 –219.
+Lim, J.-M., Jeon, C.O., Lee, S.S., Park, D.-J., Xu, L.-H., Jiang, C.-L., Kim, C.-J., 2008.
+Reclassi ﬁcation of salegentibacter catena Ying, et al. 2007 as salinimicrobium catena
+gen. nov., comb. nov. and description of salinimicrobium xinjiangense sp. nov., a
+halophilic bacterium isolated from Xinjiang province in China. Int. J. Syst. Evol.Microbiol. 58 (2), 438 –442.
+Long, B., Yang, C.-Z., Pu, W.-H., Yang, J.-K., Jiang, G.-S., Dan, J.-F., Li, C.-Y., Liu, F.-B.,
+2014. Rapid cultivation of aerobic granular sludge in a pilot scale sequencing batchreactor. Bioresour. Technol. 166, 57 –63.
+Moussa, M.S., Sumanasekera, D.U., Ibrahim, S.H., Lubberding, H.J., Hooijmans, C.M.,
+Gijzen, H.J., van Loosdrecht, M.C.M., 2006. Long term e ﬀects of salt on activity,
+population structure and ﬂoc characteristics in enriched bacterial cultures of ni-
+triﬁers. Water Res. 40 (7), 1377 –1388 .
+Ramos,
+C., Suarez-Ojeda, M.E., Carrera, J., 2015. Long-term impact of salinity on the
+performance and microbial population of an aerobic granular reactor treating a high-strength aromatic wastewater. Bioresour. Technol. 198, 844 –851.
+Ren, T.-T., Liu, L., Sheng, G.-P., Liu, X.-W., Yu, H.-Q., Zhang, M.-C., Zhu, J.-R., 2008.
+Calcium spatial distribution in aerobic granules and its e ﬀects on granule structure,
+strength and bioactivity. Water Res. 42 (13), 3343 –3352 .
+Roesch, L.F., Fulthorpe, R.R., Riva, A., Casella, G., Hadwin, A.K., Kent, A.D., Daroub, S.H.,
+Camargo, F.A., Farmerie, W.G., Triplett, E.W., 2007. Pyrosequencing enumerates and
+contrasts soil microbial diversity. ISME J. 1 (4), 283 –290.
+Su, K.Z., Ni, B.J., Yu, H.Q., 2013. Modeling and optimization of granulation process of
+activated sludge in sequencing batch reactors. Biotechnol. Bioeng. 110 (5),1312 –1322 .
+Szabó, E., Hermansson, M., Modin, O., Persson, F., Wilén, B.M., 2016. E ﬀects of wash-out
+dynamics on nitrifying bacteria in aerobic granular sludge during start-up at gradu-
+ally decreased settling time. Water 8 (5), 172 .
+Tao, J., Qin, L., Liu, X., Li, B., Chen, J., You, J., Shen, Y., Chen, X., 2017. E ﬀect of granular
+activated carbon on the aerobic granulation of sludge and its mechanism. Bioresour.Technol. 236, 60 –67.
+Vargas, C., Nieto, J.J., 2004. Genetic tools for the manipulation of moderately halophilic
+bacteria of the family halomonadaceae. Methods Mol. Biol. 267, 183 –208.
+Verawaty, M., Pijuan, M., Yuan, Z., Bond, P.L., 2012. Determining the mechanisms for
+aerobic granulation from mixed seed of ﬂoccular and crushed granules in activated
+sludge wastewater treatment. Water Res. 46 (3), 761 –771.
+Wang, Z., Luo, G., Li, J., Chen, S.-Y., Li, Y., Li, W.-T., Li, A.-M., 2016. Response of per-
+formance and ammonia oxidizing bacteria community to high salinity stress in
+membrane bioreactor with elevated ammonia loading. Bioresour. Technol. 216,
+714 –721.
+Wang, Z.C., Gao, M.C., Ren, Y., Wang, Z., She, Z.L., Jin, C.J., Chang, Q.B., Sun, C.Q.,
+Zhang, J., Yang, N., 2015. E ﬀect of hydraulic retention time on performance of an
+anoxic –aerobic sequencing batch reactor treating saline wastewater. Int. J. Environ.
+Sci. Technol. 12 (6), 2043 –2054 .
+Yan, L., Zhang, S., Hao, G., Zhang, X., Ren, Y., Wen, Y., Guo, Y., Zhang, Y., 2016.
+Simultaneous nitri ﬁcation and denitri ﬁcation by EPSs in aerobic granular sludge
+enhanced nitrogen removal of ammonium-nitrogen-rich wastewater. Bioresour.Technol. 202, 101 –106.
+Yogalakshmi, K.N., Joseph, K., 2010. E ﬀect of transient sodium chloride shock loads on
+the performance of submerged membrane bioreactor. Bioresour. Technol. 101 (18),
+7054 –7061 .
+Zhang, T., Shao, M.-F., Ye, L., 2012. 454 Pyrosequencing reveals bacterial diversity of
+activated sludge from 14 sewage treatment plants. ISME J. 6 (6), 1137 –1147 .
+Zhang, Y., Li, B., Xu, R.-X., Wang, G.-X., Zhou, Y., Xie, B., 2016. E ﬀects of pressurized
+aeration on organic degradation e ﬃciency
+and bacterial community structure of
+activated sludge treating saline wastewater. Bioresour. Technol. 222, 182 –189.
+Zhao, Y., Park, H.-D., Park, J.-H., Zhang, F., Chen, C., Li, X., Zhao, D., Zhao, F., 2016.
+Eﬀect of di ﬀerent salinity adaptation on the performance and microbial community
+in a sequencing batch reactor. Bioresour. Technol. 216, 808 –816.
+Zhuang, X.L., Han, Z., Bai, Z.H., Zhuang, G.Q., Hojae, S., 2010. Progress in decontami-
+nation by halophilic microorganisms in saline wastewater and soil. Environ. Pollut.
+158 (5), 1119 –1126 .D. Ou et al. Bioresource Technology 249 (2018) 132–138
+138

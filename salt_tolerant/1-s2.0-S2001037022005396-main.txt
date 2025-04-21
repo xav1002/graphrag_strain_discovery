@@ -1,0 +1,1045 @@
+Mini review
+Rhizosphere microbes enhance plant salt tolerance: Toward crop
+production in saline soil
+Yunpeng Liua, Weibing Xunb, Lin Chenc, Zhihui Xub, Nan Zhangb, Haichao Fengb, Qiang Zhangd,
+Ruifu Zhanga,b,⇑
+aKey Laboratory of Microbial Resources Collection and Preservation, Ministry of Agriculture and Rural Affairs, Institute of Agricultural Resource s and Regional Planning,
+Chinese Academy of Agricultural Sciences, Beijing 100081, PR China
+bJiangsu Provincial Key Lab for Organic Solid Waste Utilization, National Engineering Research Center for Organic-based Fertilizers, Jiangsu Coll aborative Innovation Center for
+Solid Organic Waste Resource Utilization, Nanjing Agricultural University, Nanjing 210095, PR China
+cExperimental Center of Forestry in North China, Chinese Academy of Forestry, Beijing 102300, PR China
+dHeze Kingenta Ecological Engineering Co., Ltd, Heze, Shandong 274000, PR China
+article info
+Article history:
+Received 31 July 2022
+Received in revised form 22 November 2022Accepted 22 November 2022Available online 25 November 2022
+Keywords:
+Plant salt toleranceRhizosphere microbeSaline soilMicrobe-enhanced salt tolerancemechanismsabstract
+The world’s population continues to increase and thus requires more food production to take place in
+nonarable land, such as saline soil; therefore, it is urgent to ﬁnd solutions to enhance the salinity toler-ance of crops. As the second genome of plants, the rhizosphere microbiome plays critical roles in plant
+ﬁtness under stress conditions. Many beneﬁcial microbes that help plants cope with salinity stress have
+been identiﬁed, highlighting their roles in mitigating salt stress-induced negative effects on plants.However, a comprehensive review of the microbial species that are able to confer plant salt tolerance
+and the underlying mechanisms is still lacking. In this review, we compared the representative fungal
+and bacterial taxa that demonstrate the ability to enhance plant growth in saline soil. We also reviewedthe mechanisms by which rhizosphere microbes enhance plant salt stress tolerance, i.e., by re-establishing ion and osmotic homeostasis, preventing damage to plant cells, and resuming plant growth
+under salt stress. Finally, future research efforts to explore the rhizosphere microbiome for agricultural
+sustainability are proposed.
+/C2112022 The Author(s). Published by Elsevier B.V. on behalf of Research Network of Computational and
+Structural Biotechnology. This is an open access article under the CC BY license ( http://creativecommons.
+org/licenses/by/4.0/ ).
+Contents
+1. Introduction . . . ..................................................................................................... 6544
+2. Microbial taxa enhancing plant tolerance to salt stress . . . . . . ............................................................... 6544
+2.1. Arbuscular mycorrhizal fungi (AMF) . . . . . . . ........................................................................ 6544
+2.2. Trichoderma spp. . . . . . . . ........................................................................................ 6544
+2.3. Serendipita indica (formerly Piriformospora indica ) .................................................................... 6544
+2.4. Enterobacter spp. . . . . . . . ........................................................................................ 6545
+2.5. Bacillus spp. . . . . . . . . . . . ........................................................................................ 6545
+2.6. Pseudomonas spp. . . . . . . ........................................................................................ 6545
+3. Mechanisms by which microbes enhance plant salt tolerance . ............................................................... 6545
+3.1. Re-establishing ion and osmotic homeostasis ........................................................................ 6545
+3.1.1. Ion balance . . . . . . . . . . . . . . . ............................................................................. 6545
+3.1.2. Osmotic balance . . . . . . . . . . . ............................................................................. 6546
+3.2. Preventing damage to plant cells . . . . . . . . . . . . . . . . . . .......................................................... 6547
+3.3. Resuming plant growth under salt stress . . . . . . . . . . . .......................................................... 6547
+https://doi.org/10.1016/j.csbj.2022.11.046
+2001-0370/ /C2112022 The Author(s). Published by Elsevier B.V. on behalf of Research Network of Computational and Structural Biotechnology.
+This is an open access article under the CC BY license ( http://creativecommons.org/licenses/by/4.0/ ).⇑Corresponding author at: Key Laboratory of Microbial Resources Collection and Preservation, Ministry of Agriculture and Rural Affairs, Institute of Agricultural Resources
+and Regional Planning, Chinese Academy of Agricultural Sciences, Beijing 100081, PR China.
+E-mail address: rfzhang@njau.edu.cn (R. Zhang).Computational and Structural Biotechnology Journal 20 (2022) 6543–6551
+journal homepag e: www.elsevier.c om/locate/csbj
+4. Summary and perspective . . . . . . . . . . . .................................................................................. 6548
+CRediT authorship contribution statement . . . . . . . . . . . . . . . . . . ............................................................... 6549
+Declaration of Competing Interest . . . . .................................................................................. 6549
+Appendix A. Supplementary data . . . . . . . .................................................................................. 6549
+References . . . . ..................................................................................................... 6549
+1. Introduction
+Agricultural production worldwide is facing the challenge of
+increasing population size. Food production is increasingly
+restricted by limited cultivated land due to soil degradation issues,
+such as salinization. Saline soil accounts for 6 % of the world’s total
+land area and is a severe hindrance to agricultural production [1].
+Most domesticated crops are salt sensitive and cannot be culti-
+vated in saline soil [2]. Currently, the increasing food demand of
+global populations makes ﬁnding a solution to enhance crop toler-
+ance to salinity more urgent.
+As the functions of rhizosphere microbes in plant ﬁtness have
+been recognized [3], many beneﬁcial microbes that help plants
+cope with salinity stress have been isolated and reapplied to the
+soil to enhance crop production in saline soil. These microbes can
+be used in different ways; the common method is to make micro-
+bial fertilizers or microbial agents [4,5] , which can be applied to
+the soil directly or combined with chemical or organic fertilizers.
+In addition, some strains can be coated on crop seeds before sow-
+ing[6]. Their efﬁciency in increasing plant growth or promoting
+seed germination under saline conditions has been shown, indicat-
+ing a role in the mitigation of salt stress-induced negative effects
+on plants. The plant salt tolerance induced by some microbial
+groups, such as bacterial endophytes [7], the halophyte micro-
+biome [8], microbial 1-aminocyclopropane-1-carboxylic acid
+(ACC) deaminase [9]or microbial coinoculation [10], has been
+reviewed, as well as the microbial metabolites responsible for
+enhancing plant salt tolerance [11]. However, a comprehensive
+comparison of the microbial species that are able to confer plant
+salt tolerance and the underlying mechanisms is still lacking.
+Here, we reviewed the fungal and bacterial isolates with clear
+evidence of promoting plant growth or seed germination under
+saline stress. Speciﬁcally, we discussed the challenges for the agri-
+cultural application of each kind of microbial inoculant. We also
+summarized the mechanisms by which microbes enhance plant
+tolerance to salt stress. The salt stress signaling and tolerance
+mechanism of plants have been well reviewed [2,12–18] and will
+not be included in this review.
+2. Microbial taxa enhancing plant tolerance to salt stress
+2.1. Arbuscular mycorrhizal fungi (AMF)
+AMF are well-known beneﬁcial fungi belonging to the phylum
+Glomeromycota that have close symbiotic interactions with their
+host plants. The main function of AM symbiosis seems to be assist-
+ing plants with nutrient uptake by extending the active absorption
+area of roots [10,19] . Several studies have also demonstrated the
+effect of AMF on plant productivity under salt stress. AMF, includ-
+ing the genera Glomus ,Funneliformis ,Septoglomus ,Gigaspora ,Acau-
+lospora ,Claroideoglomus , and Rhizophagus (Funneliformis ,
+Claroideoglomus and Rhizophagus used to belong to Glomus ), have
+shown the capability to enhance plant salt tolerance ( Table S1 ).
+The plants that showed enhanced production under saline stress
+upon AMF inoculation include lettuce (up to 80 mM NaCl) [20],
+maize (up to 100 mM NaCl) [21], wheat (up to 200 mM NaCl)
+[22], rice (up to 120 mM NaCl) [23] and some leguminous (up to
+200 mM NaCl) [24] and woody plants ( Table S1 ). The characteris-tics and advances of AMF in mitigating plant salt stress include
+integrity with signiﬁcantly enhanced plant nutrient uptake, such
+as nitrogen (N) and potassium (K), especially phosphorus (P)
+[25]. AMF-induced plant salt tolerance is always correlated with
+phosphorus, which plays an important role in photosynthesis to
+supply energy for the stress response [26]. However, the symbiosis
+of AMF with plants is negatively affected by salt stress because
+AMF are not salt tolerant, which has been conﬁrmed by several
+studies [25,27–30] . Pandey et al. [31] found that native AMF iso-
+lated from saline soil are more effective in mitigating the negative
+effect of salt stress on Cajanus cajan , suggesting that the salt toler-
+ance of AMF themselves is also a limiting factor for performance
+under salt stress.
+2.2. Trichoderma spp.
+Trichoderma spp. are free-living soil ﬁlamentous fungi that are
+beneﬁcial to plants [32].Trichoderma strains are nonsymbiotic,
+while some strains can infect root outer cells [32].Trichoderma
+has diverse beneﬁcial functions for plants, such as enhancing plant
+stress resistance and promoting plant growth. T. harzianum, T.
+virens, T. atroviride, T. asperelloides, T. longibrachiatum, T. yunna-
+nense, and T. afroharzianum have shown the ability to promote seed
+germination and plant growth of Arabidopsis (up to 100 mM NaCl)
+[33],cucumber (up to 200 mM NaCl) [34],wheat (up to 200 mM
+NaCl) [6]and barley (up to 200 mM NaCl) [35] under salt stress
+(Table S1 ). These strains promoted root development and affected
+root system architecture. In addition, most Trichoderma strains iso-
+lated from soil are efﬁcient decomposers of dead plant residues
+that drive soil carbon cycling and plant growth [32].Trichoderma
+strains are not an outstanding microbial group regarding salt toler-
+ance when compared with some bacterial strains, such as Bacillus
+spp. and Enterobacter spp. Contreras-Cornejo et al. [36] demon-
+strated that 200 mM NaCl signiﬁcantly inhibited the hyphal
+growth of T. virens and T. atroviride . Zhang et al. [37] found similar
+results that 30 mg/mL NaCl inhibited the growth of Trichoderma
+longibrachiatum T6. Therefore, both salt tolerance for itself and
+plant salt tolerance enhancement are necessary for the successful
+cultivation of a good functional Trichoderma isolate in saline soil.
+2.3. Serendipita indica (formerly Piriformospora indica)
+Piriformospora indica is a natural soil-inhabiting ﬁlamentous
+fungus that promotes plant growth upon symbiosis. P. indica is
+an endophyte for a broad range of host plants (Franken 2012). It
+was ﬁrst isolated from an AMF spore by Verma et al. in 1998. How-
+ever, unlike AMF, P. indica can be cultivated on deﬁned media. Sev-
+eral reviews have concluded the beneﬁcial effects of P. indica on
+plants [10,38–40] . In recent years, P. indica has shown impressive
+potential in mitigating salt stress in Arabidopsis (up to 200 mM
+NaCl) [41],rice(up to 300 mM NaCl) [42],barley (up to 300 mM
+NaCl) [43] and tomato (up to 150 mM NaCl) [44] (Table S1 ). Lanza
+et al. [45] demonstrated that free-living P. indica is sensitive to salt;
+it can only tolerate up to 100 mM NaCl, and hyphal growth was sig-
+niﬁcantly inhibited due to the toxic effect of Na+rather than osmo-
+tic stress. Interestingly, Vahabi et al. [41] demonstrated that the
+growth promotion of Arabidopsis seedlings under salt stress isY. Liu, W. Xun, L. Chen et al. Computational and Structural Biotechnology Journal 20 (2022) 6543–6551
+6544strongly dependent on physical contact between the two
+symbionts.
+2.4. Enterobacter spp.
+The speciﬁc role of Enterobacter spp. as beneﬁcial endophytes in
+enhancing plant salt tolerance has been demonstrated in their
+interactions with Arabidopsis (up to 200 mM NaCl) [46],rice(up
+to 150 mM NaCl) [47],wheat (up to 200 mM NaCl) [48],maize
+(electrical conductivity (EC) up to 13.6 dS/m) [49],tomato (up to
+200 mM NaCl) [46],mung bean (1 % NaCl) [50],okra (75 mM NaCl)
+[51] and quinoa (400 mM NaCl) [52] (Table S1 ).Enterobacter spp.
+were ﬁrst recognized as beneﬁcial plant bacteria due to ACC deam-
+inase activity [53].Enterobacter sp. SA187 is a well-studied isolate
+that promotes plant growth under salt stress. It seems that the
+modulation of ethylene signaling in plants plays a key role in
+SA187-induced salt tolerance [54]. Ali et al. [55] demonstrated that
+E. cloacae PM2 can survive under salinity stress of up to 3 M NaCl in
+Luria-Bertani (LB) medium. However, the careful selection of plant-
+safe strains is necessary given that members of the Enterobacter
+genus are generally known as opportunistic pathogens of plants
+and humans [56].
+2.5. Bacillus spp.
+Bacillus spp. are gram-positive spore-forming bacteria from the
+phylum Firmicutes and represent the most widely used and well-
+studied bacteria in agricultural production. Most of the Bacillus
+strains that are beneﬁcial to plants belong to the subtilis subgroup.
+These bacteria are generally root surface colonizers or root endo-
+phytes that exert diverse plant beneﬁcial functions. Bacillus spp.
+have been reported to induce salt tolerance in Arabidopsis (up to
+250 mM NaCl) [57,58] ,maize (up to 100 mM NaCl) [59],barley
+(up to 200 mM NaCl) [60],rice(up to 200 mM NaCl) [61], wheat
+(up to 400 mM NaCl) [62], tomato (up to 300 mM NaCl) [63], chick-
+pea (2 % NaCl) [64], cotton (up to 200 mM NaCl) [65], soybean (up
+to 240 mM NaCl) [66] and some halophytes ( Table S1 ).Bacillus can
+tolerate high salt concentrations and form stress-tolerant spores
+when exposed to adverse environments [55]. The feature of spore
+formation greatly increases bacterial survival in soil.
+2.6. Pseudomonas spp.
+Pseudomonas spp. are gram-negative bacteria from the phylum
+Proteobacteria and represent one of the most abundant rhizobacte-
+rial groups. The species enhancing plant salt tolerance include P.
+putida, P. simiae, P. syringae, P. ﬂuorescens, P. migulae, P. thivervalen-
+sis, P. geniculate, P. corrugate, P. stutzeri, P. chlororaphis, P. extremori-
+entalis, P. extremorientalis, P. aurantiaca and P. chlororaphis .
+Arabidopsis (up to 200 mM NaCl) [67],maize (up to 150 mM NaCl)
+[68],wheat (up to 200 mM NaCl) [69],cotton (0.35 % NaCl) [70],cu-
+cumber (100 mM NaCl) [71],peanut (100 mM NaCl) [72],soybean
+(100 mM NaCl) [73,74] ,tomato (up to 185 mM NaCl) [75],sun-
+ﬂower (EC up to 15.9 dS/m) [76],oats and barley (EC up to 9.4 dS/
+m)[77] have shown elevated growth under salt stress upon inocu-
+lation with Pseudomonas spp. ( Table S1 ).Pseudomonas is a naturally
+highly abundant bacterial group in the rhizosphere, suggesting
+that Pseudomonas is adapted to the rhizosphere and may perform
+well in colonizing roots and thus enhancing plant salt tolerance.
+However, as nonspore-forming bacteria, the relatively low survival
+rate of microbial fertilizers or microbial agents during the process
+of production and storage may be disadvantageous for their appli-
+cation in agriculture.3. Mechanisms by which microbes enhance plant salt tolerance
+High salinity is a complex type of stress for plants. On the one
+hand, high amounts of Na+and Cl/C0in the cytoplasm (mainly
+Na+) are directly toxic to cells, as they interfere with many protein
+functions, thus inﬂuencing cell physiology [2,16] . On the other
+hand, high salt concentrations in soil lead to hyperosmotic stress
+in plant cells and subsequent difﬁculty in acquiring water and soil
+nutrients [2,16] . Both direct ion stress and osmotic stress can be
+sensed immediately after plants are exposed to high-salinity con-
+ditions. After perceiving the primary signal, secondary signals, suchas Ca
+2+, ROS and ABA, are generated to induce stress-responsive
+genes [18]. However, if ROS accumulate, the cells are damaged,
+and programmed cell death is initiated. ABA accumulation induces
+stomatal closure to reduce transpiration, which also reduces water
+use efﬁciency (WUE) and CO 2use efﬁciency (CUE). To counter the
+negative effects of Na+and ROS causing cell damage and reducing
+WUE and CUE, plants must produce more ROS-scavenging
+enzymes, transport Na+into vacuoles, and produce osmolytes,
+which are costly with regard to energy, thereby leading to growth
+inhibition [1,13,17,18] .
+The NaCl tolerance of microbes far exceeds the salt tolerance of
+plants. Microbes can concentrate compatible solutes to protect
+against the osmotic imbalance between the cytoplasm and the
+environment and express diverse Na+transporters to reduce cyto-
+plasmic Na+concentrations. In addition to tolerating high salinity,
+many fungal and bacterial strains can enhance plant tolerance to
+salinity and mitigate the salt stress-induced inhibition of plant
+growth. Resuming growth under stress conditions is risky because
+growth inhibition by stress physiology is actually an energy trade-
+off with tolerance [16]. Nevertheless, microbes have multiple
+effects on plant ion and osmotic balance, ROS regulation and
+detoxiﬁcation, and photosynthesis. These processes are interre-
+lated and ultimately promote plant growth under salt stress via
+three mechanisms: re-establishing ion and osmotic homeostasis,
+preventing damage to plant cells, and resuming plant growth
+under salt stress ( Fig. 1 ).
+3.1. Re-establishing ion and osmotic homeostasis
+3.1.1. Ion balance
+The accumulation of Na+in the plant cytoplasm is toxic to plant
+cells. Na+competes with other ions to bind proteins, which leads to
+the inactivation of enzymes. Na+also inhibits the uptake of K+and
+other ions due to the impact of ion balance between the two sides
+of the cytoplasmic membrane. Therefore, the accumulation of Na+
+in the cytoplasm must be reduced, and the ion balance must be re-
+established for roots to acquire other ions.
+To counter the high Na+concentration in the environment,
+plants need to reduce Na+inﬂux through the plasma membrane,
+which is mediated by the high-afﬁnity K+channel (HKT)
+[78,78,79] . Many microbial strains have been shown to increase
+plant shoot and/or root K+/Na+ratios by increasing K+and/or
+reducing Na+in the cytoplasm, but the underlying mechanisms
+vary. HKT1, which plays critical roles in both Na+inﬂux across
+the plasma membrane and long-distance Na+transport, is consid-
+ered a key determinant of plant salt tolerance [79]. Expression of
+HKT1 in shoots promotes plant salt tolerance by reducing Na+
+accumulation in shoots [80]. The speciﬁc role of HKT1 in the
+decrease in microbe-mediated plant Na+under salt stress has been
+recognized. For example, Zhang et al. [81] demonstrated that B.
+subtilis GB03 stimulated HKT1 expression in shoots while reducing
+it in roots under 100 mM NaCl by producing VOCs. Athkt1 ;1, but
+notsos3, mutant plants failed to show GB03-induced plant growth
+and a decrease in Na+under salt stress [81]. Niu et al. [82] demon-Y. Liu, W. Xun, L. Chen et al. Computational and Structural Biotechnology Journal 20 (2022) 6543–6551
+6545strated that enhanced Puccinellia tenuiﬂora salt tolerance is depen-
+dent on modulating the expression of HKT1 . In contrast, Pseu-
+domonas simiae AU decreased the expression of HKT1 in soybean
+shoots under salt stress [73].P. indica colonized Arabidopsis roots
+under salt stress and showed enhanced expression of HKT1 [83].
+Inoculation with AMF signiﬁcantly induced HKT1;1 and HKT1;6
+in both the roots and shoots of lettuce under 60 mM NaCl, but in
+the same study, inoculation with another AMF strain, Claroideoglo-
+mus lamellosum , did not signiﬁcantly change the expression pro-
+ﬁles for HKT1;1 and HKT1;6 in lettuce [84].
+The excess Na+in the cytoplasm under salt stress can be either
+exported out of the protoplast by the plasma membrane Na+/H+
+antiporter [17] or compartmentalized into the vacuole by the vac-
+uolar Na+/H+exchanger (NHX) [85]. Increasing the Na+efﬂux by
+the SOS pathway and vacuolar NHX-driven vacuolar Na+compart-
+mentalization is another strategy for reducing cytoplasmic Na+
+accumulation [86]. SOS1, a plasma membrane Na+/H+antiporter
+controlled by the regulation cascade of SOS2 and SOS3, is believed
+to be a key determinant of Na+exclusion in roots [17]. Chen et al.[87,88] showed that B. amyloliquefaciens SQR9 strongly stimulated
+the expression of NHX1 ,NHX2 and NHX3 in maize under salt stress
+by producing spermidine. However, either mutation of NHX1 or
+blocking the SOS pathway, but not mutation with HKT1 , leads to
+deﬁciency in SQR9- and spermidine-induced salt tolerance, indi-
+cating the determinant role of NHX1 and SOS1 in SQR9-induced
+salt tolerance [88]. Baek et al. [89] demonstrated a similar conclu-
+sion that the SOS pathway is necessary for B. oryzicola YC7007-
+induced Arabidopsis tolerance to salt stress. There are also some
+cases in which microbial inoculation increases K+uptake but has
+no effect on Na+accumulation [54].
+3.1.2. Osmotic balance
+Soil salinity is always accompanied by hyperosmotic stress in
+plants. A high salt concentration is hyperosmotic to plant cells
+and will affect root water absorption or even water loss. This situ-
+ation also limits the uptake of nutrients by roots and results in ABA
+accumulation. ABA signaling will lead to stomatal closure, which
+restricts transpiration and thus makes it harder to absorb water
+Fig. 1. Mechanisms by which microbes enhance plant salt tolerance. 1. To re-establish the ion balance of plants under salt stress, microbes reduce the Na+content in the
+cytoplasm by decreasing Na+uptake, increasing Na+efﬂux and comparting Na+into vacuoles. To regulate the osmotic balance of plants under salt stress, microbes produce
+osmolytes and induce plants to produce osmolytes, and they also reduce ABA to increase water uptake. 2. To prevent ROS-induced damage to plants under s alt stress,
+microbes can reduce plant ROS generation and stimulate plants to scavenge ROS. 3. To resume plant growth under salt stress, microbes promote photosyn thesis and produce
+ACC deaminase or other compounds to regulate plant ethylene signaling.Y. Liu, W. Xun, L. Chen et al. Computational and Structural Biotechnology Journal 20 (2022) 6543–6551
+6546and reduce photosynthesis. Accumulating soluble osmoprotectants
+in the cytoplasm is a general strategy to counter hyperosmotic
+stress. These osmolytes, including charged metabolites, polyols,
+soluble sugars and complex sugars, vary based on plant species [2].
+Most of the microbes that show mitigation effects on plant salt
+stress also increase the WUE and stimulate the production of dif-
+ferent kinds of osmolytes by plants. The production of osmolytes
+under saline conditions can be controlled by microbes. For exam-
+ple, Bacillus subtilis GB03 produced VOCs that induced glycine
+betaine production by Arabidopsis under saline conditions in an
+ABA-dependent manner [81]. The mutation of trehalose synthesis
+inPseudomonas putida UW4 completely blocked the promotion of
+tomato root development and growth under saline conditions, sug-
+gesting a critical role of microbe-produced osmolytes in plant salt
+tolerance [90,91] . Salt stress-induced ABA accumulation is believed
+to be a signature of the stress response and contributes to stomatal
+closure [92]. Although ABA and proline accumulation in salt-
+stressed plants generally occurs, inoculation with microbes has
+inconsistent effects on ABA and proline contents under salt stress.
+While most studies propose that the observed ABA reduction in
+plants upon microbial inoculation is responsible for restoration of
+the osmotic balance under salt stress, Bacillus licheniformis SA03
+[93],Paenibacillus yonginensis DCY84T [94] and Bacillus mesonae
+H20-5 [95] increased the ABA contents in Chrysanthemum ,Panax
+ginseng and tomato under saline conditions, respectively. By
+inhibiting ABA synthesis using ﬂuridone, Zhou et al. [93] demon-
+strated the key role of SA03-induced ABA in enhancing plant salt
+tolerance. The effects of microbial inoculations on plant proline
+accumulation upon saline stress also vary, and the physiological
+signiﬁcance of proline accumulation in salt-stressed plants is con-
+troversial ( Table S1 ). Proline protects plants from saline stress by
+increasing the osmosis of the cytoplasm and is induced upon salt
+stress and strengthened by microbial inoculation. However, a
+decrease in proline in inoculated plants compared with that of
+noninoculated plants under saline conditions has also been widely
+reported [53,96–98] . Proline is an osmolyte and a signature of the
+stress response. Increased levels of proline upon microbial inocula-
+tion undoubtedly beneﬁt salt tolerance, but the decreased levels of
+proline upon inoculation can also reﬂect a decrease in salt stress
+[99]. Therefore, the observed inconsistency in proline accumula-
+tion may also be due to the difference in the stress period. As plant
+endogenous osmolytes, proline and poly- c-glutamic acid produced
+by microbes can also protect plants directly or act as a signal to
+induce plant salt tolerance [100,101] .
+3.2. Preventing damage to plant cells
+Stress signaling following Ca2+inﬂux is always accompanied by
+ROS production [102] . ROS act as critical signals by activating var-
+ious secondary messengers in the stress response, but they are also
+deleterious to plant cells by impairing DNA, proteins and lipids
+when they accumulate in plant cells [103] . The cell damage caused
+by ROS, including superoxide anion, hydrogen peroxide, hydroxyl
+radical, and singlet oxygen, is irreversible, especially for the elicita-
+tion of programmed cell death when hydroxyl radicals are pro-
+duced [103] . Under normal conditions, ROS production and
+elimination are balanced; however, salt stress causes an imbalance
+due to the increase in ROS [102] . It is widely reported that plant
+electrolyte leakage and lipid peroxidation, as signatures of plasma
+membrane impairment by ROS [102] , could be reduced by
+microbes.
+3.2.1. Reducing ROS generation. Inoculation with microbes that
+reduce ROS generation may exert beneﬁcial effects in preventing
+or arresting oxidative damage. ROS are produced from two
+sources: metabolic ROS are mainly produced in the chloroplast,
+mitochondria and peroxisome via different pathways, and signal-ing ROS are produced in the apoplast by NADPH oxidases [104] .
+Under salt stress, there is a decrease in transpiration rates, which
+reduces CO 2availability to the plants. Salt stress also exposes
+chloroplasts to high excitation energy, which causes ROS genera-
+tion [105] . It is evident that microbial inoculation is capable of
+stimulating stomatal conductance and increasing the CO 2avail-
+ability of plants under saline conditions. In particular, increasing
+chlorophyll and carotenoid contents in salt-stressed plants is a
+common feature of microbe-primed plant salt tolerance
+(Table S1 ). Native AMF-inoculated maize showed higher efﬁcien-
+cies of photosystem II and stomatal conductance, which are
+believed to decrease photorespiration and ROS production
+[106,107] . Sulfur metabolism is connected to photosynthesis due
+to its role in forming iron-sulfur cluster proteins, which act as elec-
+tron carriers in photosynthesis. Andres-Barrao et al. [108] found
+that Enterobacter sp. SA187 suppressed Arabidopsis salt stress-
+induced ROS accumulation in plastids by increasing root sulfur
+assimilation. Inoculation with SA187 also rescued the hypersensi-
+tivity of Arabidopsis LSU mutants, in which four genes encoding
+chloroplast-targeted proteins (LSU1-LSU4) that activate Fe-
+superoxide dismutase were silenced [108] .
+3.2.2. Scavenging excess ROS. In addition to reducing plant ROS gen-
+eration, microbes can stimulate the ROS detoxiﬁcation system in
+plants. Both the enzymatic antioxidant system, including superox-
+ide dismutase (SOD), ascorbate peroxidase (APX), catalase (CAT),
+glutathione peroxidase (GPX), and peroxiredoxin (PRX), and the
+nonenzymatic system, including ascorbic acid, glutathione (GSH)
+and proline, are induced when plants are under salt stress; micro-
+bial inoculation can strengthen this induction process and stimu-
+late plants to scavenge excess ROS. For example, Waller et al.
+[43] found that P. indica -infested roots under saline conditions
+increased the dehydroascorbate reductase activity and ascorbate
+content and decreased the level of dehydroascorbate. The critical
+role of stimulating plant ROS scavenging is conﬁrmed by the fact
+that the salt tolerance induced by B. velezensis and the produced
+spermidine is dependent on plant GSH production [88]. It is evi-
+dent that Pseudomonas -produced phenazine also contributes to
+catalase induction and thus ROS scavenging in plants under saline
+stress [69]. Moreover, some genes involved in Fe acquisition were
+activated in Bacillus licheniformis SA03-inoculated plants under salt
+stress [93]. Considering the Fenton reaction between iron and H 2O2
+that generates hydroxyl radicals [104] , the modulation of iron
+homeostasis in plant cells by microbial inoculants may also con-
+tribute to the avoidance of hydroxyl radicals causing cell damage
+and subsequent cell death.
+In contrast, several microbes with high antioxidant activity
+attenuated the salt stress-induced antioxidant system. For exam-
+ple, inoculation with Brevibacterium linens RS16 was found to
+reduce the salt stress-induced plant emissions of all major classes
+of volatile organic compounds (VOCs), which serve as antioxidants
+to tolerate stress [109] . An endophytic isolate of the fungus Yar-
+rowia lipolytica selected on the basis of high antioxidant activity
+has reduced the peroxidase and catalase activity levels of maize
+in saline conditions compared to noninoculated maize [97]. These
+examples suggest that microbes can also enhance the salt toler-
+ance of plants by directly scavenging ROS, which results in a reduc-
+tion in stress-induced antioxidant production in plants.
+3.3. Resuming plant growth under salt stress
+Transporting ions, producing osmolytes and scavenging ROS, as
+discussed above, are all energy-consuming processes. For plants
+under salt-stressed conditions, resuming growth is a difﬁcult
+choice for energy distribution and is precisely controlled by a very
+complex signaling transduction network.Y. Liu, W. Xun, L. Chen et al. Computational and Structural Biotechnology Journal 20 (2022) 6543–6551
+65473.3.1. Promotion of photosynthesis. An important determinant of
+microbe-induced salt tolerance is the improvement of photosyn-
+thesis to compensate for the energy cost of tolerance. It is generally
+recognized that salt stress greatly reduces the chlorophyll content,
+stomatal conductance and intercellular CO 2concentration and
+strongly inhibits the net photosynthetic and transpiration rates
+[110] . As discussed above, almost all microbe-induced plant
+growth under salinity stress occurs in conjunction with the mitiga-
+tion of stress-reduced photosynthesis. Increased biomass is always
+correlated with the net photosynthetic rate ( Table S1 ). Increased
+transpiration by microbe inoculation will then lead to higher water
+absorption and nutrient uptake by roots, including those of phos-
+phorus and sulfur, and thus promote photosynthesis. There is a
+possibility that the increased water absorption and nutrient uptake
+in stressed plants upon microbe inoculation is also a result of themicrobial manipulation of the root system architecture, which
+occurs commonly in plant–microbe interactions [36]. The mecha-
+nism by which microbes initiate this positive feedback in plants
+under saline conditions is not clear. Since microbes can always
+directly or indirectly inﬂuence plant hormone signaling, which
+controls photosynthesis, it is necessary to understand the roles of
+phytohormones in microbe-induced plant growth under saline
+conditions.
+3.3.2. Modulating IAA and ethylene signaling. IAA is important for
+plant growth and root development but is not a generally known
+central phytohormone in salt-stress responses in plants [111] . Salt
+stress-induced plant growth inhibition results from the suppres-
+sion of IAA signaling, as shown by the decreased GUS density in
+theDR5:uidA line and the severely reduced fresh weight of auxin
+transport or signaling mutants, such as arf7arf19 and tir1afb2afb3,
+under saline conditions [36]. Several studies have demonstrated
+the microbial functions in activating IAA signaling and increasing
+endogenous IAA content in salt-stressed plants [36,37,70,112] .
+IAA signaling has been proven to play a key role in Trichoderma -
+and Bacillus -modulated root systemic architecture (RSA) under
+nonstress conditions since mutations in genes involved in auxin
+transport or signaling reduced the growth-promoting and root
+developmental effects of inoculation [36,113,114] . It is likely that
+activating IAA signaling is required for microbe-induced plant
+growth and root development under saline stress, but deﬁnitive
+evidence is still lacking.
+Ethylene is undoubtedly an important phytohormone involved
+in regulating plant growth under stress, but its role in plant salt
+tolerance is controversial [115] . Producing ACC deaminase, which
+is encoded by acdS, is an important characteristic of plant salt
+tolerance-inducing microbes [9]. ACC deaminase degrades ACC,
+the ethylene precursor, thereby reducing ethylene production
+and suppressing ethylene signaling, resulting in the activation of
+auxin signaling [9]. The signiﬁcance of ACC deaminase-producing
+microbes in elevating salt tolerance has been recognized in canola ,
+wheat ,tomato ,barley and red pepper [116–119] . This function is
+evident based on the deﬁciency in decreasing plant ethylene under
+saline stress of the bacterial acdS mutant and on the enhanced salt-
+stress tolerance and reduced ethylene content in the acdS trans-
+genic line of Camelina sativa [120] and rice [121] . In another exam-
+ple of microbes inﬂuencing ethylene signaling, Enterobacter sp.
+SA187 produces 2-keto-4-methylthiobutyric acid (KMBA), which
+can be converted into ethylene in planta, as well as ACC. de Zéli-
+court et al. [54] demonstrated that KMBA is responsible for modu-
+lating the plant ethylene signaling pathway and the SA187-
+induced salt tolerance of Arabidopsis. They deployed the pEBF2::
+GUS reporter in Arabidopsis and found that SA187 inoculation acti-
+vated the expression of EBF2 in root tips as well as ACC treatment.
+By using several Arabidopsis mutants, de Zélicourt et al. [54] pro-posed that both SA187- and KMBA-induced salt tolerance is depen-
+dent on ethylene signaling rather than ethylene production or JA
+and ABA signaling. Conclusively, it seems that ACC deaminase
+and KMBA have somewhat similar effects on downstream ethylene
+signaling in different ways. Interestingly, de Zélicourt et al. [54]
+demonstrated that 100 nM ACC during salt stress could largely
+mimic the beneﬁcial activity of SA187 on Arabidopsis , which should
+be opposite to the effect of ACC deaminase. Due to the controver-
+sial role of ethylene in plant abiotic stress tolerance, further inves-
+tigation of the signaling perception in the ethylene signaling
+pathway upon ACC treatment, ACC deaminase and KMBA is needed
+to clarify the contradictory phenomenon.
+Recently, two research groups simultaneously increased the
+interaction between microbe-induced plant salt tolerance and
+plant immunity. Loo et al. [122] proposed that microbe-
+associated molecular patterns (MAMPs) responsible for plant
+pattern-triggered immunity (PTI) could induce Arabidopsis salt tol-
+erance when sensed by pattern-recognizing receptors (PRRs), a
+mechanism termed pattern-triggered salt tolerance (PTST). Rolli
+et al. [123] demonstrated that LYK4, which is responsible for the
+plant perception of chitin that triggers PTI, mediates Enterobacter
+sp.-triggered salt tolerance in Arabidopsis thaliana . These studies
+help to make sense of the crosstalk between microbe-induced bio-
+tic stress resistance and microbe-induced abiotic stress tolerance.
+4. Summary and perspective
+Due to the requirements of sustainable development and the
+multifunctional property of rhizosphere microbes, developing a
+microbial inoculant-based strategy is a promising direction for
+crop cultivation in saline soil. In recent years, scientists have drawnmuch attention to the isolation of strains and their effects on ion/
+osmotic balance, cell damage prevention and growth promotion of
+plants under saline stress. However, several issues remain that
+restrict the microbial strategy from taking further steps as a solu-
+tion for enhancing crop tolerance in saline land.
+1) The microbe-produced signaling molecules responsible for
+inducing plant salt tolerance are still lacking and remain to
+be identiﬁed. The identiﬁcation of these molecules may sup-
+port the development of chemical agents for promoting pro-
+duction in saline soil.
+2) The detailed mechanisms by which microbes enhance plant
+salt tolerance, which is important for agricultural produc-
+tion, need to be deeply investigated. For example, many pub-
+lications have demonstrated the regulation of plant NHXs or
+HKTs by microbes, but the underlying mechanisms are not
+clear. The mechanisms pertaining to the regulation of photo-
+synthesis, antioxidants, osmolytes and growth by microbes
+are also not clear.
+3) Some microbial species show efﬁciency in helping with
+plant tolerance to salt stress but are difﬁcult to industrialize
+due to their relatively weak adaptability to either the pro-
+duction environment, storage environment, or saline soil
+environment. Therefore, matched technologies for microbial
+agent production and application need to be developed.
+4) Enhancing crop production in saline soil is the ﬁnal scope of
+research on microbe-induced plant salt tolerance, but there
+is still a lack of reports on the effect of microbial application
+on crop production in large-scale ﬁeld experiments in saline
+soil, especially for some typical large saline soil land areas.
+The effects of microbes on crop production in different kinds
+of saline land may vary due to other factors, such as climate
+and soil type.Y. Liu, W. Xun, L. Chen et al. Computational and Structural Biotechnology Journal 20 (2022) 6543–6551
+6548Funding
+This work was funded by the National Key Research and Devel-
+opment Program (2021YFF1000404), the Central Public-interest
+Scientiﬁc Institution Basal Research Fund (No. Y2022QC15), the
+Agricultural Science and Technology Innovation Program (ASTIP
+No. CAAS-ZDRW202201) and the TaiShan Industrial Experts Pro-
+gram (2018TSCYCX-37).
+CRediT authorship contribution statement
+Yunpeng Liu: Funding acquisition, Writing – original draft.
+Weibing Xun: Writing- review and editing. Lin Chen: Visualiza-
+tion, Writing – original draft. Haichao Feng: Validation. Zhihui
+Xu:Writing- review& editing. Nan Zhang: Writing- review & edit-
+ing.Qiang Zhang: Validation. Ruifu Zhang: Conceptualization.
+Declaration of Competing Interest
+The authors declare that they have no known competing ﬁnan-
+cial interests or personal relationships that could have appeared
+to inﬂuence the work reported in this paper.
+Appendix A. Supplementary data
+Supplementary data to this article can be found online at
+https://doi.org/10.1016/j.csbj.2022.11.046 .
+References
+[1] Munns R, Tester M. Mechanisms of salinity tolerance. Annu Rev Plant Biol
+2008;59:651–81. https://doi.org/10.1146/annurev.
+arplant.59.032607.092911 .
+[2] Yang Y, Guo Y. Elucidating the molecular mechanisms mediating plant salt-
+stress responses. New Phytol 2018;217:523–39. https://doi.org/10.1111/
+nph.14920 .
+[3] Lugtenberg B, Kamilova F. Plant-growth-promoting rhizobacteria. Annu Rev
+Microbiol 2009;63:541–56. https://doi.org/10.1146/annurev.
+micro.62.081307.162918 .
+[4] Tchakounté GVT, Berger B, Patz S, Becker M, Fankem H, Taffouo VD, et al.
+Selected rhizosphere bacteria help tomato plants cope with combined
+phosphorus and salt stresses. Microorganisms 2020;8:1–16. https://doi.org/
+10.3390/microorganisms8111844 .
+[5] Adesemoye AO, Kloepper JW. Plant-microbes interactions in enhanced
+fertilizer-use efﬁciency. Appl Microbiol Biotechnol 2009;85:1–12. https://
+doi.org/10.1007/s00253-009-2196-0 .
+[6] Oljira AM, Hussain T, Waghmode TR, Zhao H, Sun H, Liu X, et al. Trichoderma
+enhances net photosynthesis, water use efﬁciency, and growth of wheat
+(Triticum aestivum L.) under salt stress. Microorganisms 2020;8:1–19. https://
+doi.org/10.3390/microorganisms8101565 .
+[7] Kushwaha P, Kashyap PL, Bhardwaj AK, Kuppusamy P, Srivastava AK, Tiwari
+RK. Bacterial endophyte mediated plant tolerance to salinity: growth
+responses and mechanisms of action. World J Microbiol Biotechnol
+2020;36:1–16. https://doi.org/10.1007/s11274-020-2804-9 .
+[8] Etesami H, Beattie GA. Mining halophytes for plant growth-promoting
+halotolerant bacteria to enhance the salinity tolerance of non-halophytic
+crops. Front Microbiol 2018:9. https://doi.org/10.3389/fmicb.2018.00148 .
+[9] Orozco-Mosqueda M del C, Glick BR, Santoyo G. ACC deaminase in plant
+growth-promoting bacteria (PGPB): An efﬁcient mechanism to counter salt
+stress in crops. Microbiological Research 2020;235:126439. 10.1016/j.
+micres.2020.126439.
+[10] Khalvandi M, Amerian M, Pirdashti H, Keramati S. Does co-inoculation of
+mycorrhiza and Piriformospora indica fungi enhance the efﬁciency of
+chlorophyll ﬂuorescence and essential oil composition in peppermint under
+irrigation with saline water from the Caspian Sea? PLoS One 2021;16:1–21.
+https://doi.org/10.1371/journal.pone.0254076 .
+[11] Egamberdieva D, Wirth S, Bellingrath-Kimura SD, Mishra J, Arora NK. Salt-
+tolerant plant growth promoting rhizobacteria for enhancing crop
+productivity of saline soils. Front Microbiol 2019:10. https://doi.org/
+10.3389/fmicb.2019.02791 .
+[12] Deinlein U, Stephan AB, Horie T, Luo W, Xu G, Schroeder JI. Plant salt-
+tolerance mechanisms. Trends Plant Sci 2014;19:371–9. https://doi.org/
+10.1016/j.tplants.2014.02.001 .
+[13] Lamers J, Der Meer TV, Testerink C. How plants sense and respond to stressful
+environments. Plant Physiol 2020;182:1624–35. https://doi.org/10.1104/
+PP.19.01464 .[14] Liang W, Ma X, Wan P, Liu L. Plant salt-tolerance mechanism: A review.
+Biochem Biophys Res Commun 2018;495:286–91. https://doi.org/10.1016/j.
+bbrc.2017.11.043 .
+[15] Ondrasek G, Rathod S, Manohara KK, Gireesh C, Anantha MS, Sakhare AS, et al.
+Salt stress in plants and mitigation approaches. Plants 2022;11:1–21. https://
+doi.org/10.3390/plants11060717 .
+[16] Zhu J-K. Plant salt tolerance. Trends Plant Sci 2001;6:66–71 .
+[17] Zhu JK. Salt and drought stress signal transduction in plants. Annu Rev Plant
+Biol 2002;53:247–73. https://doi.org/10.1146/annurev.
+arplant.53.091401.143329 .
+[18] Zhu J-K. Abiotic stress signaling and responses in plants. Cell
+2016;167:313–24. https://doi.org/10.1016/j.cell.2016.08.029 .
+[19] Evelin H, Devi TS, Gupta S, Kapoor R. Mitigation of salinity stress in plants by
+arbuscular mycorrhizal symbiosis: Current understanding and new
+challenges. Frontiers. Plant Sci 2019:10. https://doi.org/10.3389/
+fpls.2019.00470 .
+[20] Aroca R, Ruiz-Lozano JM, Zamarreño ángel M, Paz JA, García-Mina JM, Pozo
+MJ, et al. Arbuscular mycorrhizal symbiosis inﬂuences strigolactoneproduction under salinity and alleviates salt stress in lettuce plants. Journal
+of Plant Physiology 2013;170:47–55. 10.1016/j.jplph.2012.08.020.
+[21] Feng G, Zhang FS, Li XL, Tian CY, Tang C, Rengel Z. Improved tolerance of
+maize plants to salt stress by arbuscular mycorrhiza is related to higher
+accumulation of soluble sugars in roots. Mycorrhiza 2002;12:185–90. https://
+doi.org/10.1007/s00572-002-0170-0 .
+[22] Erog ˘lu G, Cabral C, Ravnskov S, Bak Topbjerg H, Wollenweber B. Arbuscular
+mycorrhiza inﬂuences carbon-use efﬁciency and grain yield of wheat grown
+under pre- and post-anthesis salinity stress. Plant Biol 2020;22:863–71.
+https://doi.org/10.1111/plb.13123 .
+[23] Parvin S, Van Geel M, Yeasmin T, Verbruggen E, Honnay O. Effects of single
+and multiple species inocula of arbuscular mycorrhizal fungi on the salinity
+tolerance of a Bangladeshi rice (Oryza sativ a L.) cultivar. Mycorrhiza
+2020;30:431–44. https://doi.org/10.1007/s00572-020-00957-9 .
+[24] Yamato M, Ikeda S, Iwase K. Community of arbuscular mycorrhizal fungi in a
+coastal vegetation on Okinawa island and effect of the isolated fungi on
+growth of sorghum under salt-treated conditions. Mycorrhiza2008;18:241–9. https://doi.org/10.1007/s00572-008-0177-2
+.
+[25] Al-Karaki GN. Growth of mycorrhizal tomato and mineral acquisition under
+salt stress. Mycorrhiza 2000;10:51–4. https://doi.org/10.1007/
+s005720000055 .
+[26] Romero-Munar A, Baraza E, Gulías J, Cabot C. Arbuscular mycorrhizal fungi
+confer salt tolerance in giant reed (Arundo dona x L.) plants grown under low
+phosphorus by reducing leaf Na+ concentration and improving phosphorus
+use efﬁciency. Frontiers. Plant Sci 2019;10:1–14. https://doi.org/10.3389/
+fpls.2019.00843 .
+[27] Duc NH, Vo AT, Haddidi I, Daood H, Posta K. Arbuscular mycorrhizal fungi
+improve tolerance of the medicinal plant Eclipta prostrata (L.) and induce
+major changes in polyphenol proﬁles under salt stresses. Frontiers. Plant Sci2021;11:1–18. https://doi.org/10.3389/fpls.2020.612299
+.
+[28] Giri B, Kapoor R, Mukerji KG. Improved tolerance of Acacia nilotica to salt
+stress by arbuscular mycorrhiza, glomus fasciculatum may be partly related
+to elevated K/Na ratios in root and shoot tissues. Microb Ecol
+2007;54:753–60. https://doi.org/10.1007/s00248-007-9239-9 .
+[29] Wang J, Zhai L, Ma J, Zhang J, Wang GG, Liu X, et al. Comparative physiological
+mechanisms of arbuscular mycorrhizal fungi in mitigating salt-induced
+adverse effects on leaves and roots of Zelkova serrata . Mycorrhiza
+2020;30:341–55. https://doi.org/10.1007/s00572-020-00954-y .
+[30] Wang Y, Wang M, Li Y, Wu A, Huang J. Enhancements of arbuscular
+mycorrhizal fungi on growth and nitrogen acquisition of Chrysanthemum
+morifolium under salt stress. PLoS One 2017;35:36 .
+[31] Pandey R, Garg N. High effectiveness of Rhizophagus irregularis is linked to
+superior modulation of antioxidant defence mechanisms in Cajanus cajan (L.)
+Millsp. genotypes grown under salinity stress. Mycorrhiza 2017;27:669–82.
+https://doi.org/10.1007/s00572-017-0778-8 .
+[32] Harman GE, Howell CR, Viterbo A, Chet I, Lorito M. Trichoderma species–
+opportunistic, avirulent plant symbionts. Nat Rev Microbiol 2004;2:43–56.
+https://doi.org/10.1038/nrmicro797 .
+[33] Brotman Y, Landau U, Cuadros-Inostroza Á, Takayuki T, Fernie AR, Chet I, et al.
+Trichoderma -plant root colonization: escaping early plant defense responses
+and activation of the antioxidant machinery for saline stress tolerance. PLoS
+Pathog 2013;9:e1003221–e. https://doi.org/10.1371/journal.ppat.1003221 .
+[34] Zhang F, Wang Y, Liu C, Chen F, Ge H, Tian F, et al. Trichoderma harzianum
+mitigates salt stress in cucumber via multiple responses. Ecotoxicol Environ
+Saf 2019;170:436–45. https://doi.org/10.1016/j.ecoenv.2018.11.084 .
+[35] Gupta S, Smith PMC, Boughton BA, Rupasinghe TWT, Natera SHA, Roessner U.
+Inoculation of barley with Trichoderma harzianum T-22 modiﬁes lipids and
+metabolites to improve salt tolerance. J Exp Bot 2021;72:7229–46. https://
+doi.org/10.1093/jxb/erab335 .
+[36] Contreras-Cornejo HA, Macías-Rodríguez L, Alfaro-Cuevas R, López-Bucio J.
+Trichoderma spp. improve growth of Arabidopsis seedlings under salt stress
+through enhanced root development, osmolite production, and Na+
+elimination through root exudates. Molecular Plant-Microbe Interactions
+2014;27:503–14. 10.1094/MPMI-09-13-0265-R.
+[37] Zhang S, Gan Y, Xu B. Mechanisms of the IAA and ACC-deaminase producing
+strain of Trichoderma longibrachiatum T6 in enhancing wheat seedling
+tolerance to NaCl stress. BMC Plant Biology 2019;19:22–22. 10.1186/
+s12870-018-1618-5.Y. Liu, W. Xun, L. Chen et al. Computational and Structural Biotechnology Journal 20 (2022) 6543–6551
+6549[38] Franken P. The plant strengthening root endophyte Piriformospora indica :
+Potential application and the biology behind. Appl Microbiol Biotechnol
+2012;96:1455–64. https://doi.org/10.1007/s00253-012-4506-1 .
+[39] Gill SS, Gill R, Trivedi DK, Anjum NA, Sharma KK, Ansari MW, et al.
+Piriformospora indica : potential and signiﬁcance in plant stress tolerance.
+Frontiers in Microbiology 2016;7:332–332. 10.3389/fmicb.2016.00332.
+[40] Jisha S, Sabu KK. Multifunctional aspects of Piriformospora indica in plant
+endosymbiosis. Mycology 2019;10:182–90. https://doi.org/10.1080/
+21501203.2019.1600063 .
+[41] Vahabi K, Dorcheh SK, Monajembashi S, Westermann M, Reichelt M,
+Falkenberg D, et al. Stress promotes Arabidopsis-Piriformospora indica
+interaction. Plant Signal Behav 2016:11. https://doi.org/10.1080/
+15592324.2015.1136763 .
+[42] Jogawat A, Saha S, Bakshi M, Dayaman V, Kumar M, Dua M, et al.
+Piriformospora indica rescues growth diminution of rice seedlings during
+high salt stress. Plant Signal Behav 2013;8:e26891–e. https://doi.org/
+10.4161/psb.26891 .
+[43] Waller F, Achatz B, Baltruschat H, Fodor J, Becker K, Fischer M, et al. The
+endophytic fungus Piriformospora indica reprograms barley to salt-stress
+tolerance, disease resistance, and higher yield. Proceedings of the National
+Academy of Sciences of the United States of America 2005;102:13386–91.
+10.1073/pnas.0504423102.
+[44] Ghorbani A, Razavi SM, Ghasemi Omran VO, Pirdashti H. Piriformospora indica
+inoculation alleviates the adverse effect of NaCl stress on growth, gas
+exchange and chlorophyll ﬂuorescence in tomato ( Solanum lycopersicum L.).
+Plant Biol 2018;20:729–36. https://doi.org/10.1111/plb.12717 .
+[45] Lanza M, Haro R, Conchillo LB, Benito B. The endophyte Serendipita indica
+reduces the sodium content of Arabidopsis plants exposed to salt stress:
+fungal ENA ATPases are expressed and regulated at high pH and during plant
+co-cultivation in salinity. Environ Microbiol 2019;21:3364–78. https://doi.
+org/10.1111/1462-2920.14619 .
+[46] Kim K, Jang Y-J, Lee S-M, Oh B-T, Chae J-C, Lee K-J. Alleviation of salt stress by
+enterobacter sp. EJ01 in tomato and Arabidopsis is accompanied by up-
+regulation of conserved salinity responsive factors in plants. Molecules and
+Cells 2014;37:109–17. 10.14348/molcells.2014.2239.
+[47] Khan MA, Asaf S, Khan AL, Adhikari A, Jan R, Ali S, et al. Plant growth-
+promoting endophytic bacteria augment growth and salinity tolerance in rice
+plants. Plant Biol 2020;22:850–62. https://doi.org/10.1111/plb.13124 .
+[48] Singh RP, Pandey DM, Jha PN, Ma Y. ACC deaminase producing
+rhizobacterium Enterobacter cloacae ZNP-4 enhance abiotic stress tolerance
+in wheat plant. PLoS One 2022;17:1–23. https://doi.org/10.1371/journal.
+pone.0267127 .
+[49] Nadeem SM, Zahir ZA, Naveed M, Arshad M. Rhizobacteria containing ACC-
+deaminase confer salt tolerance in maize grown on salt-affected ﬁelds. Can J
+Microbiol 2009;55:1302–9. https://doi.org/10.1139/W09-092 .
+[50] Desai S, Mistry J, Shah F, Chandwani S, Amaresan N, Supriya NR. Salt-tolerant
+bacteria enhance the growth of mung bean (Vigna radiat a L.) and uptake of
+nutrients, and mobilize sodium ions under salt stress condition. Int J
+Phytorem 2022:1–8. https://doi.org/10.1080/15226514.2022.2057419 .
+[51] Habib SH, Kausar H, Saud HM. Plant growth-promoting rhizobacteria
+enhance salinity stress tolerance in Okra through ROS-scavenging enzymes.
+Biomed Res Int 2016:1–10. https://doi.org/10.1155/2016/6284547 .
+[52] Yang A, Akhtar SS, Iqbal S, Amjad M, Naveed M, Zahir ZA, et al. Enhancing salt
+tolerance in quinoa by halotolerant bacterial inoculation. Funct Plant Biol
+2016;43:632–42. https://doi.org/10.1071/FP15265 .
+[53] Nadeem SM, Zahir ZA, Naveed M, Arshad M. Preliminary investigations on
+inducing salt tolerance in maize through inoculation with rhizobacteria
+containing ACC deaminase activity. Can J Microbiol 2007;53:1141–9. https://
+doi.org/10.1139/W07-081 .
+[54] de Zélicourt A, Synek L, Saad MM, Alzubaidy H, Jalal R, Xie Y, et al. Ethylene
+induced plant stress tolerance by Enterobacter sp. SA187 is mediated by 2-
+keto-4-methylthiobutyric acid production. PLoS Genet 2018;14:1–28.
+https://doi.org/10.1371/journal.pgen.1007273 .
+[55] Ali B, Wang X, Saleem MH, Sumaira, Hafeez A, Afridi MS, et al. PGPR-mediated
+salt tolerance in maize by modulating plant physiology, antioxidant defense,
+compatible solutes accumulation and bio-surfactant producing genes. Plants
+2022;11:345–345. 10.3390/plants11030345.
+[56] Nazarowec-White M, Farber JM. Enterobacter sakazakii : A review. Int J Food
+Microbiol 1997;34:103–13. https://doi.org/10.1016/S0168-1605(96)01172-
+5.
+[57] Subramanian S, Ricci E, Souleimanov A, Smith DL. A proteomic approach to
+lipo-chitooligosaccharide and thuricin 17 effects on soybean germination
+unstressed and salt stress. PLoS One 2016;11:1–19. https://doi.org/10.1371/
+journal.pone.0160660 .
+[58] Subramanian S, Souleimanov A, Smith DL. Proteomic studies on the effects of
+lipo-chitooligosaccharide and thuricin 17 under unstressed and salt stressedconditions in Arabidopsis thaliana . Front Plant Sci 2016;7:1–13. https://doi.
+org/10.3389/fpls.2016.01314 .
+[59] Ullah S, Bano A. Isolation of plant-growth-promoting rhizobacteria from
+rhizospheric soil of halophytes and their impact on maize ( Zea mays L.) under
+induced soil salinity. Can J Microbiol 2015;61:307–13. https://doi.org/
+10.1139/cjm-2014-0668 .
+[60] Mahmoud OMB, Slimene IB, Zribi OT, Abdelly C, Djébali N. Response to salt
+stress is modulated by growth-promoting rhizobacteria inoculation in two
+contrasting barley cultivars. Acta Physiol Plant 2017;39. https://doi.org/
+10.1007/s11738-017-2421-x .[61] Sultana S, Paul SC, Parveen S, Alam S, Rahman N, Jannat B, et al. Isolation and
+identiﬁcation of salt-tolerant plant-growth-promoting rhizobacteria and
+their application for rice cultivation under salt stress. Can J Microbiol
+2020;66:144–60. https://doi.org/10.1139/cjm-2019-0323 .
+[62] Wang R, Wang C, Feng Q, Liou RM, Lin YF. Biological inoculant of salt-tolerant
+bacteria for plant growth stimulation under different saline soil conditions. JMicrobiol Biotechnol 2021;31:398–407. https://doi.org/10.4014/
+JMB.2009.09032 .
+[63] Fan P, Chen D, He Y, Zhou Q, Tian Y, Gao L. Alleviating salt stress in
+tomato seedlings using Arthrobacter and Bacillus megaterium isolated from
+the rhizosphere of wild plants grown on saline–alkaline lands. Int JPhytorem 2016;18:1113–21. https://doi.org/10.1080/
+15226514.2016.1183583 .
+[64] Egamberdieva D, Wirth SJ, Shurigin VV, Hashem A, Abd Allah EF. Endophytic
+bacteria improve plant growth, symbiotic performance of chickpea (Cicer
+arietinu m L.) and induce suppression of root rot caused by Fusarium solan i
+under salt stress. Front Microbiol 2017;8:1–13. https://doi.org/10.3389/
+fmicb.2017.01887 .
+[65] Saleem S, Iqbal A, Ahmed F, Ahmad M. Phytobeneﬁcial and salt stress
+mitigating efﬁcacy of IAA producing salt tolerant strains in Gossypium
+hirsutum . Saudi Journal of Biological Sciences 2021;28:5317–24. https://doi.
+org/10.1016/j.sjbs.2021.05.056 .
+[66] Khan MA, Sahile AA, Jan R, Asaf S, Hamayun M, Imran M, et al. Halotolerant
+bacteria mitigate the effects of salinity stress on soybean growth by
+regulating secondary metabolites and molecular responses. BMC Plant Biol
+2021;21:1–15. https://doi.org/10.1186/s12870-021-02937-3 .
+[67] Srivastava S, Srivastava S. Prescience of endogenous regulation in Arabidopsis
+thaliana byPseudomonas putida MTCC 5279 under phosphate starved salinity
+stress condition. Sci Rep 2020;10:1–15. https://doi.org/10.1038/s41598-020-
+62725-1 .
+[68] Singh S, Singh UB, Trivedi M, Sahu PK, Paul S, Paul D, et al. Seed biopriming
+with salt-tolerant endophytic pseudomonas geniculata-modulated
+biochemical responses provide ecological ﬁtness in maize ( Zea mays L.)
+grown in saline sodic soil. Int J Environ Res Public Health 2020;17. https://doi.
+org/10.3390/ijerph17010253 .
+[69] Yuan P, Pan H, Boak EN, Pierson LS, Pierson EA. Phenazine-producing
+rhizobacteria promote plant growth and reduce redox and osmotic stress in
+wheat seedlings under saline conditions. Front Plant Sci 2020;11:1–12.
+https://doi.org/10.3389/fpls.2020.575314 .
+[70] Yao L, Wu Z, Zheng Y, Kaleem I, Li C. Growth promotion and protection
+against salt stress by Pseudomonas putida Rs-198 on cotton. Eur J Soil Biol
+2010;46:49–54. https://doi.org/10.1016/j.ejsobi.2009.11.002 .
+[71] Nascimento FX, Urón P, Glick BR, Giachini A, Rossi MJ. Genomic analysis of the
+1-aminocyclopropane-1-carboxylate deaminase-producing Pseudomonas
+thivervalensis sc5 reveals its multifaceted roles in soil and in beneﬁcial
+interactions with plants. Front Microbiol 2021;12. https://doi.org/10.3389/
+fmicb.2021.752288 .
+[72] Sharma S, Kulkarni J, Jha B. Halotolerant rhizobacteria promote growth and
+enhance salinity tolerance in peanut. Front Microbiol 2016;7:1–11. https://
+doi.org/10.3389/fmicb.2016.01600 .
+[73] Vaishnav A, Kumari S, Jain S, Varma A, Tuteja N, Choudhary DK. PGPR-
+mediated expression of salt tolerance gene in soybean through volatilesunder sodium nitroprusside. J Basic Microbiol 2016;56:1274–88. https://doi.
+org/10.1002/jobm.201600188 .
+[74] Vaishnav A, Kumari S, Jain S, Varma A, Choudhary DK. Putative bacterial
+volatile-mediated growth in soybean ( Glycine max L.Merrill ) and expression
+of induced proteins under salt stress. J Appl Microbiol 2015;119:539–51.
+https://doi.org/10.1111/jam.12866 .
+[75] Ali S, Charles TC, Glick BR. Amelioration of high salinity stress damage by
+plant growth-promoting bacterial endophytes that contain ACC deaminase.
+Plant Physiol Biochem 2014;80:160–7. https://doi.org/10.1016/
+j.plaphy.2014.04.003 .
+[76] Fatima T, Arora NK. Pseudomonas entomophila PE3 and its exopolysaccharides
+as biostimulants for enhancing growth, yield and tolerance responses ofsunﬂower under saline conditions. Microbiological Research
+2021;244:126671–126671. 10.1016/j.micres.2020.126671.
+[77] Chang P, Gerhardt KE, Huang XD, Yu XM, Glick BR, Gerwing PD, et al. Plant
+growth-promoting bacteria facilitate the growth of barley and oats in salt-
+impacted soil: implications for phytoremediation of saline soils. Int J
+Phytorem 2014;16:1133–47. https://doi.org/10.1080/
+15226514.2013.821447 .
+[78] Rus A, Lee BH, Muñoz-Mayor A, Sharkhuu A, Miura K, Zhu JK, et al. AtHKT1
+facilitates Na+homeostasis and K+nutrition in planta. Plant Physiol
+2004;136:2500–11. https://doi.org/10.1104/pp.104.042234 .
+[79] Platten JD, Cotsaftis O, Berthomieu P, Bohnert H, Davenport RJ, Fairbairn DJ,
+et al. Nomenclature for HKT transporters, key determinants of plant salinitytolerance. Trends Plant Sci 2006;11:372–4. https://doi.org/10.1016/j.
+tplants.2006.06.001 .
+[80] Moller IS, Gilliham M, Jha D, Mayo GM, Roy SJ, Coates JC, et al. Shoot Na+
+exclusion and increased salinity tolerance engineered by cell type-speciﬁcalteration of Na
++transport in Arabidopsis . Plant Cell 2009;21:2163–78.
+https://doi.org/10.1105/tpc.108.064568 .
+[81] Zhang H, Kim MS, Sun Y, Dowd SE, Shi H, Paré PW. Soil bacteria confer plant
+salt tolerance by tissue-speciﬁc regulation of the sodium transporter HKT1.
+Mol Plant Microbe Interact 2008;21:737–44. https://doi.org/10.1094/MPMI-
+21-6-0737 .Y. Liu, W. Xun, L. Chen et al. Computational and Structural Biotechnology Journal 20 (2022) 6543–6551
+6550[82] Niu SQ, Li HR, Paré PW, Aziz M, Wang SM, Shi H, et al. Induced growth
+promotion and higher salt tolerance in the halophyte grass Puccinellia
+tenuiﬂora by beneﬁcial rhizobacteria. Plant and Soil 2016;407:217–30.
+https://doi.org/10.1007/s11104-015-2767-z .
+[83] Abdelaziz ME, Kim D, Ali S, Fedoroff NV, Al-Babili S. The endophytic fungus
+Piriformospora indica enhances Arabidopsis thaliana growth and modulates
+Na+/K+homeostasis under salt stress conditions. Plant Sci 2017;263:107–15.
+https://doi.org/10.1016/j.plantsci.2017.07.006 .
+[84] Santander C, Aroca R, Cartes P, Vidal G, Cornejo P. Aquaporins and cation
+transporters are differentially regulated by two arbuscular mycorrhizal fungi
+strains in lettuce cultivars growing under salinity conditions. Plant PhysiolBiochem 2021;158:396–409. https://doi.org/10.1016/j.plaphy.2020.11.025
+.
+[85] Apse MP, Aharon GS, Snedden WA, Blumwald E. Salt tolerance conferred by
+overexpression of a vacuolar Na+/H+antiport in Arabidopsis . Science
+1999;285:1256–8. https://doi.org/10.1126/science.285.5431.1256 .
+[86] Drozdowicz Y, Rea P. Vacuolar H+pyrophosphatases: from the evolutionary
+backwaters into the mainstream. Trends Plant Sci 2001;6:206–11. https://
+doi.org/10.1016/S1360-1385(01)01923-9 .
+[87] Chen L, Liu Y, Wu G, Veronican Njeri K, Shen Q, Zhang N, et al. Induced maize
+salt tolerance by rhizosphere inoculation of Bacillus amyloliquefaciens SQR9.
+Physiol Plant 2016;158:34–44. https://doi.org/10.1111/ppl.12441 .
+[88] Chen L, Liu Y, Wu G, Zhang N, Shen Q, Zhang R. Beneﬁcial rhizobacterium
+Bacillus amyloliquefaciens SQR9 induces plant salt tolerance through
+spermidine production. Mol Plant Microbe Interact 2017;30:423–32.
+https://doi.org/10.1094/MPMI-02-17-0027-R .
+[89] Baek D, Rokibuzzaman M, Khan A, Kim MC, Park HJ, Yun DJ, et al. Plant-
+growth promoting Bacillus oryzicola yc7007 modulates stress-response gene
+expression and provides protection from salt stress. Front Plant Sci2020;10:1–13. https://doi.org/10.3389/fpls.2019.01646
+.
+[90] Del Carmen O-M, Duan J, DiBernardo M, Zetter E, Campos-García J, Glick BR,
+et al. The production of ACC deaminase and trehalose by the plant growth
+promoting bacterium Pseudomonas sp. UW4 synergistically protect tomato
+plants against salt stress. Front Microbiol 2019;10:1–10. https://doi.org/
+10.3389/fmicb.2019.01392 .
+[91] Yan J, Smith MD, Glick BR, Liang Y. Effects of ACC deaminase containing
+rhizobacteria on plant growth and expression of Toc GTPases in tomato
+(Solanum lycopersicum ) under salt stress. Botany 2014;92:775–81. https://
+doi.org/10.1139/cjb-2014-0038 .
+[92] Hedrich R, Shabala S. Stomata in a saline world. Curr Opin Plant Biol
+2018;46:87–95. https://doi.org/10.1016/j.pbi.2018.07.015 .
+[93] Zhou C, Zhu L, Xie Y, Li F, Xiao X, Ma Z, et al. Bacillus licheniformis SA03 confers
+increased saline–alkaline tolerance in chrysanthemum plants by induction of
+abscisic acid accumulation. Front Plant Sci 2017;8:1–17. https://doi.org/
+10.3389/fpls.2017.01143 .
+[94] Sukweenadhi J, Balusamy SR, Kim YJ, Lee CH, Kim YJ, Koh SC, et al. A growth-
+promoting bacteria, Paenibacillus yonginensis DCY84T enhanced salt stress
+tolerance by activating defense-related systems in panax ginseng. Front PlantSci 2018;9:1–17. https://doi.org/10.3389/fpls.2018.00813
+.
+[95] Yoo SJ, Weon HY, Song J, Sang MK. Induced tolerance to salinity stress by
+halotolerant bacteria Bacillus aryabhattai H19–1 and B. mesonae H20–5 in
+tomato plants. J Microbiol Biotechnol 2019;29:1124–36. https://doi.org/
+10.4014/jmb.1904.04026 .
+[96] Lastochkina O, Aliniaeifard S, Garshina D, Garipova S, Pusenkova L, Allagulova
+C, et al. Seed priming with endophytic Bacillus subtilis strain-speciﬁcally
+improves growth of Phaseolus vulgaris plants under normal and salinity
+conditions and exerts anti-stress effect through induced lignin deposition in
+roots and decreased oxidative and osmot. Journal of Plant Physiology
+2021;263:153462–153462. 10.1016/j.jplph.2021.153462.
+[97] Gul Jan F, Hamayun M, Hussain A, Jan G, Iqbal A, Khan A, et al. An endophytic
+isolate of the fungus Yarrowia lipolytica produces metabolites that ameliorate
+the negative impact of salt stress on the physiology of maize. BMC Microbiol
+2019;19:1–10. https://doi.org/10.1186/s12866-018-1374-6 .
+[98] Liu CH, Siew W, Hung YT, Jiang YT, Huang CH. 1-aminocyclopropane-1-
+carboxylate (ACC) deaminase gene in Pseudomonas azotoformans is associated
+with the amelioration of salinity stress in tomato. J Agric Food Chem
+2021;69:913–21. https://doi.org/10.1021/acs.jafc.0c05628 .
+[99] Kavi Kishor PB, Sreenivasulu N. Is proline accumulation per se correlated with
+stress tolerance or is proline homeostasis a more critical issue? Plant Cell
+Environ 2014;37:300–11. https://doi.org/10.1111/pce.12157 .
+[100] Xu Z, Lei P, Pang X, Li H, Feng X, Xu H. Exogenous application of poly- c-
+glutamic acid enhances stress defense in Brassica napus L. seedlings by
+inducing cross-talks between Ca2+,H2O2, brassinolide, and jasmonic acid in
+leaves. Plant Physiol Biochem 2017;118:460–70. https://doi.org/10.1016/
+j.plaphy.2017.07.015 .
+[101] Lei P, Pang X, Feng X, Li S, Chi B, Wang R, et al. The microbe-secreted
+isopeptide poly- c-glutamic acid induces stress tolerance in Brassica napus L.
+seedlings by activating crosstalk between H 2O2and Ca 2+. Sci Rep
+2017;7:1–15. https://doi.org/10.1038/srep41618 .
+[102] Gad M, Nobuhiro S, Sultan C, Ron M. Reactive oxygen species homeostasis
+and signalling during drought and salinity stresses. Plant Cell and
+Environment 2010;33:453-467 10.1111/j.1365-3040.2009.02041.x.
+[103] Das K, Roychoudhury A. Reactive oxygen species (ROS) and response of
+antioxidants as ROS-scavengers during environmental stress in plants.Frontiers in Environmental. Science 2014:2. https://doi.org/10.3389/
+fenvs.2014.00053 .
+[104] Choudhury FK, Rivero RM, Blumwald E, Mittler R. Reactive oxygen species,
+abiotic stress and stress combination. Plant J 2017;90:856–67. https://doi.
+org/10.1111/tpj.13299 .
+[105] Apel K, Hirt H. Reactive oxygen species: Metabolism, oxidative stress, and
+signal transduction. Annu Rev Plant Biol 2004;55:373–99. https://doi.org/
+10.1146/annurev.arplant.55.031903.141701 .
+[106] Estrada B, Aroca R, Barea JM, Ruiz-Lozano JM. Native arbuscular mycorrhizal
+fungi isolated from a saline habitat improved maize antioxidant systems and
+plant tolerance to salinity. Plant Sci 2013;201–202:42–51. https://doi.org/
+10.1016/j.plantsci.2012.11.009 .
+[107] Estrada B, Aroca R, Maathuis FJM, Barea JM, Ruiz-Lozano JM. Arbuscular
+mycorrhizal fungi native from a Mediterranean saline area enhance maize
+tolerance to salinity through improved ion homeostasis. Plant Cell Environ
+2013;36:1771–82. https://doi.org/10.1111/pce.12082 .
+[108] Andres-Barrao C, Alzubaidy H, Jalal R, Mariappan KG, De Zelicourt A, Bokhari
+A, et al. Coordinated bacterial and plant sulfur metabolism in Enterobacter sp.
+SA187-induced plant salt stress tolerance. Proceedings of the National
+Academy of Sciences of the United States of America 2021;118:1–12.
+10.1073/pnas.2107417118.
+[109] Chatterjee P, Samaddar S, Niinemets Ü, Sa TM. Brevibacterium linens RS16
+confers salt tolerance to Oryza sativa genotypes by regulating antioxidant
+defense and H+ATPase activity. Microbiol Res 2018;215:89–101. https://doi.
+org/10.1016/j.micres.2018.06.007 .
+[110] Chen J, Zhang H, Zhang X, Tang M. Arbuscular mycorrhizal symbiosis
+alleviates salt stress in black locust through improved photosynthesis, water
+status, and K+/Na+homeostasis. Front Plant Sci 2017;8:1–14. https://doi.org/
+10.3389/fpls.2017.01739 .
+[111] Bishopp A, Benková E, Helariutta Y. Sending mixed messages: Auxin-
+cytokinin crosstalk in roots. Curr Opin Plant Biol 2011;14:10–6. https://doi.
+org/10.1016/j.pbi.2010.08.014 .
+[112] Barnawal D, Bharti N, Pandey SS, Pandey A, Chanotiya CS, Kalra A. Plant
+growth-promoting rhizobacteria enhance wheat salt and drought stress
+tolerance by altering endogenous phytohormone levels and TaCTR1/TaDREB2expression. Physiol Plant 2017;161:502–14. https://doi.org/10.1111/
+ppl.12614 .
+[113] Li Y, Shao J, Xie Y, Jia L, Fu Y, Xu Z, et al. Volatile compounds from beneﬁcial
+rhizobacteria Bacillus spp. promote periodic lateral root development in
+Arabidopsis . Plant Cell Environ 2021;44:1663–78. https://doi.org/10.1111/
+pce.14021 .
+[114] Jaroszuk-S ´ciseł J, Tys ´kiewicz R, Nowak A, Ozimek E, Majewska M, Hanaka A,
+et al. Phytohormones (Auxin, Gibberellin) and ACC deaminase in vitro
+synthesized by the mycoparasitic Trichoderma DEMTkZ3A0 strain and
+changes in the level of auxin and plant resistance markers in wheat
+seedlings inoculated with this strain conidia. Int J Mol Sci 2019;20:E4923.
+https://doi.org/10.3390/ijms20194923 .
+[115] Kazan K. Diverse roles of jasmonates and ethylene in abiotic stress tolerance.
+Trends Plant Sci 2015;20:219–29. https://doi.org/10.1016/j.
+tplants.2015.02.001 .
+[116] Gamalero E, Glick BR. Bacterial modulation of plant ethylene levels. Plant
+Physiol 2015;169:13–22. https://doi.org/10.1104/pp.15.00284 .
+[117] Tavares MJ, Nascimento FX, Glick BR, Rossi MJ. The expression of an
+exogenous ACC deaminase by the endophyte Serratia grimesii BXF1
+promotes the early nodulation and growth of common bean. Lett Appl
+Microbiol 2018;66:252–9. https://doi.org/10.1111/lam.12847 .
+[118] Singh RP, Jha PN. The PGPR Stenotrophomonas maltophilia SBP-9 augments
+resistance against biotic and abiotic stress in wheat plants. Frontiers in
+Microbiology 2017;8:1945–1945. 10.3389/fmicb.2017.01945.
+[119] Glick BR. The enhancement of plant growth by free-living bacteria. Can J
+Microbiol 1995;41:109–17. https://doi.org/10.1139/m95-015 .
+[120] Heydarian Z, Gruber M, Glick BR, Hegedus DD. Gene expression patterns in
+roots of Camelina sativa with enhanced salinity tolerance arising from
+inoculation of soil with plant growth promoting bacteria producing 1-aminocyclopropane-1-carboxylate deaminase or expression the
+corresponding acds gene. Front Microbiol 2018;9:1–15. https://doi.org/
+10.3389/fmicb.2018.01297 .
+[121] Yoolong S, Kruasuwan W, Thanh Ph ạm HT, Jaemsaeng R, Jantasuriyarat C,
+Thamchaipenet A. Modulation of salt tolerance in Thai jasmine rice ( Oryza
+sativa L. cv. KDML105) by Streptomyces venezuelae ATCC 10712 expressing
+ACC deaminase. Sci Rep 2019;9:1–10. https://doi.org/10.1038/s41598-018-
+37987-5 .
+[122] Loo E-P-I, Tajima Y, Yamada K, Kido S, Hirase T, Ariga H, et al. Recognition of
+microbe- and damage-associated molecular patterns by leucine-rich repeat
+pattern recognition receptor kinases confers salt tolerance in plants.
+Molecular Plant-Microbe Interactions/C2102022;35(7):554–66. https://doi.org/
+10.1094/mpmi-07-21-0185-ﬁ .
+[123] Rolli E, de Zélicourt A, Alzubaidy H, Karampelias M, Parween S, Rayapuram N,
+et al. The Lys-motif receptor LYK4 mediates Enterobacter sp. SA187 triggered
+salt tolerance in Arabidopsis thaliana . Environ Microbiol 2022;24:223–39.
+https://doi.org/10.1111/1462-2920.15839 .Y. Liu, W. Xun, L. Chen et al. Computational and Structural Biotechnology Journal 20 (2022) 6543–6551
+6551

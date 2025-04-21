@@ -1,0 +1,2044 @@
+Yao  et al. Bioresources and Bioprocessing           (2023) 10:82  
+https://doi.org/10.1186/s40643-023-00704-w
+REVIEW Open Access
+© The Author(s) 2023. Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which 
+permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the 
+original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or 
+other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line 
+to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory 
+regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this 
+licence, visit http:// creat iveco mmons. org/ licen ses/ by/4. 0/.Bioresources and Bioprocessing
+Microbial- derived salt -tolerant proteases 
+and their applications in high-salt traditional 
+soybean fermented foods: a review
+Hongli Yao1,3,6†, Shuangping Liu1,2,3,4,5†, Tiantian Liu1,3,4,5, Dongliang Ren1,3, Zhilei Zhou1,2,3,4,5, Qilin Yang1,3 and 
+Jian Mao1,2,3,4,5*   
+Abstract 
+Different microorganisms can produce different proteases, which can adapt to different industrial requirements 
+such as pH, temperature, and pressure. Salt-tolerant proteases (STPs) from microorganisms exhibit higher salt toler -
+ance, wider adaptability, and more efficient catalytic ability under extreme conditions compared to conventional 
+proteases. These unique enzymes hold great promise for applications in various industries including food, medicine, 
+environmental protection, agriculture, detergents, dyes, and others. Scientific studies on microbial-derived STPs 
+have been widely reported, but there has been little systematic review of microbial-derived STPs and their applica-
+tion in high-salt conventional soybean fermentable foods. This review presents the STP-producing microbial species 
+and their selection methods, and summarizes and analyzes the salt tolerance mechanisms of the microorganisms. It 
+also outlines various techniques for the isolation and purification of STPs from microorganisms and discusses the salt 
+tolerance mechanisms of STPs. Furthermore, this review demonstrates the contribution of modern biotechnology 
+in the screening of novel microbial-derived STPs and their improvement in salt tolerance. It highlights the potential 
+applications and commercial value of salt-tolerant microorganisms and STPs in high-salt traditional soy fermented 
+foods. The review ends with concluding remarks on the challenges and future directions for microbial-derived STPs. 
+This review provides valuable insights into the separation, purification, performance enhancement, and application 
+of microbial-derived STPs in traditional fermented foods.
+Keywords  Application, Mechanism, Microorganism, Modern biotechnology, Salt tolerance, Salt-tolerant protease, 
+Soy fermentable foods
+†Hongli Yao and Shuangping Liu contributed equally to this work.
+*Correspondence:
+Jian Mao
+maojian@jiangnan.edu.cn
+Full list of author information is available at the end of the articlePage 2 of 23 Yao et al. Bioresources and Bioprocessing           (2023) 10:82 
+Graphical Abstract
+Introduction
+Proteases are a class of enzymes that hydrolyze pro -
+teins, breaking them down into smaller peptides and 
+amino acids (Aguilar and Sato 2018; Razzaq et al. 2019). 
+Depending on the peptide bond hydrolyzed, proteases 
+can be divided into exopeptidases, which cleave the N- 
+or C-terminal peptide bond, and endopeptidases, which 
+cleave the internal peptide bond (Boon et al. 2020; Mat -
+kawala et  al. 2021). Depending on the optimal pH for 
+their action, they can be classified as alkaline, acidic, or 
+neutral proteases (Matkawala et  al. 2021). Additionally, 
+they can be divided into serine proteases, sulfhydryl pro -
+teases, metalloproteases, and acid proteases, according 
+to the group in which they exert their hydrolytic action 
+(Matkawala et  al. 2021). Remarkably, certain proteases 
+demonstrate high selectivity by selectively hydrolyz -
+ing specific peptide bonds in protein substrates. Micro -
+organisms, including bacteria, fungi, and archaea, have 
+the ability to secrete various types of proteases (Agui -
+lar and Sato 2018; Razzaq et al. 2019). For example, the 
+bacterium Bacillus cereus is known to secrete alkaline 
+proteases (Orhan et  al. 2005), while the fungus Asper -
+gillus niger is capable of secreting acidic proteases (Wei 
+et  al. 2023). These microbial-derived proteases possess 
+advantageous characteristics, including high efficiency, 
+stability, and ease of purification. Consequently, they are 
+widely employed in various industries such as food, feed, pharmaceutical, and leather processing (Chanalia et  al. 
+2011; Matkawala et al. 2021; Rao et al. 1998).
+Due to their own variability, microorganisms may be 
+able to produce proteases that are adapted to different 
+pH values, temperatures, pressures, and other indus -
+trial requirements (Naveed et al. 2021). In some specific 
+environments (such as high salt), common proteases 
+tend to lose their activity, which limits their applica -
+tion. Salt-tolerant proteases (STPs) are known for their 
+high salt tolerance, and are able to withstand concentra -
+tions of approximately 3.0 M NaCl or higher (Gao et al. 
+2019, 2018). They are often found in organisms adapted 
+to high-salt environments. STPs are more promising 
+for industrial applications due to their higher salt tol -
+erance, wider adaptability, and more efficient catalytic 
+ability under extreme conditions compared to common 
+proteases. In the food processing industry, STPs can be 
+used in high-salt foods, such as soy sauce, curd, shrimp 
+paste, and sausages (Gao et al. 2019, 2018; Naveed et al. 
+2021). Their contribution lies in their ability to hydrolyze 
+proteins, thereby improving the taste, flavor, and over -
+all quality of such foods. In the environmental industry, 
+STPs can help improve water quality by breaking down 
+complex organic compounds in industrial wastewater 
+into simpler, more easily removable forms (Anh et  al. 
+2021; Sivaprakasam et  al. 2011). In addition, STPs have Page 3 of 23
+ Yao et al. Bioresources and Bioprocessing           (2023) 10:82 
+ 
+shown potential as antifungal agents in agriculture, food 
+production, and biotechnology (Essghaier et  al. 2009). 
+They have also been used in detergent formulations for 
+the effective removal of blood, egg, grass, and ketchup 
+stains (Mokashe et al. 2017). Given their distinctive func -
+tional properties and potential commercial value, STPs 
+have attracted considerable attention from researchers.
+In recent years, there has been an increasing number 
+of studies on microbial-derived STPs. These studies have 
+focused on screening or identifying novel salt-tolerant 
+microorganisms from different ecological environments 
+using various modern techniques to uncover novel STPs 
+with superior properties (Gao et al. 2020; Nishikawa et al. 
+2022; Sun et al. 2020; Takenaka et al. 2022). The catalytic 
+mechanisms of STPs have been intensively studied using 
+molecular biology and protein chemistry techniques to 
+reveal their unique catalytic properties in high-salt envi -
+ronments (Gao et  al. 2019). Using protein modification 
+and computer-aided simulation techniques, research -
+ers have successfully modified protease molecules to 
+enhance the salt tolerance of the enzyme itself (Senba 
+et al. 2023; Takenaka et al. 2022; Takita et al. 2008). Novel 
+STP preparations have been developed and are being 
+tested for applications in biopharmaceuticals, food pro -
+cessing, environmental treatment, and other fields (Fu 
+et al. 2008; Hao et al. 2022; Zhang et al. 2019). In addition, 
+optimizing the growth conditions of enzyme-producing 
+microorganisms and developing effective isolation and 
+purification protocols are important research directions 
+for researchers to obtain novel STPs with potential func -
+tional value and capable of meeting industrial demands 
+(Setyorini et al. 2006; Sivaprakasam et al. 2011; Vidyasa -
+gar et  al. 2007). However, despite numerous scientific 
+reports on the discovery of novel STPs, improvement in 
+STP activity and yield, exploration of STP mechanisms, 
+and expansion of commercial applications (An et al. 2023; 
+Banerjee and Ray 2017; Karan et al. 2012; Mokashe et al. 
+2018), a systematic review of microbial-derived STPs 
+and their application to traditional high-salt soy-based 
+fermented foods is notably absent. This comprehensive 
+review introduces the STP-producing microbial species 
+and their selection methods, and summarizes and ana -
+lyzes the salt tolerance mechanisms of the microorgan -
+isms. It also presents different methods for the isolation 
+and purification of STPs and discusses the mechanisms 
+underlying their salt tolerance. In addition, it highlights 
+the significant contribution of modern biotechnology in 
+enhancing salt tolerance in STPs. Importantly, this review 
+emphasizes the wide range of applications of STPs in 
+high-salt traditional soybean fermented foods and offers 
+insights into the future development of microbial-derived 
+STPs. By consolidating this information, this review aims 
+to provide a valuable resource for researchers to identify gaps in knowledge concerning the process of isolating 
+and purifying microbial-derived STPs, improving their 
+performance, and exploring their applications in tradi -
+tional fermented foods.
+Study on microorganisms producing STPs
+Microorganisms producing STPs
+Microorganisms producing STPs primarily include bac -
+teria, fungi, and some archaea. Table  1 collects infor -
+mation on some microbial-derived STPs reported since 
+2015. Notably, the strains have been isolated from vari -
+ous high-salt environments such as saline soils, seawa -
+ter, lakes, and marine sediments, and used in various 
+industries (Daoud et  al. 2018; Flores-Santos et  al. 2020; 
+Foophow et al. 2022; Yang et al. 2020). STPs produced by 
+different microorganisms differ not only in salt tolerance, 
+but also in structure and enzymatic properties such as 
+the optimum temperature, pH, and metal ion inhibition. 
+These differences in structure and properties directly 
+influence the range of industrial applications for these 
+STPs (Chung et  al. 2022; Falkenberg et  al. 2022; Yang 
+et al. 2020). The alkaline protease from the halotolerant 
+alkaliphilic Bacillus  sp. strain NPST-AK15 can remain sta -
+ble in NaCl up to 20% (w/v). The optimum pH and tem -
+perature for the enzyme are 10.5 and 60 °C, respectively. 
+When pre-incubated with some commercial detergents 
+at 40 °C for 1 h, it retains the initial activity of 75–100%. 
+These results suggest that it may play a significant role in 
+commercial detergents (Ibrahim et  al. 2015a). Similarly, 
+alkaline proteases used in detergent formulations have 
+been reported to be active at concentrations up to 4  M 
+NaCl, with enhanced activity in the presence of  CaCl2, 
+KCl, and  MnCl2 (Mokashe et  al. 2017). However, the 
+optimum pH and temperature are 8.5 and 55 °C, respec -
+tively, which are lower than those of the alkaline protease 
+from Bacillus  sp. strain NPST-AK15. Most of the reported 
+STPs from microorganisms are alkaline proteases, while 
+reports of salt-tolerant neutral proteases and acid pro -
+teases are few (Table  1). The salt-tolerant neutral pro -
+tease from Aspergillus oryzae CICIM F0899 has shown 
+high salt tolerance in 18% NaCl and can maintain 72% of 
+its initial activity after 14 days (Wang et al. 2013). It has 
+promising applications in soy sauce production. The acid 
+protease from Rhodotorula mucilaginosa L7 can main -
+tain 60% activity in 3.5  M NaCl concentration, and its 
+optimum pH and temperature are 5.0 and 50 °C, respec -
+tively (Lario et al. 2015). This protease may lead to poten -
+tial biotechnological applications.
+Table 1
+Halophytic bacteria, known for their ability to thrive 
+and reproduce in high-salt environments, have been Page 4 of 23 Yao et al. Bioresources and Bioprocessing           (2023) 10:82 
+Table 1 Some STPs from microorganisms and their potential applications reported in recent 8 years
+Microbial source Microbial type Microbial name Type of protease Potential application References
+Hypersaline soda lakes Bacterium Bacillus sp. NPST-AK15 Alkaline serine protease Laundry and pharma-
+ceutical industriesIbrahim et al. 2015a
+Seawater of South China 
+SeaBacterium Pseudoalteromonas sp. 
+129-1Alkaline protease Laundry detergent 
+and non-toxic anti-
+biofilm agentWu et al. 2015
+Hypersaline lake Bacterium Bacillus iranensis strain 
+X5BHalo-alkaline serine 
+protease– Ghafoori et al. 2016
+Antarctic marine alga Yeast Rhodotorula mucilagi-
+nosa L7Acid protease Biotechnology industry Lario et al. 2015
+Water and sediment 
+samplesBacterium Bacillus agaradhaerens 
+AK-RAlkaline protease Laundry and pharma-
+ceuticals industriesIbrahim et al. 2016
+Mixed water–sediment 
+samplesBacterium Alkalibacillus sp. NM-Da2 Alkalithermophilic 
+proteaseBiotechnology and phar -
+maceutical industriesAbdel-Hamed et al. 2016
+Fish sauce Fungus Penicillium citrinum YL-1 Alkaline serine protease Fish sauce fermentation Xie et al. 2016
+Çankırı salt mine 
+and Lake TuzArchaeon Haloarcula sp.  TG1 Acid protease Biotechnology industry Abanoz et al. 2017
+Chinese marine solar 
+salternsArchaeon Halogranum rubrum Alkaline protease Fish sauce Gao et al. 2017
+Saline soil Bacterium Salinicoccus sp. UN-12 Alkaline Protease Detergent Mokashe et al. 2017
+Garden soil Fungus Aspergillus niger WA 2017 Alkaline protease The silver recovery 
+from used X-ray
+filmWahab and Ahmed 2018
+Guangdong Institute 
+of MicrobiologyFungus Aspergillus oryzae 3.042 Alkaline protease Fermented soybean food Gao et al. 2019
+Guangdong Institute 
+of MicrobiologyFungus A. oryzae 3.042 Aspartyl aminopepti-
+daseFermented soybean 
+productsGao et al. 2018
+The top-layer 
+of the highly saline soda 
+limeBacterium Bacillus luteus H11 Halo-alkaline protease Food, detergent, envi-
+ronmental bioremedia-
+tion, and pharmaceutical 
+industriesKalwasinska et al. 2018
+Marine sediment 
+samplesBacterium Vibrio sp. LA-05 Metalloprotease Detergent formulations Zhang et al. 2018
+Saline and high-salt soil 
+and waterBacterium Bacillus halodurans strain 
+ US193Halo-alkaline protease Detergents Daoud et al. 2018
+Salted fish Bacterium Virgibacillus sp. CD6 Protease Detergents Lam et al. 2018
+Egyptian soda lakes Bacterium Salipaludibacillus agarad-
+haerens strain AK-RAlkaline serine protease Laundry detergent 
+industryIbrahim et al. 2019
+Seawater Bacterium Barrientosiimonas sp.  V9 Extremophilic proteases Laundry, leather process-
+ing, medicine, food, 
+and waste managementFlores-Santos et al. 2020
+Fish sauce Bacterium Bacillus velezensis  SW5 Alkaline serine protease Medical treatment Yang et al. 2020
+Shrimp paste and Fresh 
+shrimpBacterium Virgibacillus halodenitrifi-
+cans ST-1Protease Fermentation of shrimp 
+pasteLiu et al. 2020
+Sediments of the Lake 
+OubeïraBacterium Gracilibacillus boraciitol-
+erans strain LO15Serine alkaline protease Detergent Ouelhadj et al. 2020
+The rocks Haloarcheon Halococcus sp. strain 
+GUGFAWS-3Metalloproteinase Various biotechnologi-
+cal and bioremediation 
+applicationsGaonkar and Furtado 
+2020
+The Okha site Actinomycete Nocardiopsis alba strain 
+OM- 5Alkaline serine protease Detergent, bioremedia-
+tion, and foodChauhan et al. 2021
+China General Microbio -
+logical Culture Collection 
+CenterArchaeon Halococcus salifodinae Serine protease Laundry detergents,
+leather products, phar -
+maceuticals, diagnostics 
+and food productsHou et al. 2021
+Mangrove forest sedi-
+mentsBacterium Bacillus licheniformis 
+KB111Halo-alkaline proteases – Foophow et al. 2022Page 5 of 23
+ Yao et al. Bioresources and Bioprocessing           (2023) 10:82 
+ 
+extensively studied for their ability to produce STPs. 
+These bacteria include a wide variety of genera, such as 
+Bacillus , Halophilus, Pseudomonas, Vibrio, Halococ -
+cus, Salinobacterium , Nocardia , and Salipaludibacillus  
+(Lee et al. 2010). Among these, Bacillus  stands out as an 
+important source of STPs, and a large number of puri -
+fied and characterized STPs originate from this genus 
+(Ibrahim et  al. 2015b). A new halotolerant alkaliphilic 
+strain of Bacillus , specifically Bacillus  sp. strain NPST-
+AK15, has been isolated from a high-salt lake (Ibrahim 
+et al. 2015b). This strain has shown potential to produce 
+an extracellular serine protease, which further expands 
+the range of STP species available for study and appli -
+cation. A recently discovered extracellular haloprotease 
+has been successfully isolated and purified from Bacillus 
+licheniformis KB111 (Foophow et  al. 2022). With their 
+distinctive enzymatic properties, these proteases have 
+found a wide range of applications in diverse industries 
+including detergents, leather production, food process -
+ing, medicine, textiles, and environmental protection. For 
+instance, the alkaline serine protease isolated and puri -
+fied from Bacillus velezensis  SW5 exhibits remarkable 
+fibrinolytic activity, which is expected to achieve efficient 
+fibrin hydrolysis in medical treatment (Yang et al. 2020). 
+Additionally, a novel halogen- and heat-resistant alka -
+line protease derived from Bacillus agaradhaerens strain 
+AK-R has been purified, which may have potential appli -
+cability in laundry and pharmaceutical operations due 
+to its exceptional tolerance to temperature, pH, and salt 
+concentration (Ibrahim et al. 2016).
+Fungi represent a significant source of STPs, with 
+notable species including A. niger, A. oryzae, Aspergillus reticularis, Penicillium citrus, and Penicillium nalgio -
+vense (Foophow et  al. 2022; Lee et  al. 2010). Many of 
+these fungus-derived STPs have demonstrated potential 
+applications in traditional high-salt fermented foods, 
+such as soy sauce, shrimp paste, and fish paste. One 
+promising example is the halotolerant alkaline serine 
+protease derived from Penicillium citrinum YL-1, which 
+exhibits superior salt tolerance compared to proteases 
+from other bacteria known for their high salt tolerance. 
+This characteristic makes it a promising candidate for 
+the hydrolysis of fish protein during fish sauce fermen -
+tation (Xie et al. 2016). A. oryzae 3.042, a strain isolated 
+from traditional high-salt foods, has been found to pro -
+duce not only alkaline proteases (Gao et al. 2019) but also 
+salt-tolerant neutral protease (Wang et  al. 2013), acid 
+protease (Lee et al. 2010), and aspartate aminopeptidase 
+(Gao et al. 2018). These enzymes play a crucial role in the 
+utilization of fermented food proteins and the produc -
+tion of flavor compounds. Similarly, the fungus A. niger, 
+capable of producing these enzymes simultaneously, has 
+been employed in high-salt traditional foods alongside A. 
+oryzae to enhance product quality and flavor (Leng and 
+Xu 2011; Wahab and Ahmed 2018; Wang et al. 2021c ).
+Archaea has emerged as a novel and promising source 
+of STPs. With increasing research on archaea, it has been 
+discovered that many of these microorganisms can pro -
+duce STPs. These archaea include Haloarcula, Halococ -
+cus, and others (Abanoz et al. 2017; Gaonkar and Furtado 
+2020; Hou et al. 2021). Haloarcula sp.  TG1, isolated from 
+salt mines and salt lakes, has been found to produce 
+proteases with maximum activity at pH 4.0, 50  °C, and 
+4  M NaCl (Abanoz et  al. 2017). Moreover, Halococcus Table 1 (continued)
+Microbial source Microbial type Microbial name Type of protease Potential application References
+German collection 
+of microorganisms 
+and cell cultures GmbHBacterium Alkalihalobacillus okhen-
+sis Kh10-101 TAlkaline subtilisin Biotechnology industry Falkenberg et al. 2022
+Sea water from Coastal 
+Gujarat and Diu 
+in the Western IndiaBacterium Haloalkaliphilic bacterium 
+D-15–9Alkaline proteases Detergent, leather pro -
+cessing, silver recovery, 
+pharmaceutical usage, 
+food processing, peptide 
+synthesis, and waste 
+treatmentRaval et al. 2022
+Sea water from Coastal 
+Gujarat and Diu 
+in the Western IndiaBacterium Oceanobacillus 
+onchorynchii Mi-10-54Alkaline proteases Detergent, leather pro -
+cessing, silver recovery, 
+pharmaceutical usage, 
+food processing, peptide 
+synthesis, and waste 
+treatmentRaval et al. 2022
+Seawater Fungus Aspergillus reticulatus 
+strain SK1-1Halophilic proteases Food processing, deter -
+gents,
+textiles, and waste treat -
+mentChung et al. 2022
+– represents that no relevant information is involved in the referencePage 6 of 23 Yao et al. Bioresources and Bioprocessing           (2023) 10:82 
+agarilyticus  GUGFAWS-3, isolated from a marine white 
+sponge, can produce two halo-extremozymes: pro -
+tease and lipase. The optimal activity of the protease is 
+pH 7.0, 70  °C, and 3  M NaCl. Notably, this represents 
+the first report of halophilic neutral protease produc -
+tion within the Halococcus genus (Gaonkar and Furtado 
+2020). Although the production of STPs in archaea has 
+been less extensively studied than in other microorgan -
+isms, the investigation of extracellular proteases in salt-
+tolerant archaea holds great potential to expand the field 
+of protease applications and contribute to the exploration 
+of novel STPs.
+Screening methods for microorganisms producing STPs
+Traditional methods for selecting STP-producing micro -
+organisms rely primarily on the specific microbial pro -
+duction environment. These environments include highly 
+saline habitats such as oceans, salt lakes, salt farms, saline 
+soils, and salt-containing foods. Isolation of salt-toler -
+ant microorganisms from these environments requires 
+many steps such as sample collection, isolation of strains, 
+morphological characteristics and molecular sequence 
+identification of strains (Abanoz et  al. 2017). To obtain 
+excellent STP-producing strains, additional steps such as 
+optimizing enzyme production conditions and evaluating 
+the enzyme production capacity of the microorganism 
+based on the enzyme activity index have been imple -
+mented (Wahab and Ahmed 2018; Zhang et  al. 2023). 
+While microorganisms obtained through conventional 
+screening methods exhibit high salt tolerance and sta -
+ble enzyme production capacity, limitations such as low 
+screening efficiency and time consumption may restrict 
+their widespread application.
+In order to obtain organisms with enhanced pro -
+tease production capacity, various methods have been 
+employed to screen for strains exhibiting high levels 
+of STP production, including UV mutagenesis, chemi -
+cal reagent mutagenesis, room-temperature plasma 
+mutagenesis, and genetic engineering. For example, by 
+mutagenesis of A. oryzae 3.042 at room temperature 
+and atmospheric pressure, a mutant strain, designated 
+H8, has been obtained with significant activity of neu -
+tral protease, alkaline protease, and aspartyl aminopepti -
+dase (Gao et  al. 2020). The incorporation of this strain 
+in soy sauce fermentation processes has led to signifi -
+cant improvements in peptide and amino acid content. 
+The serine protease gene isp  from Bacillus  sp.  LCB10 
+has been cloned and expressed in Escherichia coli using 
+genetic engineering techniques. The resulting serine 
+protease demonstrates high tolerance to NaCl, exhib -
+iting stable activity in the presence of 1–5% NaCl and 
+retaining 86% of its activity in the presence of 7% NaCl 
+(Hou et  al. 2019). Additionally, the gene encoding the extracellular protease, sptA, has been cloned from the 
+halophilic archaeon Natrinema sp. J7 and successfully 
+expressed in Haloferax volcanii WFD11 (Shi et al. 2006). 
+The resultant recombinant enzyme exhibits remark -
+able stability, retaining activity even in the presence of 
+2.5  M NaCl at 50  °C and pH 8.0. While these methods 
+significantly enhance the likelihood of attaining excellent 
+protease-producing strains, certain challenges such as 
+screening limitations and demanding technical require -
+ments are also encountered. Screening processes rely -
+ing on wild-type strains may suffer from screening blind 
+spots and involve high workloads.
+In nature, microorganisms are categorized as either 
+culturable and unculturable, especially those living in 
+extreme environments, which may produce STPs with 
+special structures and functions (Wang et al. 2021a). To 
+increase the likelihood of discovering novel secondary 
+metabolites even from unculturable microorganisms, 
+metagenomics is employed to analyze the functional 
+potential of DNA extracted from environmental samples. 
+For instance, a metagenomic library has been constructed 
+from the DNA of the Chumathang hot spring sediment, 
+leading to the identification of heat-resistant, basophilic, 
+and oxidative-stable serine proteases (Singh et al. 2015). 
+Using a metagenomic screening approach, another serine 
+protease gene has been cloned from a saline habitat and 
+is active in saline conditions (Purohit and Singh 2013). 
+A novel thermostable serine protease has been obtained 
+from a metagenomic library derived from marine sedi -
+ments in the East China Sea, which not only shows good 
+thermal activity and stability, but also has strong salt tol -
+erance (40% residual activity when kept in 3  M NaCl) 
+(Sun et  al. 2020). With the advancement of bioinfor -
+matics, there has been a growing number of studies on 
+integrated metagenomic approaches such as metagen -
+omics and metaproteomics to assist in the screening of 
+STP-producing microorganisms (Busche et al. 2018; Gar -
+cia-Moyano et al. 2021; Yang et al. 2022). Using metagen -
+omics and peptidomics analysis, 138 umami peptides 
+and 6 kinds of proteases from 35 microbial genera have 
+been identified from traditional fish fermentation (Yang 
+et al. 2022). The role of cellular proteases in Streptomy -
+ces protein secretion has been identified by multi-omics 
+and targeted approaches, providing the first multi-omics 
+techniques effort to characterize the complex regulatory 
+mechanisms of Streptomyces protein secretion (Busche 
+et al. 2018). Multi-omics techniques can help scientists to 
+fully understand the genetic, transcriptional, protein, and 
+metabolic information of microorganisms, thereby aid -
+ing microbial breeding and optimization (Aguiar-Pulido 
+et  al. 2016; Ge et  al. 2021; Wu et  al. 2022). A process 
+framework for screening STP-producing microorganisms 
+using multi-omics techniques is shown in Fig.  1. Based Page 7 of 23
+ Yao et al. Bioresources and Bioprocessing           (2023) 10:82 
+ 
+Fig. 1 A process framework for screening STP-producing microorganisms using multi-omics techniques
+Fig. 2 Several salt tolerance mechanisms of some salt-tolerant bacteriaPage 8 of 23 Yao et al. Bioresources and Bioprocessing           (2023) 10:82 
+on gene, protein and enzyme activity, microorganisms 
+capable of producing STPs can be rapidly screened from 
+a large number of samples using modern bioinformatics 
+techniques. In summary, the breeding of STP-producing 
+microorganisms requires the combined use of physi -
+cal, chemical, biological, and information technologies, 
+as well as other technological means. In the future, it is 
+worth discussing how these techniques can be used to 
+quickly, accurately, and efficiently select microorganisms 
+producing STPs.
+Salt‑tolerant mechanisms of microorganisms
+Microorganisms can adapt to a wide range of NaCl con -
+centrations, and their NaCl tolerance may be far greater 
+than that of any other organism (Vreeland 1987). Halo -
+philic/halotolerant microorganisms that are able to 
+hydrolyze proteins are an important source of STPs. 
+Halophilic/halotolerant microorganisms are well adapted 
+to higher salt concentrations, and the enzymes they pro -
+duce must remain active in high-salinity environments 
+(Mokashe et al. 2018). Several studies have been reported 
+on the salt-tolerant mechanisms of microorganisms 
+(Chen et  al. 2021; Kurt-Kizildogan et  al. 2017). Halo -
+philic microorganisms prefer high-salt concentrations to 
+survive and reproduce compared to halotolerant micro -
+organisms, but this review does not strictly distinguish 
+the salt-tolerant mechanisms between halophilic and 
+halotolerant microorganisms. In general, these microor -
+ganisms adapt to different salt concentrations through 
+rejection, secretion, and intracellular accumulation, and 
+these processes have been attributed to multiple mech -
+anisms (Edbeib et  al. 2016; Vreeland 1987). Several salt 
+tolerance mechanisms for some salt-tolerant bacteria are 
+shown in Fig.  2. These salt-tolerant mechanisms are sum -
+marized below.
+Adaptive strategies employed by microorganisms for 
+achieving salt tolerance involve the differential expres -
+sion of gene regulatory proteins. Under the stress of 
+a highly osmotic environment, these microorganisms 
+regulate and orchestrate protein expression by up-regu -
+lating, down-regulating, and replicating pertinent genes. 
+Such proteins include membrane transporters, oxidative 
+stress proteins, ferritin, as well as various enzymes, such 
+as dehydrogenase, synthase, and salt-tolerant enzymes 
+(Chen et al. 2021; Soppa 2006). A transcriptional analy -
+sis of low- and high-salt genes in the extremely halophilic 
+archaea Halolalama  sp. YKT1, isolated from a salt mine 
+in Turkey, has revealed that 2149 genes are up-regulated 
+and 1638 genes are down-regulated under high-salt con -
+ditions (Kurt-Kizildogan et al. 2017). Notably, the upreg -
+ulation of genes associated with membrane transporters, 
+the CRISPR–Cas system, osmotic protection solutes, 
+oxidative stress proteins, and iron metabolism is closely linked to salt tolerance. This suggests that salt-tolerant 
+microorganisms can respond to and resist high-salt 
+environments by up-regulating the genes encoding their 
+transporters and transport systems, which is supported 
+by similar reports (Zeng et  al. 2022). Up-regulation or 
+expression of genes encoding STPs can improve the salt 
+tolerance of cells and prevent the cells from being killed 
+by salt. A salt stress-responsive cysteine protease gene 
+from Salix matsudana has been cloned and expressed 
+in E. coli, which leads to the enhancement of salt toler -
+ance in E. coli (Zheng et al. 2018). By comparing the ser -
+ine protease genes of the halotolerant cyanobacterium 
+Halothece sp. PCC7418 and the freshwater cyanobac -
+terium Synechococcus elongatus PCC7942, it has been 
+shown that several serine protease genes of the halotol -
+erant cyanobacterium Halothece sp. PCC7418 were dras -
+tically up-regulated under salt with high concentration 
+but remained unchanged under salt with low concentra -
+tion (Patipong et al. 2021). These results suggest that the 
+genes encoding STPs may be associated with salt toler -
+ance in microorganisms.
+The adaptation strategy of salt on cell surfaces has also 
+been suggested as one of the reasons for microbial salt 
+tolerance (Mokashe et al. 2018). It has been shown that 
+the fraction of anionic phospholipids in the cell mem -
+brane of halophilic bacteria gradually increases with 
+higher salinity levels, resulting in an additional mem -
+brane surface charge that helps to maintain the hydra -
+tion state of the plasma membrane (Mokashe et al. 2018). 
+Compared with the changes in cell membrane composi -
+tion of yeast tolerant to low and high salt concentrations, 
+it has been found that changes in the composition of sat -
+urated and unsaturated fatty acids in highly salt-tolerant 
+yeast lead to a decrease in membrane permeability and 
+mobility, which may contribute to salt tolerance (Qi et al. 
+2014). Glycerol is commonly used as a microbial protec -
+tion agent. Under high salt stress, engineered yeast can 
+produce abundant glycerol and secrete it extracellularly. 
+The production of microbial extracellular polysaccha -
+rides (EPS) can modify the physical and chemical prop -
+erties of the membrane, including surface charge and 
+hydrophobicity, facilitating the active transport and diffu -
+sion of microorganisms and ultimately enhancing salt tol -
+erance. Current stimulation can promote the production 
+of low molecular weight EPS, which is beneficial for the 
+salt tolerance of microorganisms (Feng et al. 2022). Strain 
+JZ-GX1 can improve its salt tolerance by secreting large 
+amounts of EPS, which was secreted at 6983.9 mg/L at a 
+high salt concentration of 60% (Li et al. 2021a). Further -
+more, the addition of exogenous factors such as betaine 
+(Hu et al. 2020a), acyl homoserine lactone (Li et al. 2019), 
+and signal molecule autoinducer-2 (Gu et  al. 2021) has Page 9 of 23
+ Yao et al. Bioresources and Bioprocessing           (2023) 10:82 
+ 
+been demonstrated to stimulate EPS production and bio -
+film formation, promoting salt tolerance in cells.
+The salt-in strategy is one of the salt-tolerant strategies 
+of microorganisms. This is a process in which inorganic 
+salts (such as sodium and potassium ions) accumulate in 
+the cytoplasmic fluid and involves the entry and exit of 
+metal cations/H+ into the cell through membrane pro -
+teins (Mokashe et al. 2018). Salt-tolerant microorganisms 
+can respond to salt stress by up-regulating the  Na+/H+ 
+antiporter subunit mnhA-G (Zeng et al. 2022). The  Na+/
+H+ antiporter plays an important role in maintaining cel -
+lular pH and cation homeostasis. Microorganisms can 
+expel excess  Na+ from cells driven by ATP (Edbeib et al. 
+2016). Several anti-transporter genes have been reported 
+(Fujisawa et al. 2005). A CPD photolytic gene, PnPHR1, 
+has been isolated from the Antarctic moss, Pohlia nutans 
+(Wang et  al. 2021b). The gene enhances the salt toler -
+ance of the microbe by increasing the expression of a 
+high-affinity potassium transporter gene and a tono -
+plast-bound  Na+/H+ antiporter. In addition, salt-tolerant 
+microorganisms can temporarily increase their cytoplas -
+mic  K+ content and accumulate osmotic fluid as a more 
+persistent stress response to prevent water loss and sur -
+vive osmotic and ionic stress (Zheng et al. 2021). Most  K+ 
+transporters are unidirectional, and osmotic protection 
+of  K+ entry into cells can only be achieved by balancing 
+the negative charge of other small molecules (Lefebvre 
+and Moletta 2006). Several systems for maintaining  K+ 
+homeostasis in cells have been reported. These systems, 
+which maintain cell stability, play different roles in differ -
+ent media and transport processes of  K+ concentration 
+(Lefebvre and Moletta 2006).
+The accumulation of compatible solutes is one of the 
+most common salt tolerance mechanisms of microorgan -
+isms. In response to a high salt environment, microorgan -
+isms accumulate intracellular small molecule substances 
+through intracellular synthesis or direct acquisition from 
+the surrounding media to maintain cellular osmotic equi -
+librium. These substances are highly water-soluble mol -
+ecules, known as ’compatible solutes’ , including glycerol, 
+sugars, polyols, betaine, ectoine, hydroxyectoine, proline, 
+lysine, and glycine (Zhang et al. 2022d). Different micro -
+organisms may use one or more different compatible 
+solutes. The salt stress of marine myxobacteria, Plesio -
+cystis pacifica SIR-1 and Enhygromyxa salina SWB007, 
+shows that the former only depends on the accumula -
+tion of amino acids, while the latter uses hydroxyectoine 
+as the main compatible solute in addition to betaine 
+(Moghaddam et al. 2016; Zhang et al. 2022d). The genetic 
+code also confirms that only the latter has the biosynthe -
+sis capacity of betaine, ectoine, and hydroxyectoine. In 
+addition, microorganisms using the intracellular small 
+molecule compatible solute accumulation strategy are generally more flexible and can more easily adapt to pres -
+sure or salinity-induced mutation than those that use a 
+salt solution strategy (Kurt-Kizildogan et al. 2017). There 
+may be different mechanisms of salt tolerance between 
+halophilic and halotolerant microorganisms. Researchers 
+have discovered that strict halophilic bacteria employ the 
+salt-in and accumulation of compatible solutes strategies 
+for osmoregulation under high salt conditions. In con -
+trast, halotolerant bacteria utilize the compatible solute 
+accumulation strategy rather than the salt-in strategy to 
+resist salt stress (Vaidya et al. 2018).
+Study on microbial‑derived STPs
+Isolation and purification of STPs
+Separation and purification of STPs is a complex pro -
+cess. After obtaining suitable enzyme-producing condi -
+tions and selecting suitable separation and purification 
+methods, microbial cells need to be cultured to obtain 
+large quantities of the enzyme. Some information on the 
+purification and separation of microbial-derived STPs 
+and their enzymatic properties is collected in Table  2. 
+The steps involved in the isolation and purification of 
+proteases are slightly different due to the different posi -
+tions of proteases in the cell. For intracellular proteases, 
+microbial cells need to be physically or chemically bro -
+ken down to release intracellular proteases. Using the 
+above method, a large number of crude enzymes have 
+been obtained (Hou et  al. 2019). For extracellular pro -
+teases, culture media are usually collected directly and 
+crude enzyme solutions are obtained by concentration 
+and centrifugation (Tanasupawat et al. 2011). Salting-out, 
+dialysis, ion exchange chromatography, and gel filtration 
+chromatography are often used to enrich and purify pro -
+teases. The neutral protease with high salt tolerance from 
+A. oryzae CICIM F0899 has been purified by ammonium 
+sulfate precipitation, ion exchange chromatography, and 
+gel filtration chromatography (Wang et  al. 2013). The 
+total recovery of the enzyme is 2%, and the optimum pH 
+value and temperature are 7.0–9.0 and 50  °C, respec -
+tively. The protease shows high salt tolerance in 18% 
+NaCl, maintaining 72% of its initial activity after 14 days. 
+Similarly, a salt-tolerant alkaline protease has been iso -
+lated and purified from the culture medium of A. ory -
+zae 3.042 by ammonium sulfate precipitation, dialysis, 
+and gel filtration chromatography (Gao et al. 2019). The 
+optimum pH and temperature of the enzyme are 9.0 and 
+40 °C, respectively. After incubation with 3.0 M NaCl for 
+7 days, the relative enzyme activity remained above 20%. 
+The same method has been used for the separation and 
+purification of the proteases produced by microorgan -
+isms in certain special habitats, such as the ocean, salt 
+farms, and saline-alkali soils. Halophilic neutral proteases 
+from H. agarilyticus GUGFAWS-3 have been isolated and Page 10 of 23 Yao et al. Bioresources and Bioprocessing           (2023) 10:82 
+Table 2 Some information on the purification and characterization of microbial-derived STPs reported in recent 8 years
+Type of protease Method of separation and purification Molecular weight Salt tolerance Optimum pH and temperature References
+Alkaline serine protease Ammonium sulfate precipitation, 
+anion-exchange and gel permeation 
+chromatography32 kDa Up to 20% (w/v) NaCl pH 10.5, 60 °C Ibrahim et al. 2015a
+Alkaline protease Ammonium sulphate precipitation, 
+anion-exchange chromatography, 
+and gel filtration35 kDa Up to 30% NaCl concentration pH 8.0, 50 °C Wu et al. 2015
+Halo-alkaline serine protease Acetone precipitation, ultrafiltra-
+tion and carboxymethyl (CM) cation 
+exchange chromatography48–50 kDa 2.5 M NaCl, 50% of residual activity pH 9.5, 35 °C Ghafoori et al. 2016
+Acid protease Filtration, CM-Sepharose fast flow col-
+umn, and ultrafiltration34.5 kDa 3.5 M NaCl, maintaining 60% activity pH 5.0, 50 °C Lario et al. 2015
+Alkalithermophilic protease Ethanol precipitation and anion-
+exchange chromatography35 kDa 2.7 M NaCl, maximal activity pH 9.0, 55–56 °C Abdel-Hamed et al. 2016
+Alkaline serine protease Ammonium sulfate precipitation, dialysis, 
+and DEAE 52-cellulose column32.3 kDa 30% NaCl concentrations, 18.1% 
+of residual activitiespH 8.0, 40 °C Xie et al. 2016
+Alkaline protease Ammonium sulfate precipitation, ion 
+exchange chromatography, and gel 
+filtration chromatography63 kDa Up to 4.0 M NaCl pH 8.5, 55 °C Mokashe et al. 2017
+Alkaline protease DEAE-Sepharose fast flow column 
+and Sephadex G-100 column47 kDa 0–3.0 M NaCl pH 8.0, 50 °C Gao et al. 2017
+Alkaline protease Ammonium sulfate precipitation, dialysis, 
+and Äkta Avant 25 (CM-Sephadex C-50 
+column, Sephadex G-100 column)29 kDa 3.0 M NaCl for 7 d, 20% of residual 
+activitiespH 9.0, 40 °C Gao et al. 2019
+Aspartyl aminopeptidase Ammonium sulfate precipitation, dialysis, 
+and Äkta Avant 25 (Bio-Gel A column, 
+HiTrap Q HP column, superose 6 column)57 kDa Beyond 30% of the activity in 3.0 M NaCl pH 7.0, 50 °C Gao et al. 2018
+Neutral protease I Ammonium sulfate precipitation, dialysis, 
+and Äkta Avant 25 (DEAE-sephadex A-50 
+column), hydroxyapatite chromatogra-
+phy69 kDa 3.0 M NaCl, the activity decreased 
+by 30%– Gao et al. 2018
+Halo-alkaline protease Ammonium sulphate precipitation 
+and molecular sieve chromatographyAbout 37 kDa Up to 5.0 M NaCl, stable pH 10.5, 45 °C Kalwasinska et al. 2018
+Metalloprotease Gel filtration column (Superdex 200 pg) 
+and a HiTrap Q FF ion exchange columnAbout 35 kDa 20% NaCl for 480 h, 22% of residual 
+activitiespH 6.0–10.0, 25–40 °C Zhang et al. 2018
+Halo-alkaline protease Ammonium sulfate precipitation, dialysis, 
+and UNO-Q12 anion exchange column37 kDa NaCl concentrations (0–2.0 M) pH 10.0, 70 °C Daoud et al. 2018
+Alkaline serine protease Ammonium sulfate precipitation, anion 
+exchange (DEAE-Sephadex G-50) and gel 
+filtration (Sephadex G-50) column Chro -
+matography33 kDa 20% salt concentration, 48.3% residual 
+activitypH 10.0, 60 °C Ibrahim et al. 2019
+Alkaline serine protease Ni–NTA Superflow column and dialysis 34 kDa 2.0 M NaCl, 49% relative activity pH 8.0, 40 °C Yang et al. 2020Page 11 of 23
+ Yao et al. Bioresources and Bioprocessing           (2023) 10:82 
+ 
+Table 2 (continued)
+Type of protease Method of separation and purification Molecular weight Salt tolerance Optimum pH and temperature References
+Serine alkaline protease Ammonium sulfate precipitation, dialysis, 
+and Sephacryl S-200 HR column30.3 kDa 0.5–5.0 M NaCl, maximum activity pH 10.0, 65 °C Ouelhadj et al. 2020
+Metalloproteinase Sephadex-250, ethanol precipitation, 
+dialysis, and Sephadex G-200 gel per -
+meation column67 kDa 0–5.0 M NaCl pH 7.0, 70 °C Gaonkar and Furtado 2020
+Alkaline serine protease Ammonium sulfate precipitation 
+and phenyl Sepharose 6 fast flow column68 kDa 4.0 M NaCl (w/v), stable pH 9.0, 70 °C Chauhan et al. 2021
+Serine protease Ni-agarose column and his-tagged 
+proteins42 kDa 0.5–4.0 M NaCl, > 75% of maximal activity pH 9.0, 45 °C Hou et al. 2021
+Halo-alkaline protease Ammonium sulfate precipitation 
+and phenyl Sepharose 6 fast flow column70 kDa 2.0–4.0 M NaCl, maximal activity pH 7.0, 50 °C Foophow et al. 2022
+Alkaline subtilisin Ethanol precipitation, and Äkta Avant 
+25 (HiPrep 26/10 desalting column, 
+S-Sepharose FF column)27.1 kDa Up to 5.0 M NaCl, stable and active pH 9.0–9.5, 55 °C Falkenberg et al. 2022
+Alkaline protease Ammonium sulfate precipitation, 
+phenyl Sepharose 6 fast flow column, 
+and Sephadex G-75 column40 kDa 0.25–0.5 M NaCl, optimal catalytic 
+performancepH 10.5–10.0, 50 °C Raval et al. 2022
+Alkaline protease Ammonium sulfate precipitation, 
+phenyl Sepharose 6 fast flow column, 
+and Sephadex G-75 column28 kDa 0.25–0.5 M NaCl, optimal catalytic 
+performancepH 10.5–10.0, 50 °C Raval et al. 2022
+– represents that no relevant information is involved in the referencePage 12 of 23 Yao et al. Bioresources and Bioprocessing           (2023) 10:82 
+purified using dialysis and gel chromatography (Gaonkar 
+and Furtado 2020). The enzyme has activity in the range 
+of 20–80  °C, pH 3.0–13.0, and 0–5.0  M NaCl. The best 
+activity is at 70 °C, pH 7.0, and 3.0 M NaCl.
+Table 2
+Multiple strategies have been reported for the purifi -
+cation of microbial proteases, each with a different role 
+(Banerjee and Ray 2017). High-purity proteases can be 
+obtained using these methods or by combining them 
+appropriately. Two alkaline proteases of Haloalkaliphi -
+lic bacterium D-15–9 and Oceanobacillus onchorynchii 
+Mi-10-54, purified by ammonium sulfate fractionation 
+and hydrophobic interaction chromatography, have a 
+certain salt tolerance and temperature tolerance, and 
+the latter is more thermostable (Raval et  al. 2022). The 
+halophilic protease Pph_Pro1, cloned from Pseudoaltero -
+monas phenolica, has been purified by an osmotic shock 
+procedure and immobilized metal affinity chromatog -
+raphy (Johnson et  al. 2018). The purified enzyme has 
+an activity of 0.44 U/mg and exhibits halophilic, alkalo -
+philic, and thermally stable properties. An extracellular 
+protease HlyA from the extremely halophilic archaeon 
+Halococcus salifodinae has been isolated and purified by 
+affinity chromatography and gel filtration chromatog -
+raphy (Hou et  al. 2021). Its activity is best at 45  °C, pH 
+9.0, and 1.5–2 M NaCl. It retains the maximum activity 
+of > 75% at a wide range of NaCl concentrations from 0.5 
+to 4.0 M. With the development of science and technol -
+ogy, label-assisted protein purification technology has 
+gradually become the preferred method for scientific research and large-scale industrial demand (Gomari et al. 
+2020). Employing fusion proteins can help to save time 
+and cost, and they can help to achieve high-throughput 
+purification of the protein. In practice, high-purity STPs 
+are important due to their high stability and efficiency, 
+thus improving the effectiveness of their applications. 
+Therefore, the isolation and purification of STPs is one of 
+the most important aspects in the study of STPs, and is of 
+great importance in the study of their biochemical prop -
+erties and applications.
+Salt‑tolerant mechanisms of STPs
+High salt concentrations severely affect the solubility, 
+binding, stability, crystallization, and interaction with 
+other substances or proteins, and have a significant 
+impact on the structure and function of proteins (Karan 
+et  al. 2012). The salt tolerance mechanism of proteases 
+has been studied more intensively with intensive research 
+conducted in the biological sciences. The salt-tolerant 
+mechanisms of STPs are related to their own secondary 
+structure (low isoelectric point, the flexible loop regions, 
+and ordered structures), surface acidic amino acids, 
+local charge changes, salt bridge formation, and internal 
+hydrophobic amino acid residues (formation of hydration 
+layer). Although halotolerant and halophilic proteases 
+have different salt dependence, this review does not make 
+a strict distinction between halotolerant and halophilic 
+proteases. Various factors of salt stability of STPs are 
+shown in Fig.  3. STPs adapt to high salt environments by 
+Fig. 3 Several mechanisms of salt stability of STPsPage 13 of 23
+ Yao et al. Bioresources and Bioprocessing           (2023) 10:82 
+ 
+following aspects to maintain their catalytic activity and 
+stability.
+The ordered secondary structure of proteases (helix, 
+strand, and steering), the structure of the flexible loop 
+region, and the existing form of the protein structure may 
+affect the stability of STPs (Gromiha et  al. 1999; Karan 
+et al. 2012). The alpha-helix and beta-strand contents of 
+salt-tolerant acid protease and salt-tolerant neutral pro -
+tease have been compared (Gao et al. 2018). The results 
+show that the alpha-helix and beta-strand contents of 
+the former are higher than those of the latter, and that 
+the former has a more stable structure. However, a com -
+parison between alkaline proteases and neutral proteases 
+shows that the more stable spatial structure of the for -
+mer may be due to its higher amount of alpha-helix and 
+beta-strand, but the former has fewer loop regions than 
+the latter (Gao et al. 2019). The ordered structure is not 
+only related to hydrophobicity, but is also influenced by 
+hydrogen bonds and other interactions (Gromiha et  al. 
+1999). Due to their high flexibility, loops in the protein 
+are prone to expansion and instability under adverse 
+external conditions (Ahmad et  al. 2012). The instability 
+of loops is mainly due to the interaction between internal 
+residues and the interaction between loop residues and 
+molecules in solution (Vieille and Zeikus 2001). At room 
+temperature, the interaction between  Na+ and the loop 
+residues is weaker than that of the internal residues (Cai 
+et al. 2022). Some enzymes exist as dimers or tetramers 
+at high salt concentrations, but dissociate into monomers 
+with the decrease of salt concentration, thus losing their 
+activity, such as halophilic malate dehydrogenase (Ebel 
+et al. 1999) and isocitrate dehydrogenase from the halo -
+philic archaea Haloferax volcanii (Madern et al. 2004).
+The large amount of acidic amino acids on the pro -
+tein surface helps bind many water molecules and metal 
+ions, increasing the hydration of the protein, thus form -
+ing a hydration shell or network. This prevents the pro -
+tein from aggregating at high salt concentrations, thus 
+maintaining protease activity (Cai et  al. 2022; Fukuchi 
+et al. 2003; Takenaka et al. 2022). In contrast to homolo -
+gous non-halophilic proteins, halophilic enzymes typi -
+cally contain a relatively high proportion of acidic amino 
+acids, including aspartic acid, glutamic acid, alanine, ser -
+ine, threonine, and valine (Mokashe et al. 2018). Crystal 
+structure analysis of glucose dehydrogenase from the 
+extremely halophilic archaea Haloferax mediterranei 
+has shown a predominantly acidic surface, contribut -
+ing to the halophilic nature of the enzyme (Britton et al. 
+2006). This finding is further supported by the analysis 
+of the three-dimensional structure of halophilic malate 
+dehydrogenase and its non-halophilic homologues from 
+the archaea Haloarcula marismortui (Dym et  al. 1995). 
+Comparison of the amino acid compositions in the whole genomes of halophilic archaea, non-halophilic meso -
+phytic bacteria, and thermophilic bacteria shows that the 
+surface of halophilic proteases contains a significantly 
+higher proportion of acidic amino acids compared to the 
+inner region (Fukuchi et  al. 2003). These acidic amino 
+acids account for up to 20–23% of individual proteins and 
+play an important role in the salt stability of proteases 
+(Karan et al. 2012). It has been observed that modifying 
+the amino acid composition on the protein surface can 
+alter the salt dependence of a protein, facilitating cross-
+over between salt-tolerant and non-salt-tolerant proteins 
+(Tadeo et al. 2009).
+Hydrophobic and hydrophilic amino acids on the pro -
+tein surface also affect the salt-adapted stability of STPs. 
+Hydrophilic proteins have a lower abundance of hydro -
+phobic side chains on their surface compared to non-
+hydrophilic proteins (Karan et  al. 2012). The increase 
+in the number of hydrophilic amino acids compared to 
+hydrophobic amino acids on the protein surface is ben -
+eficial for the stability of STPs (Mokashe et  al. 2018). 
+A possible explanation for this observation is that the 
+reduction in hydrophobic amino acid content and the 
+corresponding increase in hydrophilic amino acid con -
+tent facilitates the binding of metal ions to the protease 
+surface charges, forming hydration shells or networks. 
+Additionally, smaller hydrophobic amino acids such as 
+glycine, alanine, and valine show an adaptive mechanism 
+in halophilic enzymes, in contrast to larger hydrophobic 
+counterparts (Mokashe et al. 2018).
+The salt adaptation of STPs is influenced by the nega -
+tive charge on the surface or localized surface of the 
+STPs. For the most part, the effect of salt on protein sta -
+bility is independent of the total charge of the protein 
+(Karan et al. 2012). The highly negatively charged surface 
+of proteases is a molecular marker of salt adaptation (Hu 
+et al. 2022). The formation of negative charge on the sur -
+face of these enzymes is mainly due to the presence of 
+negatively charged amino acids on the surface (Promchai 
+et al. 2018). It has been suggested that the highly negative 
+surface charge of halophilic proteins makes them more 
+soluble and flexible at high salt concentrations, whereas 
+non-halophilic proteins tend to aggregate and harden 
+under these conditions (Ortega et  al. 2011). In fact, the 
+negative charge is shielded by more salt, which further 
+prevents the expansion of the protein and maintains the 
+solubility of the protein. Effective hydration and pro -
+duction of ion-pair networks stabilize the structure and 
+activity of enzymes (Mokashe et al. 2018; Promchai et al. 
+2018). This result has also been confirmed for halophilic 
+alpha-amylase (Hu et  al. 2022). These suggest that salt 
+tolerance can be improved by modifying the local charge 
+on the protein surface (Takenaka et al. 2022).Page 14 of 23 Yao et al. Bioresources and Bioprocessing           (2023) 10:82 
+The formation of salt bridges also contributes to the salt 
+tolerance of STPs. The salt bridge refers to the ionic bond 
+between two amino acid residues with opposite charges. 
+In high-salinity environments, the polar groups of pro -
+tein molecules bind to ions to form salt bridges, which 
+not only play an important role in protein folding, struc -
+ture and oligomerization, but also enhance the stability 
+of protein molecules (Dym et al. 1995). By comparing the 
+halophilic malate dehydrogenase with its non-halophilic 
+homologue in the archaea Haloarcula marismortui, 
+researchers have found that the halophilic enzyme con -
+tains more salt bridges and has a higher concentration of 
+surface acidic residues. This difference may explain why 
+the halophilic enzyme is more tolerant to salt (Dym et al. 
+1995). Molecular dynamics simulations of endoglucanase 
+from A. niger have revealed the formation of salt bridges 
+between charged residues and  Na+ and  Cl− ions. These 
+salt bridges affect the activity of the loop and the stability 
+of the pocket, thus giving the enzyme salt tolerance and 
+strong thermal stability in high-salt environments (Cai 
+et  al. 2022). Salt bridges can also form between acidic 
+residues and specific alkaline residues on the hydration 
+surface, which enhance the ’rigidity’ of the enzyme at 
+high salinity and protect the enzyme from salt ions (Oren 
+and Mana 2002).
+Internal hydrophobic amino acids of STPs are also 
+related to their own salt adaptability. Studies have shown 
+that the hydrophobicity of internal amino acid residues of 
+proteins is strongly related to the stability of the internal 
+structure (Gromiha et  al. 1999). The greater hydropho -
+bicity of these internal amino acid residues is benefi -
+cial for maintaining the internal stability of the protein. 
+One possible explanation for the greater stability of the 
+alkaline protease from A. oryzae compared to the neu -
+tral protease is that the alkaline protease has a higher 
+molar ratio of hydrophobic amino acid residues (such as 
+alanine, valine, leucine, isoleucine, phenylalanine, and 
+methionine) than the neutral protease (Gao et al. 2019). 
+However, proteins responding to high salt environments 
+often exhibit low levels of hydrophobic and lysine resi -
+dues (Ortega et  al. 2011). Due to the tendency of large 
+hydrophobic residues to form helixes, a significant 
+reduction in the number of these residues may lead to 
+increased flexibility, which may be a factor in salt adapta -
+tion (Hu et al. 2022; Paul et al. 2008).
+As previously discussed, ordered secondary structures, 
+high surface acidic amino acid content, increased sur -
+face negative charge, changes in internal hydrophobicity, 
+and the formation and enrichment of salt bridges seem 
+to be general strategies to improve the salt adaptation 
+of STPs in high salt concentration conditions (Fig.  3). 
+However, these mechanisms may not be universal (Brit -
+ton et al. 1998), and future studies should further explore the salt-tolerant mechanism of STPs. For some STPs, the 
+presence of salt is essential to restore their active struc -
+tural conformations (Mevarech et al. 2000). These STPs 
+require the presence of high salt concentrations to exhibit 
+good solubility, stability, and catalytic activity, indicat -
+ing their dependence on salt (Enache and Kamekura 
+2010; González-Hernández and Peña 2002; Mokashe 
+et  al. 2018). Meanwhile, some STPs do not depend on 
+the presence of salt, but their activity and stability may 
+be inhibited under high-salt conditions (Jothi Basu et al. 
+2015). Interestingly, due to the employment of multiple 
+salt-adaptation strategies, some STPs not only tolerate or 
+require high salt concentrations. They also maintain their 
+active conformation and good stability in a variety of 
+organic solvents and cataclysmic reagents (Mokashe et al. 
+2018; Sinha and Khare 2014). The multiple salt adapta -
+tion strategy allows STPs to maintain stability and better 
+catalytic activity at high salt concentrations compared 
+to common proteases. Under harsh conditions (such as 
+salt, organic solvents, oxidants, and bleach), the activ -
+ity of common proteases is inhibited or even denatured, 
+resulting in incomplete hydrolysis of substrate proteins 
+and limited production of small molecule peptides and 
+amino acids (Rodriguez-Rios et al. 2022; Sana et al. 2006). 
+However, under the same conditions, STPs exhibit supe -
+rior stability and catalytic properties, allowing them to 
+hydrolyze substrate proteins into abundant peptides and 
+small amino acids (Hou et al. 2020; Mokashe et al. 2018). 
+Therefore, due to their outstanding performance under 
+harsh conditions, STPs are a top consideration for appli -
+cations in the modern biotechnology industry (Liu et al. 
+2023; Sana et al. 2006).
+Using modern biotechnology to improve the salt tolerance 
+of proteases
+While STP-producing microorganisms or new STPs 
+have been discovered from natural environments using 
+various screening techniques, the utilization of proteases 
+should not only focus on the most effective approach to 
+isolate potential enzymes from microorganisms or natu -
+ral environments, but also consider modifying enzymes 
+through available biotechnology methods to enhance 
+their properties. Various biotechnology techniques have 
+been reported to improve the properties of STPs, such as 
+genetic engineering techniques (Hou et al. 2019), immo -
+bilization techniques (Dong et  al. 2022), and computer-
+aided design techniques (Takenaka et  al. 2022). These 
+techniques play an important role in improving the activ -
+ity and stability of enzymes.
+Genetic engineering techniques are known to transfer 
+target genes encoding STPs into recipient cells, thereby 
+enabling over-expression of enzymes and enhancing 
+enzyme activity. For example, the serine protease gene isp Page 15 of 23
+ Yao et al. Bioresources and Bioprocessing           (2023) 10:82 
+ 
+of salt-tolerant Bacillus  sp.  LCB10 has been expressed in 
+E. coli, leading to highly salt-tolerant proteases (Hou et al. 
+2019). The enzyme maintains 86% activity in the presence 
+of 7% NaCl. With the development of bioinformatics, 
+genetic engineering techniques are often combined with 
+multi-omics techniques to reveal the salt tolerance mech -
+anisms of STPs and to identify the coding and regulatory 
+genes of microbial STPs. This strategy can increase the 
+chances of discovering new enzymes and enzymes with 
+special functions. These genes are re-fused, recombined, 
+and induced to be expressed in E. coli, Bacillus , and other 
+microorganisms to improve enzyme production and tol -
+erance. For instance, coding genes from the peptidase 
+S8A subfamily, which has a high ability to hydrolyze pro -
+teins, have been screened from the krill metagenomic 
+library using metagenomic techniques (Sun et al. 2020). 
+Subsequently, these genes are expressed in E. coli, result -
+ing in the generation of proteases with remarkable salt 
+tolerance. These proteases retain 40% of their residual 
+activity when stored in 3  M NaCl, as demonstrated in 
+previous studies (Purohit and Singh 2013). These STPs 
+have great potential for various industrial applications.
+Enzyme immobilization techniques involve immo -
+bilizing enzymes on carriers (such as gel, resin, fiber, 
+and metal) to form immobilized catalysts (Ibra -
+him et  al. 2021; Motamedi et  al. 2021; Rahman et  al. 
+2016). Adsorption, covalent binding, cross-linking, 
+and entrapment are the four main methods of enzyme 
+immobilization (Dong et  al. 2022; Motamedi et  al. 
+2021). These methods not only enhance the catalytic 
+efficiency of the enzyme, facilitating its recovery and 
+reuse, but also enhance its activity and stability (Dong 
+et al. 2022). To improve protease stability, extracellular 
+STPs from Bacillus  sp. DL-1 have been immobilized 
+by diatomite adsorption and can retain approximately 
+35.8% of their activity after six repetitions (Dong et al. 
+2022). In contrast to free proteases, the alkaline pro -
+tease from Salipaludibacillus agaradhaerens immo -
+bilized on mesoporous core–shell nanoparticles not 
+only maintains high enzyme activity at high tempera -
+tures and low pH, but has been shown to significantly 
+improve enzyme stability against high concentrations 
+of NaCl, organic solvents, surfactants, and commer -
+cial detergents (Ibrahim et  al. 2021). However, some 
+enzymes may decrease or lose activity after immo -
+bilization using these conventional immobilization 
+techniques due to mass transfer limitations and unfa -
+vorable conformations between the enzyme and sub -
+strate (Altinkaynak et  al. 2016; Hanefeld et  al. 2013). 
+Using a hybrid nanoflower technique, enzymes can be 
+immobilized by employing proteases and metal ions 
+as organic and inorganic components. This method is highly effective in enhancing the catalytic activity and 
+stability of enzymes, even under harsh conditions such 
+as high salt concentrations, extreme pH levels, and 
+temperature changes (Altinkaynak et  al. 2016). This 
+new immobilization technique has been applied to pro -
+teases, including trypsin (Lin et al. 2014), papain (Liang 
+et al. 2015), and chymotrypsin (Yin et al. 2015). These 
+cases suggest that these techniques for immobilizing 
+enzymes can be used as potential future approaches for 
+improving the salt tolerance of proteases.
+With the development of bioinformatics and the 
+continuous improvement of biological databases (such 
+as protein information resource and protein sequence 
+database), the use of computer-aided rational design 
+of enzyme molecules has gradually gained favor with 
+researchers (Ashraf et  al. 2019; Xi et  al. 2022; Zhang 
+et  al. 2022c ). These methods mainly include directed 
+evolution, rational design, and ab initio design (Ashraf 
+et al. 2019). These methods can modify the amino acid 
+sequence (e.g., the surface charge) of proteins by point 
+mutations, insertions, substitutions, and deletions, thus 
+enabling engineered modifications of proteases and 
+enhancing their salt tolerance. Previous studies have 
+reported site-directed mutagenesis of eight site-specific 
+mutations on the surface of moderately salt-tolerant 
+serine proteases from Bacillus subtilis, yielding several 
+mutants with substituted aspartic acid and arginine 
+residues (Takenaka et al. 2022). The salt tolerance of the 
+three mutants is 1.2 times higher than that of the wild 
+type. Multiple substitutions of these amino acid resi -
+dues may alter the ratio of negative to positive charges 
+on the protease surface, thereby increasing the hydra -
+tion and solubility of the protease surface at high salt 
+concentrations, and improving the salt adaptation of 
+the enzyme itself. Similar studies have also reported 
+that seven amino acid residues of thermophilic pro -
+teases are mutagenized into aspartic acid residues by 
+site-directed mutagenesis to introduce a high frac -
+tion of negative charges on the protein surface (Tak -
+ita et al. 2008). The casein hydrolytic activity of six of 
+the seven mutants is 17–19 times higher than that of 
+the wild type when exposed to 4 M NaCl. In addition, 
+directed evolution of random mutagenesis or rational 
+design of site-directed mutagenesis has been employed 
+to improve the thermal stability of proteases (Ashraf 
+et al. 2019; Martinez et al. 2013; Zhao and Feng 2018). 
+These results suggest that computer-aided design tech -
+niques can be employed to analyze and predict the 
+amino acid sequence and structural information of 
+proteins, enabling rational modification of protease 
+molecules. These modern biotechnological methods Page 16 of 23 Yao et al. Bioresources and Bioprocessing           (2023) 10:82 
+can significantly improve the salt tolerance of STPs, 
+thus providing a more reliable and efficient source of 
+enzymes for industrial applications of STPs.
+Examples of microbial‑derived STPs applied 
+to high‑salt traditional soy‑fermented foods
+Application in soy sauce fermentation
+Soy sauce is one of the most popular and important con -
+diments in East Asian cuisine, especially in China and 
+Japan (Liu et  al. 2015). In general, there are two main 
+steps in the brewing process of soy sauce, namely, koji 
+making and moromi fermentation (Hu et al. 2020b). The 
+purpose of koji-making is to enrich certain enzyme-pro -
+ducing microorganisms to obtain a variety of enzymes 
+(Zhang et  al. 2022b). The quality of koji determines the 
+fermentation efficiency and quality of the soy sauce. The 
+purpose of moromi fermentation is to form a specific 
+flavor of soy sauce and produce fresh flavor ingredients 
+(Wei et al. 2013). A. oryzae, which has a strong ability to 
+digest soybean protein, is an important filamentous fun -
+gus in the process of making koji in soy sauce (Liang et al. 
+2009), while Lactobacillus plantarum and yeast are used 
+as inoculants in the process of moromi fermentation 
+(Singracha et  al. 2017). A. oryzae is rich in alkaline and 
+neutral proteases, but less active in acid proteases (Gao 
+et al. 2010). Given that the brewing process of soy sauce 
+is a low pH and high salt system, the alkaline proteases in 
+A. oryzae gradually lose their activity under acidic con -
+ditions, so neutral proteases dominate in this phase (Hu 
+et  al. 2020b). In general, most extracellular proteases of 
+A. oryzae are salt-intolerant and are rapidly inactivated 
+during the first few days of moromi fermentation, result -
+ing in a decrease in raw material utilization and flavor 
+content of soy sauce (Gao et al. 2020).
+Various strategies have been used to improve the ability 
+of Aspergillus  to produce STPs in soy sauce production. 
+Through  N+ ion implantation mutagenesis, a mutated 
+strain A100-8 of A. oryzae 3.042 with improved protease 
+production has been derived, exhibiting an approxi -
+mately 44.1% increase in salt-tolerant acid protease 
+activity (Zhao et al. 2012). A. oryzae 3.042 has also been 
+modified using atmospheric pressure and room tempera -
+ture plasma techniques (Gao et  al. 2020). The obtained 
+mutant H8 has high STP activity and is able to signifi -
+cantly increase the amount of peptides and free amino 
+acids in soy sauce. Similarly, the expression of several key 
+hydrolase genes from Aspergillus sojae or A. oryzae, such 
+as protease, peptidase, and glutaminase, in the salt-tol -
+erant yeast Zygosaccharomyces rouxii not only increases 
+the yield of STPs, but also serves as a potential means to 
+provide additional hydrolase during soy sauce fermenta -
+tion (Yuzuki et al. 2015).In addition to genetic modification, exogenous addition 
+of STPs has been shown to be effective in improving pro -
+tein utilization in soy sauce brewing ingredients and soy 
+sauce fermentation quality (Chen et  al. 2023). Previous 
+studies have reported the purification of various STPs 
+from A. oryzae, including salt-tolerant acid protease (Lee 
+et  al. 2010), salt-tolerant neutral protease (Wang et  al. 
+2013), salt-tolerant alkaline protease (Gao et  al. 2019), 
+and salt-tolerant aspartate aminopeptidase (Gao et  al. 
+2018). The STP from A. oryzae LK-101 is relatively sta -
+ble at pH 4.5–7.5, below 40 °C, and up to 10% salt con -
+centration, which suggests that it may perform various 
+functions in soy sauce and even fish sauce fermentation, 
+especially to improve flavor by hydrolyzing protein sub -
+strates (Lee et al. 2010). The salt-tolerant neutral protease 
+derived from A. oryzae CICIM F0899 shows robust salt 
+tolerance up to 18% NaCl and significant thermal stabil -
+ity under saline conditions (Wang et  al. 2013). Further -
+more, results from a small pilot scale of 0.5 to 5.0 L using 
+the enzyme in soy sauce production have shown promise 
+for the enzyme in soy sauce production. The STP from 
+A. oryzae 3.042 exhibits greater stability under high-salt 
+conditions compared to non-STPs, and its presence is 
+strongly associated with soy sauce quality and raw mate -
+rial utilization (Gao et  al. 2019). Salt-tolerant aspartyl 
+aminopeptidase is capable of specifically releasing fresh-
+flavored glutamate and aspartic acid with low threshold 
+values from peptides containing glutamate and aspar -
+tic acid residues at the N-terminus of soybean proteins, 
+which plays a key role in fermented soybean products 
+(Gao et al. 2018; Stressler et al. 2016). Remarkably, salt-
+tolerant aspartyl aminopeptidase from A. oryzae 3.042 
+demonstrates excellent salt tolerance and holds great 
+promise for applications in the production of soy sauce, 
+soy paste, sufu, and tempeh (Gao et al. 2018). Glutamyl 
+transpeptidase is another pivotal enzyme involved in glu -
+tamate production during high salt fermentation of soy 
+sauce by A. oryzae. The gamma-glutamyl transpeptidase 
+derived from Aspergillus sydowii exhibits high activity 
+even under high-salt conditions (Senba et al. 2023). It has 
+also been shown to increase the levels of the fresh flavor 
+amino acid L-glutamate in soy sauce. Immobilized B. 
+subtilis bacteria with a novel salt-tolerant L-glutaminase 
+have been applied to high-salt dilute soy sauce brew -
+ing, resulting in a 45.9% increase in L-glutaminase levels 
+(Zhang et al. 2022a). Collectively, these salt-tolerant pro -
+teases play a key role in soy sauce fermentation by accel -
+erating fermentation, increasing raw material utilization, 
+enhancing product flavor, shortening the production 
+cycle, and reducing production costs.Page 17 of 23
+ Yao et al. Bioresources and Bioprocessing           (2023) 10:82 
+ 
+Application in soy paste fermentation
+Soy paste generally refers to one of the condiments made 
+from soybeans, broad beans, and other bean bases mixed 
+with salt water and spices in a certain container after a 
+long fermentation. Its name varies across regions: Daji -
+ang in Northeast China, Doenjang in South Korea, and 
+miso in Japan (Chun et al. 2020; Yue et al. 2021). Like soy 
+sauce, soy paste undergoes a long fermentation period of 
+2–6  months. During the fermentation phase, enzymes 
+produced by microbial growth and reproduction are used 
+to break down proteins, starches, and other components 
+in the raw material. These transformations produce pep -
+tides, free amino acids, and sugars, resulting in the dis -
+tinctive flavor and color of soy paste (Zhou et al. 2021).
+Aspergillus  species, especially A. oryzae, are the main 
+microorganisms used in soy paste fermentation, produc -
+ing a variety of STPs (Ao et  al. 2018). Currently, many 
+strategies such as the selection of excellent enzyme-
+producing microorganisms and the co-fermentation of 
+multiple strains have been employed to expedite the fer -
+mentation cycle, reduce production costs and enhance 
+the flavor profile of soy paste. By subjecting A. sojae to 
+successive mutagenesis using several conventional muta -
+genic breeding methods, the mutant EUN13 has been 
+obtained, exhibiting a 3.8-fold increase in STP yield 
+compared to the parent strain (Lim et al. 2019). Co-cul -
+tivation of A. oryzae QM-6 with A. niger QH-3 has been 
+shown to enhance STP activity in Pixian broad-bean 
+paste, resulting in high protease activity in broad-bean 
+koji (Tang et  al. 2020). Ninety-seven strains have been 
+isolated from broad beans, and 16S rDNA, ITS (internal 
+transcribed spacer), and 26S rDNA sequences have been 
+analyzed based on morphological classification. Bacterial 
+strains have significantly higher protease and peptidase 
+activity compared to yeast and molds (Zhou et al. 2021). 
+However, simulations of the fermentation of broad bean 
+paste by two salt-tolerant fungi and two salt-tolerant 
+bacteria have shown that the total protein, peptide, and 
+amino acid content is higher in the fungal group than 
+in the bacterial group (Lin et  al. 2022). Fungal-derived 
+enzyme systems have demonstrated greater albumin 
+and glutenin activity under neutral conditions. These 
+variations may arise from differences in the physical 
+and chemical properties of STPs from different sources, 
+resulting in different hydrolysis conditions and different 
+properties of the final peptide product (Tang 2017).
+The synergistic fermentation of soybean residue and 
+soybean meal by adding of exogenous proteases and 
+specific strains has shown promising results (Heng 
+et  al. 2022). This method stimulates the growth of fer -
+menting microorganisms and increases the content of 
+organic acids, ultimately improving both fermentation 
+efficiency and substrate utilization. These studies show that synergistic fermentation of soy paste using STPs and 
+microorganisms promotes the availability of a rich sys -
+tem of salt-tolerant enzymes. This beneficial combination 
+leads to improved fermentation efficiency and enhances 
+the overall flavor quality of the product. Similarly, com -
+bining STPs with Lactobacillus brevis GABA 100 and A. 
+oryzae KACC 40250 effectively accelerates the produc -
+tion of aminobutyric acid and flavonoid glycosides in 
+Korean doenjang, significantly reducing the manufac -
+turing time of the product (Li et  al. 2017). Salt-tolerant 
+aminopeptidase from marine B. licheniformis can effec -
+tively improve the hydrolysis and debittering efficiency of 
+soybean isolate protein (Lei et al. 2017). A. oryzae capa -
+ble of producing L-leucine aminopeptidase and STPs are 
+obtained by conventional stochastic mutagenesis, which 
+can be used as industrial fermenters for the production of 
+meju, doenjang, and ganjang, as well as novel fermented 
+soy-based sauce-like products (Lim et al. 2019). Salt-tol -
+erant serine proteases isolated from commercial A. ory -
+zae KSK-3 have also been used not only in miso brewing, 
+but also as natural preparations for oral fibrinolytic ther -
+apies and nutraceuticals (Shirasaka et al. 2012).
+Application in sufu fermentation
+Sufu, a traditional high-salt bean food, is made by mixing 
+tofu with brine and fermenting it with microorganisms. 
+It is rich in proteins, lipids, peptides, amino acids, fatty 
+acids, and flavor compounds such as alcohols, ketones, 
+and aldehydes (Han et  al. 2001). The fermentation pro -
+cess of sufu is complex, and its unique flavor and nutri -
+tional value are influenced by the type and metabolic 
+activity of the microorganisms involved in the fermenta -
+tion process (Li et al. 2021b). The microflora determines 
+its safety, smell, and nutritional quality (Li et al. 2021b). 
+Through the analysis of the core functional microbiota 
+related to flavor compounds in the eight stages of natu -
+rally fermented bean curd, the results have shown that 
+nine types of bacteria (Bacillus , Enterobacter, Lactoba -
+cillus , Sphingobacterium, Stenotrophomonas, Tetrageno -
+coccus, Trabulsiella, Unclassified, and Weissella) and 
+six species of fungi (Alternaria, Sterigmatomyces, Acti-
+nomucor, Fusarium , Debaryomyces, and Candida) are 
+identified as the core functional microbiota. These micro -
+organisms can significantly affect the production of flavor 
+compounds in the process of natural production process 
+(He and Chung 2020). During fermentation, the metabo -
+lism of these microorganisms converts macromolecular 
+proteins and fats into small molecular compounds such 
+as peptides, amino acids, and fatty acids (Li et al. 2021b).
+In addition to these specifically functional microorgan -
+isms, the fermentation of sufu also relies heavily on salt-
+tolerant enzymes, primarily proteases, α-amylases, and 
+lipases (He et al. 2022). In fact, the fermentation process Page 18 of 23 Yao et al. Bioresources and Bioprocessing           (2023) 10:82 
+of sufu mainly involves biochemical and physical changes 
+involving the degradation of proteins, lipids, and sugars 
+(Chou and Hwan 1994). It has been shown that these 
+chemical changes in the fermentation process of sufu, 
+especially in the ripening process, are affected by sodium 
+chloride and ethanol (Han et  al. 2003). The addition of 
+alcohol to the brine solution not only preserves but also 
+slows down the hydrolysis of proteins during aging (Chou 
+and Hwan 1994). These factors contribute to the long 
+production cycle (usually 3–6 months) of sufu like other 
+high-salt soy-fermented foods, which limits its industrial 
+production (Feng et al. 2014; Han et al. 2004).
+In recent years, there has been a surge in research 
+efforts to expedite the production cycle of sufu. Fer -
+mentation with multiple strains rather than a single 
+strain, such as Mucor and Rhizopus hybrid fermentation. 
+Mucor can secrete abundant STPs and other beneficial 
+enzymes, while Rhizopus can produce small amounts 
+of ethanol and organic acids, and its growth tempera -
+ture is lower than that of Mucor. Therefore, Rhizopus is 
+used in the fermentation process of sufu, which breaks 
+the seasonal limitation of sufu production and reduces 
+the amount of ethanol in sufu fermentation (Wang et al. 
+2020). The introduction of a mixed starter consisting of 
+yeast and lactic acid bacteria has been shown to be ben -
+eficial in enhancing sufu fermentation (Xie et  al. 2018). 
+This approach not only increases the activity of salt-
+tolerant enzymes such as protease, lipase, peptidase, 
+and α-amylase but also contributes to the enrichment 
+of free amino acids and other functional components, 
+resulting in sufu with distinct characteristics in terms 
+of color, aroma, taste, and functional substances. Tak -
+ing advantage of its ability to thrive and its abundance of 
+salt-tolerant enzymes in low-temperature environments, 
+Aspergillus flavus has been employed in cryogenic fer -
+mentation of sufu, effectively addressing the limitation of 
+commercial sufu production at low temperatures (Cheng 
+et al. 2009).
+Furthermore, the addition of exogenous salt-tolerant 
+enzymes is widely utilized as a convenient approach in 
+commercial applications. This approach enhances the 
+enzymatic system of fermenting microorganisms and 
+capitalizes on the synergistic effect between microorgan -
+isms and enzymes. As a result, it not only streamlines the 
+production process and reduces the production cycle, 
+but also enhances product quality and environmental 
+hygiene. Studies have reported that the addition of STP 
+as an adjuvant to the fermentation process of Kedong 
+sufu (a typical sufu fermented using bacteria) (Feng et al. 
+2014). The levels of water-soluble proteins, amino acid 
+nitrogen, peptides, total free amino acids, and 11 out of 
+17 free amino acids are significantly higher compared to 
+the control group without enzyme addition, indicating that the ripening of sufu can be accelerated and the rip -
+ening time of sufu can be shortened by adding STPs. 
+Similarly, accelerated ripening by exogenous proteases 
+has also been demonstrated in cheese (Kilcawley et  al. 
+2012). In addition, the use of STPs has been shown to be 
+effective in enhancing the flavor and product quality of 
+Tofu-misozuke (a food inherent to the Fukuoka district 
+of Japan is a type of soybean curd fermented in miso) 
+(Funaki et  al. 1997). Mold-fermented sufu and enzy -
+matically ripened sufu (by soaking salted tofu cubes in 
+the prepared koji mash containing various salt-resistant 
+hydrolases) are two common processes used in sufu mak -
+ing. Studies have reported that the fermentation cycle 
+of koji enzyme-ripened sufu typically takes only about 
+two to three weeks compared to that of mold-fermented 
+sufu, which is much shorter than the four to six months 
+required to prepare mold-fermented sufu (Feng et  al. 
+2014; Li et al. 2010). This suggests that the rate of hydrol -
+ysis by the addition of salt-resistant enzymes, especially 
+STPs, is higher than that of mold-fermented sufu during 
+the production of sufu.
+Conclusion
+Due to their specificity, STPs have gradually been recog -
+nized as promising candidates for applications in various 
+fields. The improvement of salt tolerance of proteases 
+based on various modern biotechnologies needs to be 
+established on the basis of elucidating the mechanism 
+of salt tolerance of proteases. However, salt-tolerant 
+mechanisms of STPs from different microbial sources 
+are unclear. Whole genome sequencing, transcriptome 
+sequencing, and proteome sequencing of salt-tolerant 
+microorganisms have been performed using bioinfor -
+matics methods to understand their genome structure, 
+biosynthesis, and metabolic pathways, and to explore 
+the types of genes associated with STPs. The relationship 
+among salt-tolerant microorganisms, genes involved in 
+STPs, and STPs should be clarified. Exploring the inter -
+play between protease sequence structure, spatial con -
+formation, functional properties, and salt stress, and 
+elucidating the salt tolerance mechanisms of STPs from 
+different microbial sources is a research focus. Visual 
+analysis and protein engineering techniques can be com -
+bined to achieve this.
+In addition, low yield, poor stability, and limited cata -
+lytic efficiency are also issues that need to be addressed 
+in the context of STPs and their application to high-salt 
+traditional fermented foods. Given the low yield of salt-
+tolerant enzymes, one important research direction is 
+to use a combination of traditional microbial screening 
+techniques and modern molecular biology techniques 
+to rapidly, accurately, and efficiently screen and identify Page 19 of 23
+ Yao et al. Bioresources and Bioprocessing           (2023) 10:82 
+ 
+microorganisms from more ecological environments that 
+can produce abundant STPs. Another way to address the 
+problem of low microbial enzyme production is to use 
+multi-omics techniques to mine the salt-tolerant genes of 
+salt-tolerant microorganisms in combination with high-
+efficiency heterologous expression systems to rapidly 
+obtain low-cost STP products. Due to the poor stabil -
+ity and limited catalytic efficiency of STPs, appropriate 
+immobilization methods or techniques can be chosen 
+to construct stable and efficient immobilized STPs to 
+improve the rate of reaction between enzyme and sub -
+strate matrix, enzyme stability, and multiplexing. In addi -
+tion, rational design and modification of STP molecules 
+based on modern biotechnology to improve enzyme 
+activity and stability is one of the future research direc -
+tions for STPs. Of course, various computer-aided tech -
+niques (such as protein database and model construction, 
+big data analysis and processing, artificial intelligence 
+prediction and accurate identification) can help further 
+explore the physiological and metabolic properties of 
+STPs and salt-tolerant microorganisms to improve pro -
+duction efficiency and output quality. In the future, STPs 
+will be used more and more widely in various fields. At 
+the same time, methods to improve the properties of 
+STPs will continue to be innovated, which will lay a 
+solid foundation for their greater usefulness in practical 
+applications.
+Acknowledgements
+The authors are thankful for the financially support from the National Natural 
+Science Foundation of China (32072205, 22138004), the first phase of the 
+connotation construction of the 14th Five-Year Plan of Tibetan medicine 
+(2021ZYYGH008).
+Author contributions
+HY: conceptualization, resources, writing—original draft. SL: writing—review 
+and editing, formal analysis. TL: writing—review and editing, visualization. 
+DR: data curation. ZZ: writing—review and editing. QY: writing—review and 
+editing. JM: basic quality control, funding acquisition, project administration, 
+supervision. All authors read and approved the final manuscript.
+Funding
+National Natural Science Foundation of China (32072205, 22138004), the first 
+phase of the connotation construction of the 14th Five-Year Plan of Tibetan 
+medicine (2021ZYYGH008).
+Availability of data and materials
+Not applicable.
+Declarations
+Ethics approval and consent to participate
+Not applicable.
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare no conflict of interest.Author details
+1 National Engineering Research Center of Cereal Fermentation and Food 
+Biomanufacturing, School of Food Science and Technology, Jiangnan Univer -
+sity, Wuxi 214122, Jiangsu, China. 2 Southern Marine Science and Engineering 
+Guangdong Laboratory, Guangzhou 511458, Guangdong, China. 3 Jiangsu 
+Provincial Engineering Research Center for Bioactive Product Processing Tech-
+nology, Jiangnan University, Wuxi 214122, Jiangsu, China. 4 Jiangnan University 
+(Shaoxing) Industrial Technology Research Institute, Shaoxing 31200, Zhejiang, 
+China. 5 National Engineering Research Center of Huangjiu, Zhejiang Guyue -
+longshan Shaoxing Wine CO., LTD, Shaoxing 646000, Zhejiang, China. 6 Depart -
+ment of Biology and Food Engineering, Bozhou University, Bozhou 236800, 
+Anhui, China. 
+Received: 25 June 2023   Accepted: 31 October 2023
+References
+Abanoz B, Okay S, Kurt-Kizildogan A et al (2017) Highly active and stable pro -
+tease production by an extreme halophilic archaeon Haloarcula sp. TG1 
+isolated from Lake Tuz. Turkey. Turkish J Biochem 42(3):307–315
+Abdel-Hamed AR, Abo-Elmatty DM, Wiegel J et al (2016) Biochemical charac-
+terization of a halophilic, alkalithermophilic protease from Alkalibacillus 
+sp. NM-Da2. Extremophiles 20(6):885–894
+Aguiar-Pulido V, Huang WR, Suarez-Ulloa V et al (2016) Metagenomics, 
+metatranscriptomics, and metabolomics approaches for microbiome 
+analysis. Evol Bioinform 12:5–16
+Aguilar JGD, Sato HH (2018) Microbial proteases: Production and application in 
+obtaining protein hydrolysates. Food Res Int 103:253–262
+Ahmad S, Kumar V, Ramanand KB et al (2012) Probing protein stability and 
+proteolytic resistance by loop scanning: a comprehensive mutational 
+analysis. Protein Sci 21(3):433–446
+Altinkaynak C, Tavlasoglu S, Ozdemir N et al (2016) A new generation 
+approach in enzyme immobilization: Organic-inorganic hybrid nano -
+flowers with enhanced catalytic activity and stability. Enzyme Microb 
+Technol 93–94:105–112
+An FY, Wu JR, Feng YZ et al (2023) A systematic review on the flavor of soy-
+based fermented foods: Core fermentation microbiome, multisensory 
+flavor substances, key enzymes, and metabolic pathways. Compr Rev 
+Food Sci F 22(4):2773–2801
+Anh HTH, Shahsavari E, Bott NJ et al (2021) Options for improved treatment of 
+saline wastewater from fish and shellfish processing. Front Env Sci-Switz 
+9:689580
+Ao XL, Yu X, Wu DT et al (2018) Purification and characterization of neutral 
+protease from Aspergillus oryzae Y1 isolated from naturally fermented 
+broad beans. AMB Express 8:96
+Ashraf NM, Krishnagopal A, Hussain A et al (2019) Engineering of serine pro -
+tease for improved thermostability and catalytic activity using rational 
+design. Int J Biol Macromol 126:229–237
+Banerjee G, Ray AK (2017) Impact of microbial proteases on biotechnological 
+industries. Biotechnol Genet Eng 33(2):119–143
+Boon L, Ugarte-Berzal E, Vandooren J et al (2020) Protease propeptide struc-
+tures, mechanisms of activation, and functions. Crit Rev Biochem Mol 
+Biol 55(2):111–165
+Britton KL, Stillman TJ, Yip KSP et al (1998) Insights into the molecular basis 
+of salt tolerance from the study of glutamate dehydrogenase from 
+Halobacterium salinarum. J Biol Chem 273(15):9023–9030
+Britton KL, Baker PJ, Fisher M et al (2006) Analysis of protein solvent interac-
+tions in glucose dehydrogenase from the extreme halophile Haloferax 
+mediterranei. Proc Natl Acad Sci U S A 103(13):4846–4851
+Busche T, Tsolis KC, Koepff J et al (2018) Multi-omics and targeted approaches 
+to determine the role of cellular proteases in streptomyces protein 
+secretion. Front Microbiol 9:1174
+Cai LN, Xu SN, Lu T et al (2022) Salt-tolerant and thermostable mechanisms of 
+an endoglucanase from marine Aspergillus niger. Bioresour Bioprocess 
+9(1):44
+Chanalia P , Gandhi D, Jodha D et al (2011) Applications of microbial pro -
+teases in pharmaceutical industry: an overview. Rev Med Microbiol 
+22(4):96–101Page 20 of 23 Yao et al. Bioresources and Bioprocessing           (2023) 10:82 
+Chauhan JV, Mathukiya RP , Singh SP et al (2021) Two steps purification, bio -
+chemical characterization, thermodynamics and structure elucidation 
+of thermostable alkaline serine protease from Nocardiopsis alba strain 
+OM-5. Int J Biol Macromol 169:39–50
+Chen X, Wang WW, Hu HY et al (2021) Insights from comparative proteomic 
+analysis into degradation of phenanthrene and salt tolerance by the 
+halophilic Martelella strain AD-3. Ecotoxicology 30(7):1499–1510
+Chen CF, Hou S, Wu CZ et al (2023) Improving protein utilization and fermenta-
+tion quality of soy sauce by adding protease. J Food Compost Anal 
+121:105399
+Cheng YQ, Hu Q, Li LT et al (2009) Production of Sufu, a traditional Chinese 
+fermented soybean food, by fermentation with Mucor flavus at low 
+temperature. Food Sci Technol Res 15(4):347–352
+Chou CC, Hwan CH (1994) Effect of ethanol on the hydrolysis of protein and 
+lipid during the aging of a chinese fermented soya bean curd—Sufu. J 
+Sci Food Agric 66(3):393–398
+Chun BH, Kim KH, Jeong SE et al (2020) The effect of salt concentrations on 
+the fermentation of doenjang, a traditional Korean fermented soybean 
+paste. Food Microbiol 86:103329
+Chung D, Yu WJ, Lim JY et al (2022) Characterization of the proteolytic Activity 
+of a Halophilic Aspergillus reticulatus Strain SK1-1 Isolated from a solar 
+saltern. Microorganisms 10(1):29
+Daoud L, Hmani H, Ben Ali M et al (2018) An original halo-alkaline protease 
+from Bacillus halodurans Strain  US193: biochemical characterization and 
+potential use as bio-additive in detergents. J Polym Environ 26(1):23–32
+Dong L, Qi SJ, Jia JW et al (2022) Enantioselective resolution of (+/-)-1-phe -
+nylethyl acetate using the immobilized extracellular proteases from 
+deep-sea Bacillus sp. DL-1. Biocatal Biotransform 40(4):258–274
+Dym O, Mevarech M, Sussman JL et al (1995) Structural features that stabilize 
+halophilic malate-dehydrogenase from an archaebacterium. Science 
+267(5202):1344–1346
+Ebel C, Faou P , Kernel B et al (1999) Relative role of anions and cations in 
+the stabilization of halophilic malate dehydrogenase. Biochemistry 
+38(28):9039–9047
+Edbeib MF, Wahab RA, Huyop F et al (2016) Halophiles: biology, adaptation, 
+and their role in decontamination of hypersaline environments. World J 
+Microbiol Biotechnol 32(8):135
+Enache M, Kamekura M (2010) Hydrolytic enzymes of halophilic microorgan-
+isms and their economic values. Rom J Biochem 47(1):47–59
+Essghaier B, Bejji M, Jijakli H et al (2009) High salt-tolerant protease from a 
+potential biocontrol agent Bacillus pumilus M3–16. Ann Microbiol 
+59(3):553–558
+Falkenberg F, Rahba J, Fischer D et al (2022) Biochemical characterization of a 
+novel oxidatively stable, halotolerant, and high-alkaline subtilisin from 
+Alkalihalobacillus okhensis Kh10-101T. FEBS Open Bio 12(10):1729–1746
+Feng Z, Chen H, Lv XT et al (2014) Accelerated ripening of Kedong sufu with 
+autochthonous starter cultures Kocuria rosea KDF3 and its protease KP3 
+as adjuncts. J Appl Microbiol 116(4):877–889
+Feng HJ, Chen L, Ding YC et al (2022) Mechanism on the microbial salt toler -
+ance enhancement by electrical stimulation. Bioelectrochemistry 
+147:108206
+Flores-Santos JC, Zavaleta AI, Flores-Fernandez CN et al (2020) Produc-
+tion and characterization of extremophilic proteinases from a new 
+enzyme source, Barrientosiimonas sp. V9. Appl Biochem Biotechnol 
+190(3):1060–1073
+Foophow T, Sittipol D, Rukying N et al (2022) Purification and characterization 
+of a novel extracellular haloprotease Vpr from Bacillus licheniformis 
+strain KB111. Food Technol Biotechnol 60(2):225–236
+Fu XT, You SG, Kim SM et al (2008) Characterization of a salt-tolerant acid 
+protease produced by Bacillus megaterium KLP-98 and its potential as a 
+fermentation starter for the manufacture of fish sauce. J Food Biochem 
+32(3):279–298
+Fujisawa M, Kusumoto A, Wada Y et al (2005) NhaK, a novel monovalent 
+cation/H+ antiporter of Bacillus subtilis. Arch Microbiol 183(6):411–420
+Fukuchi S, Yoshimune K, Wakayama M et al (2003) Unique amino acid compo -
+sition of proteins in halophilic bacteria. J Mol Biol 327(2):347–357
+Funaki J, Yano M, Misaka T et al (1997) Purification and characterization of a 
+neutral protease that contributes to the unique flavor and texture of 
+Tofu-misozuke. J Food Biochem 21(3):191–202Gao XL, Zhao HF, Feng YZ et al (2010) A comparative study on physicochemi-
+cal properties of Chinese-type soy sauces prepared using pure koji and 
+mixed kojis. Afr J Biotechnol 9(40):6740–6747
+Gao RC, Shi T, Liu XD et al (2017) Purification and characterisation of a salt-
+stable protease from the halophilic archaeon Halogranum rubrum. J Sci 
+Food Agric 97(5):1412–1419
+Gao XL, Yin YY, Zhou CS et al (2018) Purification, characterisation and salt-
+tolerance molecular mechanisms of aspartyl aminopeptidase from 
+Aspergillus oryzae 3.042. Food Chem 240:377–385
+Gao XL, Yin YY, Yan JK et al (2019) Separation, biochemical characterization and 
+salt-tolerant mechanisms of alkaline protease from Aspergillus oryzae. J 
+Sci Food Agric 99(7):3359–3366
+Gao XL, Liu EM, Yin YY et al (2020) Enhancing activities of salt-tolerant 
+proteases secreted by Aspergillus oryzae using atmospheric and room-
+temperature plasma mutagenesis. J Agric Food Chem 68(9):2757–2764
+Gaonkar SK, Furtado IJ (2020) Characterization of extracellular protease from 
+the Haloarcheon Halococcus sp. strain GUGFAWS-3 (MF425611). Curr 
+Microbiol 77(6):1024–1034
+Garcia-Moyano A, Diaz Y, Navarro J et al (2021) Two-step functional screen 
+on multiple proteinaceous substrates reveals temperature-robust 
+proteases with a broad-substrate range. Appl Microbiol Biotechnol 
+105(8):3195–3209
+Ge CX, Wang YG, Lu SP et al (2021) Multi-omics analyses reveal the regulatory 
+network and the function of ZmUGTs in maize defense response. Front 
+Plant Sci 12:738261
+Ghafoori H, Askari M, Sarikhan S et al (2016) Purification and characterization of 
+an extracellular haloalkaline serine protease from the moderately halo -
+philic bacterium, Bacillus iranensis (X5B). Extremophiles 20(2):115–123
+Gomari MM, Saraygord-Afshari N, Farsimadan M et al (2020) Opportunities and 
+challenges of the tag-assisted protein purification techniques: applica-
+tions in the pharmaceutical industry. Biotechnol Adv 45:107653
+González-Hernández J, Peña A (2002) Adaptation strategies of halophilic 
+microorganisms and Debaryomyces hansenii (halophilic yeast). Rev 
+Latinoam Microbiol 44:137–156
+Gromiha MM, Oobatake M, Kono H et al (1999) Role of structural and 
+sequence information in the prediction of protein stability changes: 
+comparison between buried and partially buried mutations. Protein 
+Eng 12(7):549–555
+Gu Y, Tian JJ, Zhang Y et al (2021) Dissecting signal molecule AI-2 mediated 
+biofilm formation and environmental tolerance in Lactobacillus plan-
+tarum. J Biosci Bioeng 131(2):153–160
+Han BZ, Rombouts FM, Nout MJR et al (2001) A Chinese fermented soybean 
+food. Int J Food Microbiol 65(1–2):1–10
+Han BZ, Wang JH, Rombouts FM et al (2003) Effect of NaCl on textural changes 
+and protein and lipid degradation during the ripening stage of sufu, a 
+Chinese fermented soybean food. J Sci Food Agric 83(9):899–904
+Han BZ, Rombouts FM, Nout MJR et al (2004) Amino acid profiles of sufu, a 
+Chinese fermented soybean food. J Food Compost Anal 17(6):689–698
+Hanefeld U, Cao LQ, Magner E et al (2013) Enzyme immobilisation: fundamen-
+tals and application. Chem Soc Rev 42(15):6211–6212
+Hao JY, Zhang ZC, Yang M et al (2022) Micronization using combined alkaline 
+protease hydrolysis and high-speed shearing homogenization for 
+improving the functional properties of soy protein isolates. Bioresour 
+Bioprocess 9(1):77
+He WM, Chung HY (2020) Exploring core functional microbiota related with 
+flavor compounds involved in the fermentation of a natural fer -
+mented plain sufu (Chinese fermented soybean curd). Food Microbiol 
+90:103408
+He WM, Chen ZX, Chun HY et al (2022) Dynamic correlations between major 
+enzymatic activities, physicochemical properties and targeted volatile 
+compounds in naturally fermented plain sufu during production. Food 
+Chem 378:131988
+Heng XY, Chen HY, Lu CX et al (2022) Study on synergistic fermentation of 
+bean dregs and soybean meal by multiple strains and proteases. LWT-
+Food Sci Technol 154:112626
+Hou Y, Lu F, Tian J et al (2019) Cloning, heterologous expression and characteri-
+zation of an intracellular serine protease from Bacillus sp. LCB10. Appl 
+Biochem Microbiol 55(5):482–488
+Hou J, Han D, Zhou Y et al (2020) Identification and characterization of the 
+gene encoding an extracellular protease from haloarchaeon Halococcus 
+salifodinae. Microbiol Res 236:126468Page 21 of 23
+ Yao et al. Bioresources and Bioprocessing           (2023) 10:82 
+ 
+Hou J, Yin XM, Li Y et al (2021) Biochemical characterization of a low salt-
+adapted extracellular protease from the extremely halophilic archaeon 
+Halococcus salifodinae. Int J Biol Macromol 176:253–259
+Hu X, Li DH, Qiao Y et al (2020a) Salt tolerance mechanism of a hydrocarbon-
+degrading strain: salt tolerance mediated by accumulated betaine in 
+cells. J Hazard Mater 392:122326
+Hu Y, Li T, Tu Z et al (2020b) Engineering a recombination neutral protease I 
+from Aspergillus oryzae to improve enzyme activity at acidic pH. RSC 
+Adv 10(51):30692–30699
+Hu XL, Zhao X, Wang MX et al (2022) Rationally tailoring the halophilicity of an 
+amylolytic enzyme for application in dehydrating conditions. Biochem 
+Eng J 189:108708
+Ibrahim ASS, Al-Salamah AA, El-Badawi YB et al (2015a) Detergent-, solvent- 
+and salt-compatible thermoactive alkaline serine protease from halo -
+tolerant alkaliphilic Bacillus sp. NPST-AK15: purification and characteri-
+zation. Extremophiles 19(5):961–971
+Ibrahim ASS, Al-Salamah AA, Elbadawi YB et al (2015b) Production of extracel-
+lular alkaline protease by new halotolerant alkaliphilic Bacillus sp. 
+NPST-AK15 isolated from hyper saline soda lakes. Electron J Biotechnol 
+18(3):236–243
+Ibrahim ASS, Al-Salamah AA, Elbadawi YB et al (2016) Alkaline protease from a 
+new halotolerant alkaliphilic Bacillus agaradhaerens strain AK-R isolated 
+from Egyptian soda lakes. Biosci J 32(6):1604–1618
+Ibrahim ASS, Elbadawi YB, El-Tayeb MA et al (2019) Alkaline serine protease 
+from the new halotolerant alkaliphilic Salipaludibacillus agaradhaerens 
+strain AK-R: purification and properties. 3 Biotech 9(11):391
+Ibrahim ASS, Elbadawi YB, El-Toni AM et al (2021) Stabilization and improved 
+properties of Salipaludibacillus agaradhaerens alkaline protease by 
+immobilization onto double mesoporous core-shell nanospheres. Int J 
+Biol Macromol 166:557–566
+Johnson J, Yang YH, Lee DG et al (2018) Expression, purification and characteri-
+zation of halophilic protease Pph_Prol cloned from Pseudoalteromonas 
+phenolica. Protein Expression Purif 152:46–55
+Jothi Basu M, Indra V, Hemapriya J et al (2015) Bioprocess optimization of 
+halophilic protease production by a halophilic bacterial strain JS4. Int J 
+Curr Res Aca Rev 3(4):309–315
+Kalwasinska A, Jankiewicz U, Felfoldi T et al (2018) Alkaline and halophilic 
+protease production by Bacillus luteus H11 and its potential industrial 
+applications. Food Technol Biotechnol 56(4):553–561
+Karan R, Capes MD, Dassarma S et al (2012) Function and biotechnology of 
+extremophilic enzymes in low water activity. Aquat Biosyst 8(1):4
+Kilcawley KN, Nongonierma AB, Hannon JA et al (2012) Evaluation of com-
+mercial enzyme systems to accelerate Cheddar cheese ripening. Int 
+Dairy J 26(1):50–57
+Kurt-Kizildogan A, Abanoz B, Okay S et al (2017) Global transcriptome analysis 
+of Halolamina sp. to decipher the salt tolerance in extremely halophilic 
+archaea. Gene 601:56–64
+Lam MQ, Mut NNN, Thevarajoo S et al (2018) Characterization of detergent 
+compatible protease from halophilic Virgibacillus sp CD6. 3 Biotech 
+8:104
+Lario LD, Chaud L, Almeida MD et al (2015) Production, purification, and char -
+acterization of an extracellular acid protease from the marine Antarctic 
+yeast Rhodotorula mucilaginosa L7. Fungal Biol 119(11):1129–1136
+Lee SK, Hwang JY, Choi SH et al (2010) Purification and characterization of 
+Aspergillus oryzae LK-101 salt-tolerant acid protease isolated from 
+soybean paste. Food Sci Biotechnol 19(2):327–334
+Lefebvre O, Moletta R (2006) Treatment of organic pollution in industrial saline 
+wastewater: a literature review. Water Res 40(20):3671–3682
+Lei FF, Zhao QZ, Sun-Waterhouse DX et al (2017) Characterization of a salt-
+tolerant aminopeptidase from marine Bacillus licheniformis SWJS33 that 
+improves hydrolysis and debittering efficiency for soy protein isolate. 
+Food Chem 214:347–353
+Leng XW, Xu Y (2011) Improvement of acid protease production by a mixed 
+culture of Aspergillus niger and Aspergillus oryzae using solid-state 
+fermentation technique. Afr J Biotechnol 10(35):6824–6829
+Li YY, Yu RC, Chou CC et al (2010) Some biochemical and physical changes 
+during the preparation of the enzyme-ripening sufu, a fermented 
+product of soybean curd. J Agric Food Chem 58(8):4888–4893
+Li YC, Ku S, Park MS et al (2017) Acceleration of aglycone isoflavone and 
+gamma-aminobutyric acid production from Doenjang using whole-cell biocatalysis accompanied by protease treatment. J Microbiol Biotech-
+nol 27(11):1952–1960
+Li C, Li W, Li H et al (2019) The effect of quorum sensing on performance of 
+salt-tolerance aerobic granular sludge: linking extracellular polymeric 
+substances and microbial community. Biodegradation 30(5–6):447–456
+Li PS, Kong WL, Wu XQ et al (2021a) Salt tolerance mechanism of the rhizos-
+phere bacterium JZ-GX1 and its effects on tomato seed germination 
+and seedling growth. Front Microbiol 12:657238
+Li XJ, He Y, Yang W et al (2021b) Comparative analysis of the microbial commu-
+nity and nutritional quality of sufu. Food Sci Nutr 9(8):4117–4126
+Liang YC, Pan L, Lin Y et al (2009) Analysis of extracellular proteins of Asper -
+gillus oryzae grown on Soy Sauce Koji. Biosci Biotechnol Biochem 
+73(1):192–195
+Liang LW, Fei X, Li Y et al (2015) Hierarchical assembly of enzyme-inorganic 
+composite materials with extremely high enzyme activity. RSC Adv 
+5(117):96997–97002
+Lim J, Choi YH, Hurh BS et al (2019) Strain improvement of Aspergillus sojae for 
+increased l-leucine aminopeptidase and protease production. Food Sci 
+Biotechnol 28(1):121–128
+Lin Z, Xiao Y, Wang L et al (2014) Facile synthesis of enzyme-inorganic hybrid 
+nanoflowers and their application as an immobilized trypsin reactor for 
+highly efficient protein digestion. RSC Adv 4(27):13888–13891
+Lin HB, Zhou BB, Zhao JH et al (2022) Insight into the protein degrada-
+tion during the broad bean fermentation process. Food Sci Nutr 
+10(8):2760–2772
+Liu JJ, Li DS, Hu Y et al (2015) Effect of a halophilic aromatic yeast together 
+with Aspergillus oryzae in koji making on the volatile compounds and 
+quality of soy sauce moromi. Int J Food Sci Technol 50(6):1352–1358
+Liu XQ, Feng YL, Lai XH et al (2020) Virgibacillus halodenitrificans ST-1 for 
+fermentation of shrimp paste and hydrolysates of its protease. Food Sci 
+Nutr 8(10):5352–5361
+Liu XF, Lu Q, Xiao H et al (2023) Expression of a salt-tolerant pseudolysin in 
+yeast for efficient protein hydrolysis under high-salt conditions. Biomol-
+ecules 13(1):83
+Madern D, Camacho M, Rodriguez-Arnedo A et al (2004) Salt-dependent stud-
+ies of NADP-dependent isocitrate dehydrogenase from the halophilic 
+archaeon Haloferax volcanii. Extremophiles 8(5):377–384
+Martinez R, Jakob F, Tu R et al (2013) Increasing activity and thermal resistance 
+of Bacillus gibsonii alkaline protease (BgAP) by directed evolution. 
+Biotechnol Bioeng 110(3):711–720
+Matkawala F, Nighojkar S, Kumar A et al (2021) Microbial alkaline serine 
+proteases: production, properties and applications. World J Microbiol 
+Biotechnol 37(4):63
+Mevarech M, Frolow F, Gloss LM et al (2000) Halophilic enzymes: proteins with 
+a grain of salt. Biophys Chem 86(2–3):155–164
+Moghaddam JA, Boehringer N, Burdziak A et al (2016) Different strategies of 
+osmoadaptation in the closely related marine myxobacteria Enhygro -
+myxa salina SWB007 and Plesiocystis pacifica SIR-1. Microbiology-Sgm 
+162:651–661
+Mokashe N, Chaudhari B, Patil U et al (2017) Detergent-compatible robust 
+alkaline protease from newly isolated halotolerant Salinicoccus sp. 
+UN-12. J Surfactants Deterg 20(6):1377–1393
+Mokashe N, Chaudhari B, Patil U et al (2018) Operative utility of salt-stable 
+proteases of halophilic and halotolerant bacteria in the biotechnology 
+sector. Int J Biol Macromol 117:493–522
+Motamedi E, Motahar SFS, Maleki M et al (2021) Upgrading the enzymatic 
+hydrolysis of lignocellulosic biomass by immobilization of metage -
+nome-derived novel halotolerant cellulase on the carboxymethyl 
+cellulose-based hydrogel. Cellulose 28(6):3485–3503
+Naveed M, Nadeem F, Mehmood T et al (2021) Protease-A versatile and 
+ecofriendly biocatalyst with multi-industrial applications: an updated 
+review. Catal Lett 151(2):307–323
+Nishikawa A, Senba H, Kimura Y et al (2022) Isolation and characterization of a 
+salt-tolerant gamma-glutamyl transpeptidase from xerophilic Aspergil-
+lus sydowii. 3 Biotech 12(10):253.
+Oren A, Mana L (2002) Amino acid composition of bulk protein and salt 
+relationships of selected enzymes of Salinibacter ruber, an extremely 
+halophilic bacterium. Extremophiles 6(3):217–223Page 22 of 23 Yao et al. Bioresources and Bioprocessing           (2023) 10:82 
+Orhan E, Omay D, Guvenilir Y et al (2005) Partial purification and characteriza-
+tion of protease enzyme from Bacillus subtilis and Bacillus cereus. Appl 
+Biochem Biotechnol 121:183–194
+Ortega G, Lain A, Tadeo X et al (2011) Halophilic enzyme activation induced by 
+salts. Sci Rep-UK 1:6
+Ouelhadj A, Bouacem K, Asmani KL et al (2020) Identification and homology 
+modeling of a new biotechnologically compatible serine alkaline pro -
+tease from moderately halotolerant Gracilibacillus boraciitolerans strain 
+LO15. Int J Biol Macromol 161:1456–1469
+Patipong T, Kageyama H, Waditee-Sirisattha R et al (2021) Insights into the 
+phylogeny and transcriptional response of serine proteases in a halo -
+tolerant cyanobacterium Halothece sp. PCC7418. Plant Signal Behav 
+16(9):e1913556
+Paul S, Bag SK, Das S et al (2008) Molecular signature of hypersaline adapta-
+tion: insights from genome and proteome composition of halophilic 
+prokaryotes. Genome Biol 9(4):R70
+Promchai R, Boonchalearn A, Visessanguan W et al (2018) Rapid production of 
+extracellular thermostable alkaline halophilic protease originating from 
+an extreme haloarchaeon, Halobacterium salinarum by recombinant 
+Bacillus subtilis. Biocatal Agr Biotech 15:192–198
+Purohit MK, Singh SP (2013) A metagenomic alkaline protease from saline 
+habitat: cloning, over-expression and functional attributes. Int J Biol 
+Macromol 53:138–143
+Qi W, Fan ZC, Wang CL et al (2014) Comparative study of physiological adapta-
+tion to salt stress in the genome shuffled Candida versatilis and a wild-
+type salt-tolerant yeast strain. Eur Food Res Technol 238(4):675–682
+Rahman MA, Culsum U, Kumar A et al (2016) Immobilization of a novel 
+cold active esterase onto  Fe3O4 similar to cellulose nano-composite 
+enhances catalytic properties. Int J Biol Macromol 87:488–497
+Rao MB, Tanksale AM, Ghatge MS et al (1998) Molecular and biotechnological 
+aspects of microbial proteases. Microbiol Mol Biol Rev 62(3):597–635
+Raval VH, Rathore DS, Singh SP et al (2022) Comparative studies of the charac-
+teristics of two alkaline proteases from Haloalkaliphilic bacterium D-15-9 
+and Oceanobacillus onchorynchii Mi-10-54. Appl Biochem Microbiol 
+58(5):551–563
+Razzaq A, Shamsi S, Ali A et al (2019) Microbial proteases applications. Front 
+Bioeng Biotech 7:110
+Rodriguez-Rios M, Megia-Fernandez A, Norman DJ et al (2022) Peptide probes 
+for proteases - innovations and applications for monitoring proteolytic 
+activity. Chem Soc Rev 51(6):2081–2120
+Sana B, Ghosh D, Saha M et al (2006) Purification and characterization of 
+a salt, solvent, detergent and bleach tolerant protease from a new 
+gamma-Proteobacterium isolated from the marine environment of the 
+Sundarbans. Process Biochem 41(1):208–215
+Senba H, Nishikawa A, Kimura Y et al (2023) Improvement in salt-tolerance 
+of Aspergillus oryzae gamma-glutamyl transpeptidase via protein chi-
+merization with Aspergillus sydowii homolog. Enzyme Microb Technol 
+167:110240
+Setyorini E, Takenaka S, Murakami S et al (2006) Purification and characteriza-
+tion of two novel halotolerant extracellular proteases from Bacillus 
+subtilis strain FP-133. Biosci, Biotechnol, Biochem 70(2):433–440
+Shi WL, Tang XF, Huang YP et al (2006) An extracellular halophilic protease 
+SptA from a halophilic archaeon Natrinema sp. J7: gene cloning, expres-
+sion and characterization. Extremophiles 10(6):599–606
+Shirasaka N, Naitou M, Okamura K et al (2012) Purification and characterization 
+of a fibrinolytic protease from Aspergillus oryzae KSK-3. Mycoscience 
+53(5):354–364
+Singh R, Chopra C, Gupta VK et al (2015) Purification and characterization of 
+CHpro1, a thermotolerant, alkali-stable and oxidation-resisting protease 
+of Chumathang hotspring. Sci Bull 60(14):1252–1260
+Singracha P , Niamsiri N, Visessanguan W et al (2017) Application of lactic 
+acid bacteria and yeasts as starter cultures for reduced-salt soy sauce 
+(moromi) fermentation. LWT-Food Sci Technol 78:181–188
+Sinha R, Khare SK (2014) Structural changes in halophilic and non-halophilic 
+proteases in response to chaotropic reagents. Protein J 33(4):394–402
+Sivaprakasam S, Dhandapani B, Mahadevan S et al (2011) Optimization studies 
+on production of a salt-tolerant protease from Pseudomonas Aeruginosa 
+strain BC1 and its application on tannery saline wastewater treatment. 
+Braz J Microbiol 42(4):1506–1515
+Soppa J (2006) From genomes to function: haloarchaea as model organisms. 
+Microbiology-Sgm 152:585–590Stressler T, Ewert J, Merz M et al (2016) A novel glutamyl (Aspartyl)-specific 
+aminopeptidase A from Lactobacillus delbrueckii with promising proper -
+ties for application. PLoS ONE 11(3):e0152139
+Sun JA, Li P , Liu Z et al (2020) A novel thermostable serine protease from a 
+metagenomic library derived from marine sediments in the East China 
+Sea. Appl Microbiol Biotechnol 104(21):9229–9238
+Tadeo X, Lopez-Mendez B, Trigueros T et al (2009) Structural basis for the 
+amino acid composition of proteins from halophilic archea. PLoS Biol 
+7(12):e1000257
+Takenaka S, Takada A, Kimura Y et al (2022) Improvement of the halotolerance 
+of a Bacillus serine protease by protein surface engineering. J Basic 
+Microbiol 62(2):174–184
+Takita T, Aono T, Sakurama H et al (2008) Effects of introducing negative 
+charges into the molecular surface of thermolysin by site-directed 
+mutagenesis on its activity and stability. Bba-Proteins Proteom 
+1784(3):481–488
+Tanasupawat S, Taprig T, Akaracharanya A et al (2011) Characterization of 
+Virgibacillus strain TKNR13-3 from fermented shrimp paste (ka-pi) and 
+its protease production. Afr J Microbiol Res 5(26):4714–4721
+Tang CH (2017) Emulsifying properties of soy proteins: a critical review with 
+emphasis on the role of conformational flexibility. Crit Rev Food Sci 
+Nutr 57(12):2636–2679
+Tang J, Chen TT, Hu Q et al (2020) Improved protease activity of Pixian broad 
+bean paste with cocultivation of Aspergillus oryzae QM-6 and Aspergillus 
+niger QH-3. Electron J Biotechnol 44:33–40
+Vaidya S, Dev K, Sourirajan A et al (2018) Distinct osmoadaptation strategies in 
+the strict halophilic and halotolerant bacteria isolated from lunsu salt 
+water body of North West Himalayas. Curr Microbiol 75(7):888–895
+Vidyasagar M, Prakash S, Jayalakshmi SK et al (2007) Optimization of culture 
+conditions for the production of halothermophilic protease from 
+halophilic bacterium Chromohalobacter sp. TVSP101. World J Microbiol 
+Biotechnol 23(5):655–662
+Vieille C, Zeikus GJ (2001) Hyperthermophilic enzymes: Sources, uses, and 
+molecular mechanisms for thermostability. Microbiol Mol Biol Rev 
+65(1):1–43
+Vreeland RH (1987) Mechanisms of halotolerance in microorganisms. Crit Rev 
+Microbiol 14(4):311–356
+Wahab WAA, Ahmed SA (2018) Response surface methodology for produc-
+tion, characterization and application of solvent, salt and alkali-tolerant 
+alkaline protease from isolated fungal strain Aspergillus niger WA 2017. 
+Int J Biol Macromol 115:447–458
+Wang D, Zheng ZY, Feng J et al (2013) A high salt tolerant neutral protease 
+from Aspergillus Oryzae: Purification, characterization and kinetic prop -
+erties. Appl Biochem Microbiol 49(4):378–385
+Wang QY, Yang W, Pu SC et al (2020) Physicochemical properties of sufu 
+produced by single and mixed fermentation with Mucor racemosus and 
+Rhizopus oryzae. Curr Top Nutraceut R 18(1):63–69
+Wang FP , Li M, Huang L et al (2021a) Cultivation of uncultured marine microor -
+ganisms. Mar Life Sci Tech 3(2):117–120
+Wang HJ, Liu HW, Yu Q et al (2021b) A CPD photolyase gene PnPHR1 from Ant -
+arctic moss Pohlia nutans is involved in the resistance to UV-B radiation 
+and salinity stress. Plant Physiol Biochem 167:235–244
+Wang SA, Zhang P , Xue YB et al (2021c) Characterization of a novel aspartic 
+protease from Rhizomucor miehei expressed in Aspergillus niger and its 
+application in production of ACE-inhibitory peptides. Foods 10(12):2949
+Wei QZ, Wang HB, Chen ZX et al (2013) Profiling of dynamic changes in the 
+microbial community during the soy sauce fermentation process. Appl 
+Microbiol Biotechnol 97(20):9111–9119
+Wei MY, Chen PC, Zheng P et al (2023) Purification and characterization of 
+aspartic protease from Aspergillus niger and its efficient hydrolysis appli-
+cations in soy protein degradation. Microb Cell Fact 22(1):42
+Wu SM, Liu G, Zhang DC et al (2015) Purification and biochemical characteriza-
+tion of an alkaline protease from marine bacteria Pseudoalteromonas sp. 
+129–1. J Basic Microbiol 55(12):1427–1434
+Wu YW, Kameshwar AKS, Zhang B et al (2022) Genome and transcriptome 
+analysis of rock-dissolving Pseudomonas sp. NLX-4 strain. Bioresour 
+Bioprocess 9(1):63
+Xi Y, Ye LD, Yu HW et al (2022) Enhanced thermal and alkaline stability of 
+L-lysine decarboxylase CadA by combining directed evolution and 
+computation-guided virtual screening. Bioresour Bioprocess 9(1):24Page 23 of 23
+ Yao et al. Bioresources and Bioprocessing           (2023) 10:82 
+ 
+Xie L, Xiao YZ, Gao XY et al (2016) Purification and characterization of a halotol-
+erant alkaline serine protease from Penicillium citrinum YL-1 isolated 
+from traditional chinese fish sauce. Food Biotechnol 30(2):137–153
+Xie CZ, Zeng HY, Qin LK et al (2018) Physicochemical, taste, and functional 
+changes during the enhanced fermentation of low-salt Sufu paste, a 
+Chinese fermented soybean food. Int J Food Prop 21(1):2714–2729
+Yang HN, Liu Y, Ning YC et al (2020) Characterization of an intracellular alkaline 
+serine protease from Bacillus velezensis  SW5 with fibrinolytic activity. 
+Curr Microbiol 77(8):1610–1621
+Yang DQ, Li CS, Li LH et al (2022) Novel insight into the formation mechanism 
+of umami peptides based on microbial metabolism in Chouguiyu, a 
+traditional Chinese fermented fish. Food Res Int 157:111211
+Yin YQ, Xiao Y, Lin G et al (2015) An enzyme-inorganic hybrid nanoflower 
+based immobilized enzyme reactor with enhanced enzymatic activity. J 
+Mater Chem B 3(11):2295–2300
+Yue XQ, Li MH, Liu YM et al (2021) Microbial diversity and function of soybean 
+paste in East Asia: what we know and what we don’t. Curr Opin Food 
+Sci 37:145–152
+Yuzuki M, Matsushima K, Koyama Y et al (2015) Expression of key hydrolases 
+for soy sauce fermentation in Zygosaccharomyces rouxii. J Biosci Bioeng 
+119(1):92–94
+Zeng FF, Zhu YH, Zhang DL et al (2022) Metagenomic analysis of the soil 
+microbial composition and salt tolerance mechanism in Yuncheng Salt 
+Lake. Shanxi Province Front Microbiol 13:1004556
+Zhang H, Li H, Lang DA et al (2018) Purification, characterization and potential 
+applications of a novel halotolerant metalloprotease from marine bac-
+terium Vibrio sp LA-05. J Chem Technol Biotechnol 93(12):3627–3637
+Zhang H, Li H, Liu HR et al (2019) The application of a halotolerant metal-
+loprotease from marine bacterium Vibrio sp. LA-05 in liquid detergent 
+formulations. Int Biodeter Biodegr 142:18–25
+Zhang HW, Hu MK, Wang Q et al (2022a) A novel salt-tolerant l-glutaminase: 
+efficient functional expression, computer-aided design, and applica-
+tion. Fermentation-Basel 8(9):444
+Zhang XL, Liu ZP , Kang B et al (2022b) Effect of Lactobacillus plantarum or 
+Enterococcus faecalis as co-inoculants with Aspergillus oryzae in koji 
+making on the physicochemical properties of soy sauce. J Food Sci 
+87(2):714–727
+Zhang Y, Guan FF, Xu GS et al (2022c) A novel thermophilic chitinase directly 
+mined from the marine metagenome using the deep learning tool 
+Preoptem. Bioresour Bioprocess 9(1):54
+Zhang Y, Mao BY, Tang X et al (2022d) Integrative genome and metabolome 
+analysis reveal the potential mechanism of osmotic stress tolerance in 
+Bifidobacterium bifidum. LWT-Food Sci Technol 159:113199
+Zhang Y, Hu JM, Zhang Q et al (2023) Enhancement of alkaline protease 
+production in recombinant Bacillus licheniformis by response surface 
+methodology. Bioresour Bioprocess 10(1):27
+Zhao HY, Feng H (2018) Engineering Bacillus pumilus alkaline serine protease 
+to increase its low-temperature proteolytic activity by directed evolu-
+tion. BMC Biotechnol 18:34
+Zhao GZ, Hou LH, Lu MF et al (2012) Construction of the mutant strain 
+in Aspergillus oryzae 3.042 for abundant proteinase production by 
+the N plus ion implantation mutagenesis. Int J Food Sci Technol 
+47(3):504–510
+Zheng L, Chen SS, Xie LH et al (2018) Overexpression of cysteine protease 
+gene from Salix matsudana enhances salt tolerance in transgenic 
+Arabidopsis. Environ Exp Bot 147:53–62
+Zheng YF, Xu ZC, Liu HD et al (2021) Patterns in the microbial community of 
+salt-tolerant plants and the functional genes associated with salt stress 
+alleviation. Microbiol Spectr 9(2):e00767
+Zhou SQ, Zeng HY, Qin LK et al (2021) Screening of enzyme-producing 
+strains from traditional Guizhou condiment. Biotechnol Biotec Eq 
+35(1):264–275
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in pub -
+lished maps and institutional affiliations.

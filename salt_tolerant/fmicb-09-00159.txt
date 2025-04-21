@@ -1,0 +1,858 @@
+ORIGINAL RESEARCH
+published: 08 February 2018
+doi: 10.3389/fmicb.2018.00159
+Frontiers in Microbiology | www.frontiersin.org 1 February 2018 | Volume 9 | Article 159Editedby:
+DianaElizabethMarco,
+NationalScientiﬁcCouncil(CONICET),
+Argentina
+Reviewedby:
+RichardAllenWhiteIII,
+RAWMolecularSystems(RMS)LLC,
+UnitedStates
+EamonnP.Culligan,
+CorkInstituteofTechnology,Ireland
+*Correspondence:
+NarS.Chauhan
+nschauhan@mdurohtak.ac.in
+†Theseauthorshavecontributed
+equallytothiswork.
+Specialtysection:
+Thisarticlewassubmittedto
+MicrobialPhysiologyandMetabolism,
+asectionofthejournal
+FrontiersinMicrobiology
+Received: 12October2017
+Accepted: 23January2018
+Published: 08February2018
+Citation:
+AhmedV,VermaMK,GuptaS,
+MandhanVandChauhanNS(2018)
+MetagenomicProﬁlingofSoil
+MicrobestoMineSaltStress
+ToleranceGenes.
+Front.Microbiol.9:159.
+doi:10.3389/fmicb.2018.00159Metagenomic Proﬁling of Soil
+Microbes to Mine Salt Stress
+Tolerance Genes
+VasimAhmed†,ManojK.Verma†,ShashankGupta,VibhaMandhanandNarS.Chauhan *
+DepartmentofBiochemistry,MaharshiDayanandUniversity ,Rohtak,India
+Osmotolerance is one of the critical factors for successful survival and colonization of
+microbes in saline environments. Nonetheless, informatio n about these osmotolerance
+mechanisms is still inadequate. Exploration of the saline s oil microbiome for its
+community structure and novel genetic elements is likely to provide information
+on the mechanisms involved in osmoadaptation. The present s tudy explores
+the saline soil microbiome for its native structure and nove l genetic elements
+involved in osmoadaptation. 16S rRNA gene sequence analysi s has indicated
+the dominance of halophilic/halotolerant phylotypes afﬁl iated to Proteobacteria ,
+Actinobacteria ,Gemmatimonadetes ,Bacteroidetes ,Firmicutes, andAcidobacteria . A
+functionalmetagenomicsapproachledtotheidentiﬁcation ofosmotolerantclonesSSR1,
+SSR4, SSR6, SSR2 harboring BCAA_ABCtp, GSDH, STK_Pknb, andduf3445 genes.
+Furthermore, transposon mutagenesis, genetic, physiolog ical and functional studies in
+closeassociationhasconﬁrmedtheroleofthesegenesinosm otolerance.Enhancement
+in host osmotolerance possibly though the cytosolic accumu lation of amino acids,
+reducing equivalents and osmolytes involving BCAA-ABCtp ,GSDH,andSTKc_PknB .
+Decodingofthegeneticelementsprevalentwithinthesemic robescanbeexploitedeither
+assuchforamelioratingsoilsortheirgeneticallymodiﬁed formscanassistcropstoresist
+and survive in saline environment.
+Keywords: metagenome, halotolerance, SSU rRNA, soil microbio me, soil ecology
+INTRODUCTION
+Soil is a rich and dynamic ecosystem, containing a vast numbe r of microorganisms ( van Veen
+etal.,1997 ).Geologicalactivitieslikeweatheringofrocks,windsand pooragriculturalpracticeare
+continuouslyincreasingsaltcontentsofthesoils( Jiangetal.,2007;Canforaetal.,2014 ).Enhanced
+soilsalinitymodulatesthemicrobialcommunitystructurea nditsphysiologicalactivity( Jiangetal.,
+2007; Canfora et al., 2014; Shrivastava and Kumar, 2015 ). The majority of microbes surviving
+in salt stress conditions demonstrate osmotolerance for va rying duration, which may extend
+even to their entire lifespan ( Roberts, 2005 ). The salt stress tolerance mechanisms are complex
+phenomena where pathways are coordinately linked ( Culligan et al., 2012 ). These metabolic
+strengthstomitigateosmoticstress,seemtobegeneticall yevolvedthroughhorizontalgenetransfer
+(Koonin and Wolf, 2012; Yan et al., 2015; Gupta et al., 2017 ). Description of these osmotolerance
+mechanisms is crucial for comprehensive understanding of th e biology of saline soil microbes,
+and exploiting them for their applications in improving soil qua lity and crop yields ( Xiao and
+Roberts, 2010; Zhengbin et al., 2011; Culligan et al., 2012, 20 13, 2014; Fernandes, 2014 ). A varietyAhmed et al. Osmotolerance Genes from Saline Soil
+of culture dependent studies have been carried out to decode
+the gene(s) involved in osmotolerance within halophilic or
+halotolerant microbes ( Zuleta et al., 2003; Klähn et al., 2009;
+Naughton et al., 2009; Meena et al., 2017 ). These studies have
+deciphered the role of proteins, Na+/H+pumps, compatible
+solutes in salt stress tolerance ( Sakamoto and Murata, 2002;
+Roberts,2005 ).However,cultureindependentapproachprovides
+a vast opportunity for searching salt tolerant gene (s) ( Singh
+J. et al., 2009; Mirete et al., 2015; Kumar J. et al., 2016;
+Chauhan et al., 2017; Gupta et al., 2017 ). Only a few studies
+have used metagenomic approach to decode the microbial salt
+stress tolerance mechanisms from various environments lik e
+pond water ( Kapardar et al., 2010a,b ), brines and moderate-
+salinityrhizosphere( Mireteetal.,2015 ),humangutmicrobiome
+(Culligan et al., 2012, 2013, 2014 ). Incidentally, the number of
+genes/pathways identiﬁed for salt stress tolerance are far be low
+than the number of microbes which have been identiﬁed to
+reside within these environments ( Humbert et al., 2009; Mirete
+et al., 2015 ). Hereby, the current study was proposed to identify
+the genetic machinery used by microbes as survival strategi es
+in salt stress condition using functional metagenomic approa ch.
+The current study led to the identiﬁcation of a number of
+osmotolerant genes that could be used to develop strategies to
+ensuresurvivalofmicrobesundersalineconditions.
+MATERIALS AND METHODS
+Saline Soil Sample Collection and
+Metagenomic DNA Isolation
+Saline soil samples were collected in sterile containers aft er
+carefully removing the surface layer (up to 10cm) from
+Village Malab, District Nuh situated at 28.0107◦N, 77.0564◦E.
+Metagenomic DNA was extracted from 5g of the soil sample
+(SupplementaryMethods).
+Bacterial Strains and Growth Conditions
+Bacterial strains and plasmids used in the study are listed in
+Table1. The oligonucleotides used in the study (GeNoRime,
+Shrimpex Biotech services Pvt. Ltd. India) are listed in
+Supplementary Table S1. Escherichia coli (DH10B) and E. coli
+(MKH13) strains were cultured in Luria-Bertani (LB) medium.
+Further,E.coli(DH10B)and E.coli(MKH13)strainscontaining
+pUC19vector were cultured in LB medium supplemented with
+ampicillin (100 µg ml−1). All overnight cultures were grown in
+LBbrothat37◦Cwithconstantshakingat200rpm.
+Phylogenetic Reconstruction of Saline Soil
+Metagenome
+Saline soil metagenomic DNA was used to amplify the SSU
+rRNA gene (Supplementary Methods). The ampliﬁed product
+was used for next generation sequencing (NGS) with the aid of
+Roche 454 GS FLX +platform ( Morowitz et al., 2011; Gupta
+etal.,2017 ).Finally,QuantitativeInsightsIntoMicrobialEcology
+(QIIME)1.9.0pipelinewasimplementedforSSUrRNAsequence
+data analysis ( Caporaso et al., 2011 ). SSU rRNA gene sequence
+data was curated for quality, length and ambiguous bases as a
+quality ﬁltering step. Each sample was pre-processed to removesequences with length less than 200 nucleotides and more
+than 1,000 nucleotides and sequences with minimum average
+quality <25.Readswithambiguitiesandbarcodemismatchwere
+discarded. Reads were assigned to operational taxonomic unit s
+(OTUs) using a closed reference OTU picking protocol using
+QIIME. The uclust was applied to search sequences against a
+subset of the Greengenes database, version 13_8 ﬁltered at 9 7%
+sequence identity. The OTUs were classiﬁed taxonomically by
+using the Greengenes reference database at various taxonom ic
+ranks(phylum,class,order,family,genus,andspecies).
+Metagenomic Library Screening and
+Characterization of Salt Resistant Clones
+Plasmid borne saline soil metagenomic library was prepared in
+E. coliDH10B using pUC19 vector (Supplementary Methods)
+(Chauhanetal.,2009,2017 )andmanuallyscreenedforsaltstress
+tolerant clones ( Kapardar et al., 2010a,b ). Salt stress resistant
+clones were screened by plating the soil metagenomic library
+(∼165,000 clones with an average insert of 1.89Kb) on LB
+agar medium supplemented with ampicillin (100 µg ml−1)
+and NaCl [5.8% (w/v)]. The 5.8% of NaCl (w/w) is a lethal
+concentration for E. coliDH10B cells and will allow the growth
+of only osmotolerant clones. RFLP analysis of salt stress tol erant
+clones was performed after digesting their recombinant plasm id
+DNA with EcoRI &HindIII at 37◦C for 12h. The minimum
+inhibitory concentration assay and growth inhibition stud ies
+were performed to analyze the salt stress tolerance property
+(Kapardar et al., 2010a,b ). Growth inhibition assays of salt
+sensitive E. coliMKH13 clones were performed with 3% NaCl
+(w/v) & 3.7% KCl (w/v), while 5.8% NaCl (w/v) & 5.5 % of KCl
+(w/v)wereusedfor E.coliDH10Bclones.Graphs(createdusing
+Origin61) are presented as the average of triplicate experimen ts,
+with error bars being representative of the standard error of the
+mean.
+Genetic and Physiological Characterization
+of Salt Tolerance Genes
+The plasmid insert from salt resistant recombinant clones
+were sequenced using Sanger sequencing chemistry with
+primer walking approach at Euroﬁns Genomics India Pvt. Ltd
+(Bangalore, India). Sequence assembly was performed with Se q-
+Man sequence assembly software Lasergene package, version
+5.07 (DNA Star, USA). Putative open reading frame (ORF)
+was predicted using an ORF ﬁnder tool at NCBI (http://www.
+ncbi.nlm.nih.gov/gorf/gorf.html) and checked for the dat abase
+homology with Basic Local Alignment and Search Tool
+(BLAST) (http://www.ncbi.nlm.nih.gov/blast). Encoded pro tein
+sequences were analyzed for the presence of conserved domains
+(CDD) ( Marchler-Bauer et al., 2014 ), topology prediction
+(HMMTOP) ( Tusnády and Simon, 2001 ), phylogenetic analysis
+(MEGA7) ( Kumar S. et al., 2016 ), and various physiological
+parameters ( Tsirigos et al., 2015 ). Transposon mutagenesis
+ofpSSR1,pSSR4,pSSR6,andpSSR21was carried out with
+EZ-Tn5TM<Kan-2>Insertion kit (Epicenter Biotechnologies)
+following manufacturer’s instructions. Transposon mutants of
+pSSR1,pSSR4,pSSR6,andpSSR21were screened for the salt
+Frontiers in Microbiology | www.frontiersin.org 2 February 2018 | Volume 9 | Article 159Ahmed et al. Osmotolerance Genes from Saline Soil
+TABLE 1 | Bacterial strains and plasmids used in present study.
+Strains, plasmids, and
+transposonsGenotype or characteristics Source or reference
+E.coli(DH10B) F- endA1recA1galE15galK16nupGrpsL /Delta1lacX74 /Phi180lacZ/Delta1M15araD139/Delta1(ara,leu)7697mcrA
+/Delta1(mrr-hsdRMS -mcrBC)λ-Lucigen corporation, Parmenter
+St. Middleton, USA
+E.coli(MKH13) MC4100 /Delta1(putPA)101D(proP)2D(proU) (Haardt et al., 1995 )
+pSSR1 pUC19 harboring a metagenomic DNA fragment of 2939 bp Present study
+SSR1 E.coli(DH10B) containing pSSR1 Present study
+pSSR4 pUC19 harboring a metagenomic DNA fragment of 2945 bp Present study
+SSR4 E.coli(DH10B) containing pSSR4 Present study
+pSSR6 pUC19 harboring a metagenomic DNA fragment of 1456 bp Present study
+SSR6 E.coli(DH10B) containing pSSR6 Present study
+pSSR21 pUC19 harboring a metagenomic DNA fragment of 2352 bp Present study
+SSR21 E.coli(DH10B) containing pSSR21 Present study
+pSSR1C1 pUC19 recombinant plasmid harboring putative BCAA_ABCTP ofpSSR1cloned atEcoR1andHindIIIof
+pUC19MCS(Multiplecloningsite)Present study
+SSR1C1 E.coli(MKH13) harboring pSSR1C1 Present study
+pSSR4C1 pUC19 recombinant plasmid harboring putative GSDHofpSSR4cloned atEcoR1andHindIIIofpUC19
+MCSPresent study
+SSR4C1 E.coli(MKH13) harboring pSSR4C1 Present study
+pSSR21C1 pUC19 recombinant plasmid harboring putative duf3445 gene ofpSSR21 cloned atEcoR1andHindIIIof
+pUC19MCSPresent study
+SSR21C1 E.coli(MKH13) harboring pSSR21C1 Present study
+pUC19 Plasmid cloning vector AmprThermo Scientiﬁc
+Transposon EZ
+Tn5TM<Kan-2 >Tn5TMTransposon KanrEpicenter Biotechnologies
+Madison, Wisconsins, USA
+stress resistant and sensitive phenotypes to identify the act ive
+osmotolerant genomic regions within the cloned DNA fragmen t
+inpSSR1,pSSR4,pSSR6,andpSSR21. Salt tolerant active
+loci encoding putative BCAA-ABCtp ,GSDH,STK_Pknb, and
+DUF3445 genes of pSSR1,pSSR4,pSSR6,andpSSR21were
+subclonedin pUC19vector(E.coliMKH13host)usingstandard
+molecular cloning techniques. The growth studies of subclo nes
+wereperformedtoanalyzetheirsaltstressmaintenanceproper ty
+inthepresenceofsaltstressorsNaCl[3.0%(w/v)]andKCl[3. 7%
+(w/v)].Allassayswereperformedintriplicatesforcalculat ionof
+standard deviation. A parametric t-test was used to calculate the
+p-value.
+Elemental Quantiﬁcation of Na+in Salt
+Tolerant Clones
+Elemental Quantiﬁcation of intracellular Na+inE. coliMKH13
+carryingtheemptyvector( pUC19)andsalttolerantrecombinant
+subclones (SSR1C1, SSR4C1, SSR6C1, SSR21C1) was measured
+with inductively coupled plasma spectroscopy-atomic emission
+spectroscopy (ICP-AES) analysis ( Mirete et al., 2015 ) at SAIF,
+IIT Bombay, India. Results were expressed as mg of Na+g−1
+dry weight of cells. A parametric t-test was used to calculate the
+p-value.
+Data Availability
+Sequence reads generate in present study has been deposited in
+theNCBISRAunderaccessionnumberSRS2727172.RESULTS
+Phylogenetic Reconstruction of Saline Soil
+Metagenome
+Physico-chemical properties of saline soil showed that the
+pH of soil was 9.0 ±0.025, while its electrical conductivity
+(EC) was 6.5 ±0.023. Elemental analysis of soil showed the
+excessive presence of salts, sodium (105 ppm), potassium
+(155 ppm), and lithium (188 ppm), conﬁrming its moderate
+saline nature. A good quality (A260/280 >1.8), high molecular
+weight ( >23Kb) metagenomic DNA was extracted from the
+saline soil sample. Saline soil metagenomic DNA was used
+to analyze its SSU rRNA gene sequences to decode its native
+microbiome structure. Clustering of SSU rRNA gene identiﬁed
+a total of 487 OTUs distributed across seven microbial phyla
+(Figure1). Out of 487 OTUs, we observed 153 unique OTUs
+(Supplementary Table S2). The inferred phylogeny of the
+soil microbiome based upon 153 unique OTUs ( Figure1)
+was comparable to the taxonomic classiﬁcations against
+with greengenes database, with most of the diversity of the
+microbiome being attributed to phyla Proteobacteria. The
+phylogenywasvisualizedbyiTOL( LetunicandBork,2016 ).The
+dominant microbial phyla were Proteobacteria ,Actinobacteria ,
+Gemmatimonadetes ,Bacteroidetes ,Firmicutes, andAcidobacteria
+(Figure1). Among these phyla, the majority of sequences were
+aﬃliated to Proteobacteria (43.7%) having a representation
+ofAlphaproteobacteria (38.9%), Betaproteobacteria (7%),
+Frontiers in Microbiology | www.frontiersin.org 3 February 2018 | Volume 9 | Article 159Ahmed et al. Osmotolerance Genes from Saline Soil
+FIGURE 1 | Cladogram of operational taxonomic units (OTUs) identiﬁed b y SSU rRNA gene sequence analysis.
+Deltaproteobacteria (10.7%), and Gammaproteobacteria
+(43.2%); followed by Actinobacteria (21.8%) showing presence
+ofAcidimicrobiia (72.47%) and Nitriliruptoria (18.8%);
+Bacteroidetes (18.1%) having a proportionate representation
+ofRhodothermi (51.9%), Flavobacteriia (25.96%), Cytophagia
+(19.3%), and Gemmatimonadetes (11.3%) with a percentage
+representation of Gemm-2 (60.17%), Gemm-4 (12.3%),Gemm-
+1(3.5%). Simultaneously, a minor fraction of sequences
+was aﬃliated to Acidobacteria (2.5%),Firmicutes (2.1%),
+andNitrospirae (0.6%) microbial groups within saline soil
+microbiome. The taxonomic classiﬁcation of saline soil
+microbiome conﬁrms that a majority of microbial taxa belong s
+tophylum Proteobacteria (Figure1)(SupplementaryTableS2).
+Screening of Salt Stress Resistant Clones
+from Saline Soil Microbiome
+A saline soil metagenomic library was constructed with a tot al
+representation of 312MB of cloned soil microbiome DNA.
+Primary screening of a saline soil metagenomic library at 5. 8%
+NaCl (w/v) led to the identiﬁcation of 24 salt stress tolerant
+clones. However, RFLP analysis indicated the presence of only
+four unique recombinant plasmids, labeled as pSSR1,pSSR4,
+pSSR6,andpSSR21. Minimum inhibitory concentration analysisshowedalmosttwofoldhighersaltstresstoleranceofSSR1,S SR4,
+SSR6, and SSR21 clones in comparison to the control E. coli
+(DH10B) (Supplementary Figure S1). The SSR1, SSR4, SSR6,
+and SSR21 also showed a statistically signiﬁcant ( P=0.0009,
+P=0.0003,P=0.0014,P=0.004) growth advantage in
+the presence of NaCl [4.0% (w/v)] ( Figure2A ) and KCl [5.5%
+(w/v)] (P=0.0045,P=0.0008,P=0.0486,P=0.0022) as
+compared to E. coli(DH10B) strain carrying empty plasmid
+vector (pUC19) (Figure2B ), whereas no signiﬁcant growth
+diﬀerence was observed between SSR1, SSR4, SSR6, SSR21, and
+native host E. coli(DH10B) carrying pUC19 in the presence of
+LBbrothonly( Figure2C ).Simultaneously pSSR1,pSSR4,pSSR6,
+andpSSR21successfully complemented salt stress tolerance
+propertywithinsaltsensitive E.coli(MKH13)strainandshowed
+a statistically signiﬁcant growth advantage in the presence of
+NaCl [3.0% (w/v)] ( P=0.0007,P=0.0002,P=0.0003,
+P=0.0001) (Figure3A ) and KCl [3.7% (w/v)] ( P=0.0003,
+P=0.0008,P=0.0003,P=0.0023)(Figure3B ),ascomparedto
+E. coli(MKH13) strain carrying empty plasmid vector ( pUC19).
+At the same time, no signiﬁcant growth diﬀerence was observed
+betweenE.coli(MKH13)strainharboring pSSR1,pSSR4,pSSR6,
+pSSR21as compared to E. coli(MKH13) strain carrying empty
+plasmidvectorinthepresenceofLBbrothonly( Figure3C ).
+Frontiers in Microbiology | www.frontiersin.org 4 February 2018 | Volume 9 | Article 159Ahmed et al. Osmotolerance Genes from Saline Soil
+FIGURE 2 | Characterization of salt stress tolerant clones for osmoto lerance property. Growth of E.coli(DH10B) metagenomic clones SSR1 (•), SSR4 ( /trianglesolid), SSR6
+(/triangledownsld),SSR21( ◭), andE.coli(DH10B) host strain carrying empty plasmid vector ( /squaresolid) in(A)LB broth supplemented with 4.0% NaCl (w/v), (B)LB broth supplemented with
+5.5% KCl and (C)LB broth.
+FIGURE 3 | Complementation of osmotolerance property of salt stress t olerant clones. Growth of E.coli(MKH13) metagenomic clones harboring pSSR1(•),
+pSSR4(/trianglesolid),pSSR6(/triangledownsld),pSSR21(◭), andE.coli(MKH13) host strain carrying empty plasmid vector ( /squaresolid) in(A)LB broth supplemented with 3.0% NaCl(w/v), (B)LB broth
+supplemented with 3.7% KCl, (C)LB broth.
+Genetic and Physiological Characterization
+of Salt Stress Tolerant Clones
+Salt Tolerant Clone SSR1
+Sequence assembly of pSSR1resulted into a contig of 2,938 bp
+witha66.87%G +Ccontent.Clonedinsertshared76%homology
+withahalophilicproteobacteriallineage Haliangium ochraceum,
+indicating its plausible aﬃliation within proteobacterial c lade.
+The gene prediction analysis indicated the presence of three
+complete and one truncated ORF,encoding proteins of 93, 114,
+383, and 149aa respectively. Translated nucleotide sequenc es
+of these ORFs were subjected to BLASTP (maximum e-value
+cutoﬀ of 1e-34) analysis to identify the homologous sequenc e
+in the database ( Table2). Transposon mutagenesis analysis
+conﬁrmed functionally active locus for osmotolerance proper ty
+encompassing ORF3(positioned between 927 and 2,078 bp)
+(Figure4).ORF3encoded transmembrane protein shared
+homology withatransmembrane ABCtransporterATP-binding
+protein of Betaproteobacteria bacterium SG8_39 (74%) and
+branched-chain amino acid ABC transporter substrate-bindi ng
+protein of Oceanibacterium hippocampi (71%). Pfam database
+search identiﬁed the presence of a periplasmic ligand-binding
+domain of the ABC (ATPase Binding Cassette) type active
+transport systems, known to be involved in the transport of
+three branched chain aliphatic amino acids (leucine, isoleu cine
+and valine) ( Davidson et al., 2008 ). STRING analysis also
+predicted ORF3 as part of an interactive periplasmic bindingprotein dependent transport system. Further, NsitePred web
+server identiﬁed strong nucleotide binding sites (ATP Bind ing
+site at Gly14 and ADP binding site at Gly12) within ORF3
+encoded protein. This nucleotide binding site could be NBD,
+a common feature for ATP binding proteins, as predicted by
+its functional assignment. In consideration of physiological role
+and all structural features of ORF3encoded protein, it is a type
+of ABC transporter ATP-binding protein involved in salt stres s
+maintenancepossiblythroughenergydependentinteractionwi th
+ABC membrane transporters involved in the exchange of the
+solutesacrossmembrane,thuslabeledasputativebranchedc hain
+amino acid (BCAA) ABC transporter gene ( BCAA_ABCTP ).
+The putative BCAA_ABCTP gene was subcloned ( pSSR1C1) to
+conﬁrm its osmotolerance property. Time dependent growth
+curve analysis of SSR1C1 harboring BCAA_ABCTP showed a
+signiﬁcant growth advantage in the presence of NaCl [3.0%
+(w/v)] (P=0.0006) ( Figure5A ) and KCl [3.7 % (w/v)] ( P
+=0.0005) ( Figure5B ) as compared to salt sensitive E. coli
+mutant MKH13 carrying only the empty vector ( pUC19), while
+no signiﬁcant diﬀerence was observed on LB only ( Figure5C ).
+The intracellular elemental analysis in the presence of ionic
+stressor NaCl [3.0% (w/v)] showed that SSR1C1 has eﬀectively
+reduced intracellular sodium ion concentration ( P=0.0134) in
+comparison to E. colimutant MKH13 ( Figure5D ). A reduced
+intracellularsodiumconcentrationwithinSSR1C1couldbesee n
+as a result of its transporter property, as predicated through
+Frontiers in Microbiology | www.frontiersin.org 5 February 2018 | Volume 9 | Article 159Ahmed et al. Osmotolerance Genes from Saline SoilTABLE 2 | Open reading frames identiﬁed in recombinant plasmids of osm otolerant clones.
+ORF details (ORF number,location, frame, product size)Database homolog (accessionno.)Organism Identity
+(%)Coverage
+(%)e-value Conserved domain
+pSSR1(2938bp66.87%)ORF1, 13–293* +1, 93 aa ABC transporter ATP-binding protein
+(LivF) (WP_056712341)Boseasp.Leaf344 81 94 5e-51 ATP-binding cassette transporter
+nucleotide-binding domain(PRK13786)
+ORF2, 305–649, +2, 114aa Hypothetical Membrane protein
+(WP_037447688)Skermanellastibiiresistens 58 95 2e-43 –
+ORF3, 927–2078, +2, 383aa ABC transporter (KPK07993) BetaproteobacteriabacteriumSG8_3974 93 0.0 Type I periplasmic ligand-binding
+domain of ABC(cd06342)
+ORF4, 2617–2168, −1, 149aa Transcriptional regulator (OJX81021) Magnetospirillum sp. 64–120 71 91 1e-76 ROS/MUCR transcriptional regulator
+protein(pfam05443)
+pSSR4(2945bp63.63%)ORF1, 21–644, +3, 207aa Hypothetical protein AMJ56_20605
+(KPK02757)Anaerolineae bacterium SG8_19 64 99 1e-91 Glucose/Sorbosone dehydrogena se
+(GSDH)(pfam07995)
+Glucose/sorbosonedehydrogenase-like protein(WP_011340324)Pelobacter carbinolicus 54 98 6e-69
+ORF2, 2161–638, −2, 507aa Hypothetical protein (CUR52060) Uncultured Crena rchaeote 36 47 7e-47 mcbC-like_oxidoreductase
+(cd02142)
+ORF3, 2312 -2945, +2, 210aa DUF262 domain-containing protein
+(WP_081445540)Actinomycesodontolyticus 26 30 0.010 DUF4131 (pfam13567)
+pSSR6(1456bp65.659%)ORF1, (108–1145), +3, 345aa Serine/threonine-protein kinase
+(WP_082990042)Woeseiaoceani 81 100 0.0 Catalytic domain of bacterial
+Serine/Threonine kinases, PknB andsimilar proteins(cd14014)
+ORF2, (1121–1456*), +2, 111aa Serine/threonine phosphatase
+(WP_068616118)Woeseiaoceani 90 85 2e-59 PP2Cc Superfamily (cd00143)
+pSSR21(2352bp69.98%)ORF1, 913–2*, −3, 309aa No Similarity – – – – –
+ORF2, 912–1925, +3, 337aa hypothetical protein A3F84_26310
+(OGG46007)CandidatusHandelsmanbacteriaRIFCSPLOWO2_12_FULL_64_1051 97 7e-113 DUF3445
+(pfam11927)
+ORF3, 2097–2351*, −2, 84aa Pilus assembly protein PilF
+(OFW28714)Acidobacteria bacterium
+RIFCSPLOWO2_12_FULL_60_2253 98 4e-20 TPR_10
+(pfam13374)
+*IndicatestruncatedORF.
+Frontiers in Microbiology | www.frontiersin.org 6 February 2018 | Volume 9 | Article 159Ahmed et al. Osmotolerance Genes from Saline Soil
+FIGURE 4 | Transposon insertion map of pSSR1,pSSR4,pSSR6,andpSSR21. T indicates a transposon insertion site identiﬁed within tra nsposon positive mutants
+(no effect on plasmid derived osmotolerance property) whil e↑indicate transposon insertion site identiﬁed within transp oson negative mutants (loss of plasmid derived
+osmotolerance property).
+FIGURE 5 | Physiological Characterization of BCAA_ABCTP ,GSDH,STK_Pknb, andduf3445 for osmotolerance. Growth curve analysis of osmotolerant p henotype
+SSR1C1 (•), SSR4C1 ( /trianglesolid), SSR21C1 ( /triangledownsld), andE.coli(MKH13) host strain carrying empty plasmid vector ( /squaresolid) in(A)LB broth supplemented with 3% NaCl (w/v), (B)LB
+broth supplemented with 3.7 % KCl (w/v), and (C)LB only. Intracellular Na+estimation in E.coli(MKH13) strain harboring pSSR1C1 ,pSSR4C1 ,pSSR6,and
+pSSR21C1 andE.coli(MKH13) host strain carrying empty plasmid vector (D).
+genetic characterization. The growth pattern of SSR1C1 was
+foundsimilartothenativeSSR1thatconﬁrmsthatsalttoleran ce
+of salt tolerant clone SSR1 was due to SSR1C1 cloned insert
+encodingabranchedchainaminoacid(BCAA)ABCtransporter
+protein.
+Salt Tolerant Clone SSR4
+ThepSSR4harbors a G +C rich (G +C%=63.63) insert of
+2,945 bp. The cloned sequence did not share any homology at
+the nucleotide level in existing database sequences. A tota l of
+threeORFs were predicted within the cloned insert, encoding
+proteins of 207, 507, and 210 amino acids respectively ( Table2).
+Transposon mutagenesis analysis identiﬁed the functionall y
+active locus within the sequence region (235 bp), encompassin g
+ORF1(Figure4).ORF1encodes a cytosolic protein homologous
+to hypothetical protein of Anaerolineae bacterium SG8_19 and
+Glucose/sorbosone dehydrogenase-like protein of Pelobacter
+carbinolicus. A Pfam analysis of ORF1encoded protein
+indicatesitasaglucose/sorbosonedehydrogenaseproteinh aving
+conserveddomainsfortheproteinfamilyGSDH.Itindicatest hat
+theORF1possibly encodes a glucose/sorbosone dehydrogenase
+involved in salt stress tolerance, possibly through the cyto solic
+accumulation of reducing equivalents (NADPH and GSH).
+Predicted G SDHgene was ampliﬁed from pSSR4and subclonedto validate its osmotolerance property. Time dependent growth
+curve assay of SSR4C1 showed a signiﬁcant growth advantage
+NaCl [3.0% (w/v)] ( P=0.0004) (Figure5A ) and KCl [3.7 %
+(w/v)] (P=0.0006) (Figure5B ) as compared to salt sensitive
+E. colimutant MKH13 carrying the empty vector ( pUC19),
+while no signiﬁcant diﬀerence has been observed on LB only
+(Figure5C ). The growth pattern of SSR4C1 was similar to
+SSR4. It also conﬁrmed that the salt tolerance property of salt
+tolerant clone pSSR4was possibly due to GSDHgene encoding
+glucose/sorbosonedehydrogenaseprotein.
+Salt Tolerant Clone SSR6
+Sequence assembly of pSSR6generated a G +C rich (65.66%)
+contigof1,456bp.Theblastnanalysisidentiﬁeditslowsimi larity
+toBetaproteobacteria GR16-43 genome sequences, indicating
+its aﬃliation from proteobacterial clade. The cloned sequence
+encodes only one complete ORF(ORF1), encoding a cytosolic
+protein of 345 amino acids with a G +C content of 65.79%
+(Table2). Transposon mutagenesis analysis also conﬁrmed the
+functionally active locus within ORF2(Figure4). Homologs
+of translated ORF2, corresponds to putative serine/threonine
+protein kinase of Woeseia oceani andMycobacterium smegmatis
+str. MC2 155. A pfam database search of ORF2 encoded protein
+indicates it as a putative serine/threonine protein kinase ha ving
+Frontiers in Microbiology | www.frontiersin.org 7 February 2018 | Volume 9 | Article 159Ahmed et al. Osmotolerance Genes from Saline Soil
+conserved domains for the protein family STKc_PknB, i.e., th e
+catalytic domain of bacterial Serine/Threonine kinases, P knB
+family. Ser/Thr protein kinase homologs were found to be
+involved in osmosensory signaling in microbes ( Hatzios et al.,
+2013). These identiﬁed proteins were important for the survival
+and in stress responses ( Donat et al., 2009 ). The intracellular
+elemental analysis in presence of the ionic stressor NaCl [3. 0%
+(w/v)]showedthatSSR6eﬀectivelyreducedintracellularsodi um
+ionconcentration( P=0.0200)incomparisonto E.coliMKH13
+(Figure5D ). A reduced intracellular sodium concentration
+withinSSR6C1couldbeduetoenhancediontransporteractivit y
+under the inﬂuence of signals generated by putative STKc_Pkn B
+ofpSSR6undertheosmoticstress.
+Salt Tolerant Clone SSR21
+ThepSSR21was found to have a G +C rich (69.98%) insert
+of 2352 bp. The blastn analysis identiﬁed its homology with
+anActinomycetes strainAllokutzneria albata . Gene prediction
+has indicated the presence of three ORFsin pSSR21, encoding
+proteins of 309, 337, and 84 amino acids respectively. Among
+threeidentiﬁed ORFs,onlyORF2wascomplete,whileothertwo
+ORFs (ORF1 and 3) were truncated. Transposon mutagenesis
+analysis has identiﬁed the functionally active locus withi nORF2
+sequence region (1,220 and 1,330 bp). The database homologs
+ofORF2 corresponds to hypothetical protein A3F84_26310 of
+Candidatus Handelsmanbacteria bacterium ( Table2). The pfam
+analysis identiﬁed the presence of conserved domains in the
+protein family DUF3445, i.e., protein of unknown function
+(DUF3445). The G +C content of ORF2was found to be
+69.96% and the predicted functionally active region, ORF2was
+subcloned. Time dependent growth curve assay of SSR21C1
+showed a signiﬁcant growth advantage NaCl [3.0% (w/v)]
+(P=0.0005) (Figure5A ) and KCl [3.7% (w/v)] ( P=0.0045)
+(Figure5B ) as compared to salt sensitive E. colimutant MKH13
+carrying only the empty vector ( pUC19), while no signiﬁcant
+diﬀerence has been observed on LB only ( Figure5C ). Elemental
+Quantiﬁcation of intracellular Na+inE. coliMKH13 carrying
+the empty vector and salt tolerant recombinant subclones
+SSR21C1 clearly showed that the cloned gene insert ( duf3445)
+within SSR21C1 has signiﬁcantly reduced the concentration o f
+intracellularNa+ion(P=0.0174)(Figure5D ).
+DISCUSSION
+Metagenomics has the potential to advance our knowledge by
+studying the genetic components of uncultured microbes ( Singh
+A. H. et al., 2009; Mirete et al., 2015; Chauhan et al., 2017;
+Yadavetal.,2017 ).Lookingattheperspectivesofmetagenomics,
+it was used to explore soil microbiome for its composition
+and genetic/physiological mechanisms allowing successful
+adaptation of microbes in saline environments. Simultaneous ly,
+these genes could be utilized as potential candidate to devel op
+ever demanding drought resistant transgenic crops ( Zhengbin
+et al., 2011 ) or osmotolerant microbes for food processing
+(Fernandes, 2014 ) and waste water treatment applications
+(Xiao and Roberts, 2010 ). Metagenomic analysis based on
+SSU rRNA gene has identiﬁed dominance of Proteobacteria ,Actinobacteria ,Bacteroidetes, andGemmatimonadetes in saline
+soil microbiome. These results are in parallel with the outco me
+of previous studies deﬁning microbial community composition
+of saline soil environment ( Zhang et al., 2003; Ma and Gong,
+2013; Canfora et al., 2014; Kadam and Chuan, 2016 ). Canfora
+et al. has reported a correlation in abundance of a microbial
+group with respect to soil salinity. They had indicated a rela tive
+abundance of Proteobacteria withBacteroidetes were positively
+andAcidobacteria was negatively correlated with salinity
+(Canfora et al., 2014 ). Similarly Actinobacteria was also been
+reported as another dominant microbial phylum in saline
+ecosystems ( Kadam and Chuan, 2016 ). Gemmatimonadetes is
+another well-known hypersaline microbial phylum associated
+with biogeochemical transformations ( Zhang et al., 2003 ). The
+existence of halophilic subcomponents within the identiﬁed
+microbial phylum, possibly making them capable to proliferate
+in a saline environment. These studies explain the abundance
+ofProteobacteria ,Actinobacteria ,Gemmatimonadetes, and
+Bacteroidetes in the studied ecosystem. Evolution of novel
+geneticfeaturesisakeytotheirsuccessfulsurvivalinach anging
+environment ( Gupta et al., 2017; Kumar Mondal et al., 2017 ).
+These saline microorganisms could have evolved salt stress
+tolerant genetic machinery to adapt and survive under salt
+induced osmotic stresses ( Meena et al., 2017 ). A number of
+geneticelementsweredecodedforosmotolerancepropertyfrom
+cultured and uncultured microbial representatives ( Kapardar
+et al., 2010a,b; Culligan et al., 2012, 2013, 2014; Kim and Yu,
+2012; Mirete et al., 2015 ). However, there is a disparity in a
+number of reported salt tolerance genes with a number of
+microorganisms from an ecosystem ( Humbert et al., 2009;
+Mirete et al., 2015 ). This divergence could be allied with a
+number of factors like unculturability ( Kim and Yu, 2012 ), lack
+of good quality genomic/metagenomic DNA ( Kumar J. et al.,
+2016) and issues with foreign gene expression ( Prakash and
+Taylor, 2012 ). An additional eﬀort was made in the current
+study to decode osmotolerance genes prevalent in these salin e
+soil microorganisms using functional metagenomics. It lea ds to
+the identiﬁcation of four unique osmotolerant clones harbori ng
+DNA insert showing aﬃliation within halophile genomes.
+Genetic and physiological analysis has identiﬁed genes enco ding
+putative proteins like membrane bound branched chain amino
+acid (BCAA) ABC transporter protein (BCAA_ABCTP),
+Glucose/sorbosone dehydrogenase, cytosolic STKc_PknB an d
+DUF protein are responsible for osmotolerance property
+within salt stress tolerant clones. Among these, the role of th e
+branched chain amino acid (BCAA) ABC transporter protein
+and glucose/sorbosone dehydrogenase in osmotolerance are
+well documented ( Takami et al., 2002; Brosnan and Brosnan,
+2006), while the scanty information is available about role
+for STKc_PknB and DUF3445 protein in stress maintenance
+(Hatziosetal.,2013 ).
+ABC branched chain amino acid (BCAA) transporters are
+widelydistributedinvariousmarinemicrobeslike Oceanibacillus
+iheyensis (Takami et al., 2002 ),Salinispora, Bacillus, and
+Roseobacter strains (Penn and Jensen, 2012 ). BCAA_ABCTP
+proteins are involved in the transport of branched chain
+aliphatic amino acids such as leucine, isoleucine and valine at
+Frontiers in Microbiology | www.frontiersin.org 8 February 2018 | Volume 9 | Article 159Ahmed et al. Osmotolerance Genes from Saline Soil
+high salt concentration. In the presence of 2-oxoglutarate a nd
+pyridoxal-5-phosphate, these branched chain amino acids are
+further converted to L-glutamate by branched chain amino ac id
+transferase ( Hutson, 2001 ). Accumulated glutamate acts as an
+osmoprotectant upon hyper-osmotic shock and activates sets of
+genes that allow the host to achieve long-term adaptation to
+high osmolarity ( Gralla and Vargas, 2006 ). They also account
+for a signiﬁcant proportion of the genes observed in the
+marinemetagenome.Branchedchainaminoacidtransportersa re
+probably an important marine adaptation because accumulated
+glutamate may function as a counter ion for K+, which balances
+the electrical state of the cytoplasm ( Penn and Jensen, 2012 ).
+Previousstudieshavereportedaregulatoryrelationshipbe tween
+K+and glutamate accumulation in response to osmotic stress
+in enteric bacteria and haloalkaliphilic archaea Natronococcus
+occultus (Kokoeva et al., 2002 ). Similarly, T. consotensis, a
+halotolerant bacterium accumulates glutamate to maintain
+electrical equilibrium within the cell in response to high sa lt
+concentrations( Rubiano-Labradoretal.,2015 ).Thisbackground
+information explains the possible physiological role of the
+BCAA_ABCTPgeneof pSSR1toincreasehostosmotolerance.
+Glucose/Sorbosonedehydrogenase(G SDH)isresponsiblefor
+theproductionofNADPHthroughoxidativecleavageofglucos e
+(Oubrieetal.,1999 ).Undersaltstresscondition,NADPHactsas
+reducing potential for output of reduced glutathione (GSH) an d
+involvedinactivityofmembraneboundNADPHoxidase,which
+results in accumulation of hydrogen peroxide (H 2O2) (Wang
+et al., 2008 ). H2O2acts as a signal in regulating G6PDH activity
+and expression of this enzyme in the glutathione cycle throug h
+which the ability of GSH regeneration was increased under sa lt
+stress (Wang et al., 2008 ). Thus, G6PDH plays a critical role
+in maintaining cellular GSH levels under long-term salt str ess
+conditions ( Wang et al., 2008 ). It indicates that GSDHofpSSR4
+is involved in salt stress tolerance possibly through the cyt osolic
+accumulationofreducingequivalents(NADPHandGSH).
+While in case of pSSR6only one ORFwas identiﬁed,
+sharing homology with Serine/Threonine kinases. This enco ded
+protein also possesses two conserved domains for the protein
+family STKc_PknB, i.e. the catalytic domain of bacterial
+Serine/Threonine kinases, PknB and similar proteins; STKs
+and TOMM_kin_cyc, i.e., TOMM system kinase/cyclase fusion
+protein. STKs are well known for activating genetic locus
+concerned with osmosensing ( Hatzios et al., 2013 ) and inducing
+topological changes such as DNA supercoiling ( Gupta et al.,
+2014). These osmosensing signal and DNA supercoiling could
+initiate uptake of the osmolyte glycine betaine, proline ( Csonka,
+1989) or initiates the expression of genetic elements required tocope with osmotic stress ( Higgins et al., 1988 ). This could be
+the possible mechanism by which putative STK_PknB of pSSR6
+mightbeextendingosmotolerancetothehost E.coli.
+ThepSSR21 ORF2 encodes a protein sharing homology
+with a hypothetical protein of Candidatus Handelsmanbacteria
+possessing a conserved domain for DUF3445 superfamily,
+i.e., an uncharacterized protein family having conserved RLP
+sequencemotif( Batemanetal.,2010 ).However,itsphysiological
+characterization and intracellular ion concentration anal ysis
+indicates that it extends host osmotolerance property by
+maintaining low intracellular ion concentration even in th e
+presenceofanionicstressor.However,adetailedmechanism still
+needstobeelucidated.
+CONCLUSION
+In this study, the functional metagenomic approach was
+used to decipher salt stress tolerant genes in the saline soil
+microbiome. Identiﬁcation of salt tolerant genes BCAA_ABCtp ,
+GSDH STK_Pknb, andduf3445has enriched our understanding
+aboutthesurvivabilityandadaptabilityofmicrobesintheh ighly
+saline soil ecosystem. These salt tolerant genes can be used f or
+cropimprovementandforproducingbioactivemoleculesunder
+highsaltconditions,whichreducesthechancesofcontamin ation
+byothermicrobes.
+AUTHOR CONTRIBUTIONS
+NC, MV: Designed the project; MV, VA: Performed experiments
+andNGSsequencing;SG,VM,andVA:Performeddataanalyses;
+MV, VM, and NC: Wrote the manuscript. All authors have read
+andapprovethemanuscript.
+ACKNOWLEDGMENTS
+Authors would like to thank Council of Scientiﬁc and
+Industrial Research (CSIR) and UGC Grant Commission for
+fellowships under the scheme 60(0099)/11/EMRII & F. 41-
+1256/2012 (SR). We are thankful to Dr. Tamara Hoﬀmann,
+Philip Universitat, Marburg for providing E. coli(MKH13)
+strain.
+SUPPLEMENTARY MATERIAL
+The Supplementary Material for this article can be found
+online at: https://www.frontiersin.org/articles/10.338 9/fmicb.
+2018.00159/full#supplementary-material
+REFERENCES
+Bateman, A., Coggill, P., and Finn, R. D. (2010). DUFs: families in s earch of
+function. Acta Crystallogr. Sect. F Struct. Biol. Cryst. Commun . 66, 1148–1152.
+doi:10.1107/S1744309110001685
+Brosnan, J. T., and Brosnan, M. E. (2006). Branched-chain amino a cids:
+enzyme and substrate regulation. J. Nutr. 136(Suppl. 1), 207S −211S.
+doi:10.1093/jn/136.1.207SCanfora, L., Bacci, G., Pinzari, F., Lo Papa, G., Dazzi, C., and B enedetti, A.
+(2014). Salinity and bacterial diversity: to what extent does the concentration
+of salt aﬀect the bacterial community in a saline soil? PLoS ONE 9:e106662.
+doi:10.1371/journal.pone.0106662
+Caporaso, J. G., Lauber, C. L., Walters, W. A., Berg-Lyons, D., L ozupone, C. A.,
+Turnbaugh, P. J., et al. (2011). Global patterns of 16S rRNA diversi ty at a
+depth of millions of sequences per sample. Proc. Natl. Acad. Sci .U.S.A.108,
+4516–4522.doi:10.1073/pnas.1000080107
+Frontiers in Microbiology | www.frontiersin.org 9 February 2018 | Volume 9 | Article 159Ahmed et al. Osmotolerance Genes from Saline Soil
+Chauhan,N.S.,Nain,S.,andSharma,R.(2017).Identiﬁcation ofarsenicresistance
+genes from marine sediment metagenome. Indian J. Microbiol . 57, 299–306.
+doi:10.1007/s12088-017-0658-0
+Chauhan, N. S., Ranjan, R., Purohit, H. J., Kalia, V. C., and Sharma , R.
+(2009). Identiﬁcation of genes conferring arsenic resistance toEscherichia
+colifrom an eﬄuent treatment plant sludge metagenomic library: Arsenic
+resistancegenesfromsludgemetagenome. FEMSMicrobiol.Ecol. 67,130–139.
+doi:10.1111/j.1574-6941.2008.00613.x
+Csonka, L. N. (1989). Physiological and genetic responses of ba cteria to osmotic
+stress.Microbiol.Rev .53,121–147.
+Culligan, E. P., Sleator, R. D., Marchesi, J. R., and Hill, C. (2012) . Functional
+metagenomics reveals novel salt tolerance loci from the human gut
+microbiome. ISMEJ.6,1916–1925.doi:10.1038/ismej.2012.38
+Culligan, E. P., Sleator, R. D., Marchesi, J. R., and Hill, C. (2013) . Functional
+environmental screening of a metagenomic library identiﬁes stlA; a un ique
+salt tolerance locus from the human gut microbiome. PLoS ONE 8:e82985.
+doi:10.1371/journal.pone.0082985
+Culligan, E. P., Sleator, R. D., Marchesi, J. R., and Hill, C. (2014) . Metagenomic
+identiﬁcation of a novel salt tolerance gene from the human gut
+microbiome which encodes a membrane protein with homology to a
+brp/blh-family β-carotene 15,15’-monooxygenase. PLoS ONE 9:e103318.
+doi:10.1371/journal.pone.0103318
+Davidson,A.L.,Dassa,E.,Orelle,C.,andChen,J.(2008).Struc ture,function,and
+evolution of bacterial ATP-binding cassette systems. Microbiol. Mol. Biol. Rev .
+72,317–364.doi:10.1128/MMBR.00031-07
+Donat, S., Streker, K., Schirmeister, T., Rakette, S., Stehle, T ., Liebeke, M.,
+et al. (2009). Transcriptome and functional analysis of the eukaryo tic-type
+serine/threonine kinase PknB in Staphylococcus aureus .J. Bacteriol . 191,
+4056–4069.doi:10.1128/JB.00117-09
+Fernandes, P. (2014). Marine enzymes and food industry: insight on existing and
+potentialinteractions. Front.Mar.Sci .1:46.doi:10.3389/fmars.2014.00046
+Gralla, J. D., and Vargas, D. R. (2006). Potassium glutamate as a tra nscriptional
+inhibitor during bacterial osmoregulation. EMBO J. 25, 1515–1521.
+doi:10.1038/sj.emboj.7601041
+Gupta, M., Sajid, A., Sharma, K., Ghosh, S., Arora, G., Singh, R., e t al. (2014).
+HupB,anucleoid-associatedproteinof Mycobacteriumtuberculosis ,ismodiﬁed
+by serine/threonine protein kinases in vivo.J. Bacteriol . 196, 2646–2657.
+doi:10.1128/JB.01625-14
+Gupta,S.,Kumar,M.,Kumar,J.,Ahmad,V.,Pandey,R.,andChauha n,N.S.(2017).
+Systemicanalysisofsoilmicrobiomedeciphersanthropogenicinﬂue nceonsoil
+ecologyandecosystemfunctioning. Int.J.Environ.Sci.Technol .14,2229–2238.
+doi:10.1007/s13762-017-1301-7
+Haardt, M., Kempf, B., Faatz, E., and Bremer, E. (1995). The osmoprote ctant
+proline betaine is a major substrate for the binding-protein-depend ent
+transport system ProU of Escherichia coli K-12.Mol. Gen. Genet. MGG 246,
+783–786.doi:10.1007/BF00290728
+Hatzios, S. K., Baer, C. E., Rustad, T. R., Siegrist, M. S., Pan g, J. M., Ortega, C.,
+et al. (2013). Osmosensory signaling in Mycobacterium tuberculosis mediated
+by a eukaryotic-like Ser/Thr protein kinase. Proc. Natl. Acad. Sci. U.S .A. 110,
+E5069–E5077.doi:10.1073/pnas.1321205110
+Higgins,C.F.,Dorman,C.J.,Stirling,D.A.,Waddell,L.,Booth,I. R.,May,G.,etal.
+(1988).AphysiologicalroleforDNAsupercoilingintheosmoticregu lationof
+geneexpressionin S.typhimurium andE.coli.Cell52,569–584.
+Humbert, J.-F., Dorigo, U., Cecchi, P., Le Berre, B., Debroas, D., and Bouvy, M.
+(2009).Comparisonofthestructureandcompositionofbacterialcommu nities
+from temperate and tropical freshwater ecosystems. Environ. Microbiol . 11,
+2339–2350.doi:10.1111/j.1462-2920.2009.01960.x
+Hutson, S. (2001). Structure and function of branched chain
+aminotransferases. Prog. Nucleic Acid Res. Mol. Biol. 70, 175–206.
+doi:10.1016/S0079-6603(01)70017-7
+Jiang, H., Dong, H., Yu, B., Liu, X., Li, Y., Ji, S., et al. (2007). M icrobial
+response to salinity change in Lake Chaka, a hypersaline lake on Tib etan
+plateau.Environ. Microbiol. 9, 2603–2621. doi: 10.1111/j.1462-2920.2007.0
+1377.x
+Kadam, P. D., and Chuan, H. H. (2016). Erratum to: rectocutaneous
+ﬁstula with transmigration of the suture: a rare delayed complication of
+vault ﬁxation with the sacrospinous ligament. Int. Urogynecol. J . 27:505.
+doi:10.1007/s00192-016-2952-5Kapardar, R. K., Ranjan, R., Grover, A., Puri, M., and Sharma, R. (20 10a).
+Identiﬁcation and characterization of genes conferring salt tole rance to
+Escherichia coli from pond water metagenome. Bioresour. Technol . 101,
+3917–3924.doi:10.1016/j.biortech.2010.01.017
+Kapardar, R. K., Ranjan, R., Puri, M., and Sharma, R. (2010b). Sequ ence analysis
+of a salt tolerant metagenomic clone. Indian J. Microbiol. 50, 212–215.
+doi:10.1007/s12088-010-0041-x
+Kim, M., and Yu, Z. (2012). Quantitative comparisons of select cult ured and
+uncultured microbial populations in the rumen of cattle fed diﬀerent die ts.J.
+Anim.Sci.Biotechnol. 3:28.doi:10.1186/2049-1891-3-28
+Klähn,S.,Marquardt,D.M.,Rollwitz,I.,andHagemann,M.(2009). Expressionof
+the ggpPS gene for glucosylglycerol biosynthesis from Azotobacter vinelandii
+improves the salttolerance of Arabidopsis thaliana .J. Exp. Bot .60,1679–1689.
+doi:10.1093/jxb/erp030
+Kokoeva, M. V., Storch, K. F., Klein, C., and Oesterhelt, D. (20 02). A
+novel mode of sensory transduction in archaea: binding protein-me diated
+chemotaxistowardsosmoprotectantsandaminoacids. EMBOJ.21,2312–2322.
+doi:10.1093/emboj/21.10.2312
+Koonin, E. V., and Wolf, Y. I. (2012). Evolution of microbes and vi ruses: a
+paradigm shift in evolutionary biology? Front. Cell. Infect. Microbiol. 2:119.
+doi:10.3389/fcimb.2012.00119
+Kumar, J., Kumar, M., Gupta, S., Ahmed, V., Bhambi, M., Pandey, R., et al.
+(2016). An improved methodology to overcome key issues in human feca l
+metagenomic DNA extraction. Genom. Proteom. Bioinform. 14, 371–378.
+doi:10.1016/j.gpb.2016.06.002
+Kumar, S., Stecher, G., and Tamura, K. (2016). MEGA7: Molecular ev olutionary
+geneticsanalysisversion7.0forbiggerdatasets. Mol.Biol.Evol .33,1870–1874.
+doi:10.1093/molbev/msw054
+Kumar Mondal, A., Kumar, J., Pandey, R., Gupta, S., Kumar, M., Bans al,
+G., et al. (2017). Comparative genomics of host–symbiont and free-
+livingOceanobacillus species. Genome Biol. Evol . 9, 1175–1182.
+doi:10.1093/gbe/evx076
+Letunic,I.,andBork,P.(2016).Interactivetreeoflife(iTOL) v3:anonlinetoolfor
+the display and annotation of phylogenetic and other trees. Nucleic Acids Res.
+44,W242–W245.doi:10.1093/nar/gkw290
+Ma,B.,andGong,J.(2013).Ameta-analysisofthepubliclyavailab lebacterialand
+archaeal sequence diversity in saline soils. World J. Microbiol. Biotechnol . 29,
+2325–2334.doi:10.1007/s11274-013-1399-9
+Marchler-Bauer,A.,Derbyshire,M.K.,Gonzales,N.R.,Lu,S., Chitsaz,F.,Geer,L.
+Y., et al. (2014). CDD: NCBI’s conserved domain database. Nucleic Acids Res .
+43,D222–D226.doi:10.1093/nar/gku1221
+Meena,K.K.,Sorty,A.M.,Bitla,U.M.,Choudhary,K.,Gupta,P.,P areek,A.,etal.
+(2017).Abioticstressresponsesandmicrobe-mediatedmitigation inplants:the
+omicsstrategies. Front.PlantSci .8:172.doi:10.3389/fpls.2017.00172
+Mirete, S., Mora-Ruiz, M. R., Lamprecht-Grandío, M., de Figueras, C . G.,
+Rosselló-Móra, R., and González-Pastor, J. E. (2015). Salt resist ance genes
+revealed by functional metagenomics from brines and moderate-salini ty
+rhizosphere within a hypersaline environment. Front. Microbiol. 6:1121.
+doi:10.3389/fmicb.2015.01121
+Morowitz, M. J., Denef, V. J., Costello, E. K., Thomas, B. C., Poroy ko, V.,
+Relman, D. A., et al. (2011). Strain-resolved community genomic analys is of
+gut microbial colonization in a premature infant. Proc. Natl. Acad. Sci .U.S.A.
+108,1128–1133.doi:10.1073/pnas.1010992108
+Naughton, L. M., Blumerman, S. L., Carlberg, M., and Boyd, E. F. (200 9).
+Osmoadaptation among Vibriospecies and unique genomic features and
+physiological responses of Vibrio parahaemolyticus .Appl. Environ. Microbiol .
+75,2802–2810.doi:10.1128/AEM.01698-08
+Oubrie,A.,Rozeboom,H.J.,Kalk,K.H.,Olsthoorn,A.J.,Duine,J.A .,andDijkstra,
+B. W. (1999). Structure and mechanism of soluble quinoprotein glucos e
+dehydrogenase. EMBOJ.18,5187–5194.doi:10.1093/emboj/18.19.5187
+Penn, K., and Jensen, P. R. (2012). Comparative genomics reveals ev idence
+of marine adaptation in Salinispora species. BMC Genomics 13:86.
+doi:10.1186/1471-2164-13-86
+Prakash, T., and Taylor, T. D. (2012). Functional assignment of metagenomic
+data: challenges and applications. Brief. Bioinform. 13, 711–727.
+doi:10.1093/bib/bbs033
+Roberts, M. F. (2005). Organic compatible solutes of halotolerant an d halophilic
+microorganisms. SalineSyst. 1:5.doi:10.1186/1746-1448-1-5
+Frontiers in Microbiology | www.frontiersin.org 10 February 2018 | Volume 9 | Article 159Ahmed et al. Osmotolerance Genes from Saline Soil
+Rubiano-Labrador,C.,Bland,C.,Miotello,G.,Armengaud,J.,and Baena,S.(2015).
+Salt stress induced changes in the exoproteome of the halotolerant ba cterium
+Tistlia consotensis deciphered by proteogenomics. PLoS ONE 10:e0135065.
+doi:10.1371/journal.pone.0135065
+Sakamoto, T., and Murata, N. (2002). Regulation of the desaturat ion of fatty
+acids and its role in tolerance to cold and salt stress. Curr. Opin .Microbiol . 5,
+208–210.doi:10.1016/S1369-5274(02)00306-5
+Shrivastava, P., and Kumar, R. (2015). Soil salinity: a serious e nvironmental issue
+andplantgrowthpromotingbacteriaasoneofthetoolsforitsalleviati on.Saudi
+J.Biol.Sci .22,123–131.doi:10.1016/j.sjbs.2014.12.001
+Singh, A. H., Doerks, T., Letunic, I., Raes, J., and Bork, P. (200 9). Discovering
+functional novelty in metagenomes: examples from light-mediated proce sses.
+J.Bacteriol.191,32–41.doi:10.1128/JB.01084-08
+Singh, J., Behal, A., Singla, N., Joshi, A., Birbian, N., Singh , S., et al.
+(2009). Metagenomics: concept, methodology, ecological inferen ce and recent
+advances. Biotechnol .J.4,480–494.doi:10.1002/biot.200800201
+Takami, H., Takaki, Y., and Uchiyama, I. (2002). Genome sequence of
+Oceanobacillus iheyensis isolated from the Iheya Ridge and its unexpected
+adaptive capabilities to extreme environments. Nucleic Acids Res. 30,
+3927–3935.doi:10.1093/nar/gkf526
+Tsirigos,K.D.,Peters,C.,Shu,N.,Käll,L.,andElofsson,A.(2 015).TheTOPCONS
+webserverfor consensusprediction of membraneprotein topology and s ignal
+peptides. NucleicAcidsRes. 43,W401–W407.doi:10.1093/nar/gkv485
+Tusnády, G. E., and Simon, I. (2001). The HMMTOP transmembrane
+topology prediction server. Bioinformatics 17, 849–850.
+doi:10.1093/bioinformatics/17.9.849
+vanVeen,J.A.,vanOverbeek,L.S.,andvanElsas,J.D.(1997) .Fateandactivityof
+microorganismsintroducedintosoil. Microbiol.Mol.Biol.Rev .61,121–135.
+Wang, X., Ma, Y., Huang, C., Li, J., Wan, Q., and Bi, Y. (2008). In volvement of
+glucose-6-phosphate dehydrogenase in reduced glutathione mainte nance and
+hydrogen peroxide signal under salt stress. Plant Signal. Behav . 3, 394–395.
+doi:10.4161/psb.3.6.5404Xiao, Y., and Roberts, D. J. (2010). A review of anaerobic treatment of saline
+wastewater. Environ.Technol. 31,1025–1043.doi:10.1080/09593331003734202
+Yadav, M., Verma, M. K., and Chauhan, N. S. (2017). A review of meta bolic
+potential of human gut microbiome in human nutrition. Arch Microbiol.
+doi:10.1007/s00203-017-1459-x.[Epubaheadofprint].
+Yan, C., Zhang, D., Raygoza Garay, J. A., Mwangi, M. M., and Bai , L. (2015).
+Decoupling of divergent gene regulation by sequence-speciﬁc DNA binding
+factors.NucleicAcidsRes .43,7292–7305.doi:10.1093/nar/gkv618
+Zhang,H.,Sekiguchi,Y.,Hanada,S.,Hugenholtz,P.,Kim,H.,Kama gata,Y.,etal.
+(2003).Gemmatimonasaurantiaca gen.nov.,sp.nov.,agram-negative,aerobic,
+polyphosphate-accumulatingmicro-organism,theﬁrstculturedrepresent ative
+of the new bacterial phylum Gemmatimonadetes phyl . nov.Int. J. Syst. Evol.
+Microbiol .53,1155–1163.doi:10.1099/ijs.0.02520-0
+Zhengbin, Z., Ping, X., Hongbo, S., Mengjun, L., Zhenyan, F., a nd Liye,
+C. (2011). Advances and prospects: biotechnologically improving
+crop water use eﬃciency. Crit. Rev. Biotechnol. 31, 281–293.
+doi:10.3109/07388551.2010.531004
+Zuleta, L. F., Italiani, V. C., and Marques, M. V. (2003). Isolati on and
+characterization of NaCl-sensitive mutants of Caulobactercrescentus. Appl.
+Environ.Microbiol. 69,3029–3035.doi:10.1128/AEM.69.6.3029-3035.2003
+Conﬂict of Interest Statement: The authors declare that the research was
+conducted in the absence of any commercial or ﬁnancial relations hips that could
+beconstruedasapotentialconﬂictofinterest.
+Copyright©2018Ahmed,Verma,Gupta,MandhanandChauhan.Thisi sanopen-
+access article distributed under the terms of the Creative C ommons Attribution
+License(CCBY).Theuse,distributionorreproductioninot herforumsispermitted,
+provided the original author(s) and the copyright owner are c redited and that the
+original publication in this journal is cited, in accordanc e with accepted academic
+practice. No use, distribution or reproduction is permitte d which does not comply
+withtheseterms.
+Frontiers in Microbiology | www.frontiersin.org 11 February 2018 | Volume 9 | Article 159
