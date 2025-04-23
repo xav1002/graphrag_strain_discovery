@@ -1,0 +1,22 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="ZULETA, L. F." />
+    <node id="ITALIANI, V. C." />
+    <node id="MARQUES, M. V." />
+    <node id="CAULOBACTER CRESCENTUS" />
+    <node id="GENETIC ANALYSIS" />
+    <node id="EUROPEAN UNION" />
+    <node id="MICROBIOLOGY RESEARCH" />
+    <node id="SCIENTIFIC RESEARCH FUNDING AGENCY" />
+    <edge source="ZULETA, L. F." target="ITALIANI, V. C." />
+    <edge source="ZULETA, L. F." target="MARQUES, M. V." />
+    <edge source="ZULETA, L. F." target="CAULOBACTER CRESCENTUS" />
+    <edge source="ZULETA, L. F." target="GENETIC ANALYSIS" />
+    <edge source="ZULETA, L. F." target="EUROPEAN UNION" />
+    <edge source="ITALIANI, V. C." target="MARQUES, M. V." />
+    <edge source="ITALIANI, V. C." target="CAULOBACTER CRESCENTUS" />
+    <edge source="ITALIANI, V. C." target="MICROBIOLOGY RESEARCH" />
+    <edge source="ITALIANI, V. C." target="SCIENTIFIC RESEARCH FUNDING AGENCY" />
+    <edge source="MARQUES, M. V." target="CAULOBACTER CRESCENTUS" />
+  </graph>
+</graphml>

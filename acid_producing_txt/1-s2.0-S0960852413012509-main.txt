@@ -1,0 +1,921 @@
+Relative effect of different inorganic acids on selective enrichment
+of acidogenic biocatalyst for fermentative biohydrogen production from
+wastewater
+Omprakash Sarkar, R. Kannaiah Goud, G. Venkata Subhash, S. Venkata Mohan⇑
+Bioengineering and Environmental Centre (BEEC), CSIR-Indian Institute of Chemical Technology (CSIR-IICT), Hyderabad 500 007, India
+highlights
+/C15Selective enrichment of biocatalyst by
+different inorganic acids was studied.
+/C15Acetate–butyrate type fermentation
+was observed with HNO 3treated
+culture.
+/C15HNO 3pretreated consortia showed
+relatively more H 2production.
+/C15Dehydrogenase activity and bio-
+electro kinetics correlated well.
+/C15Microbial diversity illustrated the
+enrichment of Firmicutes .graphical abstract
+article info
+Article history:
+Received 15 July 2013Received in revised form 1 August 2013
+Accepted 4 August 2013
+Available online 9 August 2013
+Keywords:
+Anaerobic consortia
+PretreatmentDehydrogenase activityFISHAnaerobic sequencing reactors (AnSBR)abstract
+The effect of different inorganic acids viz., HNO 3, HCl, H 2SO4and H 3PO4on inoculum pretreatment to
+selectively enrich hydrogen (H 2) producing acidogenic bacteria was evaluated in anaerobic sequencing
+batch bioreactors. Relative positive efﬁciency of HNO 3pretreated consortia in enhancing H 2production
+(11.85 mol H 2/kg COD R) was noticed compared to other acids (HCl, 5.64 mol H 2/kg COD R;H 2SO4,
+7.65 mol H 2/kg COD R;H 3PO4, 6.90 mol H 2/kg COD R) and untreated-parent consortia (control,
+6.80 mol H 2/kg COD R). On the contrary, substrate degradation (COD removal) was higher with the control
+operation ( nCOD, 66.3%; substrate degradation rate (SDR), 1.42 kg COD R/m3-day) compared to pre-treated
+culture. HNO 3pre-treatment resulted in a shift in the fermentation pathway towards more acetic acid
+production, while other acid pretreatment and untreated culture showed mixed type fermentation
+(acetic, butyric, propionic acids). The bio-electrochemical analysis and dehydrogenase activity supported
+the biocatalyst performance after HNO 3pretreatment with speciﬁc enrichment of Firmicutes and Bacillus .
+/C2112013 Elsevier Ltd. All rights reserved.
+1. Introduction
+Biological hydrogen (H 2) production via dark-fermentation
+using wastewater has generated signiﬁcant attention in recent
+times ( Ren et al., 2007; Venkata Mohan, 2009 ). Using anaerobic
+consortia as the biocatalyst for H 2production from wastewater
+treatment facilitates operational ﬂexibility, permits diverse bio-
+chemical functions, facilitates process stability and provides possi-
+bility of using a wider range of substrates/feed-stocks and restrictsthe need of sterile operation ( Ren et al., 2007; Venkata Mohan,
+2009; Kannaiah and Venkata Mohan, 2012a,b ). Despite the advan-
+tages, the major limitation with mixed culture use is the consump-
+tion of H 2produced in the fermentative microenvironment by
+hydrogenotrophic or H 2consuming methane-producing bacteria
+(MB) including homoacetogens, and sulfate reducing bacteria pres-
+ent in mixed consortia (Kraemer and Bagley, 2007; Venkata Mo-
+han, 2009; Kannaiah et al., 2012). Regulating the metabolic
+process towards acidogenesis by simultaneously inhibiting the
+H2consuming methanogenesis facilitates H 2to become a meta-
+bolic end product ( Wang et al., 2011; Kannaiah et al., 2012 ).
+0960-8524/$ - see front matter /C2112013 Elsevier Ltd. All rights reserved.
+http://dx.doi.org/10.1016/j.biortech.2013.08.021⇑Corresponding author. Tel.: +91 40 27191664.
+E-mail address: vmohan_s@yahoo.com (S. Venkata Mohan).Bioresource Technology 147 (2013) 321–331
+Contents lists available at ScienceDirect
+Bioresource Technology
+journal homepage: www.elsevi er.com/locate/biortech
+For the selective inhibition of H 2consumers and enrichment of
+H2-producing acidogenic bacteria (AB), pretreating the parent cul-
+ture plays an important role ( Kim et al., 2003; Venkata Mohan
+et al., 2008a,b; Kannaiah and Venkata Mohan, 2012a,b ). Pretreat-
+ment facilitates a shift in metabolic functions of a mixed biocata-
+lyst toward acidogeneic microenvironment from methanogenesis
+and simultaneously prevents the function of methanogenic bacte-
+ria (MB) without effecting the activity of the H 2-producing bacteria
+(Luo et al., 2010; Venkata Mohan and Kannaiah, 2012 ). Physiolog-
+ical differences existing between the AB and MB is the basis for
+pretreatment procedures (Zhu and Beland, 2006; Mohanakrishna
+and Venkata Mohan, 2013; Kannaiah and Venkata Mohan,
+2012a,b ). Among the various pretreatment methods available,
+acid-shock pretreatment method is widely used to control and reg-ulate H
+2production both during inoculum preparation as well as
+during process operation (Venkata Mohan, 2009; Moreno-Davila
+et al., 2010; Venkata Mohan et al., 2008a; Kannaiah and Venkata
+Mohan, 2012b ). Methanogenic activity is generally limited to a rel-
+atively narrow pH range, between 6.8 and 7.2, while most acido-genic bacteria producing H
+2can function over a broader pH
+range ( Venkata Mohan et al., 2011a; Moreno-Davila et al., 2010;
+Venkata Mohan et al., 2008a,c ). The acid-shock method suppresses
+methanogenic activity of the cultures by protecting the spore-forming bacteria and allowing H
+2to become a metabolic end prod-
+uct ( Lee et al., 2009; Kannaiah and Venkata Mohan, 2012b ). Long
+term studies (520 days) were reported with acid-shock pretreat-
+ment using orthophosphoric acid as redox controller showed en-
+hanced and sustained H 2production (Kannaiah and Venkata
+Mohan, 2012b ). A shift in the fermentation process towards acetic
+acid production was observed after applying acid pretreatment,
+with the dominance of Clostridia and Bacilli classes ( Wang and
+Wan, 2009; Liu et al., 2009; Kannaiah and Venkata Mohan,2012b ). The nature of the acid used for pretreatment will play an
+important role in selectively enriching the AB (Lee et al., 2009 ).
+Therefore, an attempt was made in this investigation to evaluate
+the relative inﬂuence of various acids reagents viz., HNO
+3, HCl,
+H2SO4and H 3PO4for acid-shock pretreatment of anaerobic consor-
+tia regarding both H 2production and substrate degradation in
+compared to an untreated parent culture in order to identify thebest inorganic acid reagent for acid-shock pretreatment. To com-
+prehensive study the functional role of inorganic acid redox con-
+troller’s on aciodgenic H
+2production, experiments were designed
+and performed in anaerobic suspended growth reactor. Relativechanges in bioprocesses were evaluated based on H
+2production,
+substrate degradation and VFA composition along with dehydroge-nase (DH) activity, bio-electro kinetics and quantiﬁcation of the
+microbial community.
+2. Methods
+2.1. Acid-shock pretreatment
+Anaerobic sludge was collected from an anaerobic bioreactor
+treating complex 
+wastewater and was used as the parent inocu-
+lum. After sampling, the parent culture was sieved to separate
+the grit using a nylon ﬁlter. The resulting sludge was then used
+for the inoculum preparation as a biocatalyst. Four different inor-
+ganic acids viz., HNO 3,HCl, H 2SO4and H 3PO4with a concentration
+of 0.1 N were used for pretreating the parent inoculum. Parentinoculum (140 ml) was subjected to acid-shock treatment by
+adjusting the pH to 3 using each the selected inorganic acids
+(0.1 N) and for a period 24 h under anaerobic conditions. Subse-
+quently, the pH of acid pretreated inoculum was re-adjusted to 6
+using 0.1 N NaOH. Pretreatment operations were performed at
+room temperature (28 ± 1 /C176C) with provided continuous mixing
+by a magnetic stirrer (120 rpm). Untreated inoculum was evalu-ated as the control to assess the relative efﬁciency of inorganic
+acids as acid pretreating agents.
+2.2. Experimental methodology
+Five identical bench scale anaerobic sequencing reactors (AnS-
+BR)were
+fabricated with borosilicate-glass to have a total/work-
+ing volume of 1.2/0.84 L and gas holding capacity of 0.36 L. Allthe ﬁve reactors were operated in suspended growth conﬁgura-
+tion using sequencing/periodic discontinuous batch mode contin-
+uously for 10 cycles, accounting for a total operation period of
+20 days with 48 h of retention time [20 min of FILL, 47 h of REACT
+(anaerobic), 20 min of SETTLE, 20 min of DECANT operations]. The
+reactors were kept in suspension mode during REACT phase (Sﬁg
+1). At the beginning of each cycle a predeﬁned volume (0.72 L) of
+wastewater was fed during the FILL phase and contents were sub-
+jected to continuous mixing (100 rpm). Each of the bioreactors
+was inoculated with culture pretested with different organic
+acids. During the start up phase, each reactor was fed 120 ml of
+designated inoculum along with 0.72 L of designed synthetic
+wastewater [DSW; glucose-3 g/L, NH
+4Cl-0.5 g/L, KH 2PO4-0.25 g/L,
+K2HPO 4-0.25 g/L, MgCl 2-0.3 g/L, CoCl 2-25 mg/L, ZnCl 2-11.5 mg/L,
+CuCl 2-10.5 mg/L, CaCl 2-5 mg/L, MnCl 2-15 mg/L, NiSO 4-16 mg/L,
+FeCl 3-25 mg/L]. Prior to its operation, the pH of each reactor’s
+contents was adjusted to 6 using 30% orthophosphoric acid. All
+the bioreactors were operated at ambient temperature
+(28 ± 2 /C176C) under similar conditions (OL, 2.14 kg COD/m3-day;
+pH 6.0) to study the relative efﬁciency of H 2production and sub-
+strate degradation in comparison with the control operation.
+Nitrogen gas was sparged to the bioreactor for 2 min after every
+feeding and sampling event to maintain anaerobic conditions.
+The reaction mixture during REACT phase was subjected to con-tinuous mixing (100 rpm).
+2.3. Analysis
+Biogas volume and composition was monitored via water dis-
+placemen t 
+and gas chromatography respectively. The fraction of
+H2in the biogas was determined by a gas chromatograph (NUCON
+5765) using thermal conductivity detector (TCD) with 1/800/C22m
+Heysep Q column employing nitrogen as carrier gas. The injector
+and detector were maintained at 60 /C176C each and the oven was
+operated at 40 /C176C isothermally. The pH of the solution was mea-
+sured using a pH meter. Quantiﬁcation of the H 2gas was also car-
+ried out using a microprocessor based pre-calibrated H 2sensor
+(ATMI GmbH Inc). The concentration and quantitative estimation
+of VFA was carried out by employing high performance liquid chro-matography (HPLC; Shimadzu LC10A) with UV–Vis detector (210
+nm) using C18 reverse phase column (250 /C24.6 mm diameter;
+5
+lparticle size) and 40% acetonitrile (in 1 mN H 2SO4; pH, 2.5–
+3.0) as mobile phase with ﬂow rate of 0.6 ml/min; sample injection
+20ll]. The performance of bioreactors was assessed by monitoring
+chemical oxygen demand (COD-closed reﬂuxing titrimetric meth-od), pH and VFA by the standard methods (APHA, 1998 ). Dehydro-
+genase (DH) enzyme activity was estimated by colorimetricprocedure based on the reduction of 2,3,5-triphenyltetrazolium
+chloride (TTC) ( Kannaiah and Venkata Mohan, 2012a,b ). Cyclic vol-
+tammetry (CV) was recorded using potentiostat-galvanostat sys-tem (Autolab-PGSTAT12, Ecochemie) by transferring suspension
+(150 ml) from reactors to three electrode-electrochemical cell
+[working electrode, platinum wire; counter electrode, graphite
+rod; reference electrode, Ag/AgCl (S)] using a potential ramp be-
+tween +0.5 and /C00.5 V at a scan rate of 30 mV/s. Tafel analysis
+was carried out with CV proﬁles by processing through GPES-4.0software supplied with CV.322 O. Sarkar et al. / Bioresource Technology 147 (2013) 321–3312.4. Fluorescent in situ hybridization (FISH)
+Dominance of microbial population was traced by a modiﬁed
+procedure of
+Fluorescent in situ hybridization (FISH) (Amann
+et al., 1995 ). The 5’-Cy3 modiﬁed oligonucleotide probes with the
+sequence of (16 S rRNA) and (23S rRNA) were used to the track
+theFirmicutes (pB-00195: 50-TGG AAG ATT CCC TAC TGC-30)(Meier
+et al., 1999 ),Bacillus (pB-01036: 50- CTT CAG CAC TCA GGT TCG-30)
+(Salzman et al., 2002 ) and Pseudomonas (pB-00375: 50-GCT GGC
+CTA ACC TTC-30)(Schleifer et al., 1992 ) respectively (Stable 1).
+The probes were purchased from MWG Biotech. Five ml of sample
+was subjected for three repeated washings (7500 rpm; 5 min;
+28/C176C) recovered with distilled water for removing the dead cells
+and contaminants, subsequently was suspended in phosphate-buf-fered saline (PBS; pH 7.4) for additional washing. The resultingcells were ﬁxed with 4% para-formaldehyde and kept for incuba-
+tion at 4
+0C for 4 h. The ﬁxed cells were washed twice with PBS
+and suspended in PBS:Ethanol (1:1) solution stored at /C020/C176C. Fol-
+lowed by smear preparation, 10 ll of the sample was applied in a
+well of gelatin-coated glass-side, dried for 1 h at 46 /C176C and subse-
+quently dehydrated in solutions of 50%, 80% and 96% ethanol each
+for 3 min. To start hybridization, 9 ll of hybridization buffer and
+1ll of ﬂuorescent labeled rRNA probe (50 ng/ ll) were added to
+the well. Hybridization was carried out for 3 h at 46 /C176C in a humid-
+iﬁed chamber. Following hybridization, washing was carried outusing a washing buffer for 20 min at 48 /C176C. The hybridized bacterial
+cells were counterstained with 4’,6-diamidino-2-phenylindole(DAPI) to observe total bacterial population binding with the A-T
+rich regions in DNA. The ﬂuorescent stained smears were visual-
+ized with an epiﬂuorescent microscope (Nikon Eclipse-80i) at
+400X magniﬁcation. Photomicrographs were captured with an at-
+tached digital camera (YIM-smt, 5.5 mega pixels) and analyzed
+using NIS-elements software (D3.0). Counting of Cy3-stained bac-
+terial cells was done in a single microscopic ﬁeld using a Cy3 ﬁlter
+followed by DAPI-stain cell counting (DAPI-ﬁlter). The bacterial cell
+count was done randomly on the selected ﬁelds (more than 10) of
+the smears.
+3. Results and discussion
+3.1. Biohydrogen
+Experimental results illustrated the speciﬁc function of acids
+used for
+pretreating biocatalyst for both H 2production as well as
+substrate degradation. The H 2production proﬁles derived from de-
+signed experimental operations in comparison with the control
+(untreated operation) is depicted in Fig. 1 a. All the acid-shock pre-
+treated experimental operations depicted higher H 2production
+than the untreated anaerobic culture (inocolum/control). However,H
+2production rates varied based on the type of acid used for pre-
+treating the biocatalyst. Among the experimental variations, HNO 3
+pretreated culture documented higher H 2production, 4.25 (5th cy-
+cle) times higher than that of the control operation. During the lastcycle of operation, HCl pretreated biocatalyst also showed higher
+H
+2production efﬁciency (3.6 fold higher than the control’s; Cycle
+10). H 3PO4and H 2SO4pretreated culture showed 2.1 (Cycle 4)
+and 1.8 (Cycle 2) times higher H 2production than the control oper-
+ation’s. Based on the cumulative H 2production (CHP), the efﬁcacy
+of the acid-shock pretreated culture, in descending order was
+HNO 3> HCl > H 3PO4>H 2SO4> Control. When the CHP proﬁles
+were analyzed individually, the pattern showed a distinctive vari-ation as a function of cycle operation. Operation with HNO
+3pre-
+treated culture showed a rapid improvement and approachedhigher CHP during the 3rd cycle of operation, stabilizing thereafter.
+In the case of H
+2SO4and H 3PO4pretreated-culture, the CHPshowed rapid increment up to 2nd and 4th cycles of operationrespectively with a rapid fall prior to stabilization from the 6th
+cycle onwards. 
+On the contrary, HCl pretreated-consortia gradually
+approached towards higher H 2production until 10th cycle of
+operation. Control operation showed initially higher H 2production
+which dropped gradually and stabilized after 6th cycle at lowervalues.
+During fermentation of organics, heterotrophic bacteria pro-
+duce electrons
+which have to be disposed off, in order to sustain
+their electrical neutrality. In aerobic metabolism O 2acts as the
+electron (e/C0) acceptor. In anaerobic fermentation, other electron
+acceptors are necessary, where protons (H+) act as an electron
+acceptors and get reduced to molecular H 2. Reduction equivalents,
+such as formate, reduced ferredoxin and NADH functions as elec-tron donors. Dehydrogenase (DH) activity signiﬁes the viability ofbacteria with the function of metabolic activity. Redox reactions
+for the inter-conversion of metabolites and transferring protons
+(H
++) between metabolic intermediates are catalyzed by the (DH)
+enzyme using several mediators (NAD+, FAD+, etc.). These redox
+mediators are capable of carrying H+and electrons (e/C0) and are
+known as energy carriers because they are involved in biologicalenergy generation (ATP). DH activity of the biocatalyst showed a
+marked improvement after applying acid-shock pretreatment indi-
+cating the increased redox inter-conversion reactions leading to
+the higher proton gradient in the cell that may result in higher
+H
+2production ( Fig. 1 b). DH activity correlated well with the H 2
+production proﬁles. It was found throughout the experiment thatDH activity synchronized H
+2production. Similar to H 2production,
+HNO 3pretreated consortia showed high DH activity (3.56 lg/ml of
+Toulene; Cycle 10) followed by HCl (3.16 lg/ml of Toulene; Cycle
+10), H 3PO4(2.89lg/ml of Toulene; Cycle 10), control (1.66 lg/ml
+of Toulene; Cycle 10) and H 2SO4(1.5lg/ml of Toulene; Cycle 10)
+operations correlating with H 2production. HNO 3treated culture
+showed higher DH activity throughout the operation. Dehydroge-
+nase activity of the HNO 3pretreated biocatalyst got stabilized
+towards increased proton shuttling between metabolic intermedi-ates leading to higher H
+2production.
+Biogas composition analysis documented the dominance of H 2
+over methane with the acid-shock pretreated operation due to
+the selective enrichment of speciﬁc H 2producing bacteria
+(Fig. 1 c). HNO 3pretreated operation documented a higher fraction
+of H 2(41–46%) in biogas followed by HCl (27–42%), H 3PO4
+(28–36%) and H 2SO4(18–26%). On the contrary, control operation
+showed higher fraction of methane (36–41%) than H 2(13–21%)
+in the biogas indicating metabolism more inclined towards meth-anogenesis presumably due to the co-existence/domination of MB.
+Among all the pretreated operation, co-existence of methane was
+more with the H
+2SO4operation (26–33%).
+3.2. Acid metabolites Vs redox microenvironment
+3.2.1. VFA
+concentration
+Dark-fermentation process associates with metabolic conver-
+sion of
+organic substrate to H 2along with acid metabolic interme-
+diates i.e. volatile fatty acids (VFA). During the ﬁrst six cycles of
+operation, all the experimental variations documented inconsis-
+tencies in VFA production pattern, varying between 950 and
+1400 mg/l ( Fig. 2 a). A higher concentration of VFA production
+was observed during the initial cycle (2 and 3 rd cycles) operationirrespective of the experimental variations studied. The untreated
+culture showed rapid VFA synthesis and attained the highest con-
+centration of 1380 mg/l (3rd cycle) prior to a rapid drop before sta-
+bilizing at 8
+thcycle (1195 mg/l). Similar to the control operation,
+H3PO4pretreated culture followed the same trend but with lesser
+VFA concentration (1380 mg/l; cycle 3) prior its stabilization at
+the 8th cycle relatively higher VFA concentration (1210 mg/l).O. Sarkar et al. / Bioresource Technology 147 (2013) 321–331 323HNO 3pretreated biocatalyst approached a peak during the 2nd
+cycle in VFA concentration (1260 mg/l) followed by a sharp drop
+(next two cycles) and approached stabilized higher concentration
+at 6th cycle (1280 mg/l). Next to HNO 3culture, HCL pretreated bio-
+catalyst showed higher VFA concentration during stabilized phase
+of operation (cycle 10, 1263 mg/l). H 2SO4pretreated culture
+showed low VFA production (1102 mg/l; 10th cycle) during stabi-lized phase of operation, even compared to the control operation
+(1198 mg/l; 10th cycle). During the stabilized phase of operation,
+the VFA concentration varied in a narrow range (1150–1300 mg/
+l). Higher VFA production in the case of HNO
+3and HCl demon-
+strates the effective functioning of the acidogenic metabolicprocess towards higher H
+2production.3.2.2. VFA proﬁle
+The composition and concentration of VFA showed distinct var-
+iation based
+on the nature of the biocatalyst used (Fig. 2 b). All the
+experimental variations showed the presence of acetic acid, butyric
+acid and propionic acid with variable concentrations. Acetic acidwas found in major fraction compared to butyrate and propionate
+in acid pretreated cultures than untreated biocatalyst. Acetate com-
+position showed an increase with time in all the experimental con-
+ditions except in the case of the HCl and control operations. HNO
+3
+pretreated operation showed higher acetate production (57.2%),followed by HNO
+3(38.2%), H 3PO4(43.8%) and H 2SO4(32.7%). The
+control operation documented lower acetic acid production(16.9%) followed by butric acid (10%) and propoinic acid (8.6%).
+048121620
+123456789 1 0Cummulative H2production 
+(mmol)
+CyclesNitric Acid
+Sulphuric Acid
+Hydrochloric Acid
+Orthophosphoric Acid
+Control
+123456
+123456789 1 0Dehydrogenase (µg/ml of Toulene)
+CyclesNitric Acid
+Sulphuric Acid
+Hydrochloric Acid
+Orthophosphoric Acid
+Controla
+b
+c
+Fig. 1. (a) Cumulative H 2production of different inorganic acid pretreated and untreated (control) anaerobic inoculum with the function of reactor operation time. (b)
+Dehydrogenase activity of different acid and untreated (control) anaerobic inoculum with the function of reactor operation time. (c) Percentage of H 2production analysed
+through gas chromatography.324 O. Sarkar et al. / Bioresource Technology 147 (2013) 321–331Based on the metabolic pathway used by the microorganism and
+the corresponding end-products, H 2yields were variable. Highest
+theoretical yield of four moles of H 2per mole of glucose can be ob-
+tained when acetate is the fermentation end-product (Venkata Mo-
+han and Kannaiah, 2012). Higher acetic acid synthesis in acid
+treated cultures corobrated well with the H 2production observed.
+Along with acetate, the butyrate fraction was also found more inacid pre-treated cultures than the control operation. Theoretically,
+along with butyrate, two moles of H
+2can be generated per mole of
+glucose. The co-existence of butyrate with acetate indicates suit-able microenvironment for acidogenic fermentation. Higher butyricacid concentration was also observed with the HNO
+3operation. The
+absence of propionate in HNO 3and presence of very less composi-
+tion in HCl both also provide a positive microenvironment towards
+acidogenic H 2generation. The propionic acid pathway demands
+additional two moles of H 2(Mohanakrishna and Venkata Mohan,
+2013 ). The presence of relatively higher concentration of propio-
+nate observed with H 3PO4,H2SO4and control operations might be
+probable reason for less observed H 2production. Variation in the
+VFA production proﬁle with different pretreated operations sug-gested changes in microbial composition and metabolic shift of
+the biocatalyst. The acidogenic efﬂuents of H
+2production process020406080100
+6 h
+HNO3Ac e t i c  a c i d
+But y r i c  a c i d
+Pr opi oni c  ac i d12 h
+HNO3020406080100 VFA composition (%)
+Acid pretreated & untreated consortia18 h
+Co n t r o l HCl H3PO4H2SO424 h
+H2SO4 H3PO4HCl Co n t r o l99010901190129013901490
+123456789 1 0VFA  production  (mg/l)
+CyclesNitric Acid
+Sulphuric Acid
+Hydrochloric Acid
+Orthophosphoric Acid
+Control
+3.84.34.85.35.86.3
+123456789 1 0pH
+CyclesNitric Acid
+Sulphuric Acid
+Hydrochloric Acid
+Orthophosphoric Acid
+Controla
+b
+c
+Fig. 2. (a) VFA production of different inorganic acid pretreated and untreated inoculum at the end of the cycle. (b) VFA composition analysis showing production in acetic
+acid, butyric acid, propionic acid in reaction from 6th h to 24th h. (c) pH proﬁle of acid pretreated and untreated culture at the end of the cycle.O. Sarkar et al. / Bioresource Technology 147 (2013) 321–331 325were used as the main substrate for producing of biodiesel by mic-
+roalgae ( Venkata Mohan and Prathima, 2012 ) and bioplastics
+through microaerophilic operation (Venkateswar Reddy et al.,2012; Venkateswar Reddy and Venkata Mohan, 2012).
+3.2.3. System pH
+System pH plays a crucial role in carrying out the metabolic reac-
+tions in
+all know living systems. The accumulation of VFA observed
+during acidogenic fermentation in all the experimental variations,studied effects the system redox microenvironment. More acidic
+microenvironment prevailed during HNO
+3(pH 4.3) operation fol-
+lowed by HCl (pH 4.7), H 2SO4(pH 5.03) and H 3PO4(pH 5.2) due to
+the production of metabolic acid intermediates (Fig. 2 c). Prevailing
+acidic microenvironments corroborated well with the VFA compo-sition proﬁles. The control operation also documented shift towardsacidic redox microenvironment (pH, 5.0), but with a relatively less
+degree due to less acid metabolites generation. Highly acidic redox
+conditions (less than pH 4) are generally unfavorable for H
+2produc-
+tion as they inactivate H 2producing bacteria. The rapid depletion of
+pH will cause a metabolic alteration of the microorganisms result-
+ing in the shift of intermediates production pathway with conse-
+quent decrease in H 2production ( Lee et al., 2009 ). Depending on
+organism and growth conditions, changes in external pH can bringabout subsequent alterations in several primary physiological
+parameters, including internal pH, concentration of other ions,
+membrane potential and proton-motive force.
+3.3. Substrate degradation
+Substrate degradation during H
+2production was evaluated by
+estimating substrate (as COD) removal efﬁciency (n COD) and sub-
+strate degradation rate (SDR). These experiments documented a
+marked variation between the pretreated and untreated biocata-
+lysts (Fig. 3 a). Contrary to H 2production, substrate degradation
+was effective with untreated consortia due to the presence ofhomoacetogens, sulfate reducing bacteria (SRB) and MB. Untreated
+inoculum showed relatively higher substrate degradation efﬁ-
+ciency (n
+COD, 66.30%; SDR, 1.42 kg COD R/m3-day) compared to
+acid-pretreated biocatalysts, which might be attributed due tothe co-existence of methanogenic bacteria (MB). On the contrary,
+all the acid-pretreated operations registered low substrate degra-
+dation efﬁciency, wherein, H
+2SO4operation depicted higher degra-
+dation ( nCOD, 66.2%; 1.41 kg COD R/m3-day) followed by HCl (n COD,
+59.9%; 1.28 kg COD R/m3-day), H 3PO4(nCOD, 61.13%; 1.30 kg COD R/
+m3-day) and HNO 3(nCOD, 56.66%; 1.21 kg COD R/m3-day) ( Fig. 3 b).
+Lower substrate degradation observed with HNO 3pre-treated bio-
+catalyst reiterates the higher H 2production due to the elimination
+of MB. Elimination of MB restricts the further substrate degrada-tion towards methane and therefore lower SDR was noticed with
+higher H
+2yield ( Srikanth et al., 2010; Luo et al., 2010 ). An un-
+treated culture has higher bacterial population with a wide varietyof biochemical functions facilitating diverse metabolic activities.
+On the contrary, pretreating the biocatalysts allows for the selec-
+tive enrichment of bacterial population speciﬁc towards acidogen-
+esis with relatively less diversity (Kannaiah and Venkata Mohan,
+2012a,b ). Higher speciﬁc H
+2yield (SHY) calculated during 10th cy-
+cle of operation showed higher yield with HNO 3(6.64 moles/kg
+COD R) followed by HCl (4.95 moles/kg COD R), H 2SO4(2.42 moles/
+kg COD R), H 3PO4(1.8 moles/kg COD R) and control (1.03 moles/kg
+COD R) operations ( Fig. 3 c).
+3.4. Bacterial community structure
+3.4.1. Gram
+Staining
+In this study, the gram staining technique was used as a tool or
+amarker
+to enumerate the shift/distribution in the bacterial com-munity during H 2production. Interestingly, Gram staining illus-
+trated distinct changes in the community in correlation to
+experime ntal
+variation studied. The dominance of gram positive
+bacteria was evidenced in the HNO 3treated operation (2.1 /C2105-
+cells/ml), which yielded higher H 2production ( Tables 1 and 2 ). The
+total number of gram positive bacteria (2.1 /C2105cells) was two
+folds higher than the gram negative bacteria (0.12 /C2105cells/
+ml). Gram positive bacteria is a bacteria that includes Firmicutes
+generally associated with H 2producing Bacillus and Clostridia clas-
+ses. Many of these species also have the ability to form endosporeswhich are able to tolerate various stress conditions viz., high tem-
+perature, extreme pH, nutrient stress, etc. and revert when normal
+conditions regained back. In the case of HCl pre-treated culture
+(1.06 /C210
+5cells/ml; 1.1 /C2105cells/ml) and control (1.01 /C2105-
+cells/ml; 1.16 /C2105cells/ml) both gram positive and gram nega-
+tive bacteria are more or less the same. On the contrary, H 2SO4
+operation showed lower gram positive bacterial cells (0.89 /C2105-
+cells/ml) than the gram negative bacteria (1.24 /C2105cells/ml)
+which also yielded less H 2production compared to other pre-treat-
+ment strategies. This trend was noticed with control operation inthe distribution between gram positive (1.16 /C210
+5cells/ml) and
+gram negative bacterial cells (1.16 /C2105cells/ml).
+3.4.2. Diversity quantiﬁcation using FISH
+The phylogenetic compositions of bacterial communities in dif-
+ferent acids
+pretreatment were analyzed by ﬂuorescent in situ
+hybridization (FISH) (Amann et al., 1995 ). FISH facilitates phyloge-
+netic analysis as well as provides the quantitative abundance of thebacteria. Phylum and genus speciﬁc Cy3 labeled probes targeted to
+16S rRNA sequences of Firmicutes (phyla), Pseudomonas (genus)
+and 23S rRNA sequences of Bacillus (genus) were used in this study .
+Simultaneously total bacterial population count was done by
+counterstaining the smear with a DAPI stain which served to differ-
+entiate the speciﬁc bacteria among the total bacterial population.
+The distribution of the bacterial community after acid-shock pre-
+treatment induced signiﬁcant changes (Sﬁg 2). Direct cell counting
+of microscopic images revealed that Gram-positive bacteria (Firmi-
+cutes ) were frequently detected in all the acid-shock pretreated
+cultures associated with Bacillus as prevailing genus. However,
+based on FISH counting, the abundance of the probe pB-00195-
+hybridized Firmicutes group accounted for 81.1% of the total cells,
+which was higher than that of probe pB-01036-hybridized Bacillus
+and probe pB-00375-hybridized Pseudomonas genus. HNO
+3acid
+pre-treated application affected the species composition of themicrobial communities signiﬁcantly by enriching potentially di-
+verse microﬂora compared to other acids and control, especially
+pertaining to H
+2production. HNO 3pretreated inoculum showed
+highest population of bacteria belonging to phylum Firmicutes
+(81.1%) along with Bacillus (61.9%) with relatively less fraction of
+Pseudomonas (14.7%). More or less a similar trend was observed
+with HCl where Pseudomonas showed higher number of bacterial
+population compared to HNO 3pretreated inoculum ( Firmicutes ,
+50.7%; Bacillus , 64.3%; Pseudomonas , 58.8%). H 3PO4(Firmicutes ,
+51.7%; Bacillus , 30.8%; Pseudomonas , 84.7%) and H 2SO4(Firmicutes ,
+60.7%; Bacillus , 30.0%; Pseudomonas , 79.2%) pretreatment, the ﬂo-
+rescence intensity was very low when no signiﬁcant bio-H 2pro-
+duction was observed, presumably because the cells in theinoculum were damaged by the strong acid pretreatment. on the
+contrary, untreated culture (control) showed relatively less bacte-
+rial population ( Firmicutes , 18.8%; Bacillus , 20.3%; Pseudomonas ,
+30%) which is correlating well with the substrate degradation(COD removal) rates of the control.
+Type of acid used for pre-treating parent inoculum showed
+marked inﬂuence
+on the community structure and collaborates
+well with the H 2production data as well. Higher fraction of gram
+positive bacteria also correlates well with selective enrichment326 O. Sarkar et al. / Bioresource Technology 147 (2013) 321–33103691215
+123456789 1 0Specific hydrogen yield (moles/Kg CODR)
+CyclesNitric Acid
+Sulphuric Acid
+Hydrochloric Acid
+Orthophosphoric Acid
+Control5055606570
+123456789 1 0COD removal efficiency (%)
+CyclesNitric Acid
+Sulphuric Acid
+Hydrochloric Acid
+Orthophosphoric Acid
+Control
+1.11.151.21.251.31.351.41.451.5
+123456789 1 0SDR (Kg CODR/m3-day)
+CyclesNitric Acid
+Sulphuric Acid
+Hydrochloric Acid
+Orthophosphoric Acid
+Controla
+b
+c
+Fig. 3. (a) Substrate degradation pattern as COD removal efﬁciency (b) substrate degradation rate of different inorganic acids pretreated and untreated (control) anaerobic
+inoculum with the function of reactor operation time. (c) Speciﬁc hydrogen yield (SHY) of different inorganic acids pretreated and untreated (control) inoculums with the
+function of reactor operation time.
+Table 1
+Gram staining of the pretreated consortia showing the gram positive and gram negative bacterial population count.
+Total population count HNO 3 HCl H3PO4 H2SO4 Control
+Gram +ve bacteria (ml/C01) 2.1/C21051.06 /C21051.22 /C21050.89 /C21051.01 /C2105
+Gram /C0ve bacteria (ml/C01) 0.12 /C21051.1/C21051.08 /C21051.24 /C21051.16 /C2105
+Ratio of Gram /C0ve/Gram +ve 0.05 1.04 0.88 1.39 1.15
+Ratio of Gram +ve/Gram /C0ve 17.5 0.96 1.13 0.72 0.87O. Sarkar et al. / Bioresource Technology 147 (2013) 321–331 327observed in this study. Change in the diversity of microorganisms
+also infers change in the size and composition of the population.
+In the case of the control operation, none of the studied bacterial
+groups were dominant. This might be due to the greater diversity
+of the population containing both the producers and utilizers of
+H2. Bacteria belonging to Firmicutes , especially Bacillus and Clos-
+tridia are spore formers and well known potential H 2producers
+(Esteso et al., 1996; Robert et al., 2007; Karakashev et al., 2009 ),
+which might have survived the harsh acidic conditions by formingendospores. Firmicutes grow in acidogenic microenvironment (be-
+tween pH 4.5 and 6.0) and form endospores in adverse conditions(Myoung et al., 2009; Venkata Mohan et al., 2011b). Under acidic
+and high temperature conditions, the cells of Firmicutes undergo
+desiccation and forms spores (Robert et al., 2007; Thong et al.,2008; Kannaiah et al., 2012). Microorganisms which are not capa-
+ble of spore forming (mostly probably methanogens) get elimi-
+nated from the parent culture after the application acid-shock
+pretreatment. Bacilli species viz., B. Subtilis ,B. licheniformis and B.
+Coagulans were reported to be capable of producing H
+2. Clostridia
+species viz., C. butyricum, C. Kluyveri and C. pasteurianum (Esteso
+et al., 1996 ),C. acetobutylicum (Esteso et al., 1996; Karakashev
+et al., 2009 ) were also reported to be capable of producing H 2
+effectively.3.5. Bio-electrochemical activity
+Bio-electrochemical behavior of the biocatalyst in terms of oxi-
+dation and
+reduction catalytic currents was studied by employing
+cyclic voltammetry (CV) ( Rabaey et al., 2004; Raghavulu et al.,
+2012 ). Voltammograms (Vs Ag/AgCl (S) visualized distinct varia-
+tions in biocatalyst behavior between acid-shock pretreated and
+control operation ( Fig. 4 ). Acid-shock pretreated biocatalysts re-
+corded higher redox catalytic currents than the control operation.Voltammograms recorded with untreated biocatalyst visualized
+simultaneous redox catalytic currents with a marginal inclination
+towards reduction behavior (oxidative catalytic current (OC):0.02 ± 0.08
+lA; reductive catalytic current (RC): /C00.05 ± 0.10 lA).
+Redox currents remained more or less similar during the operation.Though the reduction currents were marginally higher, lesser H
+2
+production was observed as the electron and proton losses willbe higher due to the multiple metabolic interactions within the di-
+verse microﬂora that would have drifted the liberated redox equiv-
+alents to get scavenged by MB as an electron sink or the shift in
+pathway towards methane. Reversible peaks were visualized on
+the voltamogram at 6 h and 12 h with peak potentials of
+0.282 mV and 0.403 mV corresponding to cytochrome-c and ni-
+trate reductase respectively. Cytochrome-c is a mobile carrierTable 2
+Total count of the bacterial population with DAPI and Cy3.
+Total microbial count Firmicutes (per ml) Bacillus (per ml) Pseudomonas (per ml)
+DAPI Cy3 DAPI Cy3 DAPI Cy3
+HNO 3 0.21 /C21050.13 /C21050.37 /C21050.30 /C21050.34 /C21050.05 /C2105
+HCl 0.75 /C21050.38 /C21050.56 /C21050.36 /C21050.17 /C21050.10 /C2105
+H3PO4 0.42 /C21050.24 /C21050.26 /C21050.08 /C21050.19 /C21050.16 /C2105
+H2SO4 0.28 /C21050.17 /C21050.20 /C21050.06 /C21050.24 /C21050.19 /C2105
+Control 0.84 /C21050.09 /C21050.75 /C21050.38 /C21050.20 /C21050.06 /C2105
+HNO 3 HCl
+H3PO 4
+Control H2SO 46 h
+0 h
+12 h18 h30 h24 h48 h
+-0.750 -0.500 -0.250 0 0.250 0.500 0.750-0.25u-0.20u-0.15u-0.10u-0.05u00.05u0.10u0.15u
+Voltage (V)Current (A)6 h
+0 h
+18 h12 h30 h24 h
+48 h
+-0.750 -0.500 -0.250 0 0.250 0.500 0.75 0-0.50u-0.40u-0.30u-0.20u-0.10u00.10u0.20u
+Voltage (V)Current (A)
+6 h0 h
+12 h18 h0 h24 h48 h
+-0.750 -0.500 -0.250 0 0.250 0.500 0.750-0.20u-0.15u-0.10u-0.05u00.05u0.10u0.15u
+Voltage (V)Current (A) 6 h0 h30 h
+12 h
+18 h24 h
+48 h
+-0.750 -0.500 -0.250 0 0.250 0.500 0.75 0-0.20u-0.15u-0.10u-0.05u00.05u0.10u0.15u
+Voltage (V)Current (A)
+Sulphuric acid
+Control
+Hydrochloric acidNitric acidOrthophosphoric acid
+-0.750 -0.500 -0.250 0 0.250 0.500 0.750-0.35u-0.25u-0.15u-0.05u0.05u0.15u0.25u
+Voltage (V)Current (A)6 h
+0 h12 h
+18 h24 h30 h48 h
+-0.750 -0.500 -0.250 0 0.250 0.500 0.750-0.15u-0.13u-0.10u-0.08u-0.05u-0.03u00.03u0.05u0.08u
+Volta ge (V)Current (A)HNO 3 HCl
+H2SO 4
+H3PO 4
+Control
+Fig. 4. Cyclic voltammograms proﬁle of different inorganic acids pretreated and untreated inoculums with the function of operation time, voltammograms of HNO 3, HCl,
+H2SO4,H3PO4and control.328 O. Sarkar et al. / Bioresource Technology 147 (2013) 321–331protein aiding in the electron transfer which is found to be associ-
+ated with almost all kinds of bacterial species. As the control oper-
+ation includes diverse microﬂora, nitrate reductase detected
+during the 12 h would have been involved in the metabolism of
+nitrifying bacteria. Nitrate reductase (assimilatory nitrogen reduc-
+tase) is a mononuclear Mo-containing enzyme, which reduces
+nitrate (NO 3/C0) to nitrite (NO 2/C0) using NADH + H+as source of
+reducing equivalents ( Gonzalez et al., 2006 ).
+Among the pre-treated operations, the HNO 3biocatalyst
+showed higher redox currents followed by HCl, H 3PO4,H2SO4and
+control operations, which was in line with the H 2production data
+and DH enzyme activity. A signiﬁcant change in biocatalyst behav-ior towards reduction was observed after applying of acid-shock
+pretreatment. All the acid pre-treated biocatalysts showed the
+typical tendency towards reduction contributing for the reductionof available free protons [H
++] which can be correlated with the ob-
+served higher H 2production. Relatively, higher redox catalytic cur-
+rents were observed with HNO 3operation during 6 h (OC: 0.08 lA;
+RC:/C00.24lA) with a reversible peak (0.292 mV) attributing to the
+participation of cytochrome-c during both oxidation and reduction.
+RC (/C0 0.10 ± 0.15 lA) was relatively higher than OC (0.05 ± 0.10 lA)
+depicting the inﬂuence of the pretreatment method in enrichingthe acidogens towards the reduction of available free protons
+which resulting in higher H
+2production. Distinct reversible peaks
+were recorded on the voltammograms during 8 h and 48 h withpeak potentials of 0.322 mV and 0.262 mV corresponding to the
+participation of ferricyanide and cytochrome-c respectively. The
+involvement of ferricyanide as the mediator would have favored
+more H
+2production because of its capability of neutralizing the
+liberated electrons with the shuttling free protons as it is a strongoxidizing agent (reduction participant).
+In the case of the HCl pre-treated biocatalyst, simultaneous re-
+dox currents
+were observed all through the operation (OC:
+0.08 ± 0.12; RC: 0.10 ± 0.35 lA) except for a marked increment
+during 12 h (0.34 lA) and 18 h (0.46 lA) in reduction followed
+by oxidation (12 h: 0.20 lA; 18 h: 0.09 lA) respectively. The incre-
+ment in redox currents recorded corroborated well with the H 2
+production proﬁles where the DH activity for the proton shuttlingas well as their reduction towards H
+2was also higher. Reversible
+peaks were detected during 12 h and 30 h of operation with peakpotentials of 0.262 mV and 0.322 mV analogous to the involve-
+ment of cytochrome-c and ferricyanide. The redox catalytic cur-
+rents of H
+3PO4and H 2SO4biocatalysts were lower compared to
+the other acid-shock treatments. H 3PO4operation documented al-
+most similar catalytic currents throughout the operation with a
+minimum variation. A marked increment in both reduction as well
+as oxidation currents was recorded during 18 h (OC: 0.13 lA; RC:
+0.16lA) which correlated well with the DH activity. Quasi revers-
+ible peaks which can participate either in oxidation or reductionwere detected during 12 h and 30 h during oxidation with a poten-
+tial of 0.191 mV and 0.292 mV attributing to the involvement of
+cytochrome-c. In the case of H
+2SO4,the redox catalytic currents
+(OC: 0.04 ± 0.03 lA; RC: 0.08 ± 0.07 lA) remained with a minimal
+variation throughout the operation. Quasi reversible peaks were
+detected during reduction (18 h) and oxidation during (24 h and
+30 h) with peak potentials of /C00.04 mV, 0.04 mV and 0.031 mV
+contributing to the involvement of fumerate respectively. Fumer-ate acts as ﬁnal electron acceptor in few anaerobic bacteria where
+it gets reduced to succinate by fumerate reductase (Iverson et al.,
+1999 ). Reduced menaquinone acts as donor of reducing
+equivalents.
+3.5.1. Bio-electro kinetics
+Bio-electrokinetic behavior of the biocatalyst can be studied
+using kinetic
+parameters in the form of Tafel slopes and polariza-
+tion resistance (R p) derived from semi-empirical Tafel Equations(Raghavu lu et al., 2012; Kannaiah and Venkata Mohan, 2012b )
+where,
+i represents current (A), E is applied voltage (V), bais the
+oxidative Tafel slope ( aanF/RT), and bcis the reductive Tafel slope
+(acnF/RT). This equation simpliﬁes the kinetics of electron transfer
+process controlled by two parameters viz., exchange current den-sity (i
+0) and redox Tafel slopes (b a,bc). Tafel plots also provide a vi-
+sual understanding of the losses present in the system, which helpsto interpret the biocatalytic activity based on the derived kinetic
+parameters, oxidative Tafel slope (b
+a), reductive Tafel slope ( bc)
+and polarization resistance (R pinX). Tafel slopes were generated
+using the voltammograms recorded with all experimental varia-
+tions during different time intervals (Sﬁg 3). Lower redox Tafel
+slopes along with lower R pwere observed with pretreated biocat-
+alyst compared to control operation.
+Oxidation slopes were comparatively lower than the reduction
+slopes depicting
+a dominance of oxidation reactions over reduction
+reactions. The oxidation slope ( ba) varied in a similar pattern with
+all the pretreatment methods studied. Initially, the slopes were
+0.4 ± 0.2 V/dec which showed increase followed by decrease untill
+the end of operation with all the experimental conditions studied.
+A sudden increment in slope was noticed in the control operation
+after 24 h (1.39 V/dec) and can be attributed to the shift in the
+pathway towards methanogenesis. Comparatively, lower and con-
+sistent oxidation slopes were recorded with HNO 3operation
+(0.018 V/dec) that was in correlation to the observed higher H 2
+proﬁles. The speciﬁcally enriched acidogens might minimally con-
+tribute to the losses in the system. The oxidation slopes in all the
+acid-shock pre-treated operations including control showed an
+increment by the end of operation indicating the occurrence of less
+oxidation reactions possibly due to exhaustion of substrate which
+subsequently requires higher activation energy for the electron
+transfer from the biocatalyst towards the working electrode.
+Lower reduction slope ( bc)was observed with HNO 3(0.223 V/
+dec) pre-treatment biocatalyst followed by the control operation
+(0.226 V/dec), H 3PO4(0.314 V/dec) and HCl (0.335 V/dec), H 2SO4
+(0.245 V/dec). This pattern might be attributed to the requirementof less activation energy by the HNO
+3treated biocatalyst followed
+by the respective acid treated operations and control indicatingreduction of the protons towards effective H
+2production. An high-
+er reduction slope was observed during 12 h in the case of all thepretreatment methods (H
+3PO4: 0.768 V/dec; HCl: 0.732 V/dec;
+H2SO4: 0.711 V/dec; HNO 3: 0.676 V/dec; Control: 0.555 V/dec)
+while the increment was signiﬁcant with H 3PO4and HCl indicating
+less number of reduction reactions, possibly due to relatively lessavailability of the free protons visualized also with the lower DH
+activity. Though higher reduction (lower bc) was observed with
+control operation, less H
+2production was achieved which corre-
+lates well with the electron loss or the pathway towardsmethanogenesis.
+The resistance for the electron transfer from the biocatalyst at
+thesolution
+electrode interface can be understood through polari-
+zation resistance (R p) derived from Tafel analysis ( Wang et al.,
+2011 ). At lower resistance electrons mobility will be higher to
+get reduced with a proton facilitating H 2formation. Lower R P
+was recorded with HNO 3(1.87 K O) pre-treated biocatalyst fol-
+lowed by HCl (6.7 KO ), H 2SO4(33.2 K O), H 3PO4(37.0 KO ) and con-
+trol (37.0 KO ). This indicates that the resistance offered by the
+enriched acidogenic bacteria to transfer electrons by HNO 3opera-
+tion was comparatively less than the other acid-shock pretreated
+operations and control towards effective H 2production by control-
+ling the electron transfer kinetics. The control operation containsdiverse species; the probability to undergo many possible meta-
+bolic interactions has higher electron losses subsequently resulting
+in the less transfer of redox equivalents. Electro kinetic evaluation
+enumerated that the acid-shock pretreated biocatalyst has speciﬁc
+functions over the control operation by controlling the kinetics ofO. Sarkar et al. / Bioresource Technology 147 (2013) 321–331 329electron transfer as well as the redox reactions by the minimiza-
+tion of activation losses to succeed over the thermodynamic barrier
+towards effective H 2production. The viability of acid-shock pre-
+treated biocatalyst towards H 2production was also visible by the
+selective enrichment of H 2producers viz., Firmicutes and Bacillus .
+4. Conclusions
+Performance of selectively enriched anaerobic consortia by dif-
+ferent inorganic
+acids in comparison with an untreated parent cul-
+ture showed marked variation in H 2production and wastewater
+treatment efﬁciency. The study documented the positive inﬂuence
+of HNO 3pretreated biocatalyst on H 2production. Dehydrogenase
+activity improved the after application of acid pretreatment, indi-cating increased redox inter-conversion reactions leading to a
+higher proton gradient in the cell. Higher acetate production ob-
+served in acid pretreated cultures coraborated well with the H
+2
+production. VFA production suggested shifts in the metabolicactivity of the biocatalyst, microbial community indicated selective
+enrichment of Firmicutes and Bacillus sp. after pre-treatment
+application.
+Acknowledgements
+The authors wish to thank the Director, CSIR-IICT for the kind
+support and 
+encouragement received in carrying out this work.
+Funding from Ministry of New and Renewable Energy (MNRE, Pro-
+ject No. 103/131/2008-NT) and CSIR in the form of XII ﬁve year
+plan project SETCA (CSC-0113) are gratefully acknowledged.
+Appendix A. Supplementary data
+Supplementary data associated with this article can be found,
+inthe
+online version, at http://dx.doi.org/10.1016/j.biortech.
+2013.08.021 .
+References
+Amann, R.I., Ludwig, W., Schleifer, K.H., 1995. Phylogenetic identiﬁcation and in situ
+detection of individual microbial cells without cultivation. Microbiol. Rev. 59
+(1), 143–169 .
+APHA, 1998. Standard Methods for the Examination of Water and Wastewater, 20th
+ed. Washington D.C.
+Esteso, M.A., Estrella, C.N., Podesta, J.J., 1996. Evaluation of the absorption on mild
+steel of
+hydrogen evolved in glucose fermentation by pure cultures of
+Clostridium acetobutylicum and Enterobacter. Sens. Act. B Chem. 32 (1), 27–31 .
+Gonzalez, P.J., Correia, C., Moura, I., Brondino, C.D., Moura, J.J.G., 2006. Bacterial
+nitrate reductases:
+molecular and biological aspects of nitrate reduction. J.
+Inorg. Biochem. 100 (5–6), 1015–1023 .
+Iverson, T.M., Chavez, C.L., Cecchini, G., Rees, D.C., 1999. Structure of the Escherichia
+colifumarate reductase respiratory complex. Science 284, 1961–1966.
+Kannaiah, Goud, Venkata Mohan, S., 2012a. Regulating biohydrogen production
+from wastewater
+by applying organic load-shock: Change in the microbial
+community structure and bio-electrochemical behavior over long-term
+operation. Int. J. Hydrogen Energy 37 (23), 17763–17777 .
+Kannaiah, Goud, Venkata Mohan, S., 2012b. Acidic and alkaline shock pretreatment
+to enrich acidogenic biohydrogen producing mixed culture: long term
+synergetic evaluation of microbial inventory, dehydrogenase activity and bio-
+electro kinetics. RSC Adv. 15, 6336–6353 .
+Kannaiah, Goud, Raghavulu, S.V., Mohanakrishna, G., Naresh, K., Venkata Mohan, S.,
+2012. Predominance of Bacilli and Clostridia in microbial community ofbiohydrogen producing bioﬁlm sustained under diverse acidogenic operating
+conditions. Int. J. Hydrogen Energy 37 (5), 4068–4076
+.
+Karakashev, D., Kotay, S.M., Trably, E., Angelidaki, I., 2009. A strict anaerobic
+extreme thermophilic hydrogen-producing culture enriched from digested
+household waste. J. Appl. Microbiol. 106 (3), 1041–1049 .
+Kim, J., Park, C., Kim, T.H., Lee, M., Kim, S., Kim, S., Wook, L.J., 2003. Effects of various
+pretreatmentsfor enhanced anaerobic digestion with waste activated sludge. J.Biosci. Bioeng. 95 (3), 271–275
+.
+Kraemer, J.T., Bagley, D.M., 2007. Improving the yield from fermentative hydrogen
+production. Biotechnol. Lett. 29 (5), 685–695 .Lee, M.J., Song, J.H., Hwang, S.J., 2009. Effects of acid pre-treatment on bio-hydrogen
+production and microbial communities during dark fermentation. Bioresour.
+Technol. 100 (3), 1491–1493 .
+Liu, H., Wanga, G., Zhu, D., Pan, V., 2009. Enrichment of the hydrogen producing
+microbial community from marine intertidal sludge by different pretreatment
+methods. Int. J. Hydrogen Energy 34 (24), 9696–9701 .
+Luo, G., Xie, L., Zou, Z., Zhou, Q., Wang, J.Y., 2010. Fermentative hydrogen production
+from cassava stillage by mixed anaerobic microﬂora, effects of temperature andpH. Appl. Energy 87 (12), 3710–3717
+.
+Meier, H., Amann, R., Ludwig, W., Schleifer, K.H., 1999. Speciﬁc oligonucleotide
+probes for in situ detection of a major group of gram-positive bacteria with lowDNA G+C content. Syst. Appl. Microbiol. 22 (2), 186–196
+.
+Mohanakrishna, G., Venkata Mohan, S., 2013. Multiple process integrations for
+broad perspective analysis of fermentative H 2production from wastewater
+treatment. Appl. Energy 107, 244–254 .
+Moreno-Davila, I.M.M., Rios-GonZalez, L.J., Gaona-Llozano, J.G., Garza-Garcia, Y.,
+Rodriguez-Martinez, J.G., 2010. Biohydrogen production by anaerobic bioﬁlmsfrom a pretreated mixed microﬂora. Appl. Sci. 5 (6), 376–382
+.
+Myoung, J.L., Hyeon Song, J., Sun-Jin, H., 2009. Effects of acid pre-treatment on bio-
+hydrogen production and microbial communities during dark fermentation.Bioresour. Technol. 100, 1491–1493
+.
+Rabaey, K., Boon, N., Siciliano, S.D., Verhaege, M., Verstraete, W., 2004. Biofuel cells
+select for microbial consortia that self-mediate electron transfer. Appl. Environ.Microbiol. 70 (9), 5373–5382
+.
+Raghavulu, S.V., Babu, P.S., Kannaiah, R.K., Subhash, G.V., Srikanth, S., Venkata
+Mohan, S., 2012. Bioaugmentation of an electrochemically active strain to
+enhance the electron discharge of mixed culture: process evaluation through
+electro-kinetic analysis. RSC Adv. 2, 677–688 .
+Ren, N.Q., Chua, H., Chan, S.Y., Tsang, Y.F., Wang, Y.J., Sin, N., 2007. Assessing optimal
+fermentation type for bio-hydrogen production in continuous acidogenicreactors. Bioresour. Technol. 98 (9), 1774–1780
+.
+Robert, C., Chassard, C., Lawson, P.A., Donadille, B., 2007. Bacteroides cellulosilyticus
+sp. a cellulolytic bacterium from the human gut microbial community. Int. J.
+Syst. Evol. Microbiol. 57 (7), 1516–1520 .
+Srikanth, S., Venkata Mohan, S., Lalit Babu, V., Sarma, P.N., 2010. Metabolic shift and
+electron discharge pattern of anaerobic consortia as a function of pretreatmentmethod applied during fermentative hydrogen production. Int. J. Hydrogen
+Energy 35 (19), 10693–10700
+.
+Salzman, N.H., De Jong, H., Paterson, Y., Harmsen, H.J.M., Welling, G.W., Bos, N.A.,
+2002. Analysis of 16S libraries of mouse gastrointestinal microﬂora reveals alarge new group of mouse intestinal bacteria. Microbiol. 148, 3651–3660
+.
+Schleifer, K.H., Amann, R., Ludwig, W., Rothemund, C., Springer, N., Dorn, S., 1992.
+Nucleic acid probe for the identiﬁcation and insitu detection of pseudomonas.
+Am. soc. microbiol. 127–134.
+Thong, S.O., Prasertsan, P., Karakashev, D., Angelidaki, I., 2008. 16S rRNA-targeted
+probes for
+speciﬁc detection of Thermoanaerobacterium spp.,
+Thermoanaerobacterium thermosaccharolyticum , and Caldicellulosiruptor spp. by
+ﬂuorescent in situ hybridization in biohydrogen producing systems. Int. J.Hydrogen Energy 32 (21), 6082–6091
+.
+Venkata Mohan, S., 2009. Harnessing of biohydrogen from wastewater treatment
+using mixed fermentative consortia: process evaluation towards optimization.
+Int. J. Hydrogen Energy 34, 7460–7474 .
+Venkata Mohan, S., Kannaiah Kannaiah, R., 2012. Pretreatment of biocatalyst as
+viable option for sustained production of biohydrogen from wastewatertreatment. In: Ackmez, Mudhoo (Ed.), Biogas production:
+ pretreatment
+methods in anaerobic digestion. Wiley and Scrivener Publishing LLC, pp. 291–311.
+Venkata Mohan, S., Prathima, M., 2012. Fatty acid rich efﬂuent from
+acidogenic biohydrogen 
+reactor as substrate for lipid accumulation in
+heterotrophic microalgae with simultaneous treatment. Bioresour. Technol.
+123, 627–635 .
+Venkata Mohan, S., Babu, V.L., Sarma, P.N., 2008a. Effect of various pretreatment
+methods on anaerobic mixed microﬂora to enhance biohydrogen production
+utilizing dairy wastewater as substrate. Bioresour. Technol. 99 (1), 59–67 .
+Venkata Mohan, S., Lalit Babu, V., Srikanth, S., Sarma, P.N., 2008b. Bio-
+electrochemical evaluation of fermentative hydrogen production process withthe function of feeding pH. Int. J. Hydrogen Energy 33 (17), 4533–4546
+.
+Venkata Mohan, S., Mohanakrishna, G., Ramanaiah, S.V., Sarma, P.N., 2008c.
+Simultaneous biohydrogen production and wastewater treatment in bioﬁlm
+conﬁgured anaerobic periodic discontinuous batch reactor using distillery
+wastewater. Int. J. Hydrogen Energy 33 (2), 550–558 .
+Venkata Mohan, S., Chiranjeevi, P., Mohanakrishna, G., 2011a. A rapid and simple
+protocol for evaluating biohydrogen production potential (BHP) of wastewaterwith simultaneous process optimization. Int. J. Hydrogen Energy 37 (4), 3130–
+3141
+.
+Venkata Mohan, S., Agarwal, L., Mohanakrishna, G., Srikanth, S., Kapley, A., Purohit,
+H.J., Sharma, P.N., 2011b. Firmicutes with iron dependent hydrogenase drivehydrogen production in anaerobic bioreactor using distillery wastewater. Int. J.
+Hydrogen Energy 36, 8234–8242
+.
+Venkateswar Reddy, M., Venkata Mohan, S., 2012. Inﬂuence of aerobic and anoxic
+microenvironments on polyhydroxyalkanoates (PHA) production from foodwaste and acidogenic efﬂuents using aerobic consortia. Bioresour. Technol. 103
+(1), 313–321
+.330 O. Sarkar et al. / Bioresource Technology 147 (2013) 321–331Venkateswar Reddy, M., Nikhil, G.N., Venkata Mohan, S., Swamy, Y.V., Sarma, P.N.,
+2012. Pseudomonas otitidis as a potential biocatalyst for polyhydroxyalkanoates
+(PHA) synthesis using synthetic wastewater and acidogenic efﬂuents. Bioresour.
+Technol. 123, 471–479 .
+Wang, J., Wan, W., 2009. Factors inﬂuencing fermentative hydrogen production: a
+review. Int. J. Hydrogen Energy 34 (2), 799–811 .Wang, Y.Y., Ai, P., Hu, C.X., Zhang, Y.L., 2011. Effects of various pretreatment
+methods of anaerobic mixed microﬂora on biohydrogen production and the
+fermentation pathway of glucose. Int. J. Hydrogen Energy 36 (1), 390–396 .
+Zhu, H., Beland, M., 2006. Evaluation of alternative methods of preparing hydrogen
+producing seeds from digested wastewater sludge. Int. J. Hydrogen Energy 31
+(14), 1980–1988 .O. Sarkar et al. / Bioresource Technology 147 (2013) 321–331 331

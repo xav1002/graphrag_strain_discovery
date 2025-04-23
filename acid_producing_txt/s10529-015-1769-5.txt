@@ -1,0 +1,1386 @@
+REVIEW
+Microbial production of lactic acid
+Mark A. Eiteman •Subramanian Ramalingam
+Received: 9 December 2014 / Accepted: 7 January 2015 / Published online: 22 January 2015
+/C211Springer Science+Business Media Dordrecht 2015
+Abstract Lactic acid is an important commodity
+chemical having a wide range of applications. Micro-
+bial production effectively competes with chemical
+synthesis methods because biochemical synthesispermits the generation of either one of the two
+enantiomers with high optical purity at high yield
+and titer, a result which is particularly beneﬁcial for
+the production of poly(lactic acid) polymers having
+speciﬁc properties. The commercial viability ofmicrobial lactic acid production relies on utilization
+of inexpensive carbon substrates derived from agri-
+cultural or waste resources. Therefore, optimal lacticacid formation requires an understanding and engi-
+neering of both the competing pathways involved in
+carbohydrate metabolism, as well as pathways leadingto potential by-products which both affect product
+yield. Recent research leverages those biochemical
+pathways, while researchers also continue to seekstrains with improved tolerance and ability to perform
+under desirable industrial conditions, for example, of
+pH and temperature.Keywords Lactate /C1Lignocellulosic hydrolysate /C1
+pH tolerance /C1Phosphoketolase /C1Thermotolerance
+Introduction
+Lactic acid is a three carbon a-hydroxycarboxylic acid
+with a single chiral center, which therefore exists asone of two stereoisomers, D-lactic acid and L-lactic
+acid. A weak acid with a pK
+Aof 3.86, lactic acid
+(lactate) has a wide range of applications in the food,cosmetic, agricultural and pharmaceutical industries
+(Hofvendahl and Hahn-Ha ¨gerdal 2000 ; Datta and
+Henry 2006 ; Okano et al. 2010 ). Lactate is also of
+interest for its potential chemical conversion into other
+high volume chemicals, such as hydrogenation to 1,2-
+propanediol or dehydration to acrylic acid (Datta andHenry 2006 ; Gao et al. 2011 ). Lactic acid is principally
+used as the starting material for poly(lactic acid)
+(PLA), a renewable and biodegradable polymer(Wehrenberg 1981 ; Kharas et al. 1994 ). PLA can be
+produced via the cyclic dimer lactide which allows for
+a controlled polymer molecular weight (Drumrightet al. 2000 ). Several properties of PLA including
+crystallinity and thermal stability are moreover
+impacted by the relative fraction of the
+L- and D-
+isomers either in the polymer chain or in blends
+(Gruber et al. 1992 ,1996 ; Lunt 1998 ; Blomqvist 2001 ;
+de Jong et al. 2001 ; Tsuji 2002 ; Tsuji and Fukui 2003 ).
+Lactic acid produced from petrochemicals, however,M. A. Eiteman ( &)
+BioChemical Engineering Program, College ofEngineering, University of Georgia, Athens,
+GA 30602, USA
+e-mail: eiteman@engr.uga.edu
+S. Ramalingam
+Centre for Biotechnology, Anna University,
+Chennai 600 025, Tamil Nadu, India
+e-mail: ramabioprocess@annuniv.edu
+123Biotechnol Lett (2015) 37:955–972
+DOI 10.1007/s10529-015-1769-5results in a racemic mixture, whereas microorganisms
+can generate exclusively either L-lactic acid or D-lactic
+acid, depending on which lactate dehydrogenase(LDH) enzyme is expressed to convert pyruvate to
+lactate as the ﬁnal biochemical step. Thus, a great
+advantage of the biological route is the generation ofoptically pure lactate which directly affects the
+subsequent polymer composition (Wehrenberg 1981 ;
+Blomqvist 2001 ; Tsuji 2002 ).
+As a commodity chemical, lactic acid must be
+biologically produced from cheap starting materials
+derived from agricultural sources such as the carbo-hydrate glucose. The ultimate yield of lactic acid (i.e.,
+g product generated per g substrate consumed) is
+determined both by the biochemical pathways in uppermetabolism which convert the carbohydrate into
+metabolic intermediates and by pathways in lower
+metabolism which potentially generate undesirableby-products. Thus, research can broadly be catego-
+rized as affecting upper metabolism or lower
+metabolism.
+Upper metabolism involved in lactic acid formation
+Lactic Acid Bacteria (LAB) are classiﬁed as either
+homofermentative orheterofermentative based on the
+metabolism of glucose. Although the terms are
+typically applied to LAB, many other organisms that
+generate lactic acid share features of the samepathways and can be considered homofermentative
+or heterofermentative. As the name implies, a homo-
+fermentative lactic acid process is one which poten-tially generates lactate alone. In this case, glucose is
+metabolized through the Embden–Meyerhof–Parnas
+(EMP) pathway (Fig. 1a, b). Key enzymes in the EMP
+pathway include glucose-6P isomerase (EC 5.3.1.9),
+6-phosphofructokinase (EC. 2.7.1.11), and fructose-
+bisphosphate aldolase (EC 4.2.1.13). Conversion ofglucose exclusively through the EMP pathway leads to
+a maximum theoretical yield of 2 mol lactate per mol
+glucose:
+Glucose + 2P + 2ADP !2Lactate + 2ATP + 2H
+2O
+ð1Þ
+In contrast, a heterofermentative lactic acid process
+is one in which a signiﬁcant fraction of the glucose is
+metabolized via the phosphoketolase (PK) pathway(Fig. 1a): from six-carbon gluconate-6P, the enzyme
+6-phosphogluconate dehydrogenase (EC 1.1.1.44)
+cleaves of a CO 2to form ribulose-5P, and then
+phosphoketolase (EC 4.1.2.9) generates glyceralde-
+hyde-P and acetate-P. Once metabolism has commit-
+ted to acetate-P formation, this 2-carbon metabolite isnot readily converted ‘‘back’’ to a 3-carbon compound,
+constraining this pathway to a maximum theoretical
+yield of 1 mol lactate per mol glucose. If the acetate-Pformed is hydrolyzed to acetate by acetate kinase, then
+the stoichiometric conversion of glucose through the
+PK pathway becomes:
+Glucose þ2NAD P ðÞ þ P
+iþ2ADP
+!Lactate þAcetate þCO 2þ2NAD P ðÞH
+þ2ATP þH2O ð2Þ
+Equation 2is incomplete since NAD(P)H must be
+oxidized to complete a redox balance. Depending onenzymes present, NAD(P) is regenerated as a result of
+the reduction of O
+2or the reduction of other
+metabolites.
+A third pathway found in upper metabolism that
+inﬂuences lactic acid formation is the pentose phos-
+phate (PP) pathway (Fig. 1b). In this pathway, the
+5-carbon ribulose-5P formed through 6-phosphoglu-
+conate dehydrogenase partitions between xylulose-5P
+and ribose-5P (two 5-carbon compounds), that arereversibly shuttled through sedoheptulose-7P and
+glyceraldehyde-3P (7-carbon ?3-carbon), and ery-
+throse-4P and fructose-6P (4-carbon ?6-carbon) by
+the actions of the key enzymes transaldolase (EC
+2.2.1.2) and transketolase (EC 2.2.1.1). The EMP
+pathway mediates the conversion of the fructose-6Pgenerated by the PP pathway ultimately into glycer-
+aldehyde-3P. If glucose is metabolized exclusively
+through the PP pathway to glyceraldehyde-3P andfructose-6P and the latter is converted to glyceralde-
+hyde-3P via the EMP pathway, then the maximum
+theoretical lactate yield is 1.67 mol per mol glucose:
+3Glucose þ6NAD P ðÞ þ 5P
+iþ5ADP !5Lactate
+þ3CO 2þ6NAD P ðÞHþ5ATP þ2H2O
+ð3Þ
+Equation 3is also incomplete, however, since
+additional reduced compounds (such as H 2O) must
+be generated to satisfy the redox balance.
+Many microorganisms are able to metabolize
+pentoses such as D-xylose or L-arabinose, leading to956 Biotechnol Lett (2015) 37:955–972
+123lactate formation. Of course, these organisms must
+have an appropriate transport mechanism andenzymes to enter one of the major pathways describedabove. Because the PK pathway partitions 5-carbon
+compounds directly into glyceraldehyde-3P and ace-tate-P, the conversion of pentoses through this
+Fig. 1 Upper metabolism of microbes converting to simple
+sugars into lactic acid (lactate) and acetyl phosphate (acetate-P).
+aThe Embden–Meyerhof–Parnas (EMP) pathway and the
+phosphoketolase (PK) pathway. Key enzymes in the EMPpathway include ( A) glucose-6P isomerase (EC 5.3.1.9) ( B)6 -
+phosphofructokinase (EC. 2.7.1.11) and ( C) fructose-bisphos-
+phate aldolase (EC 4.2.1.13). The key enzyme in the PKpathway is ( D) phosphoketolase (EC 4.1.2.9). bthe Embden-Meyerhof-Parnas (EMP) pathway and the pentose phosphate
+(PP) pathway. Key enzymes in the EMP pathway are as in a. The
+key enzymes in the PP pathway are: ( E) transaldolase (EC
+2.2.1.2) and (F) transketolase (EC 2.2.1.1). In each case, acetate-P is not an end-product, but is converted into acetate and/or
+ethanol (see Fig. 2). Not every lactic acid-generating microor-
+ganism expresses all the enzymes shown, and some microor-ganisms deviate from this general schemeBiotechnol Lett (2015) 37:955–972 957
+123pathway results in a maximum yield of 1 mol lactate
+per mol pentose. Using xylose as an example pentose:
+Xylose þ2ADP þ2Pi!Lactate þAcetate þ2ATP
+þ2H2O
+ð4Þ
+Equation 4is written with the assumptions that the
+product of the PK pathway, acetate-P, is convertedentirely to acetate, and that xylose transport into the
+cell is by facilitated diffusion (and does not consume
+ATP).
+Alternatively, pentoses such as D-xylose or L-
+arabinose can be metabolized by the PP pathway.
+Because this pathway does not commit the cells toacetate-P formation, the maximum theoretical yield of
+lactate in this case is 1.67 mol/mol pentose:
+Fig. 1 continued958 Biotechnol Lett (2015) 37:955–972
+1233Xylose þ2Piþ2ADP !5Lactate þ2ATP ð5Þ
+Importantly, because Eq. 5is redox balanced, the
+conversion of pentoses to lactate can proceed like ahomofermentative process if the PP pathway is the
+exclusive metabolic pathway used for the conversion.
+However, the PK pathway generates 2 ATP/molxylose consumed (Eq. 4) while the PP pathway
+generates 0.67 ATP/mol xylose consumed (Eq. 5).
+Many microbial species have two or three of these
+pathways, and thus the resulting intermediate lactate
+yield is determined by which pathway predominates
+under the particular growth conditions. Based onEqs. 1–5, the theoretical lactate yield from glucose
+resulting from the EMP, PP or PK pathways is 2, 1.67 or
+1 mol, respectively. The lactate yield from xyloseresulting from the PP or phosphoketolase pathway is
+1.67 or 1 mol, respectively. Thus, the greatest lactate
+yield occurs for cells which metabolize glucose exclu-sively through the EMP pathway and which metabolize
+pentoses exclusively through the PP pathway.
+Conversion of pentoses to lactic acid
+Since different pathways in upper metabolism affect the
+stoichiometry of lactate generation, lactic acid yield can
+be improved merely by modifying an organism to favor
+a higher yielding pathway. For example, for theconversion of arabinose, the endogenous phosphoketo-
+lase gene in Lactobacillus plantarum was substituted
+with the transketolase gene from Lactococcus lactis ,
+thereby shifting the PK pathway to the PP pathway
+(Okano et al. 2009a ). With this improved pathway,50 g arabinose l
+-1was converted to 38.6 g lactic
+acid l-1(yield =1.54 mol/mol =0.77 g/g) in 27 h.
+Although Lb. plantarum cannot utilize xylose, the same
+strategy of removing the PK pathway and introducing
+the PP pathway allowed a strain which also expressedtwo xylose-assimilation genes to generate 41.2 g lactic
+acid l
+-1from 50 g xylose l-1(yield =1.65 mol/
+mol=0.82 g/g) in 60 h (Okano et al. 2009b ). In both
+these studies with Lb. plantarum ,u s i n ga n ldhL mutant
+led predominantly to the D-lactate isomer. Introducing
+theLactobacillus pentosus xylose-assimilating operon
+xylAB intoLb. plantarum ldhL with additional knock-
+outs in two phosphoketolase genes and a chromosom-
+ally integrated transketolase gene ( tkt) allowed the
+strain to generate 74 g D-lactic acid l-1from a mixture
+of 25 g xylose l-1and 75 g glucose l-1in 36 h without
+catabolite repression (Yoshida et al. 2011 ).
+An organism which is able to use xylose, L. lactis
+IO-1 uses the PP pathway, at least partly, because the
+microbe naturally attains a yield greater than 1 mollactate/mol glucose (Tanaka et al. 2002 ). Merely
+increasing the culture xylose concentration increases
+the lactate yield. Subsequent sequencing showed thatLc. lactis IO-1 contains transketolase but no transal-
+dolase, and thus is thought to use 6-phosphofructoki-
+nase and fructose bisphosphate aldolase as alternateenzymes to complete the higher yielding PP pathway
+(Kato et al. 2012 ). Furthermore, the strain exclusively
+produces L-lactic acid, as genes coding
+D-lactate
+dehydrogenase (D-LDH) and lactate racemase are
+absent (Shimizu-Kadota et al. 2013 ). As an alternative
+to maintaining a high xylose concentration, the nativePK pathway can be eliminated by deleting the
+Fig. 2 Lower metabolism
+of microbes showing theconversion of phosphoenol
+pyruvate (PEP) and acetyl
+phosphate (acetate-P) intolactate and other by-
+products. Not every lactic
+acid-generatingmicroorganism expresses allthe enzymes shown, and
+some microorganisms
+deviate from this generalschemeBiotechnol Lett (2015) 37:955–972 959
+123phosphoketolase gene ( ptk)i n Lc. lactis IL1403
+(Shinkawa et al. 2011 ). A consequence of this
+knockout was a reduced rate of lactate formation,necessitating an additional copy of the transketolase
+gene ( tkt) to restore the rate, and suggesting that lactate
+formation in Lc. lactis is limited by the ﬂux through
+the PP pathway.
+Conversion of sucrose to lactic acidAnE. coli engineered to accumulate D-lactic acid
+from sucrose was constructed by a knockout in thesucrose repressor gene ( cscR ), leading to 85 g D-lactic
+acid l
+-1in 84 h with a yield of 0.85 g/g (Wang et al.
+2012 ). A strain engineered to accumulate L-lactic acid,
+also evolved for improved growth on sucrose, resulted
+in the generation of 97 g L-lactic acid l-1with a yield
+of 0.9 g/g in a deﬁned medium containing sucrose(Wang et al. 2013 ). This strain also converts sugarcane
+molasses and corn steep liquor to 75 g
+L-lactic
+acid l-1with a yield of 0.85 g/g (Wang et al. 2013 ).
+The ﬁlamentous fungus Rhizopus oryzae has long
+been studied for lactic acid production (Zhou et al.
+1999 ), and the microbe generates L-lactic acid from
+glucose, sucrose and starch (Zhang et al. 2007 ). Lactic
+acid production occurs only during growing condi-
+tions (Maas et al. 2008 ).
+Conversion of lignocellulosic hydrolysates
+to lactic acid
+Many agricultural substrates are composed of complex
+carbohydrates which must be hydrolyzed into theirconstituent sugars (‘‘sacchariﬁcation’’) prior to being
+converted into any biochemical product such as lactic
+acid (‘‘fermentation’’). There are several strategies tocarry out this overall process. The conventional
+process for starch materials involves a sacchariﬁcation
+step with high temperature gelatinization, followed bya second, separate fermentation step by appropriate
+organisms. Similarly, lignocellulosic materials may be
+chemically hydrolyzed, for example with dilute acid,
+prior to their fermentation.
+A signiﬁcant amount of research over many years
+has focused on hydrolyzing various lignocellulosic
+materials chemically, followed by the fermentation of
+the resulting hydrolysate into useful products, and oneproduct studied has been lactic acid. For example,
+corncobs hydrolyzed with dilute sulfuric acid yieldeda hydrolysate of 26.5 g xylose l
+-1, 2.4 g glucose l-1,
+3.2 g arabinose l-1and 3.5 g acetic acid l-1which,
+after vacuum evaporation, was converted to 80 g lac-tic acid l
+-1with a yield of about 80 % based on total
+sugar using a R. oryzae adapted to the hydrolysate (Bai
+et al. 2008 ). Similarly, Bacillus generated 55 g L-
+lactic acid l-1from acid-hydrolyzed sugar cane
+bagasse supplemented with salts and corn steep liquor
+(Patel et al. 2004 ).
+In most lignocellulosic materials, the hemicellulose
+fraction is readily hydrolyzed, for example with hot
+water. Such hydrolysates contain predominantlyxylose, but often signiﬁcant fractions of other sugars,
+and this mixture is an attractive source of carbohy-
+drates for lactic acid. The moderately thermophilicBacillus coagulans MXL-9 (described in detail
+below), has been used to ferment a several hot water
+hydrolysates. For example, larch extracts composed of45.8 g total sugars l
+-1was converted to 40.5 g lactic
+acid l-1after 50 h (Walton et al. 2010 ). These cells
+consumed the glucose and mannose ﬁrst, after whichthe remaining sugars were metabolized.
+Guo et al. ( 2010a ) isolated LAB strains whichthat
+metabolized both hexoses and pentoses found inlignocellulosic hydrolysate. Using a corncob hydro-
+lysate, Lactobacillus brevis S3F4 generated 39 g lac-
+tic acid l
+-1from a mixture containing about
+57 g mixed sugars l-1. Importantly, the Lb. brevis
+metabolized glucose and xylose simultaneously and
+showed no growth inhibition or reduced productformation in the presence of 10 mM furfural and
+ferulic acid. Guo et al. ( 2010b ) solated over 100 strains
+ofR. oryzae and examined them for lactic acid
+production. One strain (GY18) converted the sugar
+mixture found in corncorb hydrolysate (233 g xylose
+and 39 g glucose per kg corncob) to lactic acid,although the microbe consumed xylose only after
+glucose was exhausted.
+Simultaneous sacchariﬁcation and fermentation
+for lactic acid formation
+Another approach to sequential sacchariﬁcation then
+fermentation involves ‘‘simultaneous sacchariﬁcationand fermentation’’ (SSF), which increases volumetric
+productivity by combining otherwise sequential pro-
+cesses. This strategy can be accomplished in severalways: (1) saccharifying enzymes and a fermenting
+microbe are added simultaneously to the substrates,960 Biotechnol Lett (2015) 37:955–972
+123(2) a saccharifying microbe and a fermenting microbe
+are added simultaneously to the substrates, and (3) a
+single microbe is used which is able itself to saccharifythe substrate and ferment the intermediate sugars.
+Lactic acid may also be produced using SSF. This
+topic has been reviewed (John et al. 2009 ), and it
+continues to be a fruitful area of research. For
+example, using 275 g starch-containing cassava pow-
+der l
+-1with 20 U glucoamylase l-1,Lactobacillus
+rhamnosus generated 175 g L-lactate l-1in 96 h
+(Wang et al. 2010a ). Similarly, Lactobacillus lactis
+converted 100 g cellobiose l-1into about 80 g lactic
+acid l-1in 48 h (Singhvi et al. 2010 ). Addition of
+cellulase into an SSF resulted in 73 g lactic acid l-1
+from 100 g sugarcane bagasse-derived cellulose l-1
+after 48 h (Singhvi et al. 2010 ). Similarly, a Lactoba-
+cillus delbrueckii which could utilize cellobiose
+converted 100 g pure cellobiose l-1into 90 g lactic
+acid l-1in less than 40 h (Adsul et al. 2007 ), and, with
+the addition of cellulase, 80 g cellulose l-1into
+67 g lactic acid l-1in about 80 h (Adsul et al., 2006 ).
+The strain converted cellotriose and higher cellooli-
+gosaccharides, too, though at lower speciﬁc rates.
+Thermotolerant Bacillus strains described below are
+particularly suited to SSF because they were specif-
+ically isolated for their ability to generate lactic acid at
+50/C176C or above. For example, B. coagulans 36D1
+generated 80 g lactic acid l-1from 100 g cellu-
+lose l-1during the course of 264 h when supple-
+mented with cellulase (Ou et al. 2011 ).
+Waste materials are also common substrates for the
+production of lactic acid using SSF. For example,
+cardboard subject to enzymatic hydrolysis is a sourcefor lactic acid production by Lactobacillus corynefor-
+misssp.torquens (Ya´n˜ez et al. 2005 ). In a fed-batch
+process, 23.4 g lactic acid l
+-1was generated at a
+0.51 g/g yield from glucose at a volumetric produc-
+tivity of 0.48 g l-1h-1. Using the same strain, D-
+lactic acid production from ﬁlter paper was alsostudied in an SSF. This process showed better yield
+when cellobiase was added externally, reaching about
+25 g lactic acid l
+-1in 48 h with a yield of 0.72 g lac-
+tic acid/g cellulose (Ya ´n˜ez et al. 2003 ). The improve-
+ment in yield in cellulose compared with glucose as asubstrate suggests that the slow release of glucose
+favors lactic acid formation over biomass production.
+D-Lactic acid production has also been studied from
+defatted rice bran which was not subject to steriliza-
+tion (Tanaka et al. 2006 ). Because the indigenousbacteria produced a racemic mixture of lactic acid, the
+pH was maintained at 5 to ensure only D-lactic acid
+production by the intended Lb. delbrueckii . About
+30 g lactate l-1at a yield of 0.28 g lactic acid/g rice
+bran or 0.78 g lactic acid/g soluble sugars was
+achieved. Recycled paper sludge generated 73 g lacticacid l
+-1using Lb. rhamnosus in a culture supple-
+mented with cellulolytic and xylanolytic enzymes
+(Marques et al. 2008 ).
+A challenge in SSF is matching the optimal
+conditions for enzymatic sacchariﬁcation with the
+optimal conditions for microbial conversion (e.g.,temperature, pH). Thus, in the case of lactic acid
+accumulation via SSF, many researchers have sought
+to increase the tolerance to temperature and pH of thelactic acid-producing microbes (described below).
+John and Nampoothiri ( 2008 ) applied classical muta-
+genesis using nitrous oxide to Lb. delbrueckii to obtain
+two mutants, which in SSF of cassava bagasse starch
+hydrolysate, generated lactate at a yield [90 % while
+the wild-type generated lactate at a yield of about50 %.
+Mixed cultures for lactic acid formationSeveral studies have proposed the use of mixed
+cultures of microbes, wherein each microbe selectedfor the microbial consortium accomplishes one spe-
+ciﬁc conversion. Such an approach can address one of
+several speciﬁc objectives, but in each case the two ormore organisms comprising the culture must be
+compatible and have similar nutritional and environ-
+mental requirements.
+One application of mixed cultures is based on the
+concept that some microbes very effectively convert
+glucose into lactic acid, while others may be effectiveat the conversion of pentoses into lactic acid. For
+example, a homofermentative strain will attain a
+higher yield from glucose because it relies on the EMPpathway, while a heterofermentative LAB will gener-
+ate more ATP from pentoses through the PK pathway
+and thus can generate lactate with high productivity
+though some yield is sacriﬁced. Based on this
+rationale, a mixed culture of Lb. rhamnosus (homo-
+fermenter) and Lb. brevis (heterofermenter) has been
+studied. This culture will generate lactic acid from a
+xylose/glucose mixture or from a corn stover hydro-lysate to which cellulase was added (Cui et al. 2011 ).
+Using two strains led to higher overall lactate yield andBiotechnol Lett (2015) 37:955–972 961
+123productivity (0.7 g/g and 0.59 g l-1h-1) compared
+with using only the homofermenter (0.59 g/g and
+0.49 g l-1h-1). The selection of strains is important
+for the efﬁcient conversion of sugar mixtures.
+Another application of mixed cultures is accom-
+plishing a two-organism SSF: one microbe sacchari-ﬁes the biomass while a second ferments the
+hydrolysate. For example, Lactobacillus ssp. and
+Aspergillus niger converted Jerusalem artichoke
+tubers into L-lactic acid (Ge et al. 2009 ). In this case,
+A. niger generated inulinase and invertase to hydro-
+lyze the inulin to glucose, and Lactobacillus inocula-
+tion was delayed 12 h to allow for some glucose
+accumulation. Interestingly, the presence of Lactoba-
+cillus increased enzyme production by A. niger ,
+presumably because of the removal of glucose from
+the culture. The system achieved approx. 120 g
+L-
+lactic acid l-1with a yield of 0.945 g/g in a repeated-
+batch process.
+A third and different application of mixed cultures
+involves using a consortium of engineered strains toconvert sugar mixtures into lactic acid (Eiteman et al.
+2009 ). For example, for the conversion of xylose and
+glucose, the strategy uses two strains: one unable toconsume glucose, and one unable to consume xylose.
+When both strains were conferred with additional
+knockouts for lactate generation, each member of themixture carried out the one conversion. Such a system
+adapts to a changing xylose/glucose composition by
+changing the relative population of each strain (Eit-eman et al. 2008 ), and thus very effectively converts
+mixed sugar streams into products such as lactic acid
+(Eiteman et al. 2009 ).
+Lower metabolism involved in lactic acid
+formation
+One common challenge for the production of lactic
+acid is that numerous by-products can be generated,
+depending on the microbe used and the pathways that
+microbe possesses. Different LAB, particularly,
+express several enzymes which compete with LDH
+for the utilization of pyruvate. The LDHs present in anorganism and their catalytic efﬁciency also determine
+the relative abundance of the two isomers in the
+product (Zheng et al. 2012 ). Furthermore, several
+paralogs show some
+L-LDH or D-LDH activity and
+reduce the optical purity of lactic acid (Rico et al.2008 ). Figure 2shows enzymes found in lower
+metabolism of several LAB associated with pyruvate
+and acetate-P, the products of the EMP, PP pathwaysand PK pathways. Different organisms have other
+competing pathways, the importance of which also
+depends on the starting carbon source used. Reducingby-product formation has been a consistent theme in
+studying lactic acid production by many bacteria and
+fungi.
+Decrease of by-products formed from glucose
+As a model organism which is easy to manipulate
+genetically, E. coli accumulates signiﬁcant lactic acid
+from glucose by simply knocking out the pﬂB gene
+coding pyruvate formate lyase (Dien et al. 2001 ; Dien
+et al. 2002 ). Though E. coli predominantly generates
+the D-lactate isomer, it may readily be turned into an
+L-
+lactate producer by knocking out the native gene
+coding D-LDH ( ldhA ) and a gene coding for an L-LDH
+(Chang et al. 1999 ; Dien et al. 2002 ; Zhou et al. 2004 ).
+Often a ‘‘two-phase’’ process is implemented to
+accumulate lactic acid, whereby an aerobic growth
+phase is decoupled from a subsequent anaerobic ormicroaerobic phase leading to lactate production. A
+two-phase approach is indeed necessitated by the
+knockout of the pﬂB gene, or any other gene which
+curtails anaerobic cell growth. Advantages of a two-
+phase process are higher yields because no carbon is
+converted to biomass during the non-growth produc-tion phase, and greater tolerance to environmental
+conditions during lactate accumulation because cell
+growth is not actually required.
+Many studies have focused on this strategy. For
+example, a pﬂB knockout overexpressing the Strepto-
+coccus bovis ldh gene generated 73 g
+L-lactic acid l-1
+on a complex medium at a yield of 0.93 g/g (Dien et al.
+2001 ). A strain with knockouts in pyruvate formate
+lyase, fumarate reductase ( frdBC ), alcohol dehydro-
+genase ( adhE ) and acetate kinase ( ackA ) grown in
+deﬁned medium generated 48 g lactate l-1of 99 %
+optical purity close to the theoretical maximum yield
+of 1 g/g (Zhou et al. 2003 ), and then replacing the
+chromosomal ldhA with an L-LDH gene led to 50 g
+L-lactate l-1at a yield of 0.95 g/g (Zhou et al. 2004 ).
+In an acetate-auxotroph having knockouts in pyruvate
+dehydrogenase ( aceEF ), pyruvate oxidase ( poxB ),
+PEP synthase ( pps) and pyruvate formate lyase, all
+which compete with LDH for pyruvate, E. coli962 Biotechnol Lett (2015) 37:955–972
+123generated over 90 g lactate l-1with a yield of 0.95 g/
+g with succinate as the single by-product (Zhu et al.
+2007 ). Additionally knocking out frdABCD coding
+fumarate reductase, and ensuring that the co-substrate
+acetate was absent at the time the anaerobic phase
+commences led to 138 g lactate l-1in deﬁned medium
+with a yield of 0.99 g/g and less than 1 % by-products
+(Zhu et al. 2007 ). A similar set of knockouts has been
+scaled up to 3,000 liters and demonstrated the beneﬁtof Ca(OH)
+2as the neutralizing agent (Liu et al. 2014 ).
+Other combinations of knockouts which decrease by-
+product formation have also been studied. For exam-ple, a phosphotransferase ( pta) and PEP carboxylase
+(ppc) mutant generated 62 g
+D-lactate l-1on a com-
+plex medium with a yield of 0.9 g/g (Chang et al.1999 ), while knocking out the native
+D-LDH and
+expressing L-LDH from Lactobacilllus casei gener-
+ated 45 g L-lactate l-1with a yield of 0.7 g/g (Chang
+et al. 1999 ).
+Corynebacterium glutamicum , used commercially
+for amino acid production, has recently been examinedfor lactic acid production. With a native
+L-LDH, C.
+glutamicum needs a knockout in this L-LDH and
+overexpression of D-LDH from Lb. delbrueckii to
+accumulate D-lactate from glucose. After aerobic cell
+growth, centrifuged, washed and resuspended cells (at
+60 g l-1) with repeated glucose addition accumulated
+120 g D-lactate l-1in 30 h in a high density resting
+cell approach (Okino et al. 2008 ). The system also
+accumulated 17 g succinate l-1and less acetate.
+Klebsiella ssp. have also been examined for the
+production of lactic acid from glucose. Klebsiella
+oxytoca with knockouts in phosphotransacetylase,
+acetate kinase and alcohol dehydrogenase generated
+13 g D-lactic acid l-1from 20 g glucose l-1, and also
+generated 24 g D-lactic acid l-1from sugarcane
+molasses in 96 h (Sangproo et al. 2012 ).
+There has long been an interest in using yeast,
+particularly Saccharomyces cerevisiae , for the pro-
+duction of lactic acid from glucose (Dequin and Barre
+1994 ; Porro et al. 1995 ). The motivation is that S.
+cerevisiae tolerates a low pH of about 3.5 and is
+efﬁcient at the conversion of glucose to ethanol
+through the EMP pathway at nearly theoretical yield.Therefore, although S. cerevisiae is naturally an
+ethanol producer, the microbe might similarly be able
+to accumulate the redox-neutral product, lactic acid, ifethanol formation were to be prevented. For example,
+a knockout in one of the pyruvate decarboxylase genesinvolved in ethanol generation ( PDC1 ) and over-
+expressing the bovine ldhgene (via a plasmid) led to a
+lactate yield of 0.20 g/g and an ethanol yield of 0.26 g/g, though cell growth was repressed (Adachi et al.
+1998 ). More recently, PDC1 was similarly knocked
+out and two copies of the ldhgene from Leuconostoc
+mesenteroides integrated onto the S. cerevisiae chro-
+mosome (Ishida et al. 2006a ). From 100 g glu-
+cose l
+-1, this yeast strain generated about 62 g D-
+lactate l-1when the pH was controlled and about
+53 g D-lactate l-1without pH control (ﬁnal pH was
+2.8). Knocking out both PDC1 and PDC5 and
+integrating two copies of the bovine ldhgene led to
+over 82 g L-lactate l-1in 200 h at a yield of 0.815 g/g
+glucose (Ishida et al. 2006b ). More recently, strains
+with single gene disruptions were screened to ﬁnd
+strains with improved resistance to L-lactic acid at a
+pH of 2.6 (Suzuki et al. 2013 ). Overexpressing L-LDH
+in aPDC1 knockout strain with four additional gene
+disruptions ( DSE2 SCW11 EOF3 SED1 ) led to 48 g L-
+lactic acid l-1compared to 38 g l-1in the strain
+overexpressing the L-LDH in a PDC1 knockout. Each
+of these recent studies used a medium containing
+10 g yeast extract l-1and 20 g peptone l-1.
+Saccharomyces cerevisiae is not the only yeast used
+for generating lactic acid from glucose, but by-
+products must invariably be eliminated and lactic acidformation enhanced. Kluyveromyces marxianus strains
+were constructed with the Lactobacillus helveticus
+L-LDH gene using phosphoglycerate kinase andpyruvate decarboxylase promoters at various points
+in the chromosome (Hause et al. 2009 ). With CaCO
+3
+added for pH control and deleting the native single
+copy of pyruvate decarboxylase ( PDC1 ),K. marxianus
+generated about 99 g L-lactate l-1([99 % enantio-
+merically pure) from 104 g glucose l-1in 48 h with-
+out any ethanol production. This strain also generated
+9.1 g lactate l-1from 10.8 g glucose l-1after 72 h
+without pH control, which led to a ﬁnal pH of about 3.Similarly, Candida boidinii expressing codon-opti-
+mized bovine L-LDH using the PDC1 promoter in a
+PDC1 knockout resulted in about 86 g lactate l
+-1in
+48 h at a yield of 1 g/g glucose (Osawa et al. 2009 ). By
+knocking out PDC1 and introducing two L-LDH genes
+derived from Bos taurus under the control of the PDC1
+promoter, C. boidinii was able to generate over
+100 g L-lactic acid l-1in 33 h (Ikushima et al. 2009 ).
+A series of patents have been issued for the
+production of lactic acid in yeast. For example, withBiotechnol Lett (2015) 37:955–972 963
+123a goal of producing lactic acid at a low pH so that base
+consumption is minimized and the acid form (i.e.,
+lactic acid) predominates, several yeasts with knock-outs in the pyruvate dehydrogenase complex and
+pyruvate decarboxylase were transformed with one or
+more copies of the LDH gene and a lactate transporter(Porro et al. 2006 ). The researchers noted that a higher
+concentration and productivity of lactic acid can be
+attained in a medium having a low concentration ofMg
+2?or Zn2?ions. Lactic acid will also accumulate
+using yeast variants which have temperature-sensitive
+alcohol dehydrogenase or pyruvate decarboxylase andwhich express human- or frog-LDH (Sawaii et al.
+2011 ).
+Issatachenkia orientalis has been developed for
+lactic acid production because this yeast tolerates a pH
+below 3 (Suominen et al. 2012 ; Miller et al. 2012 ).
+With knockouts in native pyruvate decarboxylase andlactate:ferricytochrome coxidoreductase genes and
+overexpressing one or more copies of
+L-LDH, this
+yeast generated 60 g lactate l-1at a yield of 0.6 g/g
+under microaerobic conditions.
+Decrease of by-products from pentosesMost of the same knockouts involved in the conver-
+sion of glucose to lactic acid apply also when pentosesare the substrates. For example, E. coli with essentially
+the same knockouts as described above to exclude by-
+products, as well as containing the chromosomally-integrated Pediococcus acidilactici
+L-LDH gene
+(ldhL), generated 42.9 g L-lactic acid l-1from xylose
+under anaerobic conditions in about 120 h in a deﬁnedmedium (Zhao et al. 2013 ).Candida utilis expressing
+xylitol dehydrogenase, xylulokinase and a xylose
+reductase mutated to favor NAD over NADP
+?gen-
+erated 67 g L-lactate l-1from xylose in 72 h (Tam-
+akawa et al. 2012 ). The yeast Pichia stipitis is
+advantageous because it naturally ferments xylose,primarily to ethanol (Prior et al. 1989 ). Using P.
+stipitis with an
+L-LDH gene from Lb. helveticus
+expressed under the control of the ADH1 promoter led
+to 58 g L-lactate l-1from 100 g xylose l-1or
+41 g lactate l-1from 94 g glucose l-1(Ilme´n et al.
+2007 ). The lower production of lactate from glucose
+was attributed to the greater ethanol formation from
+this substrate. Despite the presence of an intactpyruvate-to-ethanol pathway, the cells generated
+70 % less ethanol from xylose with ldhL expression.Interestingly, this P. stipitis construct was able to
+metabolize glucose and xylose simultaneously.
+Decrease of by-products from glycerol
+Glycerol has also been used as a substrate for lactic
+acid production by E. coli (Mazumdar et al. 2010 ). By
+overexpressing enzymes involved in the conversion of
+glycerol to dihydroxyacetone phosphate, and knock-ing out fumarate reductase ( frdA), phosphotransferase
+(pta), alcohol dehydrogenase ( adhE ) and respiratory
+D-lactate dehydrogenase ( dld) genes, 32 g D-
+lactate l-1was generated from 40 g glycerol l-1in
+about 72 h in shake-ﬂasks. Modifying the E. coli strain
+by replacing the native D-LDH with an L-LDH,
+blocking the methylglyoxal pathway, and preventing
+reassimilation of L-lactate by eliminating a native
+aerobic L-LDH led to 50 g L-lactate l-1with 99.9 %
+optical purity from 56 g crude glycerol l-1in 84 h
+(Mazumdar et al. 2013 ). An economic assessment of
+the conversion of glycerol to D-lactic acid by engi-
+neered E. coli indicated that the use of crude glycerol
+represents less than 8 % of the production cost, and
+that the process could be a proﬁtable use for glycerol(Posada et al. 2012 ). Moreover, the success of the
+conversion depends mostly on the fermentation, and in
+particular the ability of strains to convert completelyhigh concentrations of glycerol. Another approach
+involves the typical two-phase process: using a two-
+phase approach without overexpression of genesinvolved in glycerol uptake, E. coli was able to
+generate 99 g
+D-lactate l-1in 36 h at a yield of 0.64 g/
+g (Tian et al. 2012 ; Chen et al. 2014 ). Overexpression
+ofldhA increased ﬁnal concentration and yield.
+Importantly, a two-phase approach allows different
+environmental conditions: for example, E. coli growth
+is favored at 34–37 /C176C, while anaerobic conversion of
+glycerol into lactic acid favors 40 /C176C (Chen et al.
+2014 ). The use of crude glycerol compared to puriﬁed
+glycerol does not appear to impact the production of
+lactic acid (Chen et al. 2014 ), although methanol
+present as high as 28 % (w/w) is largely lost on
+autoclaving (Pyle et al. 2008 ).
+Wild-type Klebsiella pneumoniae generates a sur-
+prisingly high concentration of D-lactic acid when
+subject to microaerobic conditions and high glycerol
+feed rates (Rossi et al. 2013 ). If one thus accepts the
+generation of by-products, the organism is suitable for
+the co-production of 1,3-propanediol and D-lactic acid,964 Biotechnol Lett (2015) 37:955–972
+123which may readily be separated from each other (Song
+et al. 2013 ). Knocking out just two genes leading to
+1,3-propanediol ( dhaT andyqhD ) and overexpressing
+aD-LDH led to 142 g D-lactic acid l-1at a yield of
+0.82 g/g glycerol (Feng et al. 2014 ). The availability
+of some oxygen under microaerobic conditionsappears to be critical in maximizing
+D-lactic acid
+formation in K. pneumoniae (Feng et al. 2014 ).
+Membrane transport associated with lactate
+formation
+In many cells glucose is transported across the cell
+membrane via a sugar-speciﬁc phosphotransferasesystem (PTS), though variations in this strategy exist.
+Lc. lactis transports glucose via a mannose-PTS, a
+cellobiose-PTS (rather than a glucose-PTS) and aunique glucose permease (Castro et al. 2009 ). The
+concentration of phosphate can play an important role
+in the regulation of glycolysis (e.g., Lc. lactis ), with
+low phosphate inhibiting glycolysis particularly at
+high glucose concentrations (Levering et al. 2012 ).
+Xylose transport in several Lactobacillus spp. occurs
+via facilitated diffusion (Chaillou et al. 1998 ,1999 ),
+while in E. coli xylose uptake occurs by both high-
+afﬁnity (ATP-dependent) and low-afﬁnity (ATP-inde-pendent) routes (Sumiya et al. 1995 ).
+Saccharomyces cerevisiae appears to be limited in
+the efﬂux of lactate, and two monocarboxylate perm-eases, Jen1 and Ady2, play an important role in lactate
+export from the cell (Pacheco et al. 2012 ), though
+Ady2 is considered an acetate permease (Paiva et al.2004 ). A knockout in both JEN1 andADY2 signiﬁ-
+cantly reduced consumption of lactic acid from the
+medium after the glucose had been exhausted whilethe overexpression of JEN1 andADY2 increased lactic
+acid production but also increased lactic acid utiliza-
+tion after glucose exhaustion. Thus, these enzymes areinvolved in bidirectional lactic acid uptake and efﬂux
+(Pacheco et al. 2012 ). A mutation in the ADY2 gene
+has also been linked to increased lactate efﬂux through
+laboratory evolution (de Kok et al. 2012 ). Although
+the quantity of lactic acid generated varies widelydepending on the strain of yeast used (Branduardi et al.
+2006 ), these earlier studies generated less than 0.5 g
+lactic acid/l (Pacheco et al. 2012 ). An almost doubling
+of lactate yield to 0.75 g/g glucose under continuous
+culture conditions led to speculation that thisoperational mode may be advantageous for lactic acid
+production by S. cerevisiae because such a process
+maintains a very low glucose concentration and thusreduces the Crabtree effect found in this yeast
+(Mimitsuda et al. 2014 ).
+Compared to research involving upper or lower
+metabolism, relatively little research has investigated
+improving lactate production through the alteration of
+native sugar or lactate transport into or out of the cell.
+Increasing microbial tolerance
+Microbial processes for lactic acid generation are
+commonly limited by the tolerance of productionorganisms to extreme conditions of pH or temperature,
+as well to elevated sugar and lactic acid concentra-
+tions. Furthermore, inhibitors present in the biomasshydrolysates and other inexpensive materials which
+are attractive for lactic acid production can hinder
+growth and product formation. Therefore, the selec-tion and improvement of strains for tolerance to
+certain environmental conditions are key aspects in
+process development for large scale cultivation. Twogeneral strategies have been adopted for obtaining
+more tolerant microbial strains. One method involves
+improving known lactic acid producers by variousevolutionary techniques such as random mutagenesis
+or genome shufﬂing. A second method is to establish
+ﬁrst what characteristics are needed in a productionmicrobe, and then isolate microbes from the natural
+environment which satisfy those characteristics. Lac-
+tic acid production is then subsequently introduced or
+improved in those isolates.
+Tolerance to low pHDuring microbial generation of lactic acid from simple
+sugars such as glucose, the pH of the culture willdecrease. Microbes are often inhibited by lowered pH,
+leading to a reduction and ultimately a cessation of cell
+growth and further lactic acid formation. This pH-
+dependent inhibition necessitates the use of strong
+base to neutralize the accumulating acid during thecourse of the fermentation. However, the use of bases
+such as NaOH, KOH or Ca(OH)
+2is accompanied by
+its own drawbacks. In particular, the cells may beinhibited by the increased concentration of a neutral-
+izing counter-cation (e.g., Na
+?), and additionalBiotechnol Lett (2015) 37:955–972 965
+123processing steps are required to remove the counterion
+and leave the ultimate acid product. So, two
+approaches have been explored to resolve the problemof decreasing pH during a lactic acid fermentation,
+including increasing microbial tolerance to cations
+and increasing microbial tolerance to low pH.
+Several researchers have increased tolerance to
+cations in microbes able to generate more lactate.
+Applying the hypothesis that Na
+?might limit lactic
+acid production, a 25 % increase in lactate accumu-
+lation (70 vs. 56 g l-1) was reported in an E. coli strain
+overexpressing Na?-speciﬁc regulator gene nhaR and
+thenhaA gene expressing the Na?/H?antiporter
+membrane protein (Wu et al. 2013a ). Similarly,
+overexpressing the DNA repair protein RecO in L.
+casei led to a 40 % increase in lactic acid concentra-
+tion under NaCl stress, although the lactic acid
+concentrations accumulated were less than 5 g l-1
+(Wu et al. 2013b ). Subjecting a Bacillus isolate to low
+energy ions generated a mutant more tolerant to Na?
+which at 50 /C176C was able to convert glucose to over
+100 g L-lactate l-1with productivities exceeding
+3.5 g l-1h-1(Qin et al. 2010 ).E. coli merely exposed
+to progressively increasing concentrations of Na?
+showed greater tolerance to both Na?and K?ions and,
+when conferred with a single knockout in the pﬂB
+gene, showed a 35 % increase in lactic acid production(76 g l
+-1) compared to the wild-type strain (Wu et al.
+2014 ).
+Lactic acid-producing bacteria may similarly be
+adapted to greater acid tolerance. Just one round of
+whole genome shufﬂing on Lb. pentosus was neces-
+sary to generate transformants with improved growthat a pH of 4 (Ye et al. 2013a ). One mutant, MT3,
+produced lactic acid at 95 % yield from 20 g glu-
+cose l
+-1at a pH of 3.8. These authors did not identify
+the altered genes nor the mechanism for the increased
+acid tolerance but the mutation did not have any effect
+on lactate synthesis. Increased acid tolerance of Lb.
+rhamnosus was also achieved by genome shufﬂing
+using two UV mutants and three nitrosoguanidine
+mutants as the template strains (Wang et al. 2007 ). At
+a controlled pH of 4.5, the ultimate strain was able to
+generate about 84 g l-1after an 84 h fermentation.
+Similarly, Sporolactobacillus inulinus was subject to
+UV irradiation and diethyl sulfate mutagenesis to
+generate starting populations for genome shufﬂing,which led to a strain resistant to a pH of 5 that
+generated 93 g
+D-lactic acid l-1from glucose incomplex medium (Zheng et al. 2010 ). Interestingly,
+a pH-tolerant mutant of Lb. casei showed greater PTS
+activity, greater H?-ATPase activity and, at lower
+values of pH, maintained a higher intracellular pH
+than the wild-type, with a subsequent proteomic
+analysis demonstrating the complexity of pH tolerance(Wu et al. 2012 ). The response of LAB to low pH
+involves surprisingly numerous genes or proteins
+(Rallu et al. 2000 ; De Angelis et al. 2001 ).
+A source to isolate new acid-tolerant bacteria is the
+corn-processing facilities themselves. Acid-tolerant
+bacteria which produce lactic acid at a pH of 4.2 or lesshave been isolated directly from industrial wet mills
+(Carlson and Peters 2002 ), and then subsequently
+examined for the effect of temperature, SO
+2, and
+steep-water on their growth. Similarly, bacteria were
+isolated from corn-steep liquor producing L-lactic
+acid (Eddington et al. 2007 ), and six Lactobacilli were
+identiﬁed. These strains each generated over 80 g L-
+lactic acid l-1with 96 % optical purity and a yield
+over 80 % in 50 h. After chemical mutagenesis, thestrains were examined for the absence of
+D-lactic acid.
+In this way, strains able to generate exclusively L-
+lactic acid at high yield and ﬁnal concentration werealso generated.
+Tolerance to elevated temperaturesIncreased tolerance to elevated temperature is also
+desirable for potentially increasing productivity andfor reducing the prospect of contamination. To
+increase thermotolerance of Lb. casei , a mutant was
+selected by isolating for growth at progressivelyhigher temperatures and glucose concentrations (Ge
+et al. 2011 ). The resulting mutant, named G-03,
+generated lactate maximally at 41 /C176C, whereas the
+parent strain generated maximal lactate at 34 /C176C. G-03
+generated over 198 g lactate l
+-1at 41 /C176C, approxi-
+mately twice the concentration and productivity of theparent strain.
+Thermotolerant strains have been isolated directly
+from the environment. For example, Qin et al. ( 2009 )
+selected Bacillus 2-6 from 730 soil isolates that grew
+at 55 /C176C, and Bischoff et al. ( 2010 ) isolated 40 strains
+on a xylose-containing complex medium at 50 /C176C, and
+16S rDNA showed all were B. coagulans . Demon-
+strating the advantage that high temperature providesagainst contamination, Bacillus 2–6 generated
+182 g
+L-lactic acid l-1in a medium of 20 g yeast966 Biotechnol Lett (2015) 37:955–972
+123extract l-1in a 30 l fed-batch process without
+sterilization (Qin et al. 2009 ) into which glucose was
+fed continuously. Bacillus 2–6 also generated
+60–100 g L-lactic acid l-1with over 99 % optical
+purity in repeated batch fermentations at an average of
+0.9 g/g yield and productivities exceeding1gl
+-1h-1, though production was very dependent
+on yeast extract concentration (Zhao et al. 2010 ).
+During batch fermentation of 120 g xylose l-1, ther-
+motolerant isolate B. coagulans NL01 generated
+80 g L-lactate l-1in 72 h (Ouyang et al. 2012 ), while
+B. coagulans C106 generated 216 g from xylose l-1
+during a fed-batch process (Ye et al. 2013b ). Otto
+(2012 ) describe thermophilic strains (56 /C176C) of B.
+coagulans andGeobacter also tolerant to a pH of 5.6.
+Immobilization of a thermotolerant Bacillus extends
+the productivity of the process: approx. 70 g lactic
+acid l-1from 80 g/l glucose during each of ﬁfteen
+repeated fed-batch fermentations (Rosenberg et al.
+2005 ). All these recent studies using Bacillus strains
+conﬁrm research from a decade earlier demostratinglactic acid production by thermotolerant Bacillus spp.
+(Heriban et al. 1993 ; Ohara and Yahata 1996 ; Payot
+et al. 1999 ).
+A few species other than Bacillus have been
+isolated from the environment for their thermotoler-
+ance. For example, an L. delbrueckii strain isolated
+from a sink tolerated 50 /C176C. Using continuous culture
+with membrane recycle at 43 /C176C, this strain generated
+20 g
+D-lactic acid l-1continuously from 20 g glu-
+cose l-1at a productivity of 18 g l-1h-1and a yield
+of 1 g/g (Tashiro et al. 2011 ). In batch culture
+87.4 g D-lactic acid l-1accumulated in 168 h from
+100 g glucose l-1. However, B. coagulans is advan-
+tageous compared to Lb. delbrueckii in terms of higher
+operational temperature, productivity and simplicityof medium requirements (Michelson et al. 2006 ).
+Tolerance to elevated sugar concentrationIncreased tolerance to high sugar concentrations or
+increased generation of lactic acid are worthy targets
+for random mutation. Lb. lactis was mutated with UV
+and selecting for increased acid production by strainshaving a larger acid zone on plate (Joshi et al. 2010 ).
+Two additional rounds of UV irradiation led to strain
+RM2-24, which generated 120 g lactic acid l
+-1from
+200 g hydrolyzed cane sugar l-1in 120 h. Genome
+shufﬂing to increase the glucose tolerance of Lb.rhamnosus resulted in a strain which generated
+180 g L-lactic acid l-1from 200 g glucose l-1in
+90 h (Yu et al. 2008 ).
+Tolerance to multiple stresses
+Strategies have also been used to obtain strains with
+increased tolerance to multiple stresses. For example,
+Patel et al. ( 2006 ) isolated many microbes from a wide
+range of sources, and selected strains which could
+ferment sugars in sugar cane bagasse hydrolysate at a
+pH of 5 and 50 /C176C, conditions which match conditions
+necessary for cellulase activity and would reduce the
+need for sterilization and require less cooling. Three
+strains of B. coagulans generating lactic acid as the
+major anaerobic product were isolated, and strain
+36D1 has been the subject of continuing research. B.
+coagulans 36D1 generated over 150 g lactic acid l-1
+from either 200 g glucose l-1or 200 g xylose l-1in
+about 200 h (Ou et al. 2011 ). Similarly, Rallu et al.
+(2000 ) obtained 21 insertional mutants of Lc. lactis
+from a combination of low pH, elevated temperature
+and aerobic conditions. The researchers classiﬁed
+these mutants into four classes and concluded that acidtolerance is a complex process which involves phos-
+phate and purine nucleotide pools and multiple
+transporters.
+Heterologous expression of nisin-induced dnaK
+from E. coli inLc. lactis improves tolerance to heat,
+salt and ethanol stress, particularly at 40 /C176C (Al-Mahin
+et al. 2010 ), though the concentrations of lactic acid
+were low (1–2 g l
+-1). DnaK is believed to transduce
+signals to other cellular factors in response toincreased temperature, and also to plays a role in
+refolding of thermally damaged proteins.
+Further research on tolerant strains
+Research has progressed to decrease by-product
+formation in some tolerant strains, or to use these
+strains directly for the conversion of lignocellulosic
+hydrolysates. For example, thermotolerant B. coagu-
+lans P4-102B with knockouts in the native
+L-LDH
+(ldh) and acetolactate synthase ( alsS) genes, regains
+anaerobic growth after a mutation in glycerol dehy-
+drogenase ( gldA ) causes the enzyme to act as a D-
+LDH, resulting in 90 g D-lactate l-1from glucose after
+48 h (Wang et al. 2011 ). Interestingly, for B. coagu-
+lans NL01 both acetate and levulinate exhibited aBiotechnol Lett (2015) 37:955–972 967
+123toxic effect, while 2 g formate l-1showed a stimula-
+tory effect, and in corn stover hydrolysate this strain
+consumed xylose, arabinose and glucose simulta-neously (Ouyang et al. 2012 ).B. coagulans MXL-9
+grew on a synthetic mixture of 17 g l
+-1each of
+glucose, xylose and arabinose, resulting in about 90 %yield on the three sugars after 36 h in the pH range of
+6–6.5 (Bischoff et al. 2010 ). MXL-9 showed a 50 %
+decrease in OD after 24 h with 2.5–5 g furfural l
+-1and
+5-HMF, but was nevertheless able to ferment corn
+ﬁber hydrolysates without overliming to over 40 g
+lactic acid l-1.Bacillus XZL9, which was isolated
+speciﬁcally for L-lactic acid formation from xylose at
+50/C176C, generated 134 g L-lactic acid l-1in 218 h in a
+fed-batch fermentation, and about 74 g L-lactic acid
+l-1from corncob molasses (Wang et al. 2010b ).
+Lactate-generating fungi have also been the subject of
+strain improvement: subjecting R. oryzae to low
+energy ions led to mutants with increased metabolism
+of both xylose and glucose to 80 g lactic acid l-1in
+70 h, although the rate of xylose conversion remainedmuch slower than the rate of glucose conversion
+(Wang et al. 2009 ).
+Conclusions
+The microbial production of lactic acid is a maturing
+technology which has, for over a decade, been
+successfully commercialized by several companies.With a current production cost on the order of a dollar
+per kg (Posada et al. 2012 ), even the highest producing
+strains generate a culture having lactic acid valued atless than $0.25 per liter. At such a low value for the
+fermentation product, the cost of the medium and
+operating conditions become critical in achieving aneconomic target for lactic acid production. Signiﬁcant
+improvements have been achieved by isolating new
+microbes, or enhancing existing microbes for greatertolerance to high temperature and low pH in order to
+reduce contamination and operational costs. Never-
+theless, the practical goal of improving microbe
+characteristics should be accompanied by a funda-
+mental understanding of how cells response to suchenvironments (e.g., membrane integrity, lactate trans-
+port, enzyme stability). Bioinformatic tools, for
+example, though rarely applied for lactic acid produc-tion, could provide better enzymes and processes.
+With the consistent desirability for using inexpensiveagriculturally-generated residues, and reducing the
+cost of the medium, research should continue to
+provide scalable understanding into cellular responsesto such substrates. Research on bioreactor operational
+modes, such as nutrient-limited (N, P, etc.) fed-batch
+processes, could not only provide further insights intocellular responses to environmental conditions, but
+could make signiﬁcant improvements in lactic acid
+productivity, yield and ﬁnal concentration.
+References
+Adachi E, Torigoe M, Sugiyama M, Nikawa JI, Shimizu K
+(1998) Modiﬁcation of metabolic pathways of Saccharo-
+myces cerevisiae by the expression of lactate dehydroge-
+nase and deletion of pyruvate decarboxylase genes for the
+lactic acid fermentation at low pH value. J Ferment Bioeng
+86:284–289
+Adsul MG, Varma AJ, Gokhale DV (2006) Lactic acid pro-
+duction from waste sugarcane bagasse derived cellulose.
+Green Chem 9:58–62
+Adsul MG, Khire J, Bastawde K, Gokhale D (2007) Production
+of lactic acid from cellobiose and cellotriose by Lactoba-
+cillus delbrueckii mutant Uc-3. Appl Environ Microbiol
+73:5055–5057
+Al-Mahin A, Sugimoto S, Higashi C, Matsumoto S, Sonomoto
+K (2010) Improvement of multiple-stress tolerance and
+lactic acid production in Lactococcus lactis NZ9000 under
+conditions of thermal stress by heterologous expression ofEscherichia coli dnaK . Appl Environ Microbiol 76:4277–
+4285
+Bai DM, Li SZ, Liu ZL, Cui ZF (2008) Enhanced L-( ?)-lactic
+acid production by an adapted strain of Rhizopus oryzae
+using corncob hydrolysate. Appl Biochem Biotechnol
+144:79–85
+Bischoff KM, Liu S, Hughes SR, Rich JO (2010) Fermentation of
+corn ﬁber hydrolysate to lactic acid by the moderate ther-mophilic Bacillus coagulans . Biotechnol Lett 32:823–828
+Blomqvist J (2001) RIS Metropolis Monte Carlo studies of
+poly(lactic), poly(L, D-lactic) and polyglycolic acids.Polymer 42:3515–3521
+Branduardi P, Sauer M, De Gioia L, Zamella G, Valli M,
+Mattanovich D, Porro D (2006) Lactate production yield
+from engineered yeasts is dependent from the host back-ground, the lactate dehydrogenase source and the lactate
+export. Microb Cell Fact 5:4
+Carlson TL, Peters EM, Jr. (2002) Low pH lactic acid fermen-
+tation. US Patent 6,475,759, 5 Nov 2002
+Castro R, Neves AR, Fonseca LL, Pool WA, Kok J, Kuipers OP,
+Santos H (2009) Characterization of the individual glucose
+uptake systems of Lactococcus lactis : mannose-PTS, cel-
+lobiose-PTS and the novel GlcU permease. Mol Microbiol71:795–806
+Chaillou S, Bor YC, Batt CA, Postma PW, Pouwels PH (1998)
+Molecular cloning and functional expression in Lactoba-
+cillus plantarum 80 of xylT, encoding the D-xylose-968 Biotechnol Lett (2015) 37:955–972
+123H?symporter of Lactobacillus brevis . Appl Environ
+Microbiol 64:4720–4728
+Chaillou S, Pouwels PH, Postma PW (1999) Transport of
+D-xylose in Lactobacillus pentosus ,Lactobacillus casei ,
+andLactobacillus plantarum : evidence of a mechanism of
+facilitated diffusion via the phosphoenolpyruvate:mannosephosphotransferase system. J Bacteriol 181:4768–4773
+Chang DE, Jung HC, Rhee JS, Pan JG (1999) Homofermenta-
+tive production of D- or L-lactate in metabolically engi-
+neered Escherichia coli RR1. Appl Environ Microbiol
+65:1384–1389
+Chen XZ, Tian KM, Niu DD, Shen W, Algasan G, Singh S,
+Wang ZX (2014) Efﬁcient bioconversion of crude glycerol
+from biodiesel to optically pure D-lactate by metabolicallyengineered Escherichia coli . Green Chem 16:342–350
+Cui F, Li Y, Wan C (2011) Lactic acid production from corn
+stover using mixed cultures of Lactobacillus rhamnosus
+andLactobacillus brevis . Biores Technol 102:1831–1836
+Datta R, Henry M (2006) Lactic acid: recent advances in pro-
+ducts, process, and technologies: a review. J Chem Technol
+Biotechnol 81:1119–1129
+De Angelis M, Bini L, Pallini V, Cocconcelli PS, Gobbetti M
+(2001) The acid-stress response in Lactobacillus sanfran-
+ciscensis CB1. Microbiology 147:1863–1873
+de Jong SJ, van Eerdenbrugh B, van Nostrum CF, Kettenes-van
+de Bosch JJ, Hennink WE (2001) Physically crosslinkeddextran hydrogels stereocomplex formation of lactic acid
+oligomers: degradation and protein release behavior.
+J Contr Rel 71:261–275
+de Kok S, Nijkamp JF, Oud B, Roque FC, de Ridder D, Daran
+JM, Pronk JT, van Maris AJA (2012) Laboratory evolution
+of new lactate transporter gene in a jen1 Dmutant of Sac-
+charomyces cerevisiae and their identiﬁcation as ADY2
+alleles by whole-genome resequencing and transcriptome
+analysis. FEMS Yeast Res 12:359–374
+Dequin S, Barre P (1994) Mixed lactic acid-alcoholic fermen-
+tation by Saccharomyces cerevisiae expressing the Lacto-
+bacillus casei L(?)-LDH. Nature Biotechnol 12:173–177
+Dien BS, Nichols NN, Bothast RJ (2001) Recombinant Esche-
+richia coli engineered for production of L-lactic acid from
+hexose and pentose sugars. J Ind Microbiol Biotechnol27:259–264
+Dien BS, Nichols NN, Bothast RJ (2002) Fermentation of sugar
+mixtures using Escherichia coli catabolite repression
+mutants engineered for production of L-lactic acid. J Ind
+Microbiol Biotechnol 29:221–227
+Drumright RE, Gruber PR, Henton DE (2000) Polylactic acid
+technology. Adv Mater 12:1841–1846
+Eddington JM, Johnson KB, Liaw HJ, Rowe M, Yang Y (2007)
+Lactobacillus strains and use thereof in fermentation for
+L-lactic acid production. US Patent 7,300,787, 27 Nov2007
+Eiteman MA, Lee SA, Altman E (2008) A co-fermentation
+strategy to consume sugar mixtures effectively. J Biol Eng
+2:3
+Eiteman MA, Lee SA, Altman R, Altman E (2009) A substrate-
+selective co-fermentation strategy with Escherichia coli
+produces lactate by simultaneously consuming xylose andglucose. Biotechnol Bioeng 102:822–827
+Feng X, Ding Y, Xian M, Xu X, Zhang R, Zhao G (2014)
+Production of optically pure D-lactate from glycerol byengineered Klebsiella pneumoniae strains. Biores Technol
+172:269–275
+Gao C, Ma C, Xu P (2011) Biotechnological routes based on
+lactic acid production from biomass. Biotechnol Adv
+29:930–939
+Ge XY, Qian H, Zhang WG (2009) Improvement of L-lactic
+acid production from Jerusalem artichoke tubers by mixedculture of Aspergillus niger and
+Lactobacillus sp. Biores
+Technol 100:1872–1974
+Ge XY, Yuan J, Qin H, Zhang WG (2011) Improvement of
+L-lactic acid production by osmotic-tolerant mutant ofLactobacillus casei at high temperature. Appl Microbiol
+Biotechnol 89:73–78
+Gruber PR, Hall ES, Kolstad JJ, Iwen ML, Benson RD, Bor-
+chadt RL (1992) Continuous process for manufacture oflactide polymers with controlled optical purity. US Patent
+5,142,023, 25 Aug 1992
+Gruber PR, Kolstad JJ, Ryan CM, Hall ES, Eichen Conn RS
+(1996) Meta-stable amorphsus lactide polymer ﬁlm and
+process for manufacturing thereof. US Patent 5,484,881, 16
+Jan 1996
+Guo W, Jia W, Chen S (2010a) Performances of Lactobacillus
+brevis for producing lactic acid from hydrolysate of
+lignocellulosics. Appl Biochem Biotechnol 161:124–136
+Guo Y, Yan Q, Jiang Z, Teng C, Wang X (2010b) Efﬁcient
+production of lactic acid from sucrose and corncobhydrolysate by a newly isolated Rhizopus oryzae GY18.
+J Ind Microbiol Biotechnol 37:1137–1143
+Hause B, Rajgarhia V, Suominen P (2009) Methods and mate-
+rials for the production of L-lactic acid in yeast. US Patent
+7,534,597, 19 May 2009
+Heriban V, S ˇterdı´k E, Zalibera L, Matus ˇP (1993) Process and
+metabolic characteristics of Bacillus coagulans as a lactic
+acid producer. Lett Appl Microbiol 16:243–246
+Hofvendahl K, Hahn-Ha ¨gerdal B (2000) Factors affecting the
+fermentative lactic acid production from renewableresources. Enz Microb Technol 26:87–107
+Ikushima S, Fujii T, Kobayashi O, Yoshida S, Yoshida A (2009)
+Genetic engineering of Candida utilis yeast for efﬁcient
+production of L-lactic acid. Biosci Biotechnol Biochem73:1818–1824
+Ilme´n M, Koivuranta K, Ruohonen L, Suominen P, Penttila ¨M
+(2007) Efﬁcient production of l-lactic acid from xylose by
+Pichia stipitis . Appl Environ Microbiol 73:117–123
+Ishida N, Suzuki T, Tokuhiro K, Nagamori E, Onishi T, Saitoh
+S, Kitamoto K, Takahashi H (2006a) D-lactic acid pro-
+duction by metabolically engineered Saccharomyces ce-
+revisiae . J Biosci Bioeng 101:172–177
+Ishida N, Saitoh S, Onishi T, Tokuhiro K, Nagamore E, Ki-
+tamoto K, Takahashi H (2006b) The effect of pyruvate
+decarboxylase gene knockout in Saccharomyces cerevisiae
+on L-lactic acid production. Biosci Biotechnol Biochem70:1148–1153
+John RP, Nampoothiri KM (2008) Strain improvement of Lac-
+tobacillus delbrueckii using nitrous acid mutation for
+L-lactic acid production. World J Microbiol Biotechnol
+24:3105–3109
+John RP, Anisha GS, Nampoothiri KM, Pandey A (2009) Direct
+lactic acid fermentation: focus on simultaneous sacchari-ﬁcation and lactic acid production. Biotechnol Adv
+27:145–152Biotechnol Lett (2015) 37:955–972 969
+123Joshi DS, Singhvi MS, Khire JM, Gokhale DV (2010) Strain
+improvement of Lactobacillus lactis for D-lactic acid
+production. Biotechnol Lett 32:517–520
+Kato H, Shiwa Y, Oshima K, Machii M, Araya-Kojima T,
+Zendo Y, Shimizu-Kadota M, Hattori M, Sonomoto K,
+Yoshikawa H (2012) Complete genome sequence of Lac-
+tococcus lactis IO-1, a lactic acid bacterium that utilizes
+xylose and produces high levels of L-lactic acid. J Bacteriol
+194:2102–2103
+Kharas GB, Sanchez-Riera F, Severson DK (1994) Polymers of
+lactic acid. In: Mobley DP (ed) Plastics from microbes:microbial synthesis of polymers and polymer precursors.
+Hanser Publishers, Munich, pp 93–137
+Levering J, Musters MWJM, Bekker M, Bellomo D, Fiedler T,
+de Vos WM, Hugenholtz J, Kreikemeyer B, Kummer U,Teusing B (2012) Role of phosphate in the central metab-
+olism of two lactic acid bacteria—a comparative systems
+biology approach. FEBS J 279:1274–1290
+Liu Y, Gao W, Zhao X, Wang J, Garza E, Manow R, Zhou S
+(2014) Pilot scale demonstration of D-lactic acid fermen-
+tation facilitated by Ca(OH)
+2using a metabolically engi-
+neered Escherichia coli . Biores Technol 169:559–565
+Lunt J (1998) Large-scale production, properties and commer-
+cial applications of polylactic acid polymers. Polym
+Degrad Stabil 59:145–152
+Maas RHW, Springer J, Eggink G, Weusthuis RA (2008) Xylose
+metabolism in the fungus Rhizopus oryzae: effect of
+growth and respiration on L( ?)-lactic acid production.
+J Ind Microbiol Biotechnol 35:569–578
+Marques S, Santos JAL, Girio FM, Roseiro JC (2008) Lactic
+acid production from recycled paper sludge by simulta-
+neous sacchariﬁcation and fermentation. Biochem Eng J41:210–216
+Mazumdar S, Clomburg JM, Gonzalez R (2010) Escherichia
+colistrains engineered for homofermentative production of
+d-lactic acid from glycerol. Appl Environ Microbiol76:4327–4336
+Mazumdar S, Blankschien M, Clomburg JM, Gonzalez R (2013)
+Efﬁcient synthesis of L-lactic acid from glycerol by met-
+abolically engineered Escherichia coli . Microb Cell Fact
+12:7
+M i c h e l s o nT ,K a s kK ,J o ˜gi E, Talpsep E, Suitso I, Nurk A (2006)
+L(?)-Lactic acid producer Bacillus coagulans SIM-7 DSM
+14043 and its comparison with Lactobacillus delbrueckii ssp.
+lactis DSM 20073. Enzyme Microb Technol 39:861–867
+Miller M, Suominen P, Aristidou A, Hause BM, van Hoek P,
+Dundon, CA (2012) Lactic acid-producing yeast cellshaving nonfunctional L- or D-lactate:ferricytochrome Coxidoreducatease cells. US Patent 8,137,953, 20 Mar 2012
+Mimitsuda T, Sawai K, Kobayashi K, Tsukada T, Takeuchi N,
+Yamada K, Ogino H, Yonehara T (2014) Production ofD-lactic acid in a continuous membrane integrated fer-mentation reactor by genetically modiﬁed Saccharomyces
+cerevisiae : Enhancement in D-lactic acid carbon yield.
+J Biosci Bioeng (in press)
+Ohara H, Yahata M (1996) L-Lactic acid production by Bacillus
+sp. in anaerobic and aerobic culture. J Ferment Bioeng
+81:272–274
+Okano K, Yoshida S, Tanaka T, Ogino C, Fukuda H, Kondo A
+(2009a) Homo-D-lactic acid fermentation from arabinose
+by redirection of the phosphoketolase pathway to thepentose phosphate pathway in L-lactate dehydrogenase
+gene-deﬁcient Lactobacillus plantarum . Appl Environ
+Microbiol 75:5175–5178
+Okano K, Yoshida S, Yamada R, Tanaka T, Ogino C, Fukuda H,
+Kondo A (2009b) Improved production of homo-D-lactic
+acid via xylose fermentation by introduction of xyloseassimilation genes and redirection of the phosphoketolasepathway to the pentose phosphate pathway in L-lactate
+dehydrogenase gene-deﬁcient Lactobacillus plantarum .
+Appl Environ Microbiol 75:7858–7861
+Okano K, Tanaka T, Ogino C, Fukuda H, Kondo A (2010)
+Biotechnological production of enantiomeric pure lactic
+acid from renewable resources: recent achievements, per-
+spectives, and limits. Appl Microbiol Biotechnol85:413–423
+Okino S, Suda M, Fujijura K, Inui M, Yukawa H (2008) Pro-
+duction of D-lactic acid by Corynebacterium glutamicum
+under oxygen deprivation. Appl Microbiol Biotechnol78:449–454
+Osawa F, Fujii T, Nishida T, Tada N, Ohnishi T, Komeda T,
+Yoshida S (2009) Efﬁcient production of L-lactic acid byCrabtree-negative yeast Candida boidinii . Yeast
+26:285–296
+Otto R (2012) Method for the production of lactic acid or a salt
+thereof by simultaneous sacchariﬁcation and fermentationof starch. US Patent 8,119,376, 21 Feb 2012
+Ou MS, Ingram LO, Shanmugam KT (2011) L( ?)-lactic acid
+production from non-food carbohydrates by thermotolerant
+Bacillus coagulans . J Ind Microbiol Biotechnol
+38:599–605
+Ouyang J, Cai C, Chen H, Jiang T, Zheng Z (2012) Efﬁcient
+non-sterilized fermentation of biomass-derived xylose tolactic acid by a thermotolerant Bacillus coagulans NL01.
+Appl Biochem Biotechnol 168:2387–2397
+Pacheco A, Talaia G, Sa ´-Pessoa J, Bessa D, Gonc ¸alves MJ,
+Moreira R, Paiva S, Casal M, Queiro
+´s O (2012) Lactic acid
+production in Saccharomyces cerevisiae is modulated by
+expression of the monocarboxylate transporters Jen1 and
+Ady2. FEMS Yeast Res 12:375–381
+Paiva S, Devaux F, Barbosa S, Jacq C, Casal M (2004) Ady2p is
+essential for the acetate permease activity in the yeastSaccharomyces cerevisiae . Yeast 21:201–210
+Patel M, Ou M, Ingram LO, Shanmugam KT (2004) Fermen-
+tation of sugar cane bagasse hemicellulose hydrolysate toL(?)-lactic acid by a thermotolerant acidophilic Bacillus
+sp. Biotechnol Lett 26:865–868
+Patel MA, Ou MS, Harbrucker R, Aldrich HC, Buszko ML,
+Ingram LO, Shanmugam KT (2006) Isolation and charac-terization of acid-tolerant, thermophilic bacteria for
+effective fermentation of biomass-derived sugars to lactic
+acid. Appl Environ Microbiol 72:3228–3235
+Payot T, Chemaly Z, Fick M (1999) Lactic acid production by
+Bacillus coagulans —kinetic studies and optimization of
+culture medium for batch and continuous fermentations.
+Enz Microb Technol 24:191–199
+Porro D, Brambilla L, Ranzi BM, Martegani E, Alberghina L
+(1995) Development of metabolically engineered Saccha-
+romyces cerevisiae cells for the production of lactic acid.
+Biotechnol Prog 11:294–298
+Porro D, Bianchi M, Ranzi BM, Frontali L, Vai M, Winkler AA,
+Alberghina L (2006) Processes for producing lactic acid970 Biotechnol Lett (2015) 37:955–972
+123using yeast transformed with a gene encoding lactate
+dehydrogenase. US Patent 7,049,108, 23 May 2006
+Posada JA, Cardona CA, Gonzalez R (2012) Analysis of the
+production process of optically pure D-lactic acid from raw
+glycerol using engineered Escherichia coli strains. Appl
+Biochem Biotechnol 166:680–699
+Prior BA, Kilian SG, du Preez JC (1989) Fermentation of
+D-xylose by the yeasts Candida shehatae andPichia sti-
+pitis: prospects and Problems. Proc Biochem 24:21–32
+Pyle DJ, Garcia RA, Wen Z (2008) Producing docosahexaenoic
+acid (DHA)-rich algae from biodiesel-derived crude glyc-erol: effects of impurities on DHA production and algal
+biomass composition. J Agric Food Chem 56:3933–3939
+Qin J, Zhao B, Wang X, Wang L, Yu B, Ma Y, Ma C, Tang H,
+Sun J, Xu P (2009) Non-sterilizes fermentative productionof polymer-grade L-lactic acid by a newly isolated ther-
+mophilic strain Bacillus sp. 2–6. PLoS ONE 4:e4359
+Qin J, Wang X, Zheng Z, Ma C, Tang H, Xu P (2010) Production
+of L-lactic acid by a thermophilic Bacillus mutant using
+sodium hydroxide as neutralizing agent. Biores Technol
+101:7570–7576
+Rallu F, Gruss A, Ehlich SD, Maguin E (2000) Acid- and
+multistress-resistant mutants of Lactococcus lactis : iden-
+tiﬁcation of intracellular stress signals. Mol Microbiol
+35:517–528
+Rico J, Yebra MJ, Pe ´rez-Martı ´nez G, Deutscher J, Monedero V
+(2008) Analysis of ldhgenes in Lactobacillus casei BL23:
+role on lactic acid production. J Ind Microbiol Biotechnol
+35:579–586
+Rosenberg M, Rebros ˇM, Kris ˇtofı´kova´L, Mala ´tova´K (2005)
+High temperature lactic acid production by Bacillus co-
+agulans immobilized in LentiKats. Biotechnol Lett
+27:1943–1947
+Rossi DM, de Souze EA, Ayub MAZ (2013) Biodiesel residual
+glycerol metabolism by Klebsiella pneumoniae : pool of
+metabolites under anaerobiosis and oxygen limitation as afunction of feeding rates. Appl Biochem Biotechnol169:1952–1964
+Sangproo M, Polyiam P, Jantama SS, Kanchanatawee S, Jan-
+tama K (2012) Metabolic engineering of Klebsiella oxyt-
+ocaM5a1 to produce optically pure D-lactate in mineral
+salts medium. Biores Technol 119:191–198
+Sawaii H, Sawai K, Sonoki T, Hatahira S (2011) Yeast and
+method of production L-lactic acid. US Patent 8,071,357, 6Dec 2011
+Shimizu-Kadota M, Kato H, Shiwa Y, Oshima K, Machii M,
+Araya-Kojima T, Zendo T, Hattori M, Sonomoto K, Yos-hikawa H (2013) Genomic features of Lactococcus lactis
+IO-1, a lactic acid bacterium that utilizes xylose and pro-
+duces high levels of L-lactic acid. Biosci Biotechnol Bio-
+chem 77:1804–1808
+Shinkawa S, Okano K, Yoshida S, Tanaka T, Ogino C, Fukuda
+H, Kondo A (2011) Improved homo L-lactic acid fer-
+mentation from xylose by abolishment of the phosphoke-
+tolase pathway and enhancement of the pentose phosphatepathway in genetically modiﬁed xylose-assimilating Lac-
+tococcus lactis . Appl Microbiol Biotechnol 91:1537–1544
+Singhvi M, Joshi D, Varma A, Gokhale D (2010) D-(-)-Lactic
+acid production from cellobiose and cellulose by Lactoba-
+cillus lactis mutant RM2-24. Green Chem 12:1106–1109Song Z, Sun Y, Wei B, Xiu Z (2013) Two-step salting-out
+extraction of 1,3-propanediol and lactic acid from the fer-
+mentation broth of Klebsiella pneumoniae on biodiesel-
+derived crude glycerol. Eng Life Sci 13:487–495
+Sumiya M, Davis EO, Packman LC, McDonald TP, Henderson
+PJ (1995) Molecular genetics of a receptor protein forD-xylose, encoded by the gene xylF,i nEscherichia coli .
+Recept Chann 3:117–128
+Suominen P, Aristidou A, Pentilla M, Ilmen M, Ruohonen L,
+Koivuranta K, Roberg-Perez K (2012) Genetically modi-ﬁed yeast of the species Issatchenkia orientalis and closely
+relates species, and fermentation processes using same. US
+Patent 8,097,448, 17 Jan 2012
+Suzuki T, Sakamoto T, Sugiyama M, Ishida N, Kambe H, Obata
+S, Kaneko Y, Takahashi H, Harashima S (2013) Disruptionof multiple genes whose deletion causes lactic acid resis-
+tance improves lactic acid resistance and productivity in
+Saccharomyces cerevisiae . J Biosci Bioeng 115:467–474
+Tamakawa H, Ikushima S, Yoshida S (2012) Efﬁcient produc-
+tion of L-lactic acid from xylose by a recombinant Candida
+utilis strain. J Biosci Bioeng 113:73–75
+Tanaka K, Komiyama A, Sonomoto D, Ishizaki A, Hall SJ,
+Stanbury PF (2002) Two different pathways for D-xylose
+metabolism and the effect of xylose concentration on the
+yield coefﬁcient of L-lactate in mixed-acid fermentation bythe lactic acid bacterium Lactococcus lactis IO-1. Appl
+Microbiol Biotechnol 60:160–167
+Tanaka T, Hoshina M, Tanabe S, Sakai K, Ohtsubo S, Taniguchi
+M (2006) Production of D-lactic acid from defatted ricebran by simultaneous sacchariﬁcation and fermentation.
+Biores Technol 97:211–217
+Tashiro Y, Kanedo W, Sun Y, Shibata K, Inokuma K, Zendo T,
+Sonomoto K (2011) Continuous D-lactic acid productionby a novel thermotolerant Lactobacillus delbrueckii subsp.
+lactis QU 41. Appl Microbiol Biotechnol 89:1741–1750
+Tian K, Chen X, Shen W, Prior BA, Shi G, Singh S, Wang Z
+(2012) High-efﬁciency conversion of glycerol to D-lacticacid with metabolically engineered Escherichia coli Afri.
+J Biotechnol 11:4860–4867
+Tsuji H (2002) Autocatalytic hydrolysis of amorphous-made
+polylactides: effects of L-lactide content, tacticity, andenantiomeric polymer blending. Polymer 43:1789–1796
+Tsuji H, Fukui I (2003) Enhanced thermal stability of
+poly(lactide)s in the melt by enantiomeric polymerblending. Polymer 44:2891–2896
+Walton SL, Bischoff KM, van Heiningen ARP, van Walsum GP
+(2010) Production of lactic acid from hemicelluloseextracts by Bacillus coagulans MXL-9. J Ind Microbiol
+Biotechnol 37:823–830
+Wang Y, Li Y, Pei X, Yu L, Feng Y (2007) Genome-shufﬂing
+improved acid tolerance and L-lactic acid volumetricproductivity in Lactobacillus rhamnosus . J Biotechnol
+129:510–515
+Wang P, Li J, Wang L, Tang ML, Yu ZL, Zheng ZM (2009)
+L(?)-Lactic acid production by co-fermentation of glucose
+and xylose with Rhizopus oryzae obtained by low-energy
+ion beam irradiation. J Ind Microbiol Biotechnol
+36:1363–1368
+Wang L, Zhao B, Liu B, Yang C, Yu B, Li Q, Ma C, Xu P, Ma Y
+(2010a) Efﬁcient production of L-lactic acid from cassavaBiotechnol Lett (2015) 37:955–972 971
+123powder by Lactobacillus rhamnosus . Biores Technol
+101:7895–7901
+Wang L, Zhao B, Liu B, Yu B, Ma C, Su F, Hua D, Li Q, Ma Y,
+Xu P (2010b) Efﬁcient production of L-lactic acid from
+corncob molasses, a waste by-product in xylitol produc-
+tion, by a newly isolated xylose utilizing Bacillus strain.
+Biores Technol 101:7908–7915
+Wang Q, Ingram LO, Shanmugam KT (2011) Evolution of
+D-lactate dehydrogenase activity from glycerol dehydro-
+genase and its utility for D-lactate production from ligno-cellulose. Proc. Nat. Acad Sci USA 108:18920–18925
+Wang Y, Tian T, Zhao J, Wang J, Yan T, Xu L, Liu Z, Garza E,
+Iverson A, Manow R, Finan C, Zhou S (2012) Homofer-
+mentative production of D-lactic acid from sucrose by ametabolically engineered Escherichia coli . Biotechnol Lett
+34:2069–2075
+Wang Y, Li K, Huang F, Wang J, Zhao J, Zhao X, Garza E,
+Manow R, Grayburn S, Zhou S (2013) Engineering andadaptive evolution of Escherichia coli W for L-lactic acid
+fermentation from molasses and corn steep liquor without
+additional nutrients. Biores Technol 148:394–400
+Wehrenberg RH (1981) Lactic-acid polymers—strong,
+degradable thermoplastics—research at Battelle proves the
+value of limited-lifetime plastics made from renewable
+resources. Mater Eng 94:63–66
+Wu C, Zhang J, Chen W, Wang M, Du G, Chen J (2012) A
+combined physiological and proteomic approach to reveal
+lactic-acid-induced alterations in Lactobacillus casei
+Zhang and its mutant with enhanced lactic acid tolerance.Appl Microbiol Biotechnol 93:707–722
+Wu X, Altman R, Eiteman MA, Altman E (2013a) Effect of
+overexpressing nhaA andnhaR on sodium tolerance and
+lactate production in Escherichia coli . J Biol Eng 7:3
+Wu C, Zhang J, Du G, Chen J (2013b) Heterologous expression
+Lactobacillus casei RecO improved the multiple-stress
+tolerance and lactic acid production in Lactococcus lactis
+NZ9000 during salt stress. Biores Technol 143:238–241
+Wu X, Altman R, Eiteman MA, Altman E (2014) Adaptation of
+Escherichia coli to elevated sodium concentrations
+increases cation tolerance and enables greater lactic acidproduction. Appl Environ Microbiol 80:2880–2888
+Ya´n˜ez R, Moldes AB, Alonso JL, Parajo ´JC (2003) Production
+of D-lactic acid from cellulose by simultaneous sacchari-
+ﬁcation and fermentation using Lactobacillus coryneformis
+subsp. torquens . Biotechnol Lett 25:1161–1164
+Ya´n˜ez R, Alonso JL, Parajo ´JC (2005) D-lactic acid production
+from waste cardboard. J Chem Technol Biotechnol80:76–84
+Ye L, Zhao H, Li Z, Wu JC (2013a) Improved acid tolerance of
+Lactobacillus pentosus by error-prone whole genome
+ampliﬁcation. Biores Technol 135:459–463Ye L, Zhou X, Bin Hudari MS, Li Z, Wu JC (2013b) Highly
+efﬁcient production of L-lactic acid from xylose by newly
+isolated Bacillus coagulans C106. Biores Technol
+132:38–44
+Yoshida S, Okano K, Tanaka T, Ogino C, Kondo A (2011)
+Homo-D-lactic acid production from mixed sugars usingxylose-assimilating operon-integrated Lactobacillus plan-
+tarum . Appl Microbiol Biotechnol 92:67–76
+Yu L, Pei X, Lei T, Wang Y, Feng Y (2008) Genome shufﬂing
+enhanced L-lactic acid production by improving glucosetolerance of Lactobacillus rhamnosus . J Biotechnol
+134:154–159
+Zhang ZY, Jin B, Kelly JM (2007) Production of lactic acid from
+renewable materials by Rhizopus fungi. Biochem Eng J
+35:251–263
+Zhao B, Wang L, Ma C, Yang C, Xu P, Ma Y (2010) Repeated
+open fermentative production of optically pure L-lacticacid using a thermophilic Bacillus sp. strain. Biores
+Technol 101:6496–6498
+Zhao J, Xu L, Wang Y, Zhao X, Wang J, Garza E, Manow R,
+Zhou S (2013) Homofermentative production of opticallypure L-lactic acid from xylose by genetically engineeredEscherichia coli B. Microb Cell Fact 12:57
+Zheng H, Gong J, Chen T, Chen X, Zhao X (2010) Strain
+improvement of Sporolactobacillus inulinus ATCC 15538
+for acid tolerance and production of D-lactic acid by gen-ome shufﬂing. Appl Microbiol Biotechnol 85:1541–1549
+Zheng Z, Sheng B, Ma C, Zhang H, Gao C, Su F, Xu P (2012)
+Relative catalytic efﬁciency of ldhL- and ldhD -encoded
+products is crucial for optical purity of lactic acid produced
+by Lactobacillus strains. Appl Environ Microbiol
+78:3480–3483
+Zhou Y, Dominguez JM, Cao N, Du J, Tsao GT (1999) Opti-
+mization of L-lactic acid production from glucose by
+Rhizopus oryzae ATCC 52311. Appl Biochem Biotechnol
+77–79:401–407
+Zhou SD, Causey TB, Hasona A, Shanmugam KT, Ingram LO
+(2003) Production of optically pure D-lactic acid in mineral
+salts medium by metabolically engineered Escherichia coli
+W3110. Appl Environ Microbiol 69:399–407
+Zhou SD, Shanmugam KT, Ingram LO (2004) Functional
+replacement of the Escherichia coli D-(-)lactate dehydro-
+genase gene ( ldhA ) with the L-( ?)-lactate dehydrogenase
+gene ( ldhL) from Pediococcus acidilactici . Appl Environ
+Microbiol 69:2237–2244
+Zhu Y, Eiteman MA, Dewitt K, Altman E (2007) Homolactate
+fermentation by metabolically engineered Escherichia coli
+strains. Appl Environ Microbiol 73:456–464972 Biotechnol Lett (2015) 37:955–972
+123

@@ -1,0 +1,2584 @@
+Research review paper
+Recent advances in lactic acid production by microbial
+fermentation processes
+Mohamed Ali Abdel-Rahmana,b, Yukihiro Tashiroc,d, Kenji Sonomotoa,e,⁎
+aLaboratory of Microbial Technology, Division of Applied Molecular Microbiology and Biomass Chemistry, Department of Bioscience and Biotechnology, Faculty of Agriculture,
+Graduate School, Kyushu University, 6-10-1 Hakozaki, Higashi-ku, Fukuoka 812-8581, Japan
+bBotany and Microbiology Department, Faculty of Science (Boys), Al-Azhar University, PN:11884, Nasr City, Cairo, Egypt
+cInstitute of Advanced Study, Kyushu University, 6-10-1 Hakozaki, Higashi-ku, Fukuoka 812-8581, Japan
+dLaboratory of Soil Microbiology, Division of Applied Molecular Microbiology and Biomass Chemistry, Department of Bioscience and Biotechnology, Faculty of Agriculture, Graduate School,
+Kyushu University, 6-10-1 Hakozaki, Higashi-ku, Fukuoka 812-8581, Japan
+eLaboratory of Functional Food Design, Department of Functional Metabolic Design, Bio-Architecture Center, Kyushu University, 6-10-1 Hakozaki, Higashi-ku, Fukuoka 812-8581, Japan
+abstract article info
+Available online 24 April 2013
+Keywords:
+Lactic acid production
+Lactic acid producersRaw materialFermentation modesHigh cell densityCell recyclingFermentative production of optically pure lactic acid has roused interest among researchers in recent years due to
+its high potential for applications in a wide range of ﬁelds. More speci ﬁcally, the sharp increase in manufacturing
+of biodegradable polylactic acid (PLA) materials, green alternatives to petroleum-derived plastics, has signi ﬁcant-
+ly increased the global interest in lactic acid production. However, higher production costs have hindered thelarge-scale application of PLA because of the high price of lactic acid. Therefore, reduction of lactic acid productioncost through utilization of inexpensive substrates and improvement of lactic acid production and productivity
+has become an important goal. Various methods have been employed for enhanced lactic acid production, includ-
+ing several bioprocess techniques facilitated by wild-type and/or engineered microbes. In this review, we willdiscuss lactic acid producers with relation to their fermentation characteristics and metabolism. Inexpensive fer-
+mentative substrates, such as dairy products, food and agro-industrial wastes, glycerol, and algal biomass alter-
+natives to costly pure sugars and food crops are introduced. The operational modes and fermentation methodsthat have been recently reported to improve lactic acid production in terms of concentrations, yields, and produc-tivities are summarized and compared. High cell density fermentation through immobilization and
+cell-recycling techniques are also a ddressed. Finally, advances in reco very processes and concluding re-
+marks on the future outlook of lactic acid production are presented.
+© 2013 Elsevier Inc. All rights reserved.
+Contents
+1. Introduction ............................................................. 8 7 8
+2. Microbial lactic acid producers ..................................................... 8 7 9
+2.1. Bacteria ............................................................ 8 7 9
+2.1.1. Lactic acid bacteria (LAB) ................................................ 8 7 9
+2.1.2. Bacillus strains ..................................................... 8 7 9
+2.1.3. E. coli ......................................................... 8 8 1
+2.1.4. C. glutamicum ..................................................... 8 8 1
+2.2. Fungi ............................................................. 8 8 1
+2.3. Yeasts ............................................................. 8 8 1
+2.4. Microalgae and cyanobacteria .................................................. 8 8 2
+3. Alternative fermentation substrates for lactic acid production ...................................... 8 8 2
+3.1. Starchy materials, lignocellulosic biomass, agro-industrial and food wastes ............................ 8 8 2
+3.2. Dairy products ......................................................... 8 8 2
+3.3. Glycerol ............................................................ 8 8 3
+3.4. Microalgae ........................................................... 8 8 4Biotechnology Advances 31 (2013) 877– 902
+⁎Corresponding author at: Laboratory of Microbial Technology, Division of Applied Molecular Microbiology and Biomass Chemistry, Department of Bioscience and Biotechnology,
+Faculty of Agriculture, Graduate School, Kyushu University, 6-10-1 Hakozaki, Higashi-ku, Fukuoka 812-8581, Japan. Tel./fax: +81 92 642 3019.
+E-mail address: sonomoto@agr.kyushu-u.ac.jp (K. Sonomoto).
+0734-9750/$ –see front matter © 2013 Elsevier Inc. All rights reserved.
+http://dx.doi.org/10.1016/j.biotechadv.2013.04.002
+Contents lists available at ScienceDirect
+Biotechnology Advances
+journal homepage: www.elsevier.com/locate/biotechadv
+4. Advances in fermentation processes for enhanced lactic acid production .................................. 8 8 4
+4.1. Batch fermentation ....................................................... 8 8 4
+4.1.1. Fermentation methods ................................................. 8 8 4
+4.1.2. Factors affecting batch fermentation ef ﬁciency ...................................... 8 8 5
+4.2. Fed-batch fermentation ..................................................... 8 8 7
+4.3. Repeated fermentation ..................................................... 8 8 7
+4.4. Conventional continuous fermentation .............................................. 8 9 1
+5. Improved lactic acid fermentation with high cell density ......................................... 8 9 1
+5.1. Cell immobilization ....................................................... 8 9 3
+5.1.1. Packed-bed reactors (PBRs) ............................................... 8 9 4
+5.1.2. Continuous ﬂow stirred tank reactors (CSTR) ....................................... 8 9 4
+5.1.3. Fibrous-bed reactor ................................................... 8 9 4
+5.1.4. Fluidized-bed reactors (FBRs) .............................................. 8 9 6
+5.2. Membrane cell recycling ..................................................... 8 9 6
+6. Advances in lactic acid recovery processes ................................................ 8 9 7
+7. Concluding remarks .......................................................... 8 9 7
+Acknowledgments ............................................................. 8 9 7
+References ................................................................. 8 9 7
+1. Introduction
+In recent years, concerns over the microbial production of com-
+mercially valuable products have been growing. This is mainly attrib-
+uted to escalating global energy and environmental problems, which
+have stimulated researchers worldwide to develop methods for pro-ducing almost everything through green methods. Of these, lactic
+acid is a most important product that has attracted a great deal of at-
+tention due to its widespread applications, mainly in food, chemical,
+cosmetic, and pharmaceutical industries. Also, it has great potential
+for the production of biodegradable and biocompatible polylactic
+acid (PLA) polymers that drive the current market expansion for lac-
+tic acid. PLA products can be used in a wide variety of applications
+ranging from packaging to ﬁbers and foams. In comparison with pet-
+rochemical plastics, PLA production is considered a relatively imma-ture technology at the industrial scale. This is mainly attributed to
+the high production cost of lactic acid, which is the starting raw ma-
+terial for PLA. Lactic acid production can be achieved either by chem-
+ical synthesis routes or fermentative production routes (lactic acid
+fermentation). By the chemical synthesis route, a racemic mixture
+of
+DL-lactic acid is usually produced. On the other hand, fermentative
+production routes offer advantages of utilization of cheap renewablesubstrates, low production temperatures, low energy consumption,
+and production of optically pure
+D-o r L-lactic acid when the appropri-
+ate microorganism is selected as the lactic acid producer. Presently,almost all lactic acid produced worldwide comes from the fermenta-
+tive production route ( Abdel-Rahman et al., 2011c ).
+The demand for lactic acid has been estimated to grow yearly at 5 –8%
+(Yadav et al., 2011 ). The annual world market for lactic acid production
+was expected to reach 259,000 metric tons by the year 2012 ( Martinez
+et al., 2013 ), and is forecasted to reach 367,300 metric tons by the year
+2017. The major manufacturers of fermentative lactic acid productionare NatureWorks LLC, which had been wholly owned by Cargill
+Incorporated (USA), Purac (The Netherlands), Galactic (Belgium), and
+several Chinese companies ( John et al., 2007b). In late 2002, NatureWorks
+LLC started the world's ﬁrst full-scale PLA plant in Blair, Nebraska, USA,
+capable of producing 140,000 metric tons per year. NatureWorks LLC
+entered into a joint venture between Cargill and Teijin Limited of
+Japan to become 50 –50 partners in December 2007. This company has
+done extensive work on the development of lactic acid-based polymers,
+which are of two types —the polydilactide-based resins (NatureWorks
+P L A ® ) ,u s e df o rp l a s t i c so rp a c k a g i n g ,a n dt h eI n g e o ™polydilactide-
+based ﬁbers that are used in specialty textiles and ﬁbers. PLA resins
+have been approved for all food-type applications by the US Food andDrug Administration and European regulatory authorities. Presently,NatureWorks LLC is the leader in PLA technology, and has over 95% of
+the current PLA worldwide production capacity. Other manufacturers in-
+volved in PLA production such as Toyobo, Dai Nippon Printing Co., Ltd.,
+Mitsui Chemicals, Inc., Shimadzu Corporation, NEC Corporation, Toyota
+Motor Corporation (Japan), Purac Biomaterials, Hycail (The Netherlands),
+Futerro and Galactic (Belgium), Cereplast Inc. (USA), FKuR PlasticsCorporation, Biomer Technology Ltd, Stanelco RF Technologies, Uhde
+Inventa-Fischer (Germany), and Hisun Industries Co. Ltd and
+Snamprogetti (China) account for the remaining capacity ( Jamshidian
+et al., 2010 ).
+Although the demand for PLA is increasing, its current production
+capacity of only 450,000 metric tons per year is dwarfed by the200 million metric tons per year of total plastics produced ( Okano et
+al., 2010 ), which results from the high manufacturing cost of raw mate-
+rial, that is, lactic acid monomer as mentioned above. Furthermore, the
+primary costs associated with lactic acid production include the fer-
+mentative substrates of nutrients, expensive nitrogen sources and
+sugars required for the cell growth and the fermentation along with
+the downstream recovery and puri ﬁcation process. In addition, to pro-
+duce high concentration of lactic acid, fermentation processes requirethe pH control in the range of ca. 5 –7 using neutralizing agents during
+fermentation, which also increases the costs in terms of acidulation ofthe fermentation broth to regenerate free lactic acid followed by down-
+stream steps. To meet recent applications of lactic acid for PLA and to be
+commercially viable, overall lactic acid production costs should be at or
+below $ 0.8 per kilogram of lactic acid, as the selling price of PLA must
+decrease by roughly half of its present price to compete with fossil-
+fuel-based plastics ( Okano et al., 2010 ). To this end, a strain for the
+industrial lactic acid production should produce more than 100 g/L oflactic acid with a high yield at near maximal theoretical value, a high op-
+tical purity of lactic acid (>99%), and a high productivity in cheap media
+(Litchﬁeld, 2009 ). In addition, the fermentation process improvements
+will lead to enhanced operating ef ﬁciency and yields of lactic acid pro-
+duction. Therefore, improvements and engineering of new effective fer-
+mentation processes are important to ﬁt the worldwide requirements.
+The ef ﬁciency of lactic acid fermentation processes mainly depends
+on the lactic acid producer, fermentation substrate, and operational
+modes. Lactic acid can be produced from renewable materials by vari-
+ous microbial species, including bacteria, fungi, yeast, microalgae, and
+cy
+anobacteria. Selection of the strain is of great importance, particularly
+in terms of high optical purity of lactic acid and high production capac-ity. A major concern in lactic acid fermentation is to reduce the cost of
+raw materials and improve the production ef ﬁcacy. Pure sugars and
+food crops have been partially replaced by nonfood carbohydrates inthe fermentation industry in recent years. The use of various low-cost878 M.A. Abdel-Rahman et al. / Biotechnology Advances 31 (2013) 877 –902raw materials has been extensively investigated ( Abdel-Rahman et al.,
+2011c; Budhavaram and Fan, 2009; Laopaiboon et al., 2010;
+Mazumdar et al., 2010; Talukder et al., 2012 ). Another method that re-
+duces the cost of lactic acid production is to improve the production,productivity and yield of lactic acid fermentation. Although batch fer-
+mentation is the most widely used in lactic acid production, it suffers
+from low productivity due to long fermentation times and low cell con-centrations. In addition, substrate and end product inhibition are also
+considered major bottlenecks of this fermentation manner. To over-
+come such problems, fed-batch fermentation, repeated fermentation,
+and continuous fermentation have been investigated. However, each
+of these methods has some limitations, and great efforts have been
+made to further develop these processes to achieve ef ﬁcient lactic acid
+production. Fermentation methods using high cell densities (HCDs)via immobilization or cell recycling have been shown to achieve high
+lactic acid productivity. Also, advances in integrated-membrane fer-
+mentation reactor systems are a promising technology for future
+industrial lactic acid production.
+This paper reviews the characteristics of lactic acid producers,
+their abilities to utilize different substrates, and the metabolic path-
+ways involved in the production of lactic acid. Alternative substrates
+to pure sugars and food crops that have been recently used for lactic
+acid production are also pointed out. Recent advances in process
+engineering, methods for lactic acid production, the limitations of each
+method, and how to overcome these limitations are also discussed.
+2. Microbial lactic acid producers
+Lactic acid can be produced by several microorganisms classi ﬁed
+into bacteria, fungi, yeast, cyanobacteria, and algae. Each biocatalyst
+has achieved one or more improvements over the others, such as a
+broader substrate range, improved yield and productivity, reduction of
+nutritional requirements, or improved optical purity of lactic acid. The
+use of mixed strains in fermentation may provide useful combinations
+of metabolic pathways for the utilization of complex materials and con-
+sequently enhance lactic acid production ( Cui et al., 2011; Kleerebezem
+and van Loosdrecht, 2007; Nancib et al., 2009; Taniguchi et al., 2004 ).
+The genetic-engineering approaches have been exploited in a big way
+for the improvement of lactic acid yield and optical purity by various
+microbial producers. The reference by Okano et al. (2010) provides
+an extensive review of reports on the subject of geneticallyengineered-microorganisms for lactic acid production. In this section,
+the characteristics of lactic acid producers and their applicability for
+fermentation processes are discussed.
+2.1. Bacteria
+Lactic acid-producing bacteria include wild-type and engineered
+producers. These organisms can be divided into 4 main producers ,
+namely, lactic acid bacteria (LAB), Bacillus strains, Escherichia coli ,a n d
+Corynebacterium glutamicum . In general, bacterial lactic acid fermenta-
+tion suffers from several limitations, including (i) production of both
+L-a n d D-lactic acid via L-lactate dehydrogenase ( L-LDH) and D-lactate
+dehydrogenase ( D-LDH), respectively; (ii) low yield due to byproduct
+formation; (iii) use of nutritionally rich medium; and (iv) high risk of
+bacteriophage infection that results in cell lysis and subsequent cessa-
+tion of lactic acid production ( Budhavaram and Fan, 2009; Litch ﬁeld,
+2009; Singh et al., 2006 ). Various studies have investigated methods
+to overcome these problems in the ﬁeld of metabolic engineering, i.e.,
+(i) improvement of optical purity via the deletion of either D-o r L-LDH
+genes ( Kyla-Nikkila et al., 2000 ); (ii) increased lactic acid yields through
+reduction of byproduct levels by the deletion of genes encoding pyru-vate formate lyase (formic acid production), alcohol dehydrogenase
+(ethanol production), and/or acetate kinase (acetic acid production)
+(Zhou et al., 2003b ); (iii) development of bacterial strains, e.g., E. coli ,
+producing lactic acid on chemically de ﬁned media ( Zhou et al., 2003a );and (iv) strain improvements for blocking steps in phage life cycle(Allison and Klaenhammer, 1998; Forde and Fitzgerald, 1999 ). Usage
+of mixed strains and/or development of phage-resistant strains aresometimes necessary to prevent bacteriophage infection ( Hassan and
+Frank, 2001 ).
+2.1.1. Lactic acid bacteria (LAB)
+LAB constitute a diverse group of Gram-positive microorganisms
+that exist within plants, meat, and dairy products and can produce
+lactic acid as an anaerobic product of glycolysis with high yield and
+high productivity. The optimal growth conditions vary depending
+on the producers, since these bacteria can grow in the pH range of
+3.5–10.0 and temperature of 5 –45 °C.
+The major pathways for the metabolism of hexoses and pentoses by
+LAB are indicated in Fig. 1 . LAB are grouped as either homofermentative
+or heterofermentative based on the fermentation end product asdescribed in Table 1. Homofermentative LAB possess aldolase en-
+zymes and produce lactic acid as the major end product. They areof interest for commercial scale lactic acid production. On the
+other hand, heterofermentative LAB produce byproducts besides
+lactic acid and, therefore, the maximal yield of lactic acid to glucose
+reaches only 0.5 g/g or 1.0 mol/mol ( Abdel-Rahman et al., 2011c ).
+Heterofermentative LAB use the alternate pentose monophosphate
+pathway, converting 6-carbon sugars (hexoses) to 5-carbon sugars
+(pentoses) and carbon dioxide catalyzed by several enzymes
+(Fig. 1 ). Then, the resulting pentose is cleaved to glyceraldehyde
+3-phosphate and acetyl phosphate by phosphoketolase. Mostheterofermentative LAB strains convert the pentose sugars to lactic
+acid and byproducts (e.g., acetic acid ) through phosphoketolase pathways
+with a maximum lactic acid yield at 0.6 g lactic acid per gram of pentoses.Recently, Enterococcus mundtii QU 25 ( Abdel-Rahman et al., 2011a )a n d
+engineered Lactobacillus plantarum (Okano et al., 2009a, 2009b )w e r e
+reported to metabolize pentose to lactic acid homofermentatively.
+Most LAB, including Lactobacilli , are considered to be safe for
+industrial lactic acid production because they have had a long history
+of industrial-scale production without adverse health effects on either
+consumers or production workers. Commercially important LAB strains,
+such as Lactobacillus strains, have been particularly useful due to their
+high acid tolerance and their ability to be engineered for selective pro-duction of
+D-or L-lactic acid ( Benthin and Villadsen, 1995; Kyla-Nikkila
+et al., 2000; Lapierre et al., 1999 ). On the other hand, most LAB species
+require complex nutrients, including amino acids, peptides, nucleotides,
+and vitamins, for their growth because they lack many biosynthetic ca-
+pabilities, which hampers the recovery of lactic acid and increases pro-
+duction costs ( Hofvendahl and Hahn-Hägerdal, 2000; Lapierre et al.,
+1999; Litch ﬁeld, 2009; Reddy et al., 2008; Singh et al., 2006 ). In addition,
+the low fermentation temperature for lactic acid production required by
+most LAB strains not only increases contamination risks, but also ham-
+pers its use in the simultaneous sacchari ﬁcation and fermentation (SSF)
+of lignocellulosic biomass using hydrolytic enzymes at higher optimaltemperatures for sacchari ﬁcation than that required for cell growth of
+LAB strains.
+Alkaliphilic or thermotolerant LAB strains may be promising pro-
+ducers of lactic acid due to their tolerance to high pH temperature levelsthat would minimize contamination problems during processing(Calabia et al., 2011; Liu et al., 2010 ).Calabia et al. (2011) isolated an
+alkaliphilic Halolactibacillus halophilus from a marine environment
+that produced 65.8 g/L of
+L-lactic acid at pH 9.0. Although lactic acid
+production by LAB is very ef ﬁcient, further improvements in the strain
+(especially, high acid tolerance) and the process can help to make
+it more cost-competitive with petroleum-based polymers for PLA
+production.
+2.1.2. Bacillus strains
+Lactic acid production has also been reported by some Bacillus
+species, including Bacillus coagulans ,Bacillus stearothermophilus ,Bacillus879 M.A. Abdel-Rahman et al. / Biotechnology Advances 31 (2013) 877 –902licheniformis ,Bacillus subtilis ,a n d Bacillus sp. In comparison to LAB,
+Bacillus spp. have several potential improvements to lactic acid produc-
+tion that may help for the reduction of costs in lactic acid fermentation
+as follows: (i) Bacillus ssp. can grow and produce lactic acid by using
+mineral salt medium with few nitrogen sources instead of expensivemedia ( Q. Wang et al., 2011 ); (ii) alkaliphilic strains such as Bacillus
+sp. WL-S20, isolated by Meng et al. (2012) ,p r o d u c e d
+L-lactic acid at a
+concentration of 225 g/L and a yield of 0.993 g/g in fed-batch fermenta-
+tion at pH 9.0, which would reduce a risk of the contamination during
+fermentation; and (iii) Bacillus ssp. can produce lactic acid in thermal
+fermentation ( ≥50 °C). These characteristics should give Bacillus spp.several advantages over other bacteria. First, costs associated with thecoolant water after medium sterilization would decrease. In addi-
+tion, use of Bacillus spp. would enable the SSF of lignocellulosic bio-
+mass with cellulase at an optimum temperature ( Budhavaram and
+Fan, 2009; Maas et al., 2008a; Ou et al., 2011; Patel et al., 2006 )a n de n -
+able open fermentation using nonsterilized media at higher tempera-tures than 40 °C ( Qin et al., 2009; Zhao et al., 2010b ). Open
+fermentation has been reported using thermotolerant Bacillus strains, in-
+cluding B. coagulans (Ou et al., 2009, 2011; Patel et al., 2006; Rosenberg et
+al., 2005; Sakai and Ezaki, 2006 ),B. licheniformis (Wang et al., 2011b; Sakai
+and Yamanami, 2006), and Bacillus s t r a i n s3 6 D 1a n d2 - 6( Patel et al.,Cellooligosaccharides
+GlucoseATP ADP
+Glucose 6-P 6-P-gluconateCO 2Ribulose 5-P
+Xylulose 5-P
+Pi
+Acetyl-CoA
+NAD+NADH
+Acetaldehyde
+NAD+NADH
+Ethanol Acetic acidATPADPAcetyl-P
+CoARibuloseATP ADP
+XyluloseArabinose
+Xylose
+Ribose 5-P
+Sedoheptulose 7-P
+Erythrose 4-PGAP
+Fructose 6-PXylulose 5-P Xylulose 5-P
+GAP
+GAPFructose 1,6-PATP
+ADP
+Dihydroxyacetone
+phosphate
+2ATP
+Pyruvate
+NAD+NADH
+Lactic acidNAD+2ADP
+NADHATP ADP
+H2O2ATP
+Pyruvate
+NAD+
+Lactic acidNADHNAD+2ADP
+NADH
+H2O(1) (3)(4)(6)
+(7)
+(8) (9)
+(11) (12)
+(13)
+(14)(16)
+(17)
+(18)
+(19)
+(20)
+PK Pathway 
+(Heterolactic acid metabolism)PP/Glycolytic Pathway
+(Homolactic acid metabolism)(15)(16)
+(15)NAD(P)+NAD(P)H Cellobiose
+-glucosidase
+GalactoseGlucose 1-P
+Galactose 1-P
+LactosePermeaseATP ADP
+Lactose 6-PLac- PTS
+Galactose 6-P Tagatose 6-P Tagatose 1,6-PATP ADPMannose
+Mannose 6-P
+(22)PEP
+Pyr(21)(10)
+PyrPEP(2)Maltose
+Gal- PTS(5)
+(27) (28) (29)6-P-glucono-
+1,5-lactonePhosphoglu-
+conolactonase
+(24)
+(25)
+(26)(23)
+Galactose 1-P 
+uridyltransfer aseExo- -(1 4)-glucanase
+Fig. 1. Metabolic pathways for lactic acid production from various sugars by LAB. En zymes: (1) hexokinase; (2) glucose 6-phosphate isomerase; (3) glucose 6 -phosphate dehydrogenase; (4)
+6-phosphogluconate dehydrogenase; (5) arabinose isomerase; (6) ribulokinase; (7) ribulose 5-phosphate 3-epimerase; (8) xylose isomerase; (9) x ylulokinase; (10) phosphoketolase; (11)
+acetate kinase; (12) phosphotransacetylase; (13) aldehyde dehydrogenase; (14) alcohol dehydrogenase; (15) lactate dehydrogenase; (16) transke tolase; (17) transaldolase;
+(18) 6-phosphofructokinase; (19) fructose bisphosphate aldolase; (20) t riosephosphate isomerase; (21) mann ose phosphotransferase system; (22 ) phosphomannose isomerase (23) maltose
+phosphorylase; (24) phosphoglucomutase ; (25) β-galactosidase; (26) phospho- β-galactosidase; (27) galactose 6-phosphate isomerase ; (28) tagatose 6-phosphate kinase; and (29) tagatose
+1,6-diphosphate aldolase. Solid lines indicate the homofermentative pathway. Thick-solid line s and dashed lines indicate PP/glycolytic pathway and PK pathway, respectively. Lac-PTS:
+phosphoenolpyruvate-lactos e phosphotransferase system.
+Table 1
+Homoferementative and heterofermentative lactic acid bacteria.
+Characterization Homofermentative LAB Heterofermentative LAB
+Products Lactic acid Lactic acid, ethanol, diacetyl, formate, acetoin or acetic acid,
+and carbon dioxide
+Metabolic pathways Hexose:Embden –Meyerhof pathway
+Pentose:pentose phosphate pathwayHexose: phosphogluconate and phosphoketolase pathway
+Pentose:phosphoketolase pathway
+Theoretical yield of lactic acid to sugars Hexose: 1.0 g/g (2.0 mol/mol)
+Pentose: 1.0 g/g (1.67 mol/mol)Hexose: 0.5 g/g (1.0 mol/mol)Pentose: 0.6 g/g (1.0 mol/mol)
+Genera Lactococcus ,Streptococcus ,Pediococcus ,
+Enterococcus , some Lactobacillu sLeuconostoc ,Oenococcus , some Lactobacillus species
+Availability for commercial lactic acid production Available due to high selectivity Not available due to high by-product formation880 M.A. Abdel-Rahman et al. / Biotechnology Advances 31 (2013) 877 –9022005; Qin et al., 2009; Zhao et al., 2010b ). Furthermore, Bacillus strains
+are able to grow and ferment the hexoses and pentoses in lignocellulosic
+biomass to lactic acid. B. coagulans 36D1 was reported to utilize pentose
+sugar via the pentose –phosphate pathway, which maximizes the yield
+of lactic acid up to 1.0 g/g-consumed sugar ( Patel et al., 2006).
+2.1.3. E. coli
+Screening for superior lactic acid producers from natural sources is
+time consuming and laborious. Therefore, recent studies have appliedengineering methods for achieving better fermentation ef ﬁciency by
+using E. coli strains because they can rapidly metabolize hexose and
+pentose sugars, have simple nutritional requirement, and are easy to
+be genetically manipulated. Wild-type E. coli generally produces a mix-
+ture of ethanol and several organic acids (lactic acid, acetic acid, succinicacid, and formic acid) to accommodate reducing equivalents generated
+during glycolysis ( Clark, 1989; de Graef et al., 1999; Zhou et al., 2003a ).
+To improve lactic acid production, E. coli strains have been engineered
+in the ﬁeld of metabolic engineering ( Chang et al., 1999; Kochhar et
+al., 1992; Taguchi and Ohta, 1991; Zhou et al., 2003a ). Several studies
+reported the use of engineered E. coli strains for lactic acid production
+from glucose ( Chang et al., 1999; Dien et al., 2001; Zhou et al., 2003a,
+b, 2005; Zhu et al., 2007 ), xylose ( Dien et al., 2001 ), sucrose ( Wang et
+al., 2012; Zhou et al., 2005 ), and glycerol ( Mazumdar et al., 2010 ). How-
+ever, the productivity ( ≤1.04 g/L/h), ﬁnal concentration ( ≤62.5 g/L),
+and tolerance of lactic acid by engineered E. coli strains were much
+lower than that achieved with many LAB and Bacillus spp ( Chang et
+al., 1999; Portnoy et al., 2008; Zhou et al., 2003a ). Thus, the major prob-
+lem to be addressed is to realize high ef ﬁcient lactic acid production
+using inexpensive resources.
+More recently, direct production of PLA and its copolymers from glu-
+cose by engineered E. coli through a 1-step fermentation process was
+reported by the expression of respective genes encoding propionateCoA-transferase and polyhydroxyalkanoate synthase for the ef ﬁcient
+generation of lactyl-CoA and incorporation of lactyl-CoA into the poly-mer, respectively ( Jung et al., 2010; Yang et al., 2010 ). However, it was
+necessary to use an inducer for the expression of the introduced genesand to feed succinic acid for proper cell growth. Jung and Lee (2011)
+reported further engineering E. coli JLXF5. In pH-stat fed-batch fermenta-
+tion, PLA and a copolymer of p oly(3-hydroxybutyrate- co-39.6 mol% lac-
+tate) having a molecular weight o f 141,000 Da could be produced at
+20 g/L polymer with a 43 wt.% content of dry cells from glucose in a
+chemically de ﬁned
+medium without adding the inducer and succinate.
+2.1.4. C. glutamicum
+C. glutamicum is a Gram-positive, fast-growing, aerobic, non-
+sporulating, nonmotile, saprophytic bacterium that has been reportedto excrete several organic acids at small amounts under oxygen-limited
+conditions ( Yukawa et al., 2007 ). Several engineered C. glutamicum
+strains have been reported to produce combined organic acids (lacticacid, succinic acid, and acetic acid) under oxygen deprivation from var-
+ious sugars, such as
+L-arabinose and D-glucose ( Kawaguchi et al., 2008 );
+D-xylose and D-glucose ( Kawaguchi et al., 2006 );D-glucose, D-xylose,
+and D-cellobiose ( Sasaki et al., 2008 ); and L-arabinose ( Sasaki et al.,
+2009 ). By knockout of the L-LDH gene and heterologous expression
+of the D-LDH encoding gene from Lactobacillus bulgaricus , engineered
+C. glutamicum produced 17.9 g/L of D-lactic acid (optical purity
+>99.9%) after 16 h of fermentation, which was 32.3% higher than the
+lactic acid production of the parental strain ( Jia et al., 2011 ). Use of
+Corynebacteria under oxygen-deprived conditions at an HCD is advanta-
+geous since energy is primarily channeled to lactic acid production and
+n o tc e l lg r o w t h( Inui et al., 2004 ).Okino et al. (2005) reported a direct
+correlation between cell concentration and acid production rates,even at elevated cell densities, and achieved
+L-lactic acid productivities
+of 42.9 g/L/h at a cell concentration of 60 g dry cells/L in mineral medi-um for more than 360 h. Similarly, using an HCD in mineral salt medi-
+um with glucose, up to 120 g/L
+D-lactic acid (optical purity ≥99.9%)was produced in fed-batch fermentation within 30 h by engineered
+C. glutamicum ΔldhA/pCRB204 with expression of D-LDH-encoding
+genes derived from Lactobacillus delbrueckii (Okino et al., 2008 ). There-
+fore, C. glutamicum is a suitable bacterium that can achieve high lac-
+tic acid production without the requirement for complex nutritionalmedia. On the other hand, low lactic acid yield due to formation of acetic
+acid and succinic acid also needs to be addressed. Recently, Song et al.
+(2012) succeeded in developing an engineered C. glutamicum strain
+that can produce a lactate-based polymer, poly(LA-co-3HB), with highLA fractions (96.8 mol%), from glucose through successive enzymatic
+reactions. These include generation of
+D-lactyl-CoA by D-LDH and
+propionyl-CoA transferase, 3-hydroxybutyryl-CoA generation catalyzedbyβ-ketothiolase and NADPH-dependent acetoacetyl-CoA reductase,
+and copolymerization of
+D-lactyly-CoA and 3-hydroxybutyryl-CoA cata-
+lyzed by lactate polymerizing enzyme. The functional expression of
+these enzymes led to the production of poly(LA-co-3HB) with high LA
+fractions (96.8 mol%).
+2.2. Fungi
+Several species of the genus Rhizopus , especially R. oryzae ,h a v e
+become the focus of studies of the production of optically pure L-lactic
+acid ( Bai et al., 2008; Taskin et al., 2012; Wu et al., 2011 ).Rhizopus
+strains have many advantages compared to lactic acid-producing bacte-
+ria, including their amylolytic characteristics that enable them to utilize
+various starchy biomasses without prior sacchari ﬁcation ( Jin et al.,
+2003 ), low nutrient requirements ( Bulut et al., 2004; Marták et al.,
+2003; Oda et al., 2003 ), low-cost downstream process due to their ﬁla-
+mentous or pellet growth that makes its separation from fermentationbroth easier than that in bacteria or yeast ( Zhang et al., 2007 ), and
+fungal biomass as a valuable fermentation byproduct. The differentmorphological forms of fungal growth (extended ﬁlamentous form,
+mycelial mats, pellets, or clumps) have a signi ﬁcant effect on the
+rheology of the fermentation broth, the oxygen supply, and the
+level of lactic acid production. Fungal growth in small pellets is the
+preferable morphology for industrial fermentations because it en-
+hances rheology and mass transfer in fermentation broth and can
+be utilized for long operations using repeated batch fermentation
+(Maneeboon et al., 2010 ). Several studies attempted to use immobi-
+lization techniques for
+L-lactic acid production with R. oryzae (Dong
+et al., 1996; Efremenko et al., 2006 ); however, this technique is
+time consuming due to the requirement for entrapment of fungalcells on matrixes and is limited in volume.
+Lactic acid production by Rhizopus strains using different renewable
+resources, including molasses, raw starch materials, and lignocellulosic
+biomass, has been reported by many authors ( Bai et al., 2008; Maas
+et al., 2006, 2008b; Miura et al., 2004; Park et al., 2004; Saito et al.,2012; Taherzadeh et al., 2003; Taskin et al., 2012; Thongchul et al.,
+2010 ). However, there are some limitations that should be controlled
+for optimal lactic acid production by Rhizopus strains, such as produc-
+tion of undesirable byproducts, particularly ethanol and fumaric acid
+(Litchﬁeld, 2009; Magnuson and Lasure, 2004; Vink et al., 2010 ), re-
+quirements of aeration for more than the oxygen transfer rate of 0.3 gO
+2/L/h ( T. Liu et al., 2006; Y. Liu et al., 2006 ), and the ﬁlamentous nature
+of the Rhizopus strains that create potential issues in mass transfer, bulk
+mixing, and lactic acid recovery ( Bai et al., 2003a ).
+2.3. Yeasts
+One major economic hurdle for commercial lactic acid production
+is the costly recovery procedure required to separate and purify the
+product from the fermentation broth. Yeasts have received much
+attention recently as lactic acid producers because they can grow in
+mineral media that can facilitate further recovery of lactic acid
+(Dequin and Barre, 1994 ). In addition, yeasts can tolerate pH values
+as low as 1.5, which strongly enables the establishment of non-881 M.A. Abdel-Rahman et al. / Biotechnology Advances 31 (2013) 877 –902neutralizing fermentation. Moreover, this low pH eliminates the re-
+generation of precipitated lactate (calcium lactate), which would
+lead to decreases in the cost of neutralizing agents (i.e., calcium
+carbonate) ( Praphailong and Fleet, 1997 ). Although most wild-type
+yeasts naturally produce little lactic acid as a major fermentationproduct, much effort has been made to develop engineered yeasts
+for lactic acid production. It is possible to obtain lactic acid productionat high yields by partial or full replacement of ethanol production
+with deletion of pyruvate decarboxylase and/or pyruvate dehydroge-
+nase activities ( Bianchi et al., 2001 ).
+Different yeast genera have been engineered to produce lactic acid, in-
+cluding Saccharomyces (Ishida et al., 2005; Saitoh et al., 2005; Tokuhiro
+et al., 2009; Valli et al., 2006 ),Zygosacchromyces (Branduardi et al.,
+2006 ),Candida (Osawa et al., 2009 ),Pichia (Ilmen et al., 2007), and
+Kluyveromyces (Bianchi et al., 2001). Recent advances in yeast engineer-
+ing have focused on the use of a variety of sugars other than glucose
+and xylose. Tokuhiro et al. (2008) engineered a Saccharomyces cerevisiae
+strain that expresses the β-glucosidase gene derived from Aspergillus
+aculeatus in order to allow the yeast to utilize cellobiose as a substrate.
+The resulting engineered strain successfully produced approximately80 g/L lactic acid from approximately 100 g/L cellobiose, with a yield of
+0.70 g/g and a maximum production rate of 2.8 g/L/h. Further studies
+on lactic acid production from oligosaccharides and polysaccharides via
+integration of respective genes into the genome of yeast strains are
+required.
+2.4. Microalgae and cyanobacteria
+With the discovery of global warming, there is growing interest
+in processes that couple CO
+2capture to valuable chemical synthesis
+through the use of photosynthetic microorganisms. Photosynthetic
+microorganisms (i.e., algae and cyanobacteria) offer an alternative
+lactic acid production approach and would allow carbohydrate feed-
+stock costs to be eliminated. Some microalgae have the ability to con-
+vert the starch they accumulated under light and aerobic conditions
+into organic matter, such as lactic acid, ethanol, acetic acid, and formic
+acid under dark and anaerobic conditions ( Hirayama and Ueda, 2004;
+Oost et al., 1989 ). A few papers have reported the levels of lactic acid
+production by microalgal species, including Scenedesmus obliquus
+strain D3 ( Hirt et al., 1971 ) and Nannochlorum sp. 26A4 ( Hirayama
+and Ueda, 2004 ).Hirayama and Ueda (2004) reported 26 g/L D-lactic
+acid production with an optical purity of 99.8% by Nannochlorum sp.
+26A4 from their starch (40% content per dry weight) at yield of 70%
+under dark and anaerobic conditions.
+Cyanobacteria possess several advantages, including their photosyn-
+thetic capabilities, simple input requirements (namely, sunlight, CO 2,
+and water with few required mineral nutrients), their capacity for ge-netic engineering, and carbon-neutral applications that could be lever-
+aged to address global climate change concerns ( Ducat et al., 2011 ).
+Niederholtmeyer et al. (2010) engineered Synechococcus elongatus
+PCC7942 via expression of genes encoding invertase, glucose- and
+fructose-facilitated diffusion transporter,
+L-LDH derived from E. coli ,
+and lactate transporter, and the resulting strain produced lactic acid inthe extracellular broth at 600 μM.Angermayr et al. (2012) introduced
+an
+L-LDH gene derived from B. subtilis into the genome of Synechocystis
+sp. PCC6803 and reported the production of 3.2 mM lactic acid by theengineered strain after 2 weeks.
+3. Alternative fermentation substrates for lactic acid production
+Raw material cost is one of the major factors in the economic pro-
+duction of lactic acid. Pure sugars or edible crops have been a tradi-
+tional substrate for lactic acid production that is advantageous in
+obtaining a pure lactic acid product and lowering costs of pretreat-
+ment and recovery. Since substrate cost cannot be reduced by process
+scale-up, extensive studies are currently underway to search for novelsubstrates for lactic acid production. Various materials have been con-
+sidered as attractive alternative substrates and renewable resources, in-
+cluding byproducts of agricultural industries, food industries, and
+natural unutilized biomasses such as starchy biomass, lignocellulosic
+biomass, whey, yogurt, glycerol, and algal biomass.
+3.1. Starchy materials, lignocellulosic biomass, agro-industrial and
+food wastes
+Recently, lactic acid has been produced from a variety of carbohy-
+drates, including starchy and lignocellulosic biomasses, depending onthe substrate availability in the producing country ( Litchﬁeld, 2009;
+Vink et al., 2007 ). The pretreatment and sacchari ﬁcation of raw mate-
+rials by physicochemical and enzymatic treatment are one of the bottle-
+neck processes for cost-effective lactic acid production ( Abdel-Rahman
+et al., 2011c ). Direct fermentation of starchy biomass has been demon-
+strated to produce lactic acid; however, further development is still nec-
+essary before these processes are commercially feasible. The reference
+byReddy et al. (2008) provides an extensive review of reports on the
+subject of using starchy biomass as a substrate for lactic acid production.
+Lignocellulosic biomass is another abundant carbohydrate source
+that has recently drawn a lot of interest for lactic acid production.
+The use of this type of biomass would help to overcome many
+environmental problems and must not cause food problems; how-
+ever, it is more dif ﬁcult to ferment lignocellulosic biomass than
+starchy biomass to lactic acid. This is because lignocelluloic biomasscontains cellulose as the main component. Cellulose is a persistent
+polymer, and its degradation requires physicochemical pretreatments
+and multi-enzymatic reactions ( Okano et al., 2010 ). For example, corn
+stover or cobs, sugarcane bagasse, and wood processing waste are alter-native substrates used for lactic acid production after pretreatment and
+chemical or enzymatic hydrolysis ( Cui et al., 2011; L. Wang et al., 2010;
+Laopaiboon et al., 2010 ). Lactic acid production from different sub-
+strates using several fermentation modes are described in Table 2 .W e
+have recently reviewed the composition and the utilization of lignocel-lulosic biomass for lactic acid production and pointed out the challenges
+that must be overcome for their effective utilization ( Abdel-Rahman
+et al., 2011c ). Different organic wastes that used as substrate for lactic
+acid production are also summarized in Table 2 .
+3.2. Dairy products
+Dairy industries all over the world generate ample amounts of whey
+from milk processing for various manufactured products. Whey is a
+byproduct in wastewater discharged through the cheese production
+process, and its disposal is currently a major pollution problem for the
+dairy industry. Whey is a potent and suitable raw material for lactic
+acid production because it consists of lactose, protein, fats, water-
+soluble vitamins, mineral salts, and other essential nutrients for micro-
+bial growth ( Panesar et al., 2007 ). Nevertheless, LAB require supple-
+mentation with sources of amino acids and vitamins to the mediumbecause they do not have suf ﬁcient proteolytic enzyme activities to
+utilize milk proteins in whey ( Miller et al., 2011 ). In addition,
+deproteinized whey containing mainly lactose has been extensively
+studied for lactic acid production ( Büyükkileci and Harsa, 2004; Kim
+et al., 2006; Li et al., 2007; Schepers et al., 2002, 2006 ).
+Theoretically, 4 mol of lactic acid should be produced from 1 mol
+of lactose through a homofermentative pathway after the cleavageof lactose to 1 mol of glucose and 1 mol of galactose ( Fig. 1 ). As
+shown in Table 3 , different strains have been used for the production
+of
+lactic acid from whey, including Lactobacillus helveticus ,Lb.
+plantarum ,Lb. delbrueckii subsp. bulgaricus ,Lactobacillus acidophilus ,
+Lactobacillus casei ,Lactoccocus lactis ,a n d Kluyveromyces marxianus .
+Lactic acid production from the whey in conventional batch fer-mentation exhibited a long lag period, which required greater fer-
+mentor capacity and increased operational costs ( Zayed and882 M.A. Abdel-Rahman et al. / Biotechnology Advances 31 (2013) 877 –902Winter, 1995 ). In addition, the produced lactic acid has an inhibitory
+effect in whey fermentation that can be alleviated to a certain extent
+by conducting fermentation in a continuous dialysis process in a
+hollow ﬁber fermentor ( VickRoy et al., 1983a ) or in an electrodialysis
+system with a monopolar or dipolar membrane ( Bazinet, 2004;
+Hongo et al., 1986 ). Continuous fermentation of whey has resulted in
+high productivity and does not require high-volume fermentors(Aeschlimann and von Stockar, 1991; Boyaval et al., 1987; Roy et al.,
+1987 ).
+The market for yogurt has also grown rapidly over the past few
+years. Consequently, rejects of damaged or expired yogurt create a
+huge amount of waste products. Yogurt is usually sweetened with
+additional sugars, such as sucrose and glucose, which would result
+in higher lactic acid production than cheese whey containing fewer
+sugars. Lb. casei ATCC 393 achieved a bioconversion of total sugars of
+around 44% to 25.9 g/L of lactic acid at a yield of 0.9 g/g and productivityof 0.76 g/L/h in a pH-controlled batch fermentation process using yo-
+gurt whey ( Alonso et al., 2010 ); however, mixed sugar utilization oflactose, glucose, and sucrose is a major problem that has to be
+addressed for effective utilization of yogurt whey.
+3.3. Glycerol
+The biodiesel industry is one of the most important technologi-
+cal biomass-based platforms because it has been considered as an
+environmentally friendly fuel. Its production reached more than
+11.1 million tons in 2008 with an annual growing production rate
+of close to 8% –10% ( Posada et al., 2012a ). Different kinds of edible
+and inedible vegetable oils and algae oils have been widely usedfor biodiesel production worldwide. Consequently, overproduction
+of raw glycerol as a byproduct is a continuous challenge, leading
+to byproduct wastes obtained at a weight ratio of 1:10 (glycerol:
+biodiesel) ( Posada et al., 2012b ). Therefore, effective glycerol utili-
+zation as a cheap raw material would solve both economic andenvironmental drawbacks. Several microorganisms were reported
+to convert glycerol to lactic acid, including Klebsiella ,Clostridium ,Table 2
+Lignocellulosic, agro-industrial and food waste materials used for the production of lactic acid.
+Fermentation substrate Strain Fermentation mode Lactic acid Reference
+C(g/L) Y(g/g) P(g/L/h)
+Alfalfa ﬁbers Lb. delbreuckii Batch (SSF) 35.4 0.35 0.75 Sreenath et al. (2001)
+Alfalfa ﬁbers Lb. plantarum Batch (SSF) 46.4 0.46 0.64 Sreenath et al. (2001)
+Apple pomace Lb. rhamnosus ATCC 9595 (CECT288) Batch (SHF) 32.5 0.88 5.41 Gullon et al. (2008)
+Banana wastes Lb. casei Batch – 0.10 0.13 Chan-Blanco et al. (2003)
+Cassava bagasse Lb. delbrueckii NCIM 2025 Batch SSF 81.9 0.94 1.36 John et al. (2006)
+Cellulose B. coagulans 36D1 SSF-fed-batch 80.0 0.80 0.30 Ou et al. (2011)
+Cellulosic biosludge Lb. rhamnosus CECT-288 SSF-fed-batch 42.0 0.38 0.87 Romani et al. (2008)
+Date juice Lb. casei subsp. rhamnosus NRRL-B445 and
+Lc. lactis subsp. lactis ATCC19435Batch 60.3 – 3.20 Nancib et al. (2009)
+Defatted rice bran Lb. delbruecki i subsp. delbrueckii IFO 3202 Batch (SSF) 28.0 0.28 0.78 Tanaka et al. (2006)
+Food wastes Lb. manihotivorans LMG18011 Batch (SSF) 48.7 0.1 0.76 Ohkouchi and Inoue (2006)
+Kitchen refuse B. licheniformis TY7 Batch 40.0 – 2.50 Sakai and Yamanami (2006)
+Kitchen wastes Lactic acid bacteria and Clostridium sp. Batch 64.0 0.62 – Zhang et al (2008a)
+Mango peel Indigenous microorganisms Batch 17.4 –– Jawad et al. (2013)
+Mussel processing wastes Lb. plantarum A6 Batch 8.4 0.98 – Pintado et al. (1999)
+Paper sludge B. coagulans strains 36D1 Repeated batch (SSF) 92.0 0.77a0.96 Budhavaram and Fan (2009)
+Paper sludge B. coagulans strains P4–102B Repeated batch (SSF) 91.7 0.78a0.82 Budhavaram and Fan (2009)
+Paper sludge Lb. rhamnosus ATCC 7469 Batch (SSF) 73.0 0.97 2.90 Marques et al. (2008)
+Ram horn hydrolysate Lb. casei ATCC 10863 Batch 44.0 0.44 1.22 Kurbanoglu and Kurbanoglu (2003)
+Sugar cane baggage Lc. lactis IO-1 Batch 10.9 0.36 0.17 Laopaiboon et al. (2010)
+Vine-trimming wastes Lb. pentosus ATCC 8041 Batch 21.8 0.77 0.84 Bustos et al. (2004)
+Waste cardboard Lb. coryniformis ssp. torquens ATCC 25600 Batch (SSF) 23.4 0.51b0.49 Yanez et al. (2005)
+Waste sugarcane bagasse Lb. delbrueckii mutant Uc-3 Batch (SSF) 67.0 0.83 0.93 Adsul et al. (2007)
+Wastewater sludge Lb. paracasei strain LA1 Batch (SSF) 23.4 0.72b0.23 Nakasaki and Adachi (2003)
+Wheat straw Lb. brevis CHCC 2097 and Lb. pentosus CHCC 2355 Batch 7.1 0.95 – Garde et al. (2002)
+C, concentration; Y, yield; P, productivity; B.,Bacillus ;Lb.,Lactobacillus ;Lc.,Lactococcus .
+aBased on consumed glucose and xylose.
+bg/g-potential glucose in the substrate.
+Table 3Lactic acid production from cheese whey in different fermentation modes by different producers.
+Strain Fermentation mode Lactic acid Reference
+C(g/L) Y(g/g) P(g/L/h)
+K. marxianus Batch 8.8 0.24 4.3
+aPlessas et al. (2008)
+Lb. helveticus Batch 10.1 0.23 5.1a
+Lb. bulgaricus Batch 9.6 0.30 4.8a
+Lb. helveticus &K. marxianus (mixed culture) Batch 15.5 0.45 10.0a
+Lb. bulgaricus &K. marxianus (mixed culture) Batch 16.2 0.41 10.5a
+Lb. helveticus &Lb. bulgaricus (mixed culture) Batch 14.6 0.35 9.4a
+Lb. helveticus &Lb. bulgaricus &K. marxianus (mixed culture) Batch 19.8 0.47 12.8a
+Lb. casei NRRL B-441 Batch 96.0 0.93 2.2 Büyükkileci and Harsa (2004)
+Lb. casei SU No. 22 and Lb. lactis WS 1042 (mixed culture) Batch 22.5 0.48 0.93 Roukas and Kotzekidou (1998)
+Fed-batch 46.0 0.77 1.91
+Lb. bulgaricus ATCC 8001, PTCC 1332 Batch 24.6 0.81 – Fakhravar et al. (2012)
+Lb. helveticus R211 Continuous 38.0 – 19–22 Schepers et al. (2006)
+C, concentration; Y, yield; P, productivity; Lb.,Lactobacillus ;K.,Kluyveromyces .
+ag/L/day.883 M.A. Abdel-Rahman et al. / Biotechnology Advances 31 (2013) 877 –902and Lactobacillus (Biebl, 2001; Cheng et al., 2006; El-Ziney et al., 1998 ).
+Kishimoto (2008) developed a method for producing lactic acid from
+glycerol using Achromobacter denitri ﬁcans NBRC 12669. However, only
+3.9 g/L lactic acid was produced from 9.4 g/L consumed glycerol. A com-
+mon characteristic of glycerol metabolism by wild type E. coli under ei-
+ther anaerobic or microaerobic conditions is the heterofermentationbehavior with the production of ethanol as the primary product andthe negligible amount of lactic acid production ( Dharmadi et al., 2006;
+Durnin et al., 2009; Gonzalez et al., 2008; Murarka et al., 2008 ).Hong
+et al. (2009) isolated E. coli AC-521, which produced 56.8 g/L and
+85.8 g/L lactic acid with few byproducts in batch and fed-batch fermen-tations, respectively ( Table 4 ). Recently, lactic acid production from
+glycerol using engineered E. coli h a sb e e ni n v e s t i g a t e da ss h o w ni n
+Table 4 .Mazumdar et al. (2010) engineered a homofermentative route
+for
+D-lactate production by overexpressing pathways involved in the
+conversion of glycerol to D-lactic acid and by disrupting the pathways
+leading to the synthesis of competing by-products. Using thatengineered strain, 32 g/L of
+D-lactic acid was produced from 40 g/L glyc-
+erol in batch fermentation with a minimal medium ( Table 4 ). Based on
+the aforementioned study, process design, simulation, and assessment
+of optically pure D-lactic acid production from raw glycerol using
+engineered E. coli strains were reported by Posada et al. (2012a,
+2012b). Higher concentrations of D- l a c t i ca c i du pt o1 1 1 . 5g / L
+(Mazumdar et al. (2010); Tian et al., 2012 )o r L- l a c t i ca c i du pt o5 0g / L
+(Mazumdar et al., 2013 ) were achieved in fed-batch fermentation
+(Table 4 ).
+3.4. Microalgae
+Microalgae have been recently utilized as the substrates for fermen-
+tative lactic acid production. In comparison to lignocellulosic biomass,microalgae do not contain lignin which simpli ﬁes its conversion into
+fermentable sugars ( Nguyen et al., 2012a,b ). In addition, it can grow al-
+most anywhere and has an extremely short harvesting cycle of approx-
+imately 1 –10 days ( Schenk et al., 2008 ). The green microalga
+Hydrodictyon reticulum contains 47.5% reducing sugars, including 35%
+glucose, and has been used as a substrate for the production of
+L-lactic
+acid by Lactobacillus paracasei LA104 or D-lactic acid by Lactobacillus
+coryniformis spp. torquenes [Table 4 ](Nguyen et al., 2012 a,b ). Through
+SSF with cellulase, cellobiase, and amylase, H. reticulum achieved an
+L-lactic acid concentration of 37.1 g/L at a yield of 0.46 g/g algae and a
+productivity of 1.03 g/L/h [ Table 4 ](Nguyen et al., 2012a ). In addition,
+Talukder et al. (2012) reported the extraction of lipids from themicroalgae Nannochloropsis salina and used a lipid-free microalgae hy-
+drolysate (containing glucose and xylose) as a substrate for fermenta-tive lactic acid production by Lactobacillus pentosus with a lactic acid
+yield of 0.93 g/g and a productivity of 0.45 g/L/h ( Table 4 ). Further stud-
+ies, especially those associated with the pretreatment of microalgae, are
+required in order to achieve effective lactic acid fermentation from such
+a highly abundant biomass.
+4. Advances in fermentation processes for enhanced lactic acid
+production
+Selection of fermentation processes may vary with respect to the
+type and nature of substrate, microbial growth, and viscosity of fer-mentation broth. In the present section, fermentation processes and
+their developments for enhanced fermentative lactic acid production
+are described. This includes batch, fed-batch, repeated, and continu-
+ous fermentations. The advantages and disadvantages of these fer-mentation modes are described in Table 5 .
+4.1. Batch fermentation
+Batch fermentation is the most simple and commonly used fermen-
+tation process, where all carbon substrates and other components are
+not added during fermentation, except for neutralizing agents for pH
+control. This closed system has advantages in reducing the risk of con-
+tamination and obtaining high lactic acid concentrations in comparison
+to other fermentation methods ( Hofvendahl and Hahn-Hägerdal, 2000 ).
+On the other hand, batch fermentation suffers from low cell concentra-tions due to limited levels of nutrients and low productivity mainly be-cause of either substrate and/or product inhibition. Kinetic studies on
+lactic acid production showed that the ﬁnal lactic acid concentration in-
+creases with an increase in the initial glucose concentration as high as200 g/L ( Goncalves et al., 1991; Kadam et al., 2006; Yun et al., 2003 ).
+As shown in Table 6 ,Moon et al. (2012) reported the highest lactic
+acid concentration in batch fermentation by Lb. paracasei subsp.
+paracasei CB2121 —up to 192 g/L of lactic acid from 200 g/L glucose.
+4.1.1. Fermentation methods
+Different fermentation methods were applied in a batch fermenta-
+tion mode, including SSF, separate hydrolysis and fermentation (SHF),
+use of mixed culture or open fermentation to improve lactic acid pro-duction from different substrates as shown in Table 6 . The SSF method
+offers various advantages over SHF, such as the use of a single-reaction
+Table 4
+Lactic acid production from glycerol and microalgae.
+Fermentation substrate Strain Fermentation mode Lactic acid Reference
+C(g/L) Y(g/g or mol/mol) P(g/L/h) Isomer and optical purity (%)
+Glycerol Achromobacter denitri ﬁcans
+NBRC 12669Batch 3.9 0.41a– D-(≥99.9) Kishimoto (2008)
+E. coli AC-521 Batch 56.8 0.88b0.94 ND Hong et al. (2009)
+Fed-batch 85.8 0.90b0.97 ND
+E. coli K12 strain
+MG1655-LA02 Δdld
+(engineered)Batch 32.0 0.85a0.44 D-(≥99.9) Mazumdar et al. (2010)
+Fed-batch 45.0 0.83a0.54
+E. coli strain CICIM B0013-070
+(pUC- ldhA) (engineered)Fed-batch 111.5 0.78a2.80 D-(≥99.9) Tian et al. (2012)
+E. coli (engineered) Fed-batch 50.0 0.90a0.60 L-(≥99.9) Mazumdar et al. (2013)
+MicroalgaeHydrodictyon reticulum Lb. paracasei LA104 Batch (SSF) 37.1 0.46
+a1.03 L-(95.7 –98.0) Nguyen et al. (2012a)
+Lb. coryniformis sub. torquens
+ATCC 25600Batch (SSF) 36.6 0.46a1.02 D-(95.8 –99.6) Nguyen et al. (2012b)
+Nannochloropsis salina Lb. pentosus ATCC-8041 Batch (SSF) 23.0 0.93a0.45 ND Talukder et al. (2012)
+C, concentration; Y, yield; P, productivity; E.,Escherichia ;Lb.,Lactobacillus , ND, not determined.
+ag/g.
+bmol/mol.884 M.A. Abdel-Rahman et al. / Biotechnology Advances 31 (2013) 877 –902vessel, rapid processing time, less enzyme loading, reduced end-product
+inhibition of hydrolysis, and increased productivity ( Abdel-Rahman et
+al., 2011c ). In SSF from broken rice by Lb. delbrueckii strain JCM1106,
+starch was gradually hydrolyzed to glucose and then converted to lactic
+acid while avoiding glucose repression (Nakano et al., 2012 ).Marques et
+al. (2008) reported a higher lactic acid yield of 0.97 g/g using SSF than
+that obtained using SHF (0.81 g/g) from recycled paper sludge withLactobacillus rhamnosus ATCC7469. Moreover, the fermentation step of
+SHF is preceded by a prolonged period of separate enzymatic hydrolysisthat decreases the real productivity.
+Improvement of batch fermentation was also reported with a mixed
+culture. Cui et al. (2011) used mixed strains of Lb. rhamnosus andLacto-
+bacillus brevis for the consumption of both cellulose- and hemicellulose-
+derived sugars from corn stover. During SSF using an NaOH-treated
+corn stover by mixed fermentation, an improved lactic acid yield of
+0.70 g/g was obtained, which was approximately 18.6% and 29.6%
+higher than that obtained from single strains of Lb. rhamnosus and Lb.
+brevis, respectively [ Table 6 ](Cui et al., 2011 ). Similarly, 81 g/L of lactic
+acid was produced from cassava bagasse via the SSF method by mixed
+fermentation of Lb. casei and Lb. delbrueckii (John et al., 2006 ).Nancib
+et al. (2009) reported a higher lactic acid concentration of 60.3 g/L
+with the mixed strains of Lb. casei subsp. rhamnosus NRRL-B445 and
+Lc. lactis subsp. lactis ATCC 19435 as compared to those obtained by
+the single strains alone (53 and 46 g/L, respectively).
+As shown in most studies stated in Tables 2 −4a n d6 , various strains
+of lactic acid producers are applied in fermentation using sterile media
+with lignocellulosic or waste materials. However, it is economically un-
+favorable to use autoclaving for sterilization of indigenous microorgan-
+isms and to inoculate other pure lactic acid-producing strains since it
+is difﬁcult to metabolize the complex carbohydrate compositions by
+single strain ( Sakai et al., 2004b ). Therefore, nonsterile (open) fermen-
+tation has received more attention for lactic acid production not only for
+utilizing complex carbohydrate materials but also for its additional ad-
+vantages in avoiding the Maillard reaction and formation of furfural
+compounds during sterilization, lowering energy consumption and
+equipment requirement, simplifying the fermentation process, and
+saving labor ( Zhang et al., 2008a; Sakai et al., 2004a,b, 2006 ). Several
+studies have focused on enhancement of lactic acid optical purity inopen fermentation by complex natural microbial composition ( Ennahar
+et al., 2003; Payot et al., 1999; Sakai et al., 2004b ). Variations in condi-
+t i o n sa n dm e t h o d so ff e e d i n gs u b s t r a t ei no p e nf e r m e n t a t i o nh a v ebeen shown to affect the microbial community structure and conse-
+quently the optical purity of lactic acid ( Ennahar et al., 2003; Payot
+et al., 1999 ). Controlling pH in the fermentation broth has been reported
+to suppress the growth of indigenous bacteria for open
+D-lactic acid fer-
+mentation from rice bran powder. With the pH maintained at 5.0, Lb.
+delbrueckii IFO 3202 produced 28 g/L D-lactic acid from 100 g/L rice
+bran at a yield of 0.78 g/g and optical purity of 95% ( Tanaka et al.,
+2006). Zhang et al., (2008a) reported that the optical purity of lactic
+acid was much higher at uncontrolled pH (82%), acidic pH (5.0, 80%),or alkaline pH (8.0, 72%) than that at neutral pH (6.0, 30% and 7.0, 20%)
+using kitchen wastes in open fermentation. Moreover, increasing the
+fermentation temperature from 35 °C to 45 °C at pH 7.0 enhanced the
+optical purity from 20% to 66%. Some researchers suggested that an
+unsterile feedstock should be used to assure economic viability. Such
+new fermentation methods can add signi ﬁcant value to the economy of
+batch fermentation for lactic acid production.
+4.1.2. Factors affecting batch fermentation ef ﬁciency
+Several factors were reported to improve lactic acid production
+efﬁcacy including nitrogen sources, pH and neutralizing agents and
+aeration ( Table 6 ). These factors are brie ﬂy discussed as follows.
+Many studies on lactic acid production have reported that the ad-
+dition of several nutrients in media and supplementation of nitrogen
+sources leads to higher production of lactic acid. In addition, selecting
+a suitable low-cost nutrient for the medium has usually been consid-
+ered a major aspect for improvement and development of lactic acid
+production ( Tinoi et al., 2005 ). Food wastes with whey are utilized
+not only as carbon sources for lactic acid production but also organicnitrogen sources ( Panesar et al., 2007; Yao et al., 2010 ).Rivas et al.
+(2004) achieved a high lactic acid productivity of 2.38 g/L/h from
+glucose by Lb. rhamnosus using the biomass of Debaryomyces hansenii
+derived from xylitol production and corn steep liquor as the nitrogensources. Substitution of corn steep liquor for yeast extract achieved
+an
+L-lactic acid concentration, yield, and productivity of 115.1 g/L,
+0.96 g/g, and 4.58 g/L/h, respectively, in batch fermentation byLb. rhamnosus CGMCC 1466 ( Yu et al., 2008 ).Liu et al. (2010)
+reported that malt sprout and corn steep liquor have a more sig-niﬁcant effects on
+L-lactic acid production by Lb. plantarum As.1.3,
+in which a higher yield of 0.98 g/g and a higher maximum pro-ductivity of 13.0 g/L/h were obtained than those obtained with
+MRS medium (0.87 g/g and 10.0 g/L/h, respectively). Furthermore,
+chicken feather hydrolysate exhibited a higher lactic acid production
+(38.5 g/L) and yield (7.7 g/g nitrogen source) than yeast extract
+(33.2 g/L and 6.6 g/g nitrogen source, respectively) and ammoniumsulfate (28.5 g/L and 5.8 g/g nitrogen source, respectively) from molas-
+ses by R. oryzae TS-61 ( Taskin et al., 2012 ).
+Increased undissociated lactic acid in accordance with decreasing
+pH due to lactic acid production is considered to inhibit the fermenta-
+tion of several lactic acid producers. Therefore, trapping the undissoci-
+ated lactic acid during fermentation as lactate salt by the addition of
+neutralizing agents, such as sodium hydroxide, potassium hydroxide,
+calcium hydroxide, calcium carbonate, or ammonium solution, would
+partially overcome such inhibition and improve fermentation ef ﬁcacy
+as shown in Table 6 (Abdel-Rahman et al., 2011a,b; Adsul et al., 2007;
+Qin et al., 2010; Tashiro et al., 2011 ).B. subtilis CH1 alsS produced
+106 g/L of
+L-lactic acid from glucose with a productivity of 0.54 g/L/h
+at a pH of 7.0 controlled by potassium hydroxide ( Romero-Garcia
+et al., 2009 ). At a pH of 6.5 controlled by the addition of sodium hydrox-
+ide, Lb. paracasei subsp. paracasei CHB2121 ef ﬁciently produced high
+Table 5
+Advantages and disadvantages of fermentation processes.
+Fermentation mode Advantages Disadvantages
+Batch fermentation - Simple operation
+- High product concentration
+- Reduced risk of contamination- Low productivity
+- Substrate and/or end product inhibition
+Fed-batch fermentation - Overcome substrate inhibition problem
+- High product concentration- End product inhibition- Dif ﬁcult to conduct optimal design
+Repeated fermentation - Time-saving processes
+- Labor-saving- Omission of seed preparation time- High growth rates- Short main culture- Requirement of special devices (e.g., hollow ﬁber-module)
+or special connection lines used for cell concentration
+Continuous fermentation - High productivity
+- Control growth rates- Less frequency shut down process- Incomplete utilization of the carbon source885 M.A. Abdel-Rahman et al. / Biotechnology Advances 31 (2013) 877 –902Table 6
+Lactic acid production in batch fermentation with different methods.
+Fermentation substrate Strain Lactic acid Fermentation method Reference
+C(g/L) Y(g/g) P(g/L/h) Isomer and optical purity (%)
+Broken rice Lb. delbrueckii 79.0 0.81a3.58 D(96.1) ●SSF with glucoamylase ●Performed in 5-l fermenter with 2.5-l basal medium
+at 40 °C, 150 rpm, pH controlled at 6.0 with Ca(OH) 2Nakano et al. (2012)
+Corn starch Lb. plantarum NCIMB 8826
+(engineered)73.2 0.85 3.86bD(99.6) ●Performed in a 2 –l bioreactor with a 700-mL working volume, at 37 °C,
+100 rpm, pH controlled at 5.5 by NH 3solutionOkano et al. (2009c)
+Corn stover Lb. rhamnosus and Lb. brevis
+(mixed culture)21.0 0.70 0.58 ND ●SSF with cellulases ●Performed in 250 mL- ﬂasks containing 100 mL-media
+at 37 °C, shaking at 100 rpm, initial pH 5 with CaCO 3Cui et al. (2011)
+Glucose Lb. paracasei subsp. paracasei
+CHB2121192 0.96 3.99 L(96.6) ●Performed in a 2.5-l jar fermentor with a working volume of 1.5-l at 38 °C
+and 200 rpm, pH controlled at 6.5 by addition of NaOHMoon et al. (2012)
+Glucose Bacillus sp. Na-2 106 0.94 3.53 L(99.5) ●Two stage aeration method ●Open fermentation ●Performed in a 5-l
+bioreactor containing 4-l unsterilized fermentation medium at 50 °C, pHcontrolled at 6.0 by NaOHQin et al. (2010)
+Glucose Rhizopus oryzae GY18 115 0.81 1.6
+L(98.5) ●Performed in 500 mL- ﬂask at 35 °C and CaCO 3as a neutralizing agent Guo et al. (2010)
+Jerusalem artichoke
+tuber extractLb. paracasei KCTC13169 92.5 0.98 1.2 L(93.2) ●Performed in 5-l jar fermentor containing 2-l medium at 37 °C, at 150 rpm,
+pH controlled at 6.0 with NaOH.Choi et al. (2012)
+Liquid distillery stillage Lb. rhamnosus ATCC 7469 18.6 0.73 – L(ND) ●No supplementation with nitrogen or mineral salts ●Performed in
+500 mL- ﬂasks with 200 mL of liquid stillage under anaerobic conditions in a
+gas pack system for 72 h at 41 °C, shaking (90 rpm), CaCO 3(1%) as a
+neutralizing agent.Djuki ć-Vukovi ćet al. (2012)
+Sucrose H. halophilus JCM 21694 65.8 0.83 1.1 L(98.8) ●Performed in a 5-l jar fermentor with 2.5-l fermentation medium at 30 °C,
+250 rpm, pH-controlled at 9.0 by NaOH.Calabia et al. (2011)
+Sucrose Escherichia coli (engineered) 85.0 0.85 1.0 D(98.3) ●Performed in 15-l fermentor with 10-l medium at 37 °C, 200 rpm, and pH
+7.0 controlled by of a 3.5 M Ca(OH) 2slurryWang et al. (2012)
+Sucrose Rhizopus oryzae GY18 80.1 0.89 1.67 L(98.5) ●Performed in a 500 mL- ﬂask at 35 °C and CaCO 3as a neutralizing agent Guo et al. (2010)
+Xylose Rhizopus oryzae GY18 68.5 0.85 0.57 L(98.5) ●Performed in 500 mL- ﬂask at 35 °C and CaCO 3as a neutralizing agent Guo et al. (2010)
+Xylose Candida utilis(engineered)93.9 0.91 2.18
+L(99.9) ●Performed in100 mL-spherical ﬂat-bottom ﬂasks containing 30 mL of medium
+at 35 °C, 100 rpm, and initial pH 6.8. Calcium carbonate was used as a
+neutralizing agent.Tamakawa et al. (2012)
+Xylose Rhizopus oryzae NBRC 5378 14.4 – 0.56 L(ND) ●Performed in 1-l fermentor vessel with 600 mL-medium at 30 °C, 300 rpm,
+pH controlled at 3.5 by calcium hydroxide slurry.●Aeration started at 1 vvm of air with changing agitation to 750 rpm 12 h
+after inoculation.Saito et al. (2012)
+White rice bran
+hydrolysateLb. Rhamnosus LA-04-1 82.0 0.81 3.73
+L(ND) ●SHF with amylase and glucoamylase ●Performed in a 5-l jar fermentor
+with 2-l working volume at 42 °C, the rotation speed was 2.5 Hz, pH
+controlled at 6.25 by Ca(OH) 2solution.Li et al. (2012)
+C, concentration; Y, yield; P, productivity; H.,Halolactibacillus ;Lb.,Lactobacillus ; SHF, separate hydrolysis and fermentation; SSF, simultaneous sacchari ﬁcation and fermentation; ND, not determined.
+aBased on starch content of rice.
+bMaximum lactic acid productivity.886 M.A. Abdel-Rahman et al. / Biotechnology Advances 31 (2013) 877 –902concentrations of L-lactic acid at 192 g/L with a productivity of
+3.99 g/L/h, yield of 0.96 g/g, and optical purity of 96.6% from 200 g/L
+glucose [ Table 6 ](Moon et al., 2012 ). Moreover, some studies reported
+that neutralizing agents could enhance lactic acid yield and productivityin batch fermentation ( Karp et al., 2011; Nakano et al., 2012; Qin et al.,
+2010; Tashiro et al., 2011 ). We obtained higher
+D-lactic acid productiv-
+ity of 1.67 g/L/h using NH 4OH than 1.3 g/L/h using NaOH (1.3 g/L/h) by
+Lb. delbrueckii subsp. lactis QU 41 ( Tashiro et al., 2011 ).Nakano et al.
+(2012) reported that divalent cation (Ca2+) is better than monovalent
+cation (Na+and NH3+) as a neutralizing agent for lactic acid produc-
+tion in SSF by Lb. delbruecki JCM1106 from broken rice ( Table 6 ).
+Aeration exerts a remarkable effect on lactic acid production by
+some strains, including Bacillus and E. coli (Qin et al., 2010; Zhu et al.,
+2007 ). Without aeration, lactic acid production by Bacillus sp. is limited
+due to its low biomass, while too much aeration results in the formationof wasteful byproducts ( Qin et al., 2010 ). To enhance fermentation ef ﬁ-
+cacy in batch fermentation, a 2-stage aeration control method wasemployed by a few researchers ( Chang et al., 1999; Qin et al., 2010;
+Z h ue ta l . ,2 0 0 7 ). In this method, aeration and agitation were controlled
+during the cell growth stage at the beginning of fermentation to in-
+crease biomass, and the aeration was then ceased. By applying such a
+method, Qin et al. (2010) improved lactic acid yield and signi ﬁcantly re-
+duced byproduct formation using Bacillus sp. Na-2 ( Table 6 ).
+4.2. Fed-batch fermentation
+Concentrations of substrate higher than the critical level cause sub-
+strate inhibition on strains, such as cell lysis and long lag phase, whichwould result in decreases in the fermentation rate and sugar utilization
+(Ding and Tan, 2006 ). To reduce substrate inhibition, fed-batch fermen-
+tation is thought to be a better fermentation system to maintain thesubstrate concentration at a low level by feeding nutrients to the
+fermentation broth, compared to batch and continuous fermentation
+(Abdel-Rahman et al., 2011c ). In fed-batch fermentation, the substrate
+is fed continuously or sequentially to the fermentor without the remov-
+al of fermentation broth ( Ding and Tan, 2006 ). It is especially advan-
+tageous when high substrate concentrations affect cell growth andproductivity ( Lee et al., 1999; Roukas and Kotzekidou, 1998 ). However,
+it still does not address severe product inhibition resulting from accu-mulating high lactic acid product ( Table 5 ). To maximize the product
+concentration in fed-batch fermentation, several factors should betaken into consideration, including times and terms of feeding the sub-
+strate, the substrate concentration to be maintained in the fermentation
+broth, and how to feed the substrate (the feeding methods). It is rather
+difﬁcult to perform trial and error tests with so many “open-ended ”
+variables that may play key roles in the overall performance of thefed-batch fermentation. Several innovative fed-batch fermentation
+methods have been developed for lactic production ( Table 7 ).
+Common feeding methods include intermittent, constant, and ex-
+ponential feeding as shown in Table 7. Pulse-feeding methods are
+easy to apply without much labor achieving high lactic acid produc-tion ( L. Wang et al., 2011; Meng et al., 2012; Okino et al., 2008; Y. Liu
+et al., 2006 ).Ding and Tan (2006) employed several fed-batch feed-
+ing methods for
+L-lactic acid by Lb. casei LA-04-1 as summarized and
+compared in Table 7. By exponential feeding of glucose solution
+(850 g/L) and yeast extract (1%), a high L-lactic acid concentration
+of 180 g/L with a productivity of 2.14 g/L/h was obtained; thesevalues were 56.5% and 59.7% higher, respectively, than those achieved
+by batch fermentation. Up to 210 g/L of lactic acid at a yield of 0.97 g/g
+and a productivity of 2.2 g/L/h was obtained by continuous feeding of
+glucose ( Bai et al., 2003b ). pH-controlled fed-batch fermentation by
+Lb. lactis BME5-18 M was developed by several authors (Bai et al.,
+2004; Zhang et al., 2010 ), maintaining the glucose concentration of the
+fermentation broth at a speci ﬁc value ( Table 7 ).Maas et al. (2008a)
+reported a novel process in which the alkaline substrate of lime-
+treated wheat straw was automatically fed into the fermentation brothnot only as a carbon source but also to adjust the pH ( Table 7 ). The
+performance of fed-batch fermentation by control the residual glucoseconcentration at constant was more effective at maintaining microbial
+activity ( Li et al., 2010). Li et al. (2010) designed a high-performance
+glucose controller integrated with the fermentor, and achieved 170 g/Lof
+L-lactic acid production by glucose feedback-controlled fed-batch
+fermentation with Lb. rhamnosus LA-04-1. This result was superior to
+that obtained either by pulse feeding or by feeding with a constant rate.
+Equipment and labor could be reduced by using SSF-fed-batch
+fermentation in a single reactor. Romani et al. (2008) achieved pro-
+duction of 37.8 g lactic acid/100 g biosludge at a productivity
+of 0.87 g/L/h from cellulosic biosludge by Lb. rhamnosus CECT-288
+using cellulase and β-glucosidase in SSF-fed-batch fermentation.
+Wang et al. (2011a) reported highly ef ﬁcient D-lactic acid production
+from peanut meal hydrolysate and glucose in SSF-fed-batchfermentation, which resulted in 207 g/L and 226 g/L
+D-lactic acid
+by single pulse and multi-pulse feeding methods, respectively ( Table 7 ).
+Similarly, Ou et al. (2011) have reported production of 80 g/L lactic acid
+from cellulose by B. coagulans 36D1 using multi-pulse feeding of cellulose
+in SSF-fed-batch fermentation. SSF-f ed-batch fermentation using mixed
+strains of Aspergillus niger SL-09 and Lactobacillus sp. G-02 as the pro-
+ducers of hydrolytic enzymes (inulinase and invertase) and lactic acid,
+respectively, produced 120.5 g/L L-lactic acid from Jerusalem artichoke
+tubers with the L-lactic acid yield of 0.945 g/g-total sugars for 36 h of cul-
+tivation ( Ge et al., 2009).
+Although fed-batch process is an industrially preferred fermenta-
+tion as it allows higher lactic acid concentration –up to 226 g/L as
+reported by Wang et al. (2011a) , the productivity is relatively low
+(≤4.7 g/L/h; Ge et al., 2010 )[Table 7 ]. Methods that increase the
+lactic acid concentration along with productivity are required.
+4.3. Repeated fermentation
+Repeated fermentation with batch or fed-batch fermentation in-
+volves repeated cycles by inoculating a part or all of the cells from a pre-
+vious run into the next run ( Zhao et al., 2010a ). Different methods
+applied for cell recycling by bacteria (centrifugation, use of hollowﬁber module, or use part of the culture) and fungi ( ﬁltration or mycelial
+pellet precipitation) in repeated fermentation process are summarizedinTable 8 . In comparison with normal batch or fed-batch fermentation
+(Table 5 ), repeated fermentation has several advantages, including in-
+crease the yield, saving time and labor processes required for cleaning
+and sterilizing the fermentor, omission of seed preparation time, high
+cell concentration and high lactic acid productivity, and short fermenta-
+tion time due to the high initial inoculation volume ( Naritomi et al.,
+2002 ). A comparison of lactic acid fermentation results obtained from
+batch and fed-batch or repeated batch fermentations by some studies
+is summarized in Table 9 .
+It should be again emphasized that minimizing the fermentation time
+that would increase the productivity is of pivotal importance for lac-
+tic acid production by a microbial fermentation process. Zhao et al.
+(2010b) reported a maximum
+L-lactic acid production of 107 g/L with
+an optical purity of 99.8% using a thermophilic Bacillus sp. strain 2-6 in
+open (nonsterilized) repeated batch fermentation ( Table 8). Kim et al.
+(2006) reported an improvement in lactic acid productivity (6.34 g/L/h)
+in repeated batch fermentation from cheese whey by Lactobacillus sp.
+RKY2, which was 6.2 times higher than that obtained from batch fermen-
+tation. Similarly, Wee et al. (2006) reported an enhanced lactic acid pro-
+d u c t i v i t yo f4 . 0g / L / hf r o mw o o dh y d r o l y s a t ea n dc o r ns t e e pl i q u o ri nt h erepeated batch fermentation of Enteroccocus faecalis RKY1, which was
+2.7-fold higher than that obtained from traditional batch fermentation.We have recently obtained the highest lactic acid productivity at
+12.3 g/L/h in open repeated fermentation by E. mundtii QU 25 that
+was 5.5-fold higher than obtained by batch fermentation [ Table 9 ]
+(Abdel-Rahman et al., 2013 ). Repeated fed-batch fermentation has
+also been reported using Lb. casei subsp. rhamnosus (ATCC 11443),887 M.A. Abdel-Rahman et al. / Biotechnology Advances 31 (2013) 877 –902Table 7
+Different methods used for lactic acid production in fed-batch fermentation process.
+Feeding method Fermentation
+substrateStrain Lactic acid Fermentation method Reference
+C(g/L) Y(g/g) P(g/L/h) Isomer and
+optical purity (%)
+Continuous feeding Glucose Lb. lactis BME5-18M 210 0.97 2.2 L-(ND) ●Performed in 5-l fermentor at 37 °C, pH controlled at 6.2 by 50% (w/w) CaCO 3slurry Bai et al. (2003b)
+161 2.02 ●pH-controlled feeding with continuous feeding of glucose
+●pH controlled at 7.0 by 5 M NH 4OHBai et al. (2004)
+Constant feed rate Glucose Lb. casei LA-04-1 135 0.88 1.61 L-(ND) ●Performed in a 5-l jar fermenter with an initial broth volume of 2.2 l at 42 °C
+●pH controlled at 6.25 by 25% (w/w) NH 4OHDing and Tan (2006)
+Constant residual
+substrateconcentration153 0.93 1.82
+Exponential feeding 158
+a0.91 1.88 ●The nutrient feeding rate is determined by a speci ﬁc equation, which is derived from
+a mass balance with the assumption of a constant cell yield on substrate and constantmaintenance coef ﬁcient throughout the fermentation.180
+b0.90 2.14
+pH feedback-controlled
+substrate feedingGlucose Lb. lactis-11 96.3 0.99 1.9 L-(ND) ●Performed in 5-l fermentor at 42 °C, pH controlled at 6.0 by 6 M NH 4OH/glucose solution Zhang et al. (2010)
+Lb. rhamnosusLA-04-1170 – 2.6
+L-(ND) ●Feeding by 770 g/L glucose using glucose controller ●Performed in 5-l fermentor at
+42 °C, pH controlled at 6.25 by 33% (w/w) calcium hydroxide solution or ammoniaLi et al. (2010)
+Lime-treatedwheat strawB. coagulansDSM 231440.0 0.43 –
+L-(97.2) ●SSF-fed-batch with cellulose, cellobiase and xylanase ●Performed in 20-l fermentor
+at 50 °C and pH 6.0 ●Neutralization of acid by fed-batch addition of alkaline substrateMaas et al. (2008a)
+Pulse feeding Glucose Lb. casei LA-04-1 130 0.89 1.55 L-(ND) ●Multi-pulse feeding Ding and Tan (2006)
+Rhizopus oryzaeNRRL 39592.0 0.60 0.7
+L-(ND) ●Multi-pulse feeding
+●Performed in7-l fermentor at 27 °C, pH controlled at 7.0 by 20% Ca(OH) 2Liu et al. (2006b)
+Corynebacterium
+glutamicum120 0.87 4.0 D-(99.9) ●Multi-pulse feeding ●Performed in 100-mL bottles under oxygen deprivation
+conditions at 45 °C, pH-controlled at 7.0 by ammoniaOkino et al. (2008)
+Jerusalemartichoke
+tubersAspergillus niger
+SL-09 and
+Lactobacillus sp. G-02
+(mixed culture)121 0.95 3.3
+L-(95) ●Multi-pulse feeding
+●SSF fed-batch with inulinase and invertase produced by A. niger
+●Multi-pulse feeding ●Performed in 7-l fermentor containing 4-l medium at 30 °C,
+aeration rate was 4.5 l/min, and the agitation speed was controlled at 140 rpm, initialpH was 7 (2% CaCO
+3).Ge et al. (2009)
+Lactobacillus sp. G-02 142 0.94 4.7 L-(95) ●Multi-pulse ●SSF-fed-batch with inulinase ●Performed in 7-l fermentor containing
+4-l of a medium with enzyme and sodium citrate 10 g/L, at 30 °C, initial pH of 6.5, 5% CaCO 3Ge et al. (2010)
+Peanut mealand glucoseSporolactobacillussp. strain CASD207 0.93 3.8
+D-(99.3) ●Pulse fed method ●Performed in 30-l bioreactor containing 24-l working volume
+at 42 °C, pH is self regulated at 5.0 –6.0 with CaCO 3inside the fermentorWang et al. (2011a)
+226 0.84 4.4 ●Multi-pulse fed method
+Bacillus sp. WL-S20 225 0.99 1.04 L-(100) ●Multi-pulse feeding ●Performed in a 1.5-l bioreactor with a working volume of 700 mL
+at 45 °C, 200 rpm, pH-controlled at 9.0 by NaOH.Meng et al. (2012)
+180 0.98 1.61 ●Pulse feeding
+C, concentration; Y, yield; P, productivity; Lb.,Lactobacillus ; B., Bacillus.
+aFeeding glucose solution (850 g/L).
+bFeeding glucose solution (850 g/L) and yeast extract (1%).888 M.A. Abdel-Rahman et al. / Biotechnology Advances 31 (2013) 877 –902Table 8
+Different methods used for lactic acid production in repeated batch fermentation processes by bacteria and fungi.
+Cell recyclemethodsStrain Fermentation
+substrateLactic acid Fermentation method Reference
+C(g/L) Y(g/g) P(g/L/h) Isomer and
+optical purity (%)
+For bacteria1. Centrifugation Bacillus sp.
+2-6Glucose 107 0.95 2.9
+L-(ND) ●Open fermentation ●Performed in 5-l fermentor with a working volume of 3-l at 50 °C, at 200 rpm,
+pH controlled at 6.5 by NaOH ●At the end of each batch, the broth was centrifuged and all recycled
+cells were used as the seed for the next batch.Zhao et al. (2010b)
+E. faeciumNo. 78Lique ﬁed
+sago starch36.3 0.57 1.96
+L-(ND) ●Performed in 3-l fermentor with a working volume of 3-l at 30 °C, at 200 rpm, pH controlled at 6.5
+by 10 M NaOH
+●At the end of each batch, the cells were harvested by centrifugation and used as the seed for the
+next batch.Nolasco-Hipolito et al. (2012)
+2. Hollow- ﬁber
+ﬁltration
+moduleE. faecalis
+RKY1Glucose 92 –94 – 6.03–6.2 L-(ND) ●Performed in 2.5-L jar fermentor containing 1 L of medium at 38 °C, 200 rpm, pH 7.0 controlled by
+10 N NaOH ●Cell recycled was obtained using a hollow- ﬁberﬁltration module.Oh et al. (2003)
+E. faecalisRKY1Woodhydrolyzate48.0 0.92 4.0
+L-(ND) ●Performed in 2.5-L jar fermentor containing 1-L of medium at 38 °C, 200 rpm, pH 7.0 controlled by
+10 N NaOH ●Cell recycle was obtained using a hollow- ﬁberﬁltration module.Wee et al. (2006)
+3. Using part of
+the cultureSporolacto-
+bacillus sp.
+strain CASDGlucose 82.8a0.94a1.72aD-(98.9) ●Performed in one reactor system in 500 mL- ﬂasks with 200 mL working volume, at 42 °C, 50 rpm,
+pH is self regulated by CaCO 3at 5.6 –5.8Zhao et al. (2010a)
+87.3a0.93a1.81a●Performed in two reactor system at same conditions as above
+For fungi
+1. Filtration R. oryzaeATCC 9363Glucose 113 0.90 4.3
+L-(ND) ●Performed in 5 L stirred tank bioreactor containing 3 L medium at 35 °C, agitation rate 300 rpm,
+aeration rate 2 vvm, and pH controlled at 6.0 using 40% (w/w) CaCO 3slurry ●The broth was ﬁltered
+out using a glass tube and cells used for next runs.Yu et al. (2007)
+2. Mycelial pellet
+precipitationR. oryzaeNRRL 395Corn starch 91.0
+b0.76b2.02bL-(ND) ●Performed in 3 L stirred tank bioreactor containing 2 L medium at 35 °C, agitation rate 300 rpm,
+aeration rate 0.5 vvm, and pH controlled at 6.0 using 30% (w/w) CaCO 3
+●After batch culture and stopping aeration, mycelia pellets were precipitated and used for next runYin et al. (1998)
+C, concentration; Y, yield; P, productivity; E.,Enterococcus ;R., Rhizopus.
+aData of the 2nd batch.
+bData of the ﬁrst 6 batches.889 M.A. Abdel-Rahman et al. / Biotechnology Advances 31 (2013) 877 –902Table 9
+Comparison of lactic acid fermentation results obtained from batch and fed-batch or repeated batch fermentations in several studies.
+Fermentation mode Fermentation Substrate Strain Lactic acid Ferm. time (h) Performance and ef ﬁciency Reference
+C(g/L) Y(g/g) P(g/L/h)
+Batch Glucose B. coagulans strain 36D1 103.6 0.93 0.71 144 ►Signiﬁcant increase in lactic acid concentration
+►Enhanced lactate productivityOu et al. (2011)
+Fed-batch 182.3 0.92 0.84 216
+Batch Xylose 102.3 0.86 0.71 144Fed-batch 163.0 0.87 0.75 216
+Batch Glucose B. subtilis MUR1
+(mutant)143.2 0.9 2.75 52 ►Compared with batch, fed-batch showed 41.1%
+improvement in cell dry weight, 41.1% improvementin productivity and a 2.5-fold increase in themaximum productivity of lactic acid.Gao et al. (2012)
+Fed-batch 183.2 0.99 3.52 52
+Batch Starch Lb. amylophilusBCRC 1405521.62 0.98 0.31
+a– ►The productivity in the fed-batch with was 2.42-times
+higher than productivity obtained in the batch.►Increase in cumulative lactic acidYen and Kang (2010)
+Fed-batch 43.7 0.69 0.75
+a–
+Open batch Glucose Bacillus sp. Na-2 118 0.97 4.37 27 ►Using pulse feeding method, lactic acid concentrations
+signiﬁcantly improved in open fermentation at 55 °C.Qin et al. (2009)
+Open fed-batch 182 0.96 2.88 60
+Batch Cheese whey Lactobacillus sp. RKY2 94.06 0.98 1.06 92 Kim et al. (2006)
+Repeated batch 95.11 0.99 6.34 15 ►Improved productivity by 6.2 times
+Batch Glucose Rhizopus oryzae 103.7 – 2.16 – Wu et al. (2011)
+Repeated batch 81 –95b– 3.4–3.85b– ►Increased productivity by repeated fermentation
+Open batch Glucose E. mundtii QU 25 79.4 0.84 2.21 36 ►By applying open repeated batch, a signi ﬁcant increase
+of productivity —up to 5.5-fold compared to open batch
+was achieved.Abdel-Rahman et al. (2013)
+Open repeated batch 84.1 0.83 12.3 6
+C, concentration; Y, yield; P, productivity; Lb.,Lactobacillus ;B., Bacillus; E., Enterococcus .
+aMaximum lactic acid productivity.
+bData of the 1 cycles next to ﬁrst batch.890 M.A. Abdel-Rahman et al. / Biotechnology Advances 31 (2013) 877 –902which achieved lactic acid production of up to 146 g/L from glucose
+(Velázquez et al., 2001 ). Multiple-stage repeated fermentation was
+reported to improve productivity in repeated fermentations by avoidingthe inhibitory effects of high product concentrations on lactic acid pro-
+ducing strains ( Ito et al., 1991; Shimizu, 1996; Zhao et al., 2010a ).
+Two-stage repeated batch fermentation exhibited a higher performancefor
+D-lactic acid production than the 1-reactor system ( Table 8 )b y
+Sporolactobacillu s sp. CASD by increasing the cell concentration at an
+early stage of fermentation ( Zhao et al., 2010a ).
+Repeated fermentation for L-lactic acid production using lactic
+acid-producing R. oryzae has been also reported ( Bai et al., 2003a;
+Du et al., 1998; Jiang et al., 2008; Liu et al., 2008; Yin et al., 1998; Yuet al., 2007 ).Yin et al. (1998) used small mycelia pellets of R. oryzae
+NRRL395 for 9 cycles over 14 days and achieved lactic acid productiv-ity up to 2.02 g/L/h from corn starch in an air-lift bioreactor, which
+was 1.9-fold higher than that obtained from batch fermentation. Du
+et al. (1998) used 2 different physical forms ( ﬁlamentous and pellet)
+to produce
+L-lactic acid by R. oryzae ATCC 52311 in repeated batch fer-
+mentation, and the productivities reached up to 5.06 and 4.39 g/L/h,
+respectively. Bai et al. (2003a) achieved lactic acid productivity up
+to 3.51 g/L/h in repeated batch fermentation using R. oryzae R1021
+from glucose. Yu et al. (2007) reported on repeated batch fermenta-
+tion for 6 cycles using the ﬂoc-form of R. oryzae with a maximum lac-
+tic acid productivity and yield of 4.03 g/L/h and 0.90 g/g, respectively.
+Liu et al. (2008) developed a process for coproduction of lactic acid
+and chitin using pelletized R. oryzae NRRL 395 with a lactic acid con-
+centration and productivity of 66 g/L and 2.4 g/L/h, respectively.
+Recently, Wu et al. (2011) performed repeated batch fermentation
+using R. oryzae AS 3.819 pellets for L-lactic acid production for 25 cy-
+cles in a 7-l magnetically stirred fermentor. During this fermentation
+process, lactic acid concentration and productivity were 103.7 g/L and
+2.16 g/L/h for the ﬁrst cycle, respectively; however, in the next 19
+repeated cycles, the ﬁnal lactic acid production reached 81 –95 g/L,
+and the productivity reached 3.40 –3.85 g/L/h ( Table 9 ). Further studies
+on fungal growth characteristics and metabolic processes duringrepeated fermentation are still required; speci ﬁcally concerning
+morphology of fungal strain that in ﬂuences the rate of microorgan-
+ism growth and product formation ( Wu et al., 2011 ).
+4.4. Conventional continuous fermentation
+Production of lactic acid is strictly associated with cell growth,
+which allows the cells to obtain the necessary energy for growth
+from lactic acid producing pathways. Continuous lactic acidfermentation is attractive in terms of avoiding the end-product inhi-bition that occurs in batch/fed-batch fermentation by diluting the
+product in the fermentation broth with fresh medium ( Table 5 )
+(Amrane and Prigent, 1996; Wee and Ryu, 2009 ). Chemostat fermen-
+tation is a typical continuous fermentation system in which feeding of
+fresh medium to the fermentor and withdrawing fermentation broth
+are performed at the same rate to provide constant control of the con-
+centration of a component in the fermentation broth. In chemostat
+fermentation, the concentrations of cells, products, and substrates in
+the fermentation broth can be stably maintained at constant levels dur-
+ing certain periods. The speci ﬁc growth rate can be adjusted by the di-
+lution rate because the speci ﬁc growth rate would equal the dilution
+rate under steady state conditions in chemostat fermentation ( Bustos
+et al., 2007 ). Therefore, the dilution rate is an important parameter
+that allows productivity to be maximized and should be further investi-
+gated. In addition, continuous fermentation is shut down with less fre-
+quency than batch fermentation (where the reactor must be emptied,
+cleaned, sterilized, and re ﬁlled), and there is less decrease in productiv-
+ity during lag phases ( Gassem et al., 1997; Ohara et al., 1992 ). However,
+the ef ﬂux of unutilized carbon sources and cells from the fermentor and
+the decrease in lactic acid concentration with an increase in the dilution
+rate are problematic points during lactic acid production with continuous
+fermentation ( Zhang et al., 2011 ). These problems can be solved by using
+HCD fermentations, as described in Section 5 .
+In conventional continuous fermentation without HCD, we have
+reported an improved lactic acid productivity of 1.56 g/L/h fromsago starch with the amylolytic LAB strain Enteroccocus faecium
+No. 78 ( Shibata et al., 2007 ) and of 4.53 g/L/h from cassava starch
+byLb. plantarum SW14 ( Bomrungnok et al., 2012). Bustos et al.
+(2007) reported a lactic acid productivity of 3.1 g/L/h from trimming
+vine shoots hydrolysate at a dilution rate of 0.2 h
+−1byLb. pentosus
+CECT-4023 T. We have recently reported D-lactic acid productivities
+of 2.07 –3.55 g/L/h in conventional continuous culture, which was
+higher than that obtained in the batch culture (1.67 g/L/h) from glu-cose by Lb. delbrueckii subsp. lactis QU 41 ( Tashiro et al., 2011).
+5. Improved lactic acid fermentation with high cell density
+HCD is widely used for several fermentative production processes;
+however, it has not been clearly de ﬁned. Approximately 10-fold higher
+cell concentrations than those generally used for batch fermentationwould be considered as HCDs ( Chang et al., 2011 ). Fermentative pro-
+duction systems using HCD are desirable for cost-effective large-scaleproduction, mainly because of their high productivities and lack ofTable 10
+Advantages and disadvantages of high cell density culture using various techniques.Source, Chang et al. (1994) .
+Technique Advantages Disadvantages
+Cell immobilization -Protection of cells from shear or environment
+-No washout at any dilution rate
+-High packed cell densities-Improves recombinant DNA-stability-Poor oxygen and nutrient transfer-Instability of immobilized cell matrix-Scale-up dif ﬁculties
+-Limitation in the shape of support matrix-Low effectiveness factor
+Cell recycle by settling/ ﬂocculation -Simplicity of devices
+-Easy scale-up
+-Low energy requirement-Limited to ﬂocculent strains
+-Low cell density-Dilution rate limited by settling velocity
+Cell recycle by centrifugation -Applicable to industrial substrates containing many particles
+-Suitable for large scale operations-Difﬁculties in maintaining sterile conditions
+-Expensive and complicated process
+Cell recycle by external membrane -High membrane surface area/culture working volume · (s/v) ratio
+-Ease of replacing the membrane module during the operation
+-High biomass density-Recirculation needs extra pumps-Difﬁculty of sterilization
+-Decrease in ﬂux due to fouling
+-Shear damage to cells-Inhomogeneity in reactor
+Cell recycle by internal membrane -Simple operation
+-No need for ﬂuid circulation
+-Homogeneity in reactor (pH, DO, cell mass)-High biomass density-Decrease in ﬂux due to fouling
+-Limitation in s/v ratio-Inﬂexibility891 M.A. Abdel-Rahman et al. / Biotechnology Advances 31 (2013) 877 –902Table 11
+Performance of free/immobilized cells with fermentation modes for improved lactic acid production.
+FermentationmodeCell immobilizationtechniqueStrain Fermentation
+substrateLactic acid production Fermentation method Performance and ef ﬁciency Reference
+C(g/L) Y(g/g) P(g/L/h)
+Fed-batch with
+free cells– Lb. lactis -11 Glucose 98.6 0.98 2.0 ●pH feedback feeding method ►Product inhibition occur Zhang et al. (2011)
+Fed-batch with
+free andimmobilized cellsAttachment
+(adsorption)115 0.94 2.25 ●Performed in a packed
+bed-stirred fermentor (PBSF)
+system ﬁlled
+with ceramic beads using a pHfeedback feeding method.►Final lactic acid concentration and
+productivity in the PBSF system increasedby 16.6 and 12.5%, respectively.►Glucose was completely utilized.
+►Immobilized cells were more tolerant to
+product inhibition.
+Repeated-fed-batch
+with free and
+immobilized cellsAttachment
+(adsorption)117
+a0.94 2.34 ●As above with repeated cycles ►The inoculation preparation and lag
+phase of each batch were eliminated.
+Batch with free cells – Lb. rhamnosusATCC 7469Liquid distillerystillage34.7 0.81 0.66 ►Low lactic acid productivity Djuki ć-Vuković et al. (2013)
+Repeated batch with
+immobilized cellsAttachment(adsorption)42.2
+a0.99 1.22 ●Cells were immobilized onto
+zeolite, a microporousaluminosilicate mineral.►Immobilization allowed simple cell
+separation from the fermentation mediaand reuse in repeated batch.►Almost double productivity was obtained.
+Batch with free cells – Lc. lactisATCC19435Jerusalem artichokehydrolysate92.5 0.68 0.5 Shi et al. (2012)
+Batch with
+immobilized cellsAttachment(adsorption)121 0.92 1.0 ●Cells were immobilized in
+ﬁbrous bed bioreactors.►Compare with free cell, signi ﬁcant
+increase in lactate concentration, yieldand productivity
+Fed-batch with
+free cells– 103 – 0.86
+Fed-batch with
+immobilized cellsAttachment(adsorption)142 – 1.5 ●Cells were immobilized in
+ﬁbrous bed bioreactors.►Compare with free cell, signi ﬁcant increase
+in lactate concentration and productivity
+Repeated batch with
+immobilized cellsAttachment(adsorption)– 0.84–
+1.010.71–
+2.85●Cells were immobilized in
+ﬁbrous bed bioreactors.►Long-term operation with high
+fermentation ef ﬁciency
+Batch with
+immobilized cellsContainment(microencapsulation)Lc. lactis IO-1 Glucose 29.8 0.98 2.16 ●Cells were immobilized in a
+packed-bed reactor.►High lactic acid concentration with low
+productivitySirisansaneeyakul et al. (2007)
+Repeated batch with
+immobilized cellsContainment(microencapsulation)23.0–
+27.60.66–
+0.922.16–
+2.47►Feasibility of using immobilized cells for
+multiple fermentation cycles (3 cycles)
+Continuous process
+with
+immobilized
+cells (0.5 h−1)Containment
+(microencapsulation)8.9 0.89 4.46 ►High lactic acid productivity but low
+glucose utilization
+Batch with
+immobilized cellsEntrapment Rhizopus
+oryzaeNBRC 5384Glucose 145 0.95 1.42 ●R. oryzae cells were
+immobilized in situ withinsponge-like cubic particlesmade of polyurethane foam.►Signiﬁcant increase in lactic acid production Yamane and Tanaka (2013)
+Fed-batch with
+immobilized cellsEntrapment 231 0.93 1.83
+C, concentration; Y, yield; P, productivity; Lb.,Lactobacillu s;Lc.,lactococcus .
+aData of the 3rd run.892 M.A. Abdel-Rahman et al. / Biotechnology Advances 31 (2013) 877 –902contamination problems ( John and Nampoothiri, 2011 ). In addition,
+fermentors with HCD can be more compact in size and allow stable
+long-term fermentation; however, these systems are dif ﬁcult to design
+and operate ( Ozturk, 1994 ).
+Several methods are used to achieve HCD, including fed-batch fer-
+mentation, cell immobilization, and cell recycling. John and Nampoothiri
+(2011) reported a novel method for achieving HCD in Lactobacilli
+by coculturing Lb. paracasei subsp. paracasei with the fast-growing
+Lb. delbrueckii subsp. delbrueckii and then embedding the coculture on
+to polyurethane foam cubes as a bio ﬁlm. Among these methods, fed-
+batch fermentation is the most commonly used in commercial practice;however, cell immobilization and cell recycling methods are more suit-
+able for continuous fermentation and permit operation at higher dilution
+rates than conventional continuous fermentation ( Chang et al., 1994).
+Various supports and immobilization techniques have been proposedand tested for application in lactic acid production, as described in next
+section. Cell retention can be achieved by sedimentation, centrifugation,
+or collection via membranes. The membrane cell recycling technique is
+the most widely used as it allows complete recycling of cells ( Chang
+et al., 1994 ).Table 10 shows the advantages and disadvantages of cell
+recycling methods. In this section, we will focus on cell immobilization
+and membrane-based cell recycling techniques for lactic acid production
+with HCD.
+5.1. Cell immobilization
+From an industrial standpoint, cell immobilization methods have be-
+come one of the most useful methods for increasing cell concentrations
+in fermentors, which should result in higher lactic acid productivity.
+In addition, cell immobilization improves cell and operational stability,
+reduces the need for nitrogen sources, enables re-utilization operations,
+reduces downstream processing by coupling fermentation and separa-
+tion processes, and reduces risk of contamination because of a high con-
+centration of used cells ( Gao et al., 2004; Øyaas et al., 1996; Panesar
+et al., 2007; Tong et al., 2004 ). Furthermore, continuous fermentation
+can be operated at high dilution rates without cell washout using
+immobilized cells. However, mass-transfer limitations are considered
+to be a signi ﬁcant drawback for fermentation with immobilized
+cells Kosseva et al. (2009) .Table 11 shows the performance of free/
+immobilized cells and operational processes in lactic acid fermenta-
+tion. As shown in Table 11, fermentation with immobilized cells
+resulted in enhanced lactic acid production with higher productiv-ities than those obtained using free cells.
+In general, there are 4 categories of immobilization techniques
+(Fig. 2 ,Table 11 ), namely, attachment (adsorption), entrapment, con-
+tainment, and self-aggregation ( Kourkoutas et al., 2004; Pilkington et
+al., 1998 ). Adsorption (or attachment) on solid carrier surfaces is the
+most common because it is simple to carry out and has little in ﬂuenceon the conformation of the cells that are held to the surface of the car-
+riers by physical (van der Waals forces) or electrostatic forces or by co-
+valent binding between the cell membrane and the carrier ( Goncalves
+et al., 1992 ). However, the relative weakness of the adsorptive binding
+forces is the major limitation of this technique. The forces of covalent
+binding using aggressive chemicals are stronger than physical forces;
+however, aggressive chemicals are harmful to the cells and are not pre-ferred for cell immobilization ( Panesar et al., 2007 ). A variety of support
+materials have been investigated for adsorption, including activatedcarbon Andrews and Fonta (1989) ,
+ aluminum beads ( Tango and
+Ghaly, 2002 ), glass and ceramics ( Guoqiang et al., 1992; Zhang et al.,
+2011 ), wood chips ( Krischke et al., 1991 ), plastic composite supports
+(Velázquez et al., 2001 ), porous bricks and cotton ﬁbers ( Goncalves et
+al., 1992; Tay and Yang, 2002 ), and foam ( Dong et al., 1996 ). Loofa
+sponges ( Lufa cylindrica ) have been proposed to be the most promising
+matrix for an alternative carrier because it is renewable and biodegrad-
+able, easy to use, less expensive, and available naturally in abundance
+(Ganguly et al., 2007; Ogbonna et al., 1994, 1996; Roble et al., 2003;
+Slokoska and Angelova, 1998 ).
+Entrapment techniques are also popular for the immobilization of
+cells because of the simplicity of using spherical particles containingcells, which can be obtained by dripping a polymer-cell suspension into
+a solution containing precipitate-forming counter ions or through ther-
+mal polymerization. Materials commonly used for entrapment are poly-
+saccharide gels, like calcium alginate, agar, agarose, kappa-carrageenan,
+chitosan, and polygalacturonic, or other polymeric matrixes, like gelatin,
+collagen, and polyvinyl alcohol ( Elezi et al., 2003; Lee et al., 2003; Park
+and Chang, 2000 ). Entrapment using calcium alginate gel beads has
+been used extensively for lactic acid production by immobilized cells
+(Champagne et al., 1992; Hamamci and Ryu, 1994; Hang et al., 1989;
+Wang et al., 1995; Xuemei et al., 1999 ). Slow leakage of cells during con-
+tinuous long-term operation can also occur, which would comprise
+immobilized and free cells in the fermentor. To avoid this problem,double-layer beads have been developed ( Tanaka et al., 1989 ), and fur-
+ther improvements can be made by using suitable cross-linking proce-dures. In addition, the insuf ﬁcient oxygen supply due to the diffusional
+resistance of the gel matrixes may decrease fermentation ef ﬁciency, par-
+ticularly aerobic fermentation ( Sun et al., 1998 ). Moreover, preparation
+of large amounts of gel beads for industrial production may be uneco-nomical and cumbersome ( Ogbonna et al., 1989).
+Mechanical containments behind a barrier can be attained by use of
+microporous membrane ﬁlters, entrapment of cells in a microcapsule,
+or cell immobilization onto an interaction surface of 2 immiscible
+liquids ( Chang et al., 2011 ). Mechanical containment is advantageous
+when cell-free products and minimum transfer of compounds are re-quired ( Park and Chang, 2000 ). However, mass transfer limitations
+and possible membrane biofouling caused by cell growth are the maindisadvantages of this technique ( Kourkoutas et al., 2004 ).
+Attachment (Adsorption)
+Adsorption Electrostatic binding Covalent bindingEntrapment
+Matrix BiocatalystContainment
+Biocatalyst MembraneSelf-aggregation
+Surface BiocatalystCell immobilization techniques
+Biocatalyst
+Fig. 2. Categories of immobilization techniques (attachment, entrapment, containment and self-aggregation).893 M.A. Abdel-Rahman et al. / Biotechnology Advances 31 (2013) 877 –902Some microbial cells can aggregate to form larger units that adhere
+in clumps and sediment rapidly ( Jin and Speers, 1998 ). Aggregation
+can be considered a natural immobilization technique that is mainly ob-
+served in molds and fungi. Arti ﬁcial aggregating agents or cross-linkers
+can be used to enhance aggregation of cells that cannot aggregate natu-rally ( Kourkoutas et al., 2004 ).
+Fungal cell immobilization has been used to control fungal morphol-
+ogy and has been shown to achieve high lactic acid productivity by HCD(Ganguly et al., 2007; Zhang et al., 2007 ). Immobilized Rhizopus cells
+have been applied in many bioreactors used in submerged ﬁlamentous
+fungal fermentations, including air-lift bioreactors, drum contactors, re-
+ciprocating jet bioreactors, tower fermentors, and hollow ﬁber bioreac-
+tors ( Lin et al., 1998; Park et al., 1998; Sun et al., 1998, 1999; Tamada
+et al., 1992; Tay and Yang, 2002; Y. Liu et al., 2006 ). However, in most
+immobilization studies, lactic acid yields were only 0.65 –0.78 g/g, with
+lactic acid concentrations of 40 –73 g/L ( Dong et al., 1996; Hamamci
+and Ryu, 1994; Hang et al., 1989; Lin et al., 1998; Tamada et al., 1992;Xuemei et al., 1999 ). Although there are reports where lactic acid yields
+reached more than 85% ( Efremenko et al., 2006; Kosakai et al., 1997; Tay
+and Yang, 2002 ), the complex operational processes of fungal immobili-
+zation, attrition of support, and possibility of bioreactor damage at highagitation speed limit their use ( Chotisubha-anandha et al., 2011 ).
+Generally, lactic acid production by cell immobilization has been
+reported in conventional batch fermentation ( Chotisubha-anandha et
+al., 2011; John and Nampoothiri, 2011; Rangaswamy and Ramakrishna,2008; Rosenberg et al., 2005; Sirisa nsaneeyakul et al., 2007; Yamane
+and Tanaka, 2013 ) ,f e d - b a t c hf e r m e n t a t i o n( Yamane and Tanaka,
+2013 ), SSF-fed-batch fermentation ( Shen and Xia, 2006 ), repeated fer-
+mentation ( Ganguly et al., 2007; Rosenberg et al., 2005; Velázquez
+et al., 2001; Yen and Lee, 2010; Z. Wang et al., 2010; Zhang et al.,
+2011 ), and continuous fermentation ( John et al., 2007a; Rangaswamy
+and Ramakrishna, 2008; Sirisansaneeyakul et al., 2007; Tango andGhaly, 2002 ) using different bioreactors, such as packed-bed reactors,
+continuous stirred-tank reactors, ﬁbrous-bed reactors, and ﬂuidized-bed
+reactors. These ﬁndings are described in detail below.
+5.1.1. Packed-bed reactors (PBRs)
+A PBR is a simple operational system with high mass-transfer rates
+in which the microorganism can be packed into a column in the form
+of spheres, chips, disks, sheets, beads, or pellets. This system is especial-
+ly appropriate to strains that do not require oxygen for lactic acid
+production ( Sirisansaneeyakul et al., 2007 ). However, the periodic ﬂuc-
+tuation in the viable cell population due to nutrient depletion along thereactor length is one of the limitations of this system ( Kosseva et al.,
+2009 ). Although operation of the fermentor coupled with a packed
+bed in continuous fermentation has the potential to achieve simulta-
+neous product removal and high productivities, low sugar utilization
+or high residual sugar concentrations are the main disadvantages of
+this system. In addition, large pH gradients are generated, and therefore,
+a large fraction of the immobilized cells do not experience optimal pH
+for lactic acid production ( Senthuran et al., 1999 ).
+PBRs with immobilized cells have been reported for lactic acid
+p
+roduction in batch fermentation, repeated batch fermentation
+(Senthuran et al., 1997, 1999; Sirisansaneeyakul et al., 2007 ), and
+continuous fermentation ( Roukas and Kotzekidou, 1996; Roy et al.,
+1987; Sirisansaneeyakul et al., 2007; Tango and Ghaly, 2002 ).
+Tango and Ghaly (2002) achieved a high lactic acid concentration
+of 75.6 g/L with a yield of 0.96 g/g and a productivity of 3.90 g/L/hfrom whey using Lb. helveticus cells immobilized on alumina beads
+in PBR after a hydraulic retention time of 18 h. A PBR using encapsu-lated Lc. lactis IO-1 in a membrane capsule and entrapment in a gel
+matrix achieved an even higher lactic acid productivity of 4.5 g/L/hin continuous fermentation at a dilution rate of 0.5 h
+−1, compared
+to 2.16 g/L/h in batch fermentation and 2.16 –2.47 g/L/h in re-
+peated batch fermentation from glucose ( Table 11 )(Sirisansaneeyakul
+et al., 2007).5.1.2. Continuous ﬂow stirred tank reactors (CSTR)
+CSTRs have been widely used in commercial fermentation pro-
+cesses due to its industrial capacity and reliability. In an ideal CSTR,the fermentation broth in the bioreactor is perfectly mixed. CSTR for
+lactic acid production by immobilized cells has been reported with
+co-immobilized Lb. casei SU No. 22 and Lb. lactis WS 1042 cells
+entrapped in Ca-alignate with a lactic acid productivity of 0.72 –
+0.86 g/L/h in repeated fermentation ( Roukas and Kotzekidou, 1991 )
+and immobilized Lb. casei subsp. casei (DSM 20244) cells onto porous
+sintered glass beads with a lactic acid productivity of 5.5 g/L/h at a di-lution rate of 0.22 h
+−1(Krischke et al., 1991 ). A maximum lactic acid
+productivity of 28.5 g/L/h at a dilution rate of 1.21 h−1was obtained
+in continuous fermentation from whey permeate by immobilized
+Lb. helveticus L89 cells entrapped in k-carrageenan-locust bean gum
+gel beads in CSTR ( Norton et al., 1994 ). Immobilization of ﬁlamentous
+fungi in a CSTR is often limited by insuf ﬁcient mixing and low mass
+transfer due to formation of mycelial clumps that cause operationalproblems and high shear rates and have relatively high power re-
+quirements ( Chotisubha-anandha et al., 2011; Z.Y. Zhang et al., 2008 ).
+The use of CSTR allows ef ﬁcient control of pH, but often leads to
+attrition of the support. On the other hand, large pH gradients are gen-
+erated in PBR that do not match the optimal pH for a large fraction of the
+immobilized cells ( Senthuran et al., 1999 ). Therefore, a dual reactor sys-
+tem by connecting CSTR and PBR using immobilized cells has been alsoreported ( Rangaswamy and Ramakrishna, 2008; Sirisansaneeyakul
+et al., 2007; Zhang et al., 2011 ). With this system, a signi ﬁcant enhance-
+ment of lactic acid productivities, yields, and ﬁnal concentrations has
+been achieved by avoiding attrition of the support by ef ﬁciently control-
+ling the pH. Rangaswamy and Ramakrishna (2008) operated a dual re-
+actor in continuous fermentation for more than 1000 h and achievedconstant lactic acid productivity of 5 g/L/h from sucrose by immobilized
+Lb. delbrueckii NCIM 2365 cells on polyurethane foams in comparison to
+productivities of 2.0 –2.5 g/L/h in batch fermentation and 0.65 g/L/h in
+continuous fermentation using free cell systems ( Rangaswamy and
+Ramakrishna, 2008 ). Similarly, Zhang et al. (2011) operated this dual
+system with immobilized Lb. lactis 11 cells on ceramic beads and en-
+hanced lactic acid concentrations by 16.6% and productivities by 12.5%compared to those obtained from free cell systems in continuous
+fermentation ( Table 11 ).
+5.1.3. Fibrous-bed reactor
+Fibrous-bed bioreactors have been reported for lactic acid produc-
+tion by cell immobilization in ﬁbrous matrices, e.g., cotton cloths, packed
+in fermentor vessels ( Shi et al., 2012; Silva and Yang, 1995 ). Fibrous-bed
+reactors have been greatly improved in terms of packing designs to
+allow for more uniform structures and to minimize diffusion limitations,
+greatly improving fermentation ef ﬁciency ( Vijayakumar et al., 2008 ).
+Silva and Yang (1995) investigated the kinetics and long-term stability
+ofﬁbrous-bed bioreactors for continuous lactic acid production from
+unsupplemented acid whey containing 3.7% (w/v) lactose and 0.8%(w/v) lactic acid using immobilized Lb. helveticus ATCC 15009 cells.
+Depending on the dilution rate and lactic acid concentration, productiv-ities ranging from 2.6 to 7 g/L/h were achieved, which were10 times
+higher than those in batch fermentation with free cells. Shi et al.
+(2012) reported a high
+L-lactic acid production of 142 g/L from Jerusalem
+artichoke hydrolysate by immobilized Lc. lactis ATCC19435 in a ﬁbrous-
+bed bioreactor with fed-batch fermentation; this value was 27.92%higher than that in fed-batch fermentation using free cells (103 g/L)
+as shown in Table 11 . They also achieved high
+L-lactic acid yields ranging
+from 0.84 to 1.01 g/g and productivities ranging from 0.71 to 2.85 g/L/hwith long-term persistence (approximately 780 h) by repeated fermen-
+tation with a ﬁbrous-bed reactor [ Table 11 ](Shi et al., 2012 ). The
+ﬁbrous-bed reactor was also reported as an effective system for lactic
+acid fermentation by Rhizopus sp., which allowed operational problems
+common to conventional fungal fermentation processes to be avoided.Tay and Yang (2002) used a rotating ﬁbrous-bed bioreactor to produce894 M.A. Abdel-Rahman et al. / Biotechnology Advances 31 (2013) 877 –902Table 12
+Lactic acid production with high density culture using membrane cell recycling.
+Fermentation mode, membrane cell recycling method Strain Substrate Lactic acid production Dilution rate (h−1) Time of operation (h) Reference
+C(g/L) Y(g/g) P(g/L/h)
+Continuous, cell recycle via ceramic micro ﬁltration membranes Lc. lactis sub sp. cremoris IF0 3427 Molasses 40.0 – 10.6 0.26 240 Ohashi et al. (1999)
+Continuous, cell recycle via ﬂat sheet Lb. delbrueckii Glucose 35.0 0.96 76.0 2.2 54 Vick-Roy et al. (1983b)
+Continuous, cell recycle via polymeric hollow ﬁber module E. faecium No. 78 Sago starch 11.7 0.76 3.04 0.26 – Shibata et al. (2007)
+Lactobacillus sp. RKY2 Wood hydrolysate 42.0 0.95 6.7 0.16 – Wee and Ryu (2009)
+Lb. bulgaricus Sweet whey permeate 117 0.99 84.0 0.72 8 Mehaia and Cheryan (1987)
+Lb. bulgaricus Cheese whey permeate 89.0 0.89 22.5 0.25 130 Tejayadi and Cheryan (1995)
+Lb. delbrueckii Glucose 40.0 0.76 12.0 0.3 220 Major and Bull (1989)
+Lb. delbrueckii subsp. lactis QU 41 Glucose 20.7 1.03 18.0 0.87 14 Tashiro et al. (2011)
+Lb. plantarum SW14 Cassava starch 20.0 – 8.0 0.40 – Bomrungnok et al. (2012)
+Continuous, cell recycle via a hydrophilic polyvinylidene
+ﬂuoride micro ﬁltration moduleLb. paracasei Glucose 91.0 0.85 31.5 0.3 156 Xu et al. (2006)
+Continuous, cell recycle via ultra ﬁltration ﬂat sheet Lb. delbrueckii NRRL-B445 Glucose 57.0 0.98 160 2.80 14 Ohleyer et al. (1985)
+Continuous, cell recycle via ultra ﬁltration tubular mineral
+membranesLb. helveticus Sweet whey permeate 25.0 0.81 22.0 0.88 140 Boyaval et al. (1987)
+Continuous, cell recycling by ultra ﬁltration tubular
+ceramic membraneLb. rhamnosus NRRL B445 Glucose 88.0 0.74 35.2 0.40 90 Xavier et al. (1995)
+Continuous, via internal (submerged) polymeric hollow ﬁber
+membraneLc. lactis ssp. cremoris ASCC930119 Whey 60.0 – 9.7a– 30 Ramchandran et al. (2012)
+Repeated batch, cell recycle via ceramic micro ﬁltration
+membranesLb. rhamnosus HG09F5-27 Glucose 157 0.98 8.77 –– Lu et al. (2012)
+C, concentration; Y, yield; P, productivity; Lb.,Lactobacillus ;Lc.,lactococcus ,E.,Enterococcus .
+aMaximum productivity.895 M.A. Abdel-Rahman et al. / Biotechnology Advances 31 (2013) 877 –902L-lactic acid by R. oryzae NRRL 395 and obtained a lactic acid production
+of 126 g/L with a yield of 0.89 g/g and a productivity of 2.5 g/L/h from
+glucose in fed-batch fermentation. Similarly, a lactic acid production of
+127 g/L with a yield of 0.90 g/g and a productivity of 1.65 g/L/h was
+obtained from cornstarch in fed-batch fermentation ( Tay and Yang,
+2002 ).Thongchul and Yang (2006) developed thin mycelial layers to in-
+crease oxygen transfer for the improvement of lactic acid production.Chotisubha-anandha et al. (2011) revealed that mass transport was
+the rate-limiting factor in a static ﬁbrous-bed reactor using R. oryzae .
+Immobilized R. oryzae NRRL 395 on a cotton matrix in a ﬁbrous-bed re-
+actor achieved a maximum lactic acid concentration of 37.8 g/L from70 g/L glucose with a yield of 0.62 g/g and a productivity of 2.09 g/L/h
+(Chotisubha-anandha et al., 2011 ).
+5.1.4. Fluidized-bed reactors (FBRs)
+FBRs are widely employed with cell immobilization systems. In
+these reactors, ﬂuidization is achieved by the combined upward and
+downward movements of particles; therefore, FBRs provide a degreeof mixing that is between the 2 extremes of the PBR and the CSTR. In
+addition, higher mass transfer and heat transfer rates are expected
+than those in PBRs. The application of FBRs for lactic acid production
+has rarely been studied due to their dif ﬁculty in scale-up, short-term
+operation and the requirement for regeneration of a biocatalyst
+(Davison and Scott, 1992; Kaufman et al., 1995; Krischke et al.,
+1991; Lin et al., 2007; Patel et al., 2008 ).Krischke et al. (1991)
+reported higher lactic acid productivities of 10 g/L/h at a dilution
+rate of 0.4 h
+−1and of 13.5 g/L/h at a dilution rate 1.0 h−1from
+whey permeate by Lb. casei subsp. casei DSM 20244 (immobilized
+by adsorption on sintered glass beads) in FBR than those achieved
+in CSTR (5.5 g/L/h at a dilution rate of 0.22 h−1). Two solid particles
+(the immobilized biocatalyst and the adsorbent particle) were usedto form the biparticle ﬂuidized-bed bioreactor that enhanced lactic
+acid production. Davison and Scott (1992) achieved enhanced lactic
+acid production in biparticle FBR with gel beads of Lb. delbreuckii
+ATCC 9649 cells entrapped in k-carrageenan and activated carbon as
+an adsorbent (absorb lactic acid) for simultaneous production and
+recovery of lactic acid in batch fermentation. Similarly, Davison and
+Thompson (1992) immobilized Lb. delbreuckii in alginate beads and
+ﬂuidized the beads by upward- ﬂowing liquid media in a tubular
+reactor. After that, the adsorbent, polyvinyl pyridine resin Reillex425 was added to the top of the reactor, fell through the biocatalyst
+bed, and was found to adsorb lactic acid, moderate broth pH, and
+increase lactic acid production nearly 4-fold over a control FBR with-
+out the addition of resin. Kaufman et al. (1995) used biparticle FBR
+with immobilized Lb. delbreuckii NRRL B445 cells in gelatin beads
+and for in situ removal of the inhibitory products and achieved a
+12-fold increase in productivity (4.7 g/L/h) using absorbent addition
+(IRA-35 resin), compared to that achieved without absorbent addi-
+tion ( Kaufman et al., 1995 ).Lin et al. (2007) proposed an extractive
+fermentation process as a recovery method for
+L-lactic production
+with immobilized R. oryzae NRRL 395 by using trialkyl phosphine
+oxide as an extractant in 3-phase FBRs. By this method, product inhi-bition was alleviated and a high
+L-lactic acid productivity of 11 g/L/h
+was achieved. Patel et al. (2008) constructed a dual-particle liquid –
+solid circulating ﬂuidized bed (DP-LSCFB) bioreactor for the simulta-
+neous production and recovery of lactic acid using immobilized
+Lb. bulgaricus ATCC 11842 and ion-exchange resins with a produc-
+tion of 240 g lactic acid.
+5.2. Membrane cell recycling
+Membrane cell recycling systems are another method for achiev-
+ing HCD ( Table 10 ), where ultra ﬁltration membrane, micro ﬁltration,
+or cross- ﬂow membrane in a semi-closed loop is used for separating
+the permeate from the cells and recycling the cells back to the biore-
+actor. This system has advantages of achieving broth homogeneity,complete cell recycling, and in situ production and separation of the
+fermentation product. It can also enhance not only the conversion rate
+of the substrate in the medium but also the lactic acid productivity
+due to the much higher cell concentration achieved compared with
+conventional fermentation processes without HCD. Table 12 summa-
+rizes several studies used membrane cell recycling systems coupledwith different fermentation modes. With this method, continuous fer-mentation can be operated at a higher dilution rate —up to 2.8 h
+−1
+without cell washout achieving high lactic acid productivity up to160 g/L/h [ Table 12 ](Ohleyer et al., 1985 ).
+Polymeric membranes used in those fermentation methods suffer
+from intolerance to high temperatures required for sterilization,
+fouling problems, and the requirement for cleaning procedures that
+weaken the membrane, leading to increased replacement costs.
+These problems hindered its mass application in industry ( Giorno
+et al., 2002; Wee and Ryu, 2009 ). To overcome fouling problems,
+membrane cell recycling bioreactors have been designed in differ-
+ent ways. Modifying the mechanical design of the bioreactor also
+achieved potential improvements in performance. Xu et al. (2006)
+employed an electromagnetic ﬂow meter and a pneumatic dia-
+phragm pump to a membrane cell recycling bioreactor to alleviate
+membrane fouling. They achieved continuous lactic acid fermenta-
+tion with a productivity of 31.5 g/L/h and a long operational stability
+of 155.5 h, compared to those achieved using a peristaltic pump or
+diaphragm pump without an electromagnetic ﬂow meter (56 and
+85 h, respectively). Moreover, this system could repeat periodicallywith intermittent online cleaning and sterilization of the mem-
+brane ﬁltration system. Ramchandran et al. (2012) applied a
+media-backwash method using fresh medium as a backwash medi-um to maintain the performance of the submerged hollow ﬁber
+membrane module. This process resulted in improved yield and amore than 2-fold increase in lactic acid production.
+Ceramic membranes have proven to offer advantages of high
+thermal stability, easier cleaning, high resistance to acid and alkaline
+conditions, and high mechanical and abrasive resistance compared
+with polymeric membranes. As shown in Table 12,t h eo p e r a -
+tional stability using ceramic membrane is higher than polymericmembranes —up to 240 h in continuous couture ( Ohashi et al., 1999 ).
+Jung and Lovitt (2010) used an external ceramic micro ﬁltration mem-
+brane and achieved improvements in cell concentrations (~14-fold)with 10 –33 times higher biomass production rates than those in
+the CSTR by using 4 industrially important LAB ( Lactobacillus buchneri ,
+Lb. brevis ,Oenococcus oeni ,a n d Biﬁdobacterium longum ). Recently,
+Lu et al. (2012) reported enhanced pilot-scale (3000-L fermentor) pro-
+duction of
+L-lactic acid at 157.2 g/L with a productivity of 8.77 g/L/h
+using an external ceramic micro ﬁltration membrane ( Table 12 ).
+Although increased lactic acid productivities were obtained with
+continuous fermentation by HCD with cell recycling, the lactic acidconcentration was relatively low (less than 60 g/L in most studies)
+compared to those achieved during other fermentation processes
+(up to 231 g/L in fed-batch fermentation by Yamane and Tanaka,
+2013 ,Table 11), which would greatly increase the energy cost for
+water removal in the downstream process ( Kwon et al., 2001).
+With an increase in annual lactic acid production capacity, thisbioprocess may be primarily in ﬂuenced by production capacity and
+product concentrations and to a lesser extent by productivity(Timmer and Kromkamp, 1994 ).Kulozik et al. (1992) investigated
+the performance of a 7-stage cascade reactor with membrane cellrecycling, which resulted in a lactic acid concentration of 72 g/L at
+a productivity of 28 g/L/h. Kwon et al. (2001) produced 92 g/L of
+D-lactic acid with a productivity of 57 g/L/h in a 2-stage bioreactor
+with membrane cell recycling by Lb. rhamosus ATCC 10863. A prog-
+ress in multi-stage HCD continuous systems should be addressedand realized for lactic acid production that would be produced in a
+titer equivalent to the fed-batch, but with much higher productivity
+than the fed-batch.896 M.A. Abdel-Rahman et al. / Biotechnology Advances 31 (2013) 877 –9026. Advances in lactic acid recovery processes
+One of the major considerations in the commercial production of
+lactic acid is purifying the recovered product to meet quality stan-
+dards requirements for speci ﬁc applications. Conventional fermen-
+tation process produces lactate salt, as a result of pH neutralization,that must be precipitated and reacidi ﬁed by a mineral acid such as
+sulfuric acid. These steps are considered as major economic hurdles
+for lactic acid production because it consumes expensive chemical
+that accounts for 50% of the production cost and that generates gyp-
+sum waste materials ( Chaudhuri and Pyle, 1992; Eyal and Bressler,
+1993). Several recovery techniques have been reported on the sepa-ration of lactic acid produced in the fermentation broth without pre-
+cipitation such as diffusion dialysis ( Narebskam and Staniszewski,
+1997), solvent extraction ( Hano et al., 1993 ), direct distillation
+(Cockrem and Johnson, 1993), liquid surfactant membrane ex-
+traction ( Sirman et al., 1991), adsorption ( Kaufman et al., 1994 ),
+chromatographic methods ( Hauer and Marr, 1994 ), ultra ﬁltration
+(Hauer and Marr, 1994 ), reverse osmosis ( Hauer and Marr, 1994;
+Timmer et al., 1994 ), drying ( Hauer and Marr, 1994 ), conventional
+electrodialysis ( Boyaval et al., 1987; Heriban et al., 1993; Hongo
+et al., 1986; Kim and Moon, 2001; Thang et al., 2005 )a n db i p o l a r
+membrane electrodialysis ( Bailly, 2002). Among those, the electro-
+dialysis technique has been found to be potentially effective in the
+recovery of lactic acid from fermentation broth due to its rapid treat-
+ment, effective removal of non-ionic molecules, concentration of lactic
+acid, and environmentally sustainable process ( Boniardi et al., 1997 ).
+Additionally, in-situ recovery technique has the potential to not onlyrecover lactic acid but also relieve product inhibition. Conventional
+electrodialysis generally uses ion-exchange membranes under the in-
+ﬂuence of direct current for separating and concentrating ions in solu-
+tion. In-situ conventional electrodialysis with the cathode located inthe compartment of the fermentor has been shown to damage the bac-
+terial cells by direct contact with the electrodes. To prevent the cells
+from contacting with the electrodes, an ultra ﬁltration step has been
+introduced before the electrodialysis process ( Nomura et al., 1991 ).
+Furthermore, pH control is an important factor that should limit the
+technical and commercial viability in electrodialysis processes ( Hongo
+et al., 1986; Vonktaveesuk et al., 1994 ). In order to maintain a pH at
+the suitable value, an additional pH control system with the additionof alkaline solution was incorporated into the electrodialysis process
+(Vonktaveesuk et al., 1994 ). Several recent studies have also applied
+electrodialysis to recover lactic acid from fermentation broth ( Gao
+et al., 2005; Hábová et al., 2004; Wee et al., 2005; Yi et al., 2008 ).
+To date, various attempts have been made to develop the technol-
+ogy of electrodialysis by using bipolar membrane. Bipolar membrane
+electrodialysis is equipped with the integration of conventional
+electrodialysis and water splitting within the bipolar membrane
+(Franken, 2000; Timbuntam et al., 2008 ). This process is advanta-
+geous in the capability of separation, puri ﬁcation and concentration
+of salts, and in the conversion of these salts into acid and base with-
+out generating waste ef ﬂuents containing high concentrations of
+salts. In addition, the generated base can be recycled for the neutral-ization of the fermentation process ( Franken, 2000 ).Li
+ et al. (2004)
+developed a bioreactor with bipolar membrane electrodialysis forboth lactic acid removal and pH control in lactic acid fermentation
+byLb. rhamnosus NCIMB 6375, which increased the lactic acid yield
+to 0.61 g/g glucose, compared to that achieved without electrodialy-sis (0.46 g/g glucose). Min-tian et al. (2005) achieved production of
+2637 g lactic acid from 4000 g glucose at a productivity of 8.18 g/L/hand a yield of 0.69 g/g in continuous fermentation integrated with
+bipolar membrane electrodialysis using Lb. rhamnosus IFO 3863.
+However, there is still a compatibility issue between electrodialysisand fermentation process that should be carefully arranged to
+achieve a synchronous operation of the fermentation and electrodi-
+alysis process.7. Concluding remarks
+In this review, the latest results and ideas relating to the key aspects
+of lactic acid production research were summarized and compared.
+Microbial lactic acid producers and fermentative substrates, including
+pure and edible sugars and their alternatives (i.e., lignocellulosic and
+starchy biomasses, dairy byproducts, agro-industrial and food wastes,glycerol and algal biomass), which have dual advantages in both over-
+coming current environmental problems and lowering lactic acid pro-
+duction costs were described. In addition, various fermentation
+processes and methods that enhance lactic acid concentrations, yields,
+and productivities were pointed out. New developments in lactic acid
+fermentation techniques that alleviate dif ﬁculties associated with pro-
+duction were also discussed; however, certain issues like end-productinhibition still have to be addressed.
+End-product inhibition is still the major problem associated with
+efﬁcient lactic acid fermentation, even with HCD. Controlling the pH
+during fermentation only partly mitigates this inhibition ( Savoie et al.,
+2007 ). Removing lactic acid during fermentation has resulted in a
+50-fold enhancement in cell concentrations with dialysis membranes;however, this process requires relatively large membrane areas, which
+must be accommodated outside of the fermentation vessel ( Osborne
+et al., 1975 ). Although electrodialysis is a simple method that can re-
+move acids selectively during fermentation, it has several limitations,
+including decreases in both volumetric and speci ﬁcl a c t i ca c i dp r o d u c -
+tivity ( Vaida et al., 1991 ). Some of these challenges have been addressed
+by the reverse electro-enhanced dialysis process, which has been
+shown to achieve higher lactic acid productivity and cell biomass as
+well as manage fouling by periodic charge reversal ( Prado-Rubio et al.,
+2011; Rype et al., 2009 ). Further developments in such methods are
+required to ensure effective bioprocesses for better lactic acid fermenta-
+tion characteristics, including greater purities, yields, and concentra-
+tions, in addition to their eco-friendly production resulting from the
+direct production of lactic acid instead of the lactate salts common to
+conventional processes.
+Acknowledgments
+This study has been supported by a Grant-in-Aid (P12088) for
+Young Researchers to Mohamed Ali Abdel-Rahman from the Japan
+Society for the Promotion of Science (JSPS), Japan.
+References
+Abdel-Rahman MA, Tashiro Y, Zendo T, Hanada K, Shibata K, Sonomoto K. Ef ﬁcient
+homofermentative L-(+)-lactic acid production from xylose by a novel lactic acid
+bacterium, Enterococcus mundtii QU 25. Appl Environ Microbiol 2011a;77:1892 –5.
+Abdel-Rahman MA, Tashiro Y, Zendo T, Shibata K, Sonomoto K. Isolation and charac-
+terization of lactic acid bacterium for effective fermentation of cellobiose into
+optically pure homo L-(+)-lactic acid. Appl Microbiol Biotechnol 2011b;89:
+1039– 49.
+Abdel-Rahman MA, Tashiro Y, Sonomoto K. Lactic acid production from lignocellulose-
+derived sugars using lactic acid bacteria: overview and limits. J Biotechnol 2011c;156:286–301.
+Abdel-Rahman MA, Tashiro Y, Zendo T, Sonomoto K. Improved lactic acid productivity
+by an open repeated batch fermentation system using Enterococcus mundtii QU 25.
+RSC Advances 2013;3:8437– 45.
+Adsul MG, Varma AJ, Gokhale DV. Lactic acid production from waste sugarcane bagasse
+derived cellulose. Green Chem 2007;9:58 –62.
+Aeschlimann A, von Stockar U. Continuous production of lactic acid from whey perme-
+ate by Lactobacillus helveticus in a cell recycle reactor. Enzyme Microb Technol
+1991;13:811 –6.
+Allison GE, Klaenhammer TK. Phage resistance mechanisms in lactic acid bacteria. Int
+Dairy J 1998;8:207 –26.
+Alonso S, Herrero M, Rendueles M, Díaz M. Residual yoghurt whey for lactic acid pro-
+duction. Biomass Bioenergy 2010;34:931 –8.
+Amrane A, Prigent Y. A novel concept of bioreactor: specialized function two-stage
+continuous reactor, and its application to lactose conversion into lactic acid.J Biotechnol 1996;45:195 –203.
+Andrews GF, Fonta JP. A ﬂuidized-bed continuous bioreactor for lactic acid production.
+Appl Biochem Biotechnol 1989;20:375 –90.
+Angermayr SA, Paszota M, Hellingwerf KJ. Engineering a cyanobacterial cell factory for
+the production of lactic acid. Appl Environ Microbiol 2012;78:7098 –106.897 M.A. Abdel-Rahman et al. / Biotechnology Advances 31 (2013) 877 –902Bai DM, Jia MZ, Zhao XM, Ban R, Shen F, Li XG, Xu SM. L-(+)-lactic acid production by
+pellet-form Rhizopus oryzae R1021 in a stirred tank fermentor. Chem Eng Sci
+2003a;58:785 –91.
+Bai DM, Wei Q, Yan ZH, Zhao XM, Li XG, Xu SM. Fed-batch fermentation of Lactobacillus
+lactis for hyper-production of L-lactic acid. Biotechnol Lett 2003b;25:1833 –5.
+Bai DM, Wei Q, Yan ZH, Wei Q, Zhao XM, Li XG, Xu SM. Ammonium lactate production
+byLactobacillus lactis BME5-18M in pH-controlled fed-batch fermentations. Biochem
+Eng J 2004;19:47 –51.
+Bai DM, Li SZ, Liu ZL, Cui ZF. Enhanced L-(+)-lactic acid production by an adapted
+strain of Rhizopus oryzae using corncob hydrolysate. Appl Biochem Biotechnol
+2008;144:79 –85.
+Bailly M. Production of orga nic acids by bipolar electrodialysis: realizations and
+perspectives. Desalination 2002;144:157 –62.
+Bazinet L. Electrodialytic phenomena and their applications in the dairy industry:
+a review. Crit Rev Food Sci Nutr 2004;44:525 –44.
+Benthin S, Villadsen J. Production of optically pure D-lactate by Lactobacillus bulgaricus
+and puri ﬁcation by crystallization and liquid –liquid extraction. Appl Microbiol
+Biotechnol 1995;426:826 –9.
+Bianchi MM, Brambilla L, Protani F, Liu C, Lievense J, Porro D. Ef ﬁcient homolactic
+fermentation by Kluyveromyces lactis strains defective in pyruvate utilization and
+transformed with the heterologous LDH gene. Appl Environ Microbiol 2001;67:
+5621 –5.
+Biebl H. Fermentation of glycerol by Clostridium pasteurianum -batch and continuous
+culture studies. J Ind Microbiol Biotechnol 2001;27:18 –26.
+Bomrungnok W, Sonomoto K, Pinitglang S, Wongwicharn A. Single step lactic acid
+production from cassava starch by Lactobacillus plantarum SW14 in conventional con-
+tinuous and continuous with high cell density. APCBEE Procedia 2012;2:97-103.
+Boniardi N, Rota R, Nano G, Mazza B. Lactic acid production by electrodialysis part I:
+experimental tests. J Appl Electrochem 1997;27:125 –33.
+Boyaval P, Corre C, Terre S. Continuous lactic acid fermentation with concentrated product
+recovery by ultra ﬁltration and electrodialysis. Biotechnol Lett 1987;9:207 –12.
+Branduardi P, Sauer M, De Gioia L, Zampella G, Valli M, Mattanovich D, Porro D. Lactate
+production yield from engineered yeasts is dependent from the host background,the lactate dehydrogenase source and the lactate export. Microb Cell Fact
+2006;5:4.
+Budhavaram NK, Fan Z. Production of lactic acid from paper sludge using acid-tolerant,
+thermophilic Bacillus coagulans strains. Bioresour Technol 2009;100:5966 –72.
+Bulut S, Elibol M, Ozer D. Effect of different carbon sources on
+L-(+)-lactic acid produc-
+tion by Rhizopus oryzae . Biochem Eng J 2004;21:33 –7.
+Bustos G, Moldes AB, Cruz JM, Domínguez JM. Production of fermentable media from
+vine trimming wastes and bioconversion into lactic acid by Lactobacillus pentosus .
+J Sci Food Agric 2004;84:2105 –12.
+Bustos G, de la Torre N, Moldes AB, Cruz JM, Dominguez JM. Revalorization of
+hemicellulosic trimming vine shoots hydrolyzates trough continuous productionof lactic acid and biosurfactants by L. pentosus . J Food Eng 2007;78:405 –12.
+Büyükkileci AO, Harsa S. Batch production of
+L-(+) lactic acid from whey by Lactobacillus
+casei NRRL B-441. J Chem Technol Biotechnol 2004;79:1036 –40.
+Calabia BP, Tokiwa Y, Aiba S. Fermentative production of L-(+)-lactic acid by an
+alkaliphilic marine microorganism. Biotechnol Lett 2011;33:1429 –33.
+Champagne CP, Gaudy C, Poncelet LD, Neufeld R. Lactococcus lactis release from calcium
+alginate beads. Appl Microbiol Biotechnol 1992;58:1429 –34.
+Chan-Blanco Y, Bonilla-Leiva AR, Velazquez AC. Using banana to generate lactic acid
+through batch process fermentation. Appl Microbiol Biotechnol 2003;63:147 –52.
+Chang HN, Yoo IK, Kim BS. High density cell culture by membrane-based cell recycle.
+Biotechnol Adv 1994;12:467– 87.
+Chang DE, Jung HC, Rhee JS, Pan JG. Homofermentative production of D-o r L-lactate in
+metabolically engineered Escherichia coli RR1. Appl Environ Microbiol 1999;65:
+1384 –9.
+Chang HN, Kim NJ, Kang J, Jeong CM, Choi JD, Fei Q, Kim BJ, Kwon S, Lee SY, Kim J.
+Multistage high cell continuous fermentation for high productivity and titer.
+Bioprocess Biosyst Eng 2011;34:419 –31.
+Chaudhuri JB, Pyle DL. Emulsion liquid membrane extraction of organic acids —1.
+A theoretical model for lactic acid extraction with emulsion swelling. Chem Eng
+Sci 1992;47:41 –8.
+Cheng KK, Zhang JA, Liu DH, Sun Y, Yang MD, Xu JM. Production of 1,3-propanediol by
+Klebsiella pneumoniae from glycerol broth. Biotechnol Lett 2006;28:1817 –21.
+Choi HY, Ryu HK, Park KM, Lee EG, Lee H, Kim SW, Choi ES. Direct lactic acid fermenta-
+tion of Jerusalem artichoke tuber extract using Lactobacillus paracasei without
+acidic or enzymatic inulin hydrolysis. Bioresour Technol 2012;114:745 –7.
+Chotisubha-anandha N, Thitiprasert S, Tolieng V, Thongchul N. Improved oxygen transfer
+and increased L-lactic acid production by morphology control of Rhizopus oryzae in a
+static bed bioreactor. Bioprocess Biosyst Eng 2011;34:163 –72.
+Clark DP. The fermentation pathways of Escherichia coli . FEMS Microbiol Rev 1989;63:
+223– 34.
+Cockrem MCM, Johnson PD. Recovery of lactate esters and lactic acid from fermentation
+broth; 1993 (USP 5 210 296).
+Cui F, Li Y, Wan C. Lactic acid production from corn stover using mixed cultures of
+Lactobacillus rhamnosus and Lactobacillus brevis . Bioresour Technol 2011;102:
+1831– 6.
+Davison BH, Scott CD. A proposed biparticle ﬂuidized-bed for lactic acid fermentation
+and simultaneous adsorption. Biotechnol Bioeng 1992;39:365 –8.
+Davison BH, Thompson JE. Simultaneous fermentation and separation of lactic acid in a
+biparticle ﬂuidized-bed bioreactor. Appl Biochem Biotechnol 1992;34:431 –9.
+de Graef MR, Alexeeva S, Snoep JL, de Mattos MJT. The steady-state internal redox state
+(NADH/NAD) re ﬂects the external redox state and is correlated with catabolic
+adaptation in Escherichia coli . J Bacteriol 1999;181:2351 –7.Dequin S, Barre P. Mixed lactic acid-alcoholic fermentation by Saccharomyces cerevisiae
+expressing the Lactobacillus casei L-(+)-LDH. J Biotechnol 1994;12:173 –7.
+Dharmadi Y, Murarka A, Gonzalez R. Ana erobic fermentation of glycerol by
+Escherichia coli : a new platform for metabolic e ngineering. Biotechnol Bioeng
+2006;94:821 –9.
+Dien BS, Nichols NN, Bothast RJ. Recombinant Escherichia coli engineered for produc-
+tion of L-lactic acid from hexose and pentose sugars. J Ind Microbiol Biotechnol
+2001;27:259 –64.
+Ding S, Tan T. L-Lactic acid production by Lactobacillus casei fermentation using differ-
+ent fed-batch feeding strategies. Process Biochem 2006;41:1451 –4.
+Djuki ć-Vukovi ćAP, Mojovi ćLV, Vuka šinovi ćSekuli ćMS, Nikoli ćSB, Pejin JD, Bulatovi ć
+ML, Rakin MB. Effect of different fermentation parameters on L-lactic acid produc-
+tion from liquid distillery stillage. Food Chem 2012;134:1038 –43.
+Djuki ć-Vukovi ćAP, Mojovi ćLV, Jokić BM, Nikoli ćSB, Pejin JD. Lactic acid production
+on liquid distillery stillage by Lactobacillus rhamnosus immobilized onto zeolite.
+Bioresour Technol 2013;135:454 –8.
+Dong XY, Bai S, Sun Y. Production of L(+)-lactic acid with Rhizopus oryzae immobilized
+in polyurethane foam cubes. Biotechnol Lett 1996;18:225 –8.
+Du JX, Cao NJ, Gong CS, Tsao GT. Production of L-lactic acid by Rhizopus oryzae in a
+bubble column fermentor. Appl Biochem Biotechnol 1998;70 –72:323 –9.
+Ducat DC, Way JC, Silver PA. Engineering cyanobacteria to generate high-value prod-
+ucts. Trends Biotechnol 2011;29:95-103.
+Durnin G, Clomburg J, Yeates Z, Alvarez PJJ, Zygourakis K, Campbell P, Gonzalez R.
+Understanding and harnessing the microaerobic metabolism of glycerol in Escherichia
+coli. Biotechnol Bioeng 2009;103:148 –61.
+Efremenko E, Spiricheva O, Varfolomeyev S, Lozinsky V. Rhizopus oryzae fungus cells
+producing L(+)-lactic acid: kinetic and metabolic parameters of free and PVA-
+cryogel-entrapped mycelium. Appl Microbiol Biotechnol 2006;72:480 –5.
+Elezi O, Kourkoutas Y, Koutinas AA, Kanellaki M, Bezirtzoglou E, Barnett YA, Nigam P.
+Food additive lactic acid production by immobilized cells of Lactobacillus brevis
+on deligni ﬁed cellulosic material. J Agric Food Chem 2003;51:5285 –9.
+El-Ziney MG, Arneborg N, Uyttendaele M, Debevere J, Jakobsen M. Characterization
+of growth and metabolite production of Lactobacillus reuteri during glucose/
+glycerol cofermentation in batch and co ntinuous cultures. Biotechnol Lett
+1998;20:913 –6.
+Ennahar S, Cai Y, Fujita Y. Phylogenetic diversity of lactic acid bacteria associated with
+paddy rice silage as determined by 16S ribosomal DNA analysis. Appl EnvironMicrobiol 2003;69:444 –51.
+Eyal AM, Bressler E. Industrial separati on of carboxylic acid and amino acids by
+liquid membranes: applicability, process considerations and potential advan-
+tages. Biotechnol Bioeng 1993;41:287 –95.
+Fakhravar S, Najafpour G, Heris SZ, Izadi M, Fakhravar A. Fermentative lactic acid from
+deproteinized whey using Lactobacillus bulgaricus in batch culture. World Appl
+Sci J 2012;17:1083 –6.
+Forde A, Fitzgerald GF. Bacteriophage defence systems in lactic acid bacteria. Antonie
+Van Leeuwenhoek 1999;76:89-113.
+Franken T. Bipolar membrane technology and its applications. Membr Technol
+2000;2000:8-11.
+Ganguly R, Dwivedi P, Singh RP. Production of lactic acid with loofa sponge
+immobilized Rhizopus oryzae RBU2-10. Bioresour Technol 2007;98:1246 –51.
+Gao MT, Hirata M, Kode M. Production of
+L-lactic acid by electrodialysis fermentation
+(EDF). Process Biochem 2004;39:1903 –7.
+Gao MT, Michiteru K, Rie G, Hirokazu T, Makoto H, Tadashi H. Development of a continu-
+ous electrodialysis fermentation system for production of lactic acid by Lactobacillus
+rhamnosus . Process Biochem 2005;40:1033 –6.
+Gao T, Wong Y, Ng C, Ho K. L-Lactic acid production by Bacillus subtilis MUR1. Bioresour
+Technol 2012;121:105 –10.
+Garde A, Jonsson G, Schmidt AS, Ahring BK. Lactic acid production from wheat
+straw hemicellulose hydrolysate by Lactobacillus pentosus and Lactobacillus brevis .
+Bioresour Technol 2002;81:217 –23.
+Gassem MA, Sims KA, Frank JF. Extracellular polysaccharide production by Lactobacillus
+delbrueckii subsp. Bulgaricus RR in a continuous fermentor. Lebensm Wiss Technol
+1997;30:273 –8.
+Ge XY, Qian H, Zhang WG. Improvement of L-lactic acid production from Jerusalem
+artichoke tubers by mixed culture of Aspergillus niger and Lactobacillus sp. Bioresour
+Technol 2009;100:1872 –4.
+Ge XY, Qian H, Zhang WG. Enhancement of L-lactic acid production in Lactobacillus casei
+from Jerusalem artichoke tubers by kinetic optimization and citrate metabolism.
+J Microbiol Biotechnol 2010;20:101 –9.
+Giorno L, Chojnacka K, Donato L, Drioli E. Study of a cell-recycle membrane fermentor
+for the production of lactic acid by Lactobacillus bulgaricus . Ind Eng Chem Res
+2002;41:433 –40.
+Goncalves LMD, Xavier ANRB, Almanda JS, Corronodo MJT. Concomitant substrate and
+product inhibition kinetics in lactic acid production. Enzyme Microb Technol
+1991;13:314 –9.
+Goncalves LMD, Barreto MTO, Xavier AMRB, Carrondo MJT, Klein J. Inert supports for
+lactic acid fermentation a technological assessment. Appl Microbiol Biotechnol
+1992;38:305 –11.
+Gonzalez R, Murarka A, Dharmadi Y, Yazdani SS. A new model for the anaerobic
+fermentation of glycerol in enteric bacteria: trunk and auxiliary pathways inEscherichia coli. Metab Eng 2008;10:234– 45.
+Gullon B, Yanez R, Alonso JL, Parajo JC.
+L-Lactic acid production from apple pomace by
+sequential hydrolysis and fermentation. Bioresour Technol 2008;99:308 –19.
+Guo Y, Yan Q, Jiang ZQ, Teng C, Wang X. Ef ﬁcient production of lactic acid from sucrose
+and corncob hydrolysate by a newly isolated Rhizopus oryzae GY18. J Ind MicrobiolBiotechnol 2010;37:1137 –43.898 M.A. Abdel-Rahman et al. / Biotechnology Advances 31 (2013) 877 –902Guoqiang D, Kaul R, Mattiasson B. Immobilization of Lactobacillus casei cells to ceramic
+material pretreated with polyethylenimine. Appl Microbiol Biotechnol 1992;37:
+305– 10.
+Hábová V, Melzoch K, Rychtera M, Sekavová B. Electrodialysis as a useful technique for
+lactic acid separation from a model solution and a fermentation broth. Desalination
+2004;163:361 –72.
+Hamamci H, Ryu DD. Production of L-(+)-lactic acid and using immobilized Rhizopus
+oryzae , reactor performance based on kinetic model simulation. Appl Biochem
+Biotechnol 1994;44:125 –33.
+Hang YD, Hamamci H, Woodams EE. Production of L-(+)-lactic acid by Rhizopus oryzae
+immobilized in calcium alginate gels. Biotechnol Lett 1989;11:119 –20.
+Hano T, Matsumoto M, Uenoyama S, Ohtake T, Kawano Y, Miura S. Separation of lactic
+acid from fermented broth by solvent extraction. Bioseparation 1993;3:321 –6.
+Hassan A, Frank J. Starter cultures and their use. In: Marth EH, Steele JL, editors. Applied
+dairy microbiology. New York: Marcel Dekker, Inc.; 2001. p. 151 –206.
+Hauer E, Marr R. Liquid extraction in biotechnology. Int Chem Eng 1994;34:178 –87.
+Heriban V, Skara J, Sturdik E, Ilavsky J. Isolation of free lactic acid using electrodialysis.
+Biotechnol Tech 1993;7:63 –8.
+Hirayama S, Ueda R. Production of optically pure D-lactic acid by Nannochlorum sp.
+26A4. Appl Biochem Biotechnol 2004;119:71 –7.
+Hirt G, Tanner W, Kandler O. Effect of light on the rate of glycolysis in Scenedesmus
+obliquus . Plant Physiol 1971;47:841 –3.
+Hofvendahl K, Hahn-Hägerdal B. Factors affecting the fermentative lactic acid produc-
+tion from renewable resources. Enzyme Microb Technol 2000;26:87-107.
+Hong AAC, Tanino KK, Peng F, Zhou S, Sun Y, Liu CM, Liu DH. Strain isolation and opti-
+mization of process parameters for bioconversion of glycerol to lactic acid. J Chem
+Technol Biotechnol 2009;84:1576 –81.
+Hongo M, Nomura Y, Iwahara M. Novel method of lactic acid production by electrodi-
+alysis fermentation. Appl Environ Microbiol 1986;52:314 –9.
+Ilmen M, Koivuranta K, Ruohonen L, Suominen P, Penttilä1 M. Ef ﬁcient production of
+L-lactic acid from xylose by Pichia stipitis . Appl Environ Microbiol 2007;73:117– 23.
+Inui M, Murakami S, Okino S, Kawaguchi H, Vertès AA, Yukawa H. Metabolic analysis of
+Corynebacterium glutamicum during lactate and succinate productions under
+oxygen deprivation conditions. J Mol Microbiol Biotechnol 2004;7:182 –96.
+Ishida N, Saitoh S, Tokuhiro K, Nagamori E, Matsuyama T, Kitamoto K, Takahashi H.
+Efﬁcient production of L-lactic acid by metabolically engineered Saccharomyces
+cerevisiae with a genome-integrated L-lactate dehydrogenase gene. Appl Environ
+Microbiol 2005;71:1964 –70.
+Ito T, Sota H, Honda H, Shimizu K, Kobayashi T. Ef ﬁcient acetic acid production by
+repeated fed-batch fermentation using two fermentors. Appl Environ Microbiol1991;36:295 –9.
+Jamshidian M, Tehrany EA, Imran M, Jacquot M, Desobry S. Poly-lactic acid: production,
+applications, nanocomposites, and release studies. Comp Rev Food Sci Food Saf2010;9:552 –71.
+Jawad AH, Alkarkhi AFM, Jason OC, Easa AM, Nik-Norulaini NA. Production of the lactic
+acid from mango peel waste —factorial experiment. J King Saud Univ Sci 2013;25:
+39–45.
+Jia X, Liu P, Li S, Li S, Wen J.
+D-Lactic acid production by a genetically engineered strain
+Corynebacterium glutamicum . World J Microbiol Biotechnol 2011;27:2117 –24.
+Jiang S, Zheng Z, Zhu Y, Wu X, Pan L, Luo S, Du W. Repeated intermittent L-lactic acid
+fermentation technology by self-immobilized Rhizopus oryzae . Sheng Wu Gong
+Cheng Xue Bao 2008;24:1729 –33.
+Jin YL, Speers RA. Flocculation of Saccharomyces cerevisiae . Food Res Int 1998;31:
+421– 40.
+Jin B, Huang LP, Lant P. Rhizopus arrhizus —a producer for simultaneous sacchari ﬁcation
+and fermentation of starch waste materials to L-(+)-lactic acid. Biotechnol Lett
+2003;25:1983 –7.
+John RP, Nampoothiri KM. Co-culturing of Lactobacillus paracasei subsp. paracasei with
+aLactobacillus delbrueckii subsp. delbrueckii mutant to make high cell density for
+increased lactate productivity from cassava bagasse hydrolysate. Curr Microbiol2011;62:790 –4.
+John RP, Nampoothiri KM, Pandey A. Simultaneous sacchari ﬁcation and fermentation
+of cassava bagasse for
+L-(+)-lactic acid production using Lactobacilli . Appl Biochem
+Biotechnol 2006;134:263 –72.
+John RP, Nampoothiri KM, Pandey A. Production of L-(+) lactic acid from cassava
+starch hydrolyzate by immobilized Lactobacillus delbrueckii . J Basic Microbiol
+2007a;47:25 –30.
+John RP, Nampoothiri KM, Pandey A. Fermentative production of lactic acid from
+biomass: an overview on process developments and future perspectives. ApplMicrobiol Biotechnol 2007b;74:524 –34.
+Jung YK, Lee SY. Ef ﬁcient production of polylactic acid and its copolymers by metabol-
+ically engineered Escherichia coli. J Biotechnol 2011;151:94-101.
+Jung I, Lovitt RW. A comparative study of the growth of lactic acid bacteria in a pilot
+scale membrane bioreactor. J Chem Technol Biotechnol 2010;85:1250 –9.
+Jung YK, Kim TY, Park SJ, Lee SY. Metabolic engineering of Escherichia coli for the
+production of PLA and its copolymers. Biotechnol Bioeng 2010;105:161 –71.
+Kadam SR, Patil SS, Bastawde KB, Khire JM, Gokhale DV. Strain improvement of
+Lactobacillus delbrueckii NCIM 2365 for lactic acid production. Process Biochem
+2006;41:120– 6.
+Karp SG, Igashiyama AH, Siqueira PF, Carvalho JC, Vandenberghe LP, Thomaz-Soccol V,
+Coral J, Tholozan JL, Pandey A, Soccol CR. Application of the biore ﬁnery concept
+to produce
+L-lactic acid from the soybean vinasse at laboratory and pilot scale.
+Bioresour Technol 2011;102:1765 –72.
+Kaufman EN, Cooper SP, Davison BH. Screening of resins for use in a biparticle
+ﬂuidized-bed bioreactor for the continuous fermentation and separation of lactic
+acid. Appl Biochem Biotechnol 1994;45 –46:545 –54.Kaufman EN, Cooper SP, Clement SL, Little MH. Use of a biparticle ﬁuidized-bed bioreactor
+for the continuous and simultaneous fermentation and puri ﬁcation of lactic acid. Appl
+Biochem Biotechnol 1995;51/52:605 –20.
+Kawaguchi H, Vertès AA, Okino S, Inui M, Yukawa H. Engineering of a xylose metabolic
+pathway in Corynebacterium glutamicum . Appl Environ Microbiol 2006;72:3418 –28.
+Kawaguchi H, Sasaki M, Vertès AA, Inui M, Yukawa H. Engineering of an L-arabinose
+metabolic pathway in Corynebacterium glutamicum . Appl Microbiol Biotechnol
+2008;77:1053 –62.
+Kim YH, Moon SH. Lactic acid recovery from fermentation broth using one-stage elec-
+trodialysis. J Chem Technol Biotechnol 2001;76:169 –78.
+Kim HO, Wee YJ, Kim JN, Yun JS, Ryu HW. Production of lactic acid from cheese whey
+by batch and repeated batch cultures of Lactobacillus sp. RKY2. Appl Biochem
+Biotechnol 2006;131:694 –704.
+Kishimoto K. Method for production lactic acid. Japan Patent WO2008126667 (A2) (2008).Kleerebezem R, van Loosdrecht MCM. Mixed culture biotechnology for bioenergy pro-
+duction. Curr Opin Biotechnol 2007;18:207 –12.
+Kochhar S, Hottinger H, Chuard N, Taylor PG, Atkinson T, Scawen MD, Nicholls DJ.
+Cloning and overexpression of Lactobacillus helveticus
+D-lactate dehydrogenase
+gene in Escherichia coli. Eur J Biochem 1992;208:799 –805.
+Kosakai Y, Park YS, Okabe M. Enhancement of L-lactic acid production using mycelial
+ﬂocs of Rhizopus oryzae . Biotechnol Bioeng 1997;55:461 –70.
+Kosseva MR, Panesar PP, Kaur G, Kennedy JF. Use of immobilised biocatalysts in the
+processing of cheese whey International. Int J Biol Macromol 2009;45:437 –47.
+Kourkoutas Y, Bekatorou A, Banat IM, Marchant R, Koutinas AA. Immobilization
+technologies and support materials suitable in alcohol beverages production:
+a review. Food Microbiol 2004;21:377 –97.
+Krischke W, Schroder M, Trosch W. Continuous production of L-lactic acid from whey
+permeate by immobilized Lactobacillus casei subsp. casei. Appl Microbiol Biotechnol
+1991;34:573 –8.
+Kulozik U, Hammelehle B, Pfeifer J, Kessler HG. High reaction rate continuous biocon-
+version in a tubular bioreactor with narrow residence time distributions for the
+production of lactic acid. J Biotechnol 1992;22:107 –16.
+Kurbanoglu EB, Kurbanoglu NI. Utilization for lactic acid production with a new acid
+hydrolysis of ram horn waste. FEMS Microbiol Lett 2003;225:29 –34.
+Kwon S, Yoo IK, Lee WG, Chang HN, Chang YK. High rate continuous production of
+lactic acid by Lactobacillus rhamnosus in a two-stage membrane cell-recycle biore-
+actor. Biotechnol Bioeng 2001;73:225 –34.
+Kyla-Nikkila K, Hujanen M, Leisola M, Palva A. Metabolic engineering of Lactobacillus
+helveticus CNRZ32 for production of pure L-(+)-lactic acid. Appl Environ Microbiol
+2000;66:3835 –41.
+Laopaiboon P, Thani A, Leelavatcharamas V, Laopaiboon L. Acid hydrolysis of sugarcane
+bagasse for lactic acid production. Bioresour Technol 2010;101:1036 –43.
+Lapierre L, Germond JE, Ott A, Delley M, Mollet B. D-Lactate dehydrogenase gene ( ldhD)
+inactivation and resulting metabolic effects in the Lactobacillus johnsonii strains
+La1 and N312. Appl Environ Microbiol 1999;65:4002 –7.
+Lee J, Lee SY, Park S, Middelberg AP. Control of fed-batch fermentations. Biotechnol Adv
+1999;17:29 –48.
+Lee KW, Baick SC, Chung WH, Kim HW. Structural observation of microencapsulated
+Lactobacillus acidophilus by optical and scanning electron microscopy. Food Sci
+Biotechnol 2003;12:13 –7.
+Li H, Mustacchi R, Knowles CJ, Skibar W, Sunderland G, Dalrymple I, Jackman SA. An
+electrokinetic bioreactor: using direct electric current for enhanced lactic acidfermentation and product recovery. Tetrahedron 2004;60:655 –61.
+Li Y, Shahbazi A, Coulibaly S, Mims MM. Semicontinuous production of lactic acid
+from cheese whey using integrated membrane reactor. Appl Biochem Biotechnol2007;137 –140:897 –907.
+Li Z, Lu J, Zhao L, Xiao K, Tan T. Improvement of
+L-lactic acid production under glucose
+feedback controlled culture by Lactobacillus rhamnosus . Appl Biochem Biotechnol
+2010;162:1762 –7.
+Li Z, Lu J, Yang Z, Han L, Tan T. Utilization of white rice bran for production of L-lactic
+acid. Biomass Bioenergy 2012;39:53 –8.
+Lin JP, Ruan SD, Cen PL. Mathematical model of L-lactic acid fermentation in a RDC coupled
+with product separation by ion exchange. Chem Eng Commun 1998;168:59 –79.
+Lin J, Zhoub M, Zhao X, Luo S, Lu Y. Extractive fermentation of L-lactic acid with
+immobilized Rhizopus oryzae in a three-phase ﬂuidized bed. Chem Eng Process
+2007;46:369 –74.
+Litchﬁ eld JH. Lactic acid, microbially produced. In: Schaechter Mosel O, editor. Encyclopedia
+of microbiology. Oxford: Academic Press; 2009. p. 362 –72.
+Liu T, Miura S, Yaguchi M, Arimura T, Park EY, Okabe M. Scale-up of L-Lactic acid pro-
+duction by mutant strain Rhizopus sp. Mk-96-1196 from 0.003 m3to 5 m3in airlift
+bioreactors. J Biosci Bioeng 2006a;101:9-12.
+Liu Y, Liao W, Liu C, Chen S. Optimization of L-(+)-lactic acid production using pelletized
+ﬁlamentous Rhizopus oryzae NRRL 395. Appl Biochem Biotechnol 2006b;131:844 –53.
+Liu Y, Liao W, Chen S. Co-production of lactic acid and chitin using a pelletized ﬁlamen-
+tous fungus Rhizopus oryzae cultured on cull potatoes and glucose. J Appl Microbiol
+2008;105:1521 –8.
+Liu B, Yang M, Qia B, Chen X, Su Z, Wana Y. Optimizing L-(+)-lactic acid production by
+thermophile Lactobacillus plantarum As.1.3 using alternative nitrogen sources with
+response surface method. Biochem Eng J 2010;52:212 –9.
+Lu Z, Wei M, Yu L. Enhancement of pilot scale production of L-(+)-lactic acid by
+fermentation coupled with separation using membrane bioreactor. Process Biochem2012;47:410 –5.
+Maas RH, Bakker RR, Eggink G, Weusthuis RA. Lactic acid production from xylose by the
+fungus Rhizopus oryzae . Appl Microbiol Biotechnol 2006;72:861 –8.
+Maas RH, Bakker RR, Jansen ML, Visser D, de Jong E, Eggink G, Weusthuis RA. Lactic acid
+production from lime-treated wheat straw by Bacillus coagulans : neutralization899 M.A. Abdel-Rahman et al. / Biotechnology Advances 31 (2013) 877 –902of acid by fed-batch addition of alkaline substrate. Appl Microbiol Biotechnol
+2008a;78:751 –8.
+M a a sR H ,S p r i n g e rJ ,E g g i n kG ,W e u s t h u i sR A .X y l o s em e t a b o l i s mi nt h ef u n g u s
+Rhizopus oryzae : effect of growth and respiration on L-(+)-lactic acid produc-
+tion. J Ind Microbiol Biotechnol 2008b;35:569 –78.
+Magnuson J, Lasure L. Organic acid production by ﬁlamentous fungi. In: Tkacz JS, Lange
+L, editors. Advances in fungal biotechnology for industry, agriculture, and medicine.New York: Kluwer Academic/Plenum Publishers; 2004. p. 307 –40.
+Major NC, Bull AT. The physiology of lactate production by Lactobacillus delbrueckii in a
+chemostat with cell recycle. Biotechnol Bioeng 1989;34:592 –9.
+Maneeboon T, Vanichsriratana W, Pomchaitaward C, Kitpreechavanich V. Optimization
+of lactic acid production by pellet-form Rhizopus oryzae in 3-L lirlift bioreactor
+using response surface methodology. Appl Biochem Biotechnol 2010;161:137 –46.
+Marques S, Santos JAL, Girio FM, Roseiro JC. Lactic acid production from recycled paper
+sludge by simultaneous sacchari ﬁcation and fermentation. Biochem Eng J 2008;41:
+210– 6.
+Marták J, Schlosser S, Sabolová E, Kriš tofı́ková L, Rosenberg M. Fermentation for lactic
+acid with Rhizopus arrhizus in a stirred tank reactor with a periodical bleed and
+feed operation. Process Biochem 2003;38:1573 –83.
+Martinez FAC, Balciunas EM, Salgado JM, González JMD, Converti A, RPdS Oliveira.
+Lactic acid properties, applications and production: a review. Trends Food Sci Technol
+2013;30:70 –83.
+Mazumdar S, Clomburg JM, Gonzalez R. Escherichia coli strains engineered for
+homofermentative production of
+D-lactic acid from glycerol. Appl Environ
+Microbiol 2010;76:4327– 36.
+Mazumdar S, Blankschien MD, Clomburg JM, Gonzalez R. Ef ﬁcient synthesis of L-lactic
+acid from glycerol by metabolically engineered Escherichia coli. Microb Cell Fact
+2013;12:7.
+Mehaia MA, Cheryan M. Production of lactic acid from sweet whey permeate concen-
+trates. Process Biochem 1987;22:185– 8.
+Meng Y, Xue Y, Yu B, Gao C, Ma Y. Ef ﬁcient production of L-lactic acid with high optical
+purity by alkaliphilic Bacillus sp. WL-S20. Bioresour Technol 2012;116:334 –9.
+Miller C, Fosmer A, Rush B, McMullin T, Beac om D, Suominen P. Industrial production
+of lactic acid. In: Murray II Moo-Young, Butler Michael, Webb Colin, editors.
+Comprehensive biotechnology; 2011. p. 179 –88.
+Min-tian G, Koide M, Gotou R, Takanashi H, Hirata M, Hano T. Development of a continu-
+ous electrodialysis fermentation system for production of lactic acid by Lactobacillus
+rhamnosus . Process Biochem 2005;40:1033 –6.
+Miura S, Arimura T, Itoda N, Dwiarti L, Feng JB, Bin CH, Okabe M. Production of L-lactic
+acid from corncob. J Biosci Bioeng 2004;97:153 –7.
+Moon SK, Wee YJ, Choi GW. A novel lactic acid bacterium for the production of high
+purity L-lactic acid, Lactobacillus paracasei subsp. paracasei CHB2121. J Biosci
+Bioeng 2012;114:155 –9.
+Murarka A, Dharmadi Y, Yazdani SS, Gonzalez R. Fermentative utilization of glycerol in
+Escherichia coli and its implications for the production of fuels and chemicals. Appl
+Environ Microbiol 2008;74:1124 –35.
+Nakano S, Ugwu CU, Tokiwa Y. Ef ﬁcient production of D-(–)-lactic acid from broken rice
+by Lactobacillus delbrueckii using Ca(OH) 2as a neutralizing agent. Bioresour
+Technol 2012;104:791 –4.
+Nakasaki K, Adachi T. Effects of intermittent addition of cellulase for production of
+L-lactic acid from wastewater sludge by simultaneous sacchari ﬁcation and fermen-
+tation. Biotechnol Bioeng 2003;82:263 –70.
+Nancib A, Nancib N, Boudrant J. Production of lactic acid from date juice extract with
+free cells of single and mixed cultures of Lactobacillus casei and Lactococcus lactis .
+World J Microbiol Biotechnol 2009;25:1423 –9.
+Narebskam A, Staniszewski M. Separation of fermentation products by membrane
+technologies.1. Separation of lactic acid by diffusion analysis. Sep Sci Technol
+1997;32:1669 –82.
+Naritomi T, Kouda T, Yano H, Yoshinaga F, Shigematsu T, Morimura S, Kida K. Inﬂ uence
+of broth exchange ratio on bacterial cellulose production by repeated-batch cul-ture. Process Biochem 2002;38:41 –7.
+Nguyen CM, Kim JS, Hwang HJ, Park MS, Choi GJ, Choi YH, Jang KS, Kim JC. Production
+of
+L-lactic acid from a green microalga, Hydrodictyon reticulum ,b y Lactobacillus
+paracasei LA104 isolated from the traditional Korean food, makgeolli. Bioresour
+Technol 2012a;110:552 –9.
+Nguyen CM, Kim JS, Song JK, Choi GJ, Choi YH, Jang KS, Kim JC. D-Lactic acid production
+from dry biomass of Hydrodictyon reticulatum by simultaneous sacchari ﬁcation
+and co-fermentation using Lactobacillus coryniformis subsp. torquens. Biotechnol
+Lett 2012b;34:2235 –40.
+Niederholtmeyer H, Wolfstädter BT, Savage DF, Silver PA, Way JC. Engineering cyanobacteria
+to synthesize and export hydrophilic products. Appl Environ Microbiol 2010;76:3462 –6.
+Nolasco-Hipolito C, Zarrabal OC, Kamaldin RM, Teck-Yee L, Lihan S, Bujang KB, Nitta Y.
+Lactic acid production by Enteroccocus faecium in lique ﬁed sago starch. AMB
+Express 2012;2:53.
+Nomura Y, Yamamoto K, Ishizaki A. Factors affecting lactic acid production rate in the
+built-in electrodialysis fermentation, an approach to high speed batch culture.J Ferment Bioeng 1991;71:450 –2.
+Norton S, Lacroix C, Vuillemard J. Kinetic study of continuous whey permeate fermen-
+tation by immobilized Lactobacillus helveticus for lactic acid production. Enzyme
+Microb Technol 1994;16:457 –66.
+Oda Y, Yajima Y, Kinoshita M, Ohnishi M. Differences of Rhizopus oryzae strains in
+organic acid synthesis and fatty acid composition. Food Microbiol 2003;20:371 –5.
+Ogbonna JC, Matsumura M, Yamagata T, Sakuma H, Kataoka H. Production of microgel
+beads by a rotating disc atomizer. J Ferment Bioeng 1989;68:40 –8.
+Ogbonna JC, Liu YC, Liu YK, Tanka H. Loofa ( Luffa cylindrica ) sponge as a carries for
+microbial cell immobilization. J Ferment Biotechnol 1994;78:437 –42.Ogbonna JC, Tomiyama S, Tanaka H. Development of a method for immobilization of
+non-ﬂocculating cells in loofa ( Luffa cylindrica ) sponge. Process Biochem 1996;31:
+737–44.
+Oh H, Wee YJ, Yun JS, Ryu HW. Lactic acid production through cell-recycle repeated
+batch bioreactor. Appl Biochem Biotechnol 2003;105:603 –13.
+Ohara H, Hiyama K, Yoshida T. Kinetics of growth and lactic acid production in contin-
+uous and batch culture. Appl Microbiol Biotechnol 1992;37:544 –8.
+Ohashi R, Yamamoto Y, Suzuki T. Continuous production of lactic acid from molasses by
+perfusion culture of Lactococcus lactis using a stirred ceramic membrane reactor.
+J Biosci Bioeng 1999;87:647 –54.
+Ohkouchi Y, Inoue Y. Direct production of
+L-(+)-lactic acid from starch and food wastes
+using Lactobacillus manihotivorans LMG18011. Bioresour Technol 2006;97:1554 –62.
+Ohleyer E, Blanch HW, Wilke CR. Continuous production of lactic acid in a cell recycle
+reactor. Appl Biochem Biotechnol 1985;11:317 –32.
+Okano K, Yoshida S, Tanaka T, Fukuda H, Kondo A. Homo D-lactic acid fermentation
+from arabinose by redirection of phosphoketolase pathway to pentose phosphatepathway in
+L-lactate dehydrogenase gene-de ﬁcient Lactobacillus plantarum . Appl
+Environ Microbiol 2009a;75:5175 –8.
+Okano K, Yoshida S, Yamda R, Tanaka T, Ogino C, Fukuda H, Kondo A. Improved production
+of homo- D-lactic acid via xylose fermentation by introduction of xylose assimilation
+genes and redirection of the phosphoketolase pathway to pentose phosphate path-way in
+L-lactate dehydrogenase gene-de ﬁcient Lactobacillus plantarum .A p p lE n v i r o n
+Microbiol 2009b;75:7858– 61.
+Okano K, Zhang Q, Shinkawa S, Yoshida S, Tanaka T, Fukuda H, Kondo A. Ef ﬁcient
+production of optically pure D-lactic acid from raw corn starch by using geneti-
+cally modi ﬁedL-lactate dehydrogenase gene-de ﬁcient and α-amylase-secreting
+Lactobacillus plantarum strain. Appl Environ Microbiol 2009c;75:462 –7.
+Okano K, Tanaka T, Ogino C, Fukuda H, Kondo A. Biotechnological production of enan-
+tiomeric pure lactic acid from renewable resources: recent achievements, perspec-
+tives, and limits. Appl Microbiol Biotechnol 2010;85:413 –23.
+Okino S, Inui M, Yukawa H. Production of organic acids by Corynebacterium glutamicum
+under oxygen deprivation. Appl Microbiol Biotechnol 2005;68:475 –80.
+Okino S, Suda M, Fujikura K, Inui M, Yukawa H. Production of D-lactic acid by
+Corynebacterium glutamicum under oxygen deprivation. A ppl Microbiol Biotechnol
+2008;78:449 –54.
+Oost JVD, Bulthuis BA, Feitz S, Krab K, Kraayenhof R. Fermentation metabolism of
+the unicellular cyanobacterium Cyanothece PCC 7822. Arch Microbiol 1989;152:415–9.
+Osawa F, Fujii T, Nishida T, Tada N, Ohnishi T, Kobayashi O, Komeda T, Yoshida S.
+Efﬁcient production of
+L-lactic acid by Crabtree-negative yeast Candida boidinii .
+Yeast 2009;26:485 –96.
+Osborne R, Miles A, Tilley N. Preparation of concentrated starter cultures. United States
+Patent No. 3,911,140;1975.
+Ou MS, Mohammed N, Ingram LO, Shanmugam KT. Thermophilic Bacillus coagulans
+requires less cellulases for simultaneous sacchari ﬁcation and fermentation of
+cellulose to products than mesophilic m icrobial biocatalysts. Appl Biochem
+Biotechnol 2009;155:379 –85.
+Ou MS, Ingram LO, Shanmugam KT. L-(+)-Lactic acid production from non-food carbo-
+hydrates by thermotolerant Bacillus coagulans . J Ind Microbiol Biotechnol 2011;38:
+599– 605.
+Øyaas J, Storrø I, Levine DW. Uptake of lactose and continuous lactic acid fermentation
+by entrapped non-growing Lactobacillus helveticus in whey permeate. Appl Microbiol
+Biotechnol 1996;46:240 –9.
+Ozturk SS. Scale-up and optimization of high density cell culture bioreactors. In: Galindo E,
+Ramirez OT, editors. Advances in bioprocess engineering. The Netherlands: Kluwer
+Academic Publishers; 1994.
+Panesar PS, Kennedy JF, Gandhi DN, Bunko K. Bioutilisation of whey for lactic acid pro-
+duction. Food Chem 2007;105:1-14.
+Park JK, Chang HN. Microencapsulation of microbial cells. Biotechnol Adv 2000;18:303 –19.
+Park EY, Kosakai Y, Okabe M. Ef ﬁcient production of L-(+)-Lactic acid using mycelial
+cotton-like ﬂocs of Rhizopus oryzae in an air-lift bioreactor. Biotechnol Prog
+1998;14:699 –704.
+Park EY, Anh PN, Okuda N. Bioconversion of waste of ﬁce paper to L-(+)-lactic acid by
+theﬁlamentous fungus Rhizopus oryzae . Bioresour Technol 2004;93:77 –83.
+Patel MA, Ou M, Ingram LO, Shanmugam KT. Simultaneous sacchari ﬁcation and
+co-fermentation of crystalline cellulose and sugar cane bagasse hemicellulose hy-
+drolysate to lactate by a thermotolerant acidophilic Bacillus sp. Biotechnol Prog
+2005;21:1453 –60.
+P a t e lM A ,O uM S ,H a r b r u c k e rR ,A l d r i c hH C ,B u s z k oM L ,I n g r a mL O ,S h a n m u g a mK T .
+Isolation and characterization of acid-tolerant, thermophilic bacteria for effectivefermentation of biomass-derived sugar s to lactic acid. Appl Environ Microbiol
+2006;72:3228 –323.
+Patel M, Bassi AS, Zhu JJ, Gomaa H. Investigation of a dual-particle liquid –solid circulat-
+ingﬂuidized bed bioreactor for extractive fermentation of lactic acid. Biotechnol
+Prog 2008;24:821 –31.
+Payot T, Chemaly Z, Fick M. Lactic acid production by Bacillus coagulans —Kinetic
+studies and optimization of culture medium for batch and continuous fermenta-tions. Enzyme Microb Technol 1999;24:191 –9.
+Pilkington PH, Margaritis A, Mensour NA, Russell I. Fundamentals of immobilized yeast
+cells for continuous beer fermentation: a review. J Inst Brew 1998;104:19 –31.
+Pintado J, Guyot JP, Raimbault M. Lactic acid production fr om mussel processing
+wastes with an amylotlytic bacterial strain. Enzyme Microb Technol 1999;24:590– 8.
+Plessas S, Bosnea L, Psarianos C, Koutinas AA, Marchant R, Banat IM. Lactic acid produc-
+tion by mixed cultures of Kluyveromyces marxianus ,Lactobacillus delbrueckii ssp.
+bulgaricus and Lactobacillus helveticus . Bioresour Technol 2008;99:5951 –5.900 M.A. Abdel-Rahman et al. / Biotechnology Advances 31 (2013) 877 –902Portnoy VA, Herrgard MJ, Palsson BO. Fermentation of D-glucose by an evolved cyto-
+chrome oxidase-de ﬁcient Escherichia coli strain. Appl Environ Microbiol 2008;74:
+7561 –9.
+Posada JA, Cardona CA, Gonzalez R. Analysis of the production process of optically
+pure D-lactic acid from raw glycerol using engineered Escherichia coli strains.
+Appl Biochem Biotechnol 2012a;166:680 –99.
+Posada JA, Rincón LE, Cardona CA. Design and analysis of biore ﬁneries based on raw
+glycerol: addressing the glycerol problem. Bioresour Technol 2012b;111:282 –93.
+Prado-Rubio OA, Jørgensen SB, Jonsson G. Reverse electro-enhanced dialysis for lactate
+recovery from a fermentation broth. J Membr Sci 2011;374:20 –32.
+Praphailong W, Fleet GH. The effect of pH, sodium chloride, sucrose, sorbate and ben-
+zoate on the growth of food spoilage yeasts. Food Microbiol 1997;14:459 –68.
+Qin J, Zhao B, Wang X, Wang L, Yu B, Ma Y, Ma C, Tang H, Sun J, Xu P. Non-sterilized
+fermentative production of polymer-grade L-lactic acid by a newly isolated ther-
+mophilic strain Bacillus sp. 2-6. PLoS One 2009;4:e4359.
+Qin J, Wang X, Zheng Z, Ma C, Tang H, Xu P. Production of L-lactic acid by a thermophilic
+Bacillus mutant using sodium hydroxide as neutralizing agent. Bioresour Technol
+2010;101:7570 –6.
+Ramchandran L, Sanciolo P, Vasiljevic T, Broome M, Powell I, Duke M. Improving cell
+yield and lactic acid production of Lactococcus lactis ssp. cremoris by a novel sub-
+merged membrane fermentation process. J Membr Sci 2012;403/404:179 –87.
+Rangaswamy V, Ramakrishna SV. Lactic acid production by Lactobacillus delbrueckii in a
+dual reactor system using packed bed bio ﬁlm reactor. Lett Appl Microbiol 2008;46:
+661– 6.
+Reddy G, Md Altaf, Naveena BJ, Venkateshwar M, Kumar EV. Amylolytic bacterial lactic
+acid fermentation —a review. Biotechnol Adv 2008;26:22 –34.
+Rivas B, Moldes AB, Dominguez JM, Parajo JC. Development of culture media containing
+spent yeast cells of Debaryomyces hansenii and corn steep liquor for lactic acid pro-
+duction with Lactobacillus rhamnosus . Int J Food Microbiol 2004;97:93 –8.
+Roble ND, Ogbonna JC, Tanaka H. L-Lactic acid production from raw cassava starch in a
+circulating loop bioreactor with cells immobilized in loofa ( Luffa cylindrica ).
+Biotechnol Lett 2003;25:1093 –8.
+Romani A, Yanez R, Garrote G, Alonso JL. SSF production of lactic acid from cellulosic
+biosludges. Bioresour Technol 2008;99:4247 –54.
+Romero-Garcia S, Hernández-Bustos C, Merino E, Gosset G, Martinez A. Homolactic
+fermentation from glucose and cellobiose using Bacillus subtilis . Microb Cell Fact
+2009:8-23.
+Rosenberg M, Rebros M, Kristo ﬁkova L, Malatova K. High temperature lactic acid pro-
+duction by Bacillus coagulans immobilized in LentiKats. Biotechnol Lett 2005;27:
+1943 –7.
+Roukas T, Kotzekidou P. Pr oduction of lactic acid fr om deproteinized whey by
+coinmobilized Lactobacillus casei and Lactococcus lactis cell. Enzyme Microb
+Technol 1991;13:33– 8.
+Roukas T, Kotzekidou P. Continuous production of lactic acid from deproteinized whey
+by coimmobilized Lactobacillus casei and Lactococcus lactis in packed bed reactor.
+Food Biotechnol 1996;10:231– 42.
+Roukas T, Kotzekidou P. Lactic acid production from deproteinized whey by mixed
+cultures of free and coimmobilized Lactobacillus casei and Lactococcus Lactis cells
+using fedbatch culture. Enzyme Microb Technol 1998;22:199 –204.
+Roy D, Goulet J, Le Duy A. Continuous production of lactic acid from whey permeate by
+free and calcium alginate entrapped Lactobacillus helveticus . J Dairy Sci 1987;70:
+506– 13.
+Rype JU, Garde A, Rossow A, Jonsson G. Fermentation optimization through continuous acid
+extraction reverse electro-enhanced dialysis (REED); 2009 ( http://www.jurag.dk).
+Saito K, Hasa Y, Abe H. Production of lactic acid from xylose and wheat straw by Rhizopus
+oryzae . J Biosci Bioeng 2012;114:166 –9.
+Saitoh S, Ishida N, Onishi T, Tokuhiro K, Nagamori E, Kitamoto K, Takahashi H. Genetically
+engineered wine yeast produces a high concentration of L-lactic acid of extremely
+high optical purity. Appl Environ Microbiol 2005;75:2789 –92.
+Sakai K, Ezaki Y. Open L-lactic acid fermentation of food refuse using thermophilic
+Bacillus coagulans andﬂuorescence in situ hybridization analysis of micro ﬂora.
+J Biosci Bioeng 2006;101:457 –63.
+Sakai K, Yamanami T. Thermotolerant Bacillus licheniformis TY7 produces optically
+active L-lactic acid from kitchen refuse under open condition. J Biosci Bioeng
+2006;102:132 –4.
+Sakai K, Mori M, Fujii A, Iwami Y, Chukeatirote E, Shirai Y. Fluorescent in situ hybridi-
+zation analysis of open lactic acid fermentation of kitchen refuse using rRNA-
+targeted oligonucleotide probes. J Biosci Bioeng 2004a;98:48 –56.
+Sakai K, Taniguchi M, Miura S, Ohara H, Matsumoto T, Shirai Y. Making plastics from
+garbage. J Ind Ecol 2004b;7:63 –74.
+Sakai K, Fujii N, Chukeatirote E. Racemization of L-lactic acid in pH-swing open fermen-
+tation of kitchen refuse by selective proliferation of Lactobacillus plantarum . J Biosci
+Bioeng 2006;102:227 –32.
+Sasaki M, Jojima T, Inui M, Yukawa H. Simultaneous utilization of D-cellobiose, D-glucose,
+and D-xylose by recombinant Corynebacterium glutamicum under oxygen-deprived
+conditions. Appl Microbiol Biotechnol 2008;81:691 –9.
+Sasaki M, Jojima T, Kawaguchi H, Inui M, Yukawa H. Engineering of pentose transport in
+Corynebacterium glutamicum to improve simultaneous utilization of mixed sugars.
+Appl Microbiol Biotechnol 2009;85:105 –15.
+Savoie S, Champagne DP, Chaisson S, Audet P. Media and process parameters affecting
+the growth, strain ratios and speci ﬁc acidifying activities of a mixed lactic starter
+containing aroma-producing and probiotic strains. J Appl Microbiol 2007;103:
+163– 74.
+Schenk PM, Thomas-Hall SR, Stephens E, Marx UC, Mussgnug JH, Posten C, Kruse O,
+Hakamer B. Second generation biofuels: high-ef ﬁciency microalgae for biodiesel
+production. Bioenergy Res 2008;1:20 –43.Schepers AW, Thibault J, Lacroix C. Lactobacillus helveticus growth and lactic acid produc-
+tion during pH-controlled batch cultures in whey permeate/yeast extract medium.
+Part II: kinetic modeling and model validation. Enzyme Microb Technol 2002;30:
+187–94.
+Schepers AW, Thibault J, Lacroix C. Continuous lactic acid production in whey
+permeate/yeast extract medium with immobilized Lactobacillus helveticus in a
+two-stage process: model and experiments. Enzyme Microb Technol 2006;38:324– 37.
+Senthuran A, Senthuran V, Mattiasson B, Kaul R. Lactic acid fermentation in a recycle
+batch reactor using immobilized Lactobacillus casei . Biotechnol Bioeng 1997;55:
+841– 53.
+Senthuran A, Senthuran V, Kaul R, Mattiasson B. Lactic acid production by immobilized
+Lactobacillus casei in recycle batch reactor: a step towards optimization. J Biotechnol
+1999;73:61 –70.
+Shen X, Xia L. Lactic acid production from cellulosic waste by immobilized cells of
+Lactobacillus delbrueckii . World J Microbiol Biotechnol 2006;22:1109 –14.
+Shi Z, Wei P, Zhu X, Cai J, Huang L, Xu Z. Ef ﬁcient production of
+L-lactic acid from hydro-
+lysate of Jerusalem artichoke with immobilized cells of Lactococcus lactis inﬁbrous
+bed bioreactors. Enzyme Microb Technol 2012;10(51):263 –8.
+Shibata K, Flores DM, Kobayashi G, Sonomoto K. Direct L-lactic acid fermentation
+with sago starch by a newly-isolated lactic acid bacterium, Enterococcus facieum .
+Enzyme Microb Technol 2007;41:149 –55.
+Shimizu K. A tutorial review on bioprocess systems engineering. Comput Chem Eng
+1996;20:915 –41.
+Silva EM, Yang ST. Kinetics and stability of a ﬁbrous bed bioreactor for continuous
+production of lactic acid from unsupplemented acid whey. J Biotechnol 1995;41:
+59–70.
+Singh SK, Ahmed SU, Pandey A. Metabolic engineering approaches for lactic acid pro-
+duction. Process Biochem 2006;41:991-1000.
+Sirisansaneeyakul S, Luangpipat T, Vanichsriratana W, Srinophakun T, Chen HH, Chisti
+Y. Optimization of lactic acid production by immobilized Lactococcus lactis IO-1.
+J Ind Microbiol Biotechnol 2007;34:381 –91.
+Sirman T, Pyle DL, Grandison AS. Extraction of organic acids using a supported liquid
+membrane. Biochem Soc Trans 1991;19:274 –9.
+Slokoska LS, Angelova MB. Immobilization of polymethyl galacturonase producing
+Aspergillus niger on luffa sponge material. Z Naturforsch 1998;53C:968 –72.
+Song Y, Matsumoto K, Yamada M, Gohda A, Brigham CJ, Sinskey AJ, Taguchi S. Engineered
+Corynebacterium glutamicum as an endotoxin-free platform strain for lactate-based
+polyester production. Appl Microbiol Biotechnol 2012;93:1917 –25.
+Sreenath HK, Moldes AB, Koegel RG, Straub RJ. Lactic acid production by simultaneous
+sacchari ﬁcation and fermentation of alfalfa ﬁber. J Biosci Bioeng 2001;92:518– 23.
+Sun Y, Li YL, Bai S, Yang H, Hu ZD. Stability of immobilized R. oryzae in repetitive batch pro-
+ductions of L-(+)-lactic acid: effect of inorganic salts. Bioprocess Eng 1998;19:155 –7.
+Sun Y, Li YL, Bai S. Modeling of continuous L-(+)-lactic acid production with
+immobilized R. oryzae in an airlift bioreactor. Biochem Eng J 1999;3:87 –90.
+Taguchi H, Ohta T. Cloning, sequencing, and expression in Escherichia coli of the D-lactate
+dehydrogenase gene of Lactobacillus plantarum :D-lactate dehydrogenase is a member
+of the D-isomer-speci ﬁc 2-hydroxyacid-dehydrogenase family. J Biol Chem 1991;266:
+12588 –94.
+Taherzadeh MJ, Fox M, Hjorth H, Edebo L. Production of mycelium biomass and ethanol
+from paper pulp sul ﬁte liquor by Rhizopus oryzae . Bioresour Technol 2003;88:167 –77.
+Talukder MMR, Das P, Wu JC. Microalgae ( Nannochloropsis salina ) biomass to lactic acid
+and lipid. Biochem Eng J 2012;68:109 –13.
+Tamada M, Begum AA, Sa di S. Production of L-(+)-lactic acid by immobilized cells of
+Rhizopus oryzae with polymer supports prepared by gamma-ray-induced poly-
+merization. J Ferment Bioeng 1992;74:379 –83.
+Tamakawa H, Ikushima S, Yoshida S. Ef ﬁcient production of L-lactic acid from xylose by
+a recombinant Candida utilis strain. J Biosci Bioeng 2012;113:73 –5.
+Tanaka H, Irie S, Ochi H. A novel immobilization method for prevention of cell leakage
+from the gel matrix. J Ferment Bioeng 1989;68:216 –9.
+Tanaka T, Hoshina M, Tanabe S, Sakai K, Ohtsubo S, Taniguchi M. Production of D-lactic
+acid from defatted rice bran by simultaneous sacchari ﬁcation and fermentation.
+Bioresour Technol 2006;97:211 –7.
+Tango MS, Ghaly AE. A continuous lactic acid production system using an immobilized
+packed bed of Lactobacillus helveticus . Appl Microbiol Biotechnol 2002;58:712 –20.
+Taniguchi M, Tokunaga T, Horiuchi K, Hoshino K, Sakai K, Tanaka T. Production of L-lactic
+acid from a mixture of xylose and glucose by co-cultivation of lactic acid bacteria. ApplMicrobiol Biotechnol 2004;66:160 –5.
+Tashiro Y, Kaneko W, Sun Y, Shibata K, Inokuma K, Zendo T, Sonomoto K. Continuous
+D-lactic acid production by a novel thermotolerant Lactobacillus delbrueckii subsp.
+lactis QU 41. Appl Microbiol Biotechnol 2011;89:1741 –50.
+Taskin M, Esim N, Ortucu S. Ef ﬁcient production of L-lactic acid from chicken feather
+protein hydrolysate and sugar beet molasses by the newly isolated Rhizopus oryzae
+TS-61. Food Bioprod Process 2012;90:773 –9.
+Tay A, Yang ST. Production of L-(+)-lactic acid from glucose and starch by immobilized
+cells of Rhizopus oryzae in a rotating ﬁbrous bed bioreactor. Biotechnol Bioeng
+2002;80:1-12.
+Tejayadi S, Cheryan M. Lactic acid from cheese whey permeate. Productivity and
+economics of a continuous membrane bioreactor. Appl Microbiol Biotechnol1995;43:242 –8.
+Thang VH, Koschuh W, Kulbe KD, Novalin S. Detailed investigation of an electrodialytic
+process during the separation of lactic acid from a complex mixture. J Membr Sci
+2005;249:173 –82.
+Thongchul N, Yang ST. Controlling bio ﬁlm growth and lactic acid production by Rhizopus
+oryzae in a rotating ﬁbrous bed bioreactor: effects of dissolved oxygen, rotational
+speed, and urea concentration. J Chin Inst Chem Eng 2006;37:1-13.901 M.A. Abdel-Rahman et al. / Biotechnology Advances 31 (2013) 877 –902Thongchul N, Navankasattusas S, Yang ST. Production of lactic acid and ethanol by
+Rhizopus oryzae integrated with cassava pulp hydrolysis. Bioprocess Biosyst Eng
+2010;33:407 –16.
+Tian K, Chen X, Shen W, Prior BA, Shi G, Singh S, Wang Z. High-ef ﬁciency conversion of
+glycerol to D-lactic acid with metabolically engineered Escherichia coli .A f rJB i o t e c h n o l
+2012;11:4860 –7.
+Timbuntam W, Sriroth K, Piyachomkwan K, Tokiwa Y. Application of bipolar electro-
+dialysis on recovery of free lactic acid after simultaneous sacchari ﬁcation and fer-
+mentation of cassava starch. Biotechnol Lett 2008;30:1747 –52.
+Timmer JMK, Kromkamp J. Ef ﬁciency of lactic acid production by Lactobacillus
+helveticus in a membrane cell recycle reactor. FEMS Microbiol Rev 1994;14:29 –38.
+Timmer JKM, Kromkamp J, Robbertsen T. Lactic acid separation from fermentation
+broth by reverse osmosis and nano ﬁltration. J Membr Sci 1994;92:185 –97.
+Tinoi J, Rakariyatham N, Deming RL. Simplex optimization of carotenoid production by
+Rhodotorula glutinis using hydrolyzed mung bean waste ﬂour as substrate. Process
+Biochem 2005;40:2551 –7.
+Tokuhiro K, Ishida N, Kondo A, Takahashi H. Lactic fermentation of cellobiose by a yeast
+strain displaying β-glucosidase on the cell surface. Appl Microbiol Biotechnol
+2008;79:481 –8.
+Tokuhiro K, Ishida N, Nagamori E, Saitoh S, Onishi T, Kondo A, Takahashi H. Double
+mutation of the PDC1 and ADH1 genes improves lactate production in the yeast
+Saccharomyces cerevisiae expressing the bovine lactate dehydrogenase gene. Appl
+Microbiol Biotechnol 2009;82:883 –90.
+Tong WY, Fu XY, Lee SM. Puri ﬁcation of L-(+)-lactic acid from fermentation broth with
+paper sludge as a cellulosic feedstock using weak anion exchanger Amberlite
+IRA-92. Biochem Eng J 2004;18:89 –96.
+Vaida A, Kopp C, Johnson W, Fane AG. Integrated waste water treatment by coupled
+bioreactor and membrane system. Desalination 1991;83:137 –43.
+Valli M, Sauer M, Branduardi P, Borth N, Porro D, Mattanovich D. Improvement of lactic
+acid production in Saccharomyces cerevisiae by cell sorting for high intracellular
+pH. Appl Environ Microbiol 2006;72:5492 –9.
+Velázquez AC, Pometto III AL, Ho KL, Demirci A. Evaluation of plastic-composite sup-
+ports in repeated fed-batch bio ﬁlm lactic acid fermentation by Lactobacillus casei .
+Appl Microbiol Biotechnol 2001;55:434 –41.
+Vick-Roy TB, Blanch HW, Wilke CR. Microbial hollow ﬁber bioreactors. Trends Biotechnol
+1983a;1:135 –9.
+Vick-Roy TB, Mandel DK, Blanche HW, Wilke CR. The application of cell recycle to
+continuous fermentative lactic acid production. Biotechnol Lett 1983b;5:665 –70.
+Vijayakumar J, Aravindan R, Viruthagiri T. Recent trends in the production, puri ﬁcation
+and application of lactic acid. Chem Biochem Eng Q 2008;22:245 –64.
+Vink ETH, Glassner DA, Kolstad JJ, Wooley RJ, O'Connor RP. The eco-pro ﬁles for current
+and near-future NatureWorks polylactide (PLA) production. Ind Biotechnol 2007;3:58–81.
+Vink ETH, Davies S, Kolstad JJ. The eco-pro ﬁle for current Ingeo polylactide production.
+Ind Biotechnol 2010;6:212 –24.
+Vonktaveesuk P, Tonokawa M, Ishizaki A. Stimulation of the rate of
+L-lactate fermentation
+using Lactococcus lactis IO-1 by periodic electrodialysis. J Ferment Bioeng 1994;77:
+508–12.
+Wang H, Seki M, Furusaki S. Characteristic of immobilized L. delbrueckii in liquid –solid
+ﬂuidized bed bioreactor for lactic acid. J Chem Eng Japan 1995;28:480 –2.
+Wang L, Zhao B, Liu B, Yu B, Ma C, Su F, Hua D, Li Q, Ma Y, Xu P. Ef ﬁcient production of
+L-lactic acid from corncob molasses, a waste by-product in xylitol production, by a
+newly isolated xylose utilizing Bacillus sp. strain. Bioresour Technol 2010a;101:
+7908 –15.
+Wang Z, Wang Y, Yang ST, Wang R, Ren H. A novel honeycomb matrix for cell immo-
+bilization to enhance lactic acid production by Rhizopus oryzae .B i o r e s o u rT e c h n o l
+2010b;101:5557– 64.
+Wang L, Zhao B, Li F, Xu K, Ma C, Tao F, Li Q, Xu P. Highly ef ﬁcient production of D-lactate by
+Sporolactobacillus sp. CASD with simultaneous enzymatic hydrolysis of peanut meal.
+Appl Microbiol Biotechnol 2011a;89:1009 –17.
+Wang Q, Zhao X, Chamu J, Shanmugam KT. Isolation, characterization and evolution of
+a new thermophilic Bacillus licheniformis for lactic acid production in mineral salts
+medium. Bioresour Technol 2011b;102:8152 –8.
+Wang Y, Tian T, Zhao J, Wang J, Yan T, Xu L, Liu Z, Garza E, Iverson A, Manow R, Finan C,
+Zhou S. Homofermentative production of D-lactic acid from sucrose by a metabolically
+engineered Escherichia coli . Biotechnol Lett 2012;34:2069 –75.
+Wee YJ, Ryu HW. Lactic acid production by Lactobacillus sp. RKY2 in a cell-recycle
+continuous fermentation using lignocellulosic hydrolyzates as inexpensive rawmaterials. Bioresour Technol 2009;100:4262 –70.
+Wee YJ, Yun JS, Lee YY, Zeng AP, Ryu HW. Recovery of lactic acid by repeated batch
+electrodialysis and lactic acid production using electrodialysis wastewater. J BiosciBioeng 2005;99:104 –8.
+Wee YJ, Yun JS, Kim D, Ryu HW. Batch and repeated batch production of
+L-(+)-lactic
+acid by RKY1 using wood hydrolyzate and corn steep liquor Enterococcus faecalis.
+J Ind Microbiol Biotechnol 2006;33:431– 5.Wu X, Jiang S, Liu M, Pan L, Zheng Z, Luo S. Production of L-lacticacid by Rhizopus oryzae
+using semicontinuous fermentation in bioreactor. J Ind Microbiol Biotechnol
+2011;38:565 –71.
+Xavier AMRB, Goncalves LMD, Moreira JL, Carrondo MJT. Operational parameters
+affecting lactic acid production in ultra ﬁltration cell recycle bioreactor. Biotechnol
+Bioeng 1995;45:320 –7.
+Xu GQ, Chu J, Wang YH, Zhuang YP, Zhang SL, Peng HQ. Development of a continuous
+cell-recycle fermentation system for production of lactic acid by Lactobacillus
+paracasei . Process Biochem 2006;41:2458 –63.
+Xuemei L, Jianping L, Moe L, Peillin C. L-Lactic acid production using immobilized
+Rhizopus oryzae in a three-phase ﬂuidized-bed with simultaneous product sepa-
+ration by electrodialysis. Bioprocess Eng 1999;20:230 –7.
+Yadav AK, Chaudhari AB, Kothari RM. Bioconversion of renewable resources into lactic
+acid: an industrial view. Crit Rev Biotechnol 2011;31:1-19.
+Yamane T, Tanaka R. Highly accumulative production of L-(+)-lactate from glucose by
+crystallization fermentation with immobilized Rhizopus oryzae . J Biosci Bioeng
+2013;115:90 –5.
+Yanez R, Alonso JL, Parajo JC. D-Lactic acid production from waste card-board. J Chem
+Technol Biotechnol 2005;80:76 –84.
+Yang TH, Kim TW, Kang HY, Lee SH, Lee EJ, Lim SC, Oh SO, Song AJ, Park SJ, Lee SY.
+Biosynthesis of polylactic acid and its copolymers using evolved propionate CoAtransferase and PHA synthase. Biotechnol Bioeng 2010;105:150 –60.
+Yao W, Wu X, Zhu J, Sun B, Miller C. Utilization of protein extract from dairy manure
+as a nitrogen source by Rhizopus oryzae NRRL-395 for
+L-lactic acid production.
+Bioresour Technol 2010;101:4132 –8.
+Yen HW, Kang JL. Lactic acid production directly from starch in a starch-controlled fed-batch
+operation using Lactobacillus amylophilus . Bioprocess Biosyst Eng 2010;33:1017 –23.
+Yen HW, Lee YC. Production of lactic ac id from raw sweet potato powders by
+Rhizopus oryzae immobilized in sodium alginate capsules. Appl Biochem Biotechnol
+2010;162:607 –15.
+Yi SS, Lu YC, Luo GS. Separation and concentration of lactic acid by electro-electrodialysis.
+Sep Purif Technol 2008;60:308 –14.
+Yin PM, Yahiro K, Ishigaki T, Park Y, Okabe M. L-(+)-lactic acid production by repeated
+batch culture of Rhizopus oryzae in air-lift bioreactor. J Ferment Bioeng 1998;85:96-100.
+Yu MC, Wang RC, Wang CY, Duan KJ, Sheu DC. Enhanced production of L-(+)-lactic
+acid by ﬂoc-form culture of Rhizopus oryzae . J Chin Inst Chem Eng 2007;38:223 –8.
+Yu L, Lei T, Ren X, Pei X, Feng Y. Response surface optimization of L-(+)-lactic acid pro-
+duction using corn steep liquor as an alternative nitrogen source by Lactobacillus
+rhamnosus CGMCC 1466. Biochem Eng J 2008;39:496 –502.
+Yukawa H, Omumasaba CA, Nonaka H, Kos P, Okai N, Suzuki N, Suda M, Tsuge Y, Watanabe
+J, Ikeda Y, Vertès AA, Inui M. Comparative analysis of the Corynebacterium glutamicum
+group and complete genome sequence of strain R. Microbiology 2007;153:1042 –58.
+Yun JS, Wee YJ, Ryu HW. Production of optically pure L-(+)-lactic acid from various
+carbohydrates by batch fermentation of Enterococcus faecalis RKY1. Enzyme Microb
+Technol 2003;33:416 –23.
+Zayed G, Winter J. Batch and continuous production of lactic acid from salt whey using free
+and immobilized cultures of lactobacilli. Appl Microbiol Biotechnol 1995;44:362 –6.
+Zhang ZY, Jin B, Kelly JM. Production of lactic acid from renewable materials by Rhizopus
+fungi. Biochem Eng J 2007;35:251 –63.
+Zhang B, He PJ, Ye NF, Shao LM. Enhanced isomer purity of lactic acid from the
+non-sterile fermentation of kitchen wastes. Bioresour Technol 2008a;99:855 –62.
+Zhang ZY, Jin B, Kelly JM. Production of L-(+)-Lactic acid using acid-adapted
+precultures of Rhizopus arrhizus in a stirred tank reactor. Appl Biochem Biotechnol
+2008b;149:265 –76.
+Zhang Y, Cong W, Shi S. Application of a pH feedback-controlled substrate feeding
+method in lactic acid production. Appl Biochem Biotechnol 2010;162:2149 –56.
+Zhang Y, Cong W, Shi SY. Repeated fed-batch lactic acid production in a packed
+bed-stirred fermentor system using a pH feedback feeding method. Bioprocess
+Biosyst Eng 2011;34:67 –73.
+Zhao B, Wang L, Li F, Hu D, Ma C, Ma Y, Xuc P. Kinetics of D-lactic acid production by
+Sporolactobacillus sp. strain CASD using repeated batch fermentation. Bioresour
+Technol 2010a;101:6499 –505.
+Zhao B, Wang L, Ma C, Yang C, Xu P, Ma Y. Repeated open fermentative production
+of optically pure L-lactic acid using a thermophilic Bacillus sp. strain. Bioresour
+Technol 2010b;101:6494 –8.
+Zhou S, Causey TB, Hasona A, Shanmugam KT, Ingram LO. Production of optically pure
+D-lactic acid in mineral salts medium by metabolically engineered Escherichia coli
+W3110. Appl Environ Microbiol 2003a;69:399 –407.
+Zhou S, Shanmugam KT, Ingram LO. Functional replacement of the Escherichia coli
+D-(−)-Lactate dehydrogenase gene ( ldhA)w i t ht h e L-(+)-Lactate dehydrogenase
+gene ( ldhL)f r o m Pediococcus acidilactici . Appl Environ Microbiol 2003b;69:2237 –44.
+Zhou S, Yomano LP, Shanmugam KT, Ingram LO. Fermentation of 10% (w/v) sugar to
+D-lactate by engineered Escherichia coli B. Biotechnol Lett 2005;27:1891 –6.
+Zhu Y, Eiteman MA, DeWitt K, Altman E. Homolactate fermentation by metabolically
+engineered Escherichia coli strains. Appl Environ Microbiol 2007;73:456 –64.902 M.A. Abdel-Rahman et al. / Biotechnology Advances 31 (2013) 877 –902
